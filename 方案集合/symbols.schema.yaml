@@ -1,0 +1,181 @@
+# ------------------------------------------------------------------------------
+# Rime schema
+# encoding: utf-8
+# ------------------------------------------------------------------------------
+# Copyright (c) 2016 Jak Wings https://github.com/jakwings/rime-xyz
+#
+# Permission to use, copy, modify, and/or distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+# REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+# INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+# LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+# OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+# PERFORMANCE OF THIS SOFTWARE.
+# ------------------------------------------------------------------------------
+
+schema:
+  version: '2017.7.13'
+  schema_id: &id symbols
+  name: 特殊字符
+  author:
+    - Jak Wings #!@Gmail.com
+  description: |
+    用於擴展其它輸入方案的特殊字符輸入方案。
+    可鍵入 ? 查看縮略碼表。
+
+engine:
+  processors:
+    - key_binder
+    - speller
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - fallback_segmentor
+  translators:
+    - table_translator
+    - echo_translator
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba?0123456789'
+  delimiter: " '"     # 在自動上屏的情況下没什麼用
+  auto_select: true   # 自動上屏
+  algebra:
+    #{ 標點 {
+    - derive/^bd:(bj|zs):rw$/bd:rw:$1/
+    #} 筆畫 {
+    - derive/^bh:([1-9]):/bh:z:$1:/
+    - derive/^bh:(z:)?\d:/bh:$1/
+    #} 結構 {
+    - derive/^jg:([zy][sx])$/jg:b:$1/
+    - derive/^jg:([a-z]bw)$/jg:b:$1/
+    - derive/^jg:b:/jg:w:/
+    #} 平假名、片假名 {
+    - derive/^hg"/hg:dx:/
+    - derive/^hg'/hg:xx:/
+    - derive/^kk"/kk:dx:/
+    - derive/^kk'/kk:xx:/
+    - derive/^kk:([dx]x):bj:/kk:bj:$1:/
+    - derive/^kk::/kk:fk:/
+    - derive/^(?:hg|kk)["':]/rw:/
+    - derive/^rw"/hg:/
+    - derive/^rw'/kk:/
+    - derive/^rw'/rw:wy:/
+    - derive/^kk"/rw:wy:/
+    #} 調型、聲調 {
+    - derive/^dx:/sd:/
+    - derive/^\?dx$/\?sd/
+    #} 時間日期 {
+    - derive/^sj:\d+$/sj/
+    - derive/^sj:(?:rq|sk|yf|yr):/sj:/
+    - derive/^sj:yf:(\d+)$/sj:$1:y/
+    - derive/^sj:rq:(\d+)$/sj:$1:r/
+    - derive/^sj:sk:(\d+)$/sj:$1:s/
+    - derive/^sj:sk:(\d+)$/sj:$1:d/
+    #} 空白字符 {
+    - derive/^kb:ideographic$/kb/
+    - derive/^kb:ideographic$/kb:qj/
+    - derive/^kb:(\w)\w*-(\w)\w*$/kb:$1$2/
+    - derive/^kb:(\w)\w*-(\w)\w*-(\w)\w*$/kb:$1$2$3/
+    - derive/^kb:(\w)\w*-(\w)\w*-(\w)\w*-(\w)\w*$/kb:$1$2$3$4/
+    - derive/^kb:/kg:/
+    #} 國家地區 {
+    - derive/^dq:(.+?)::.*?(:-)?$/dq:$1$2/
+    - derive/^dq:sa?int:/dq:/
+    #} 幾何圖形 {
+    - derive/^tx:fx$/tx:zfx/
+    - derive/^tx:wbx$/tx:wjx/
+    - derive/^tx:lbx$/tx:ljx/
+    - derive/^tx:bbx$/tx:bjx/
+    #} 電腦 {
+    - derive/^dn:\d[0-9a-f]:/dn:/
+    - derive/^dn:(\d[0-9a-f]):.+$/dn:$1/
+    #} 星座 {
+    - derive/^xz:\d+:(?:9:)?(.+)$/xz:$1/
+    - derive/^xz:(\d+):.+$/xz:$1/
+    #} 天體 {
+    - derive/^tt:\d+:(.+)$/tt:$1/
+    - derive/^tt:(\d+):.+$/tt:$1/
+    #} 箭頭 {
+    - derive/^jt:jc$/jt:dj/
+    - derive/^jt:([sxyz])g$/jt:g$1/
+    #} 棋牌 {
+    - derive/^gp:[hs]:/gp:/
+    - derive/^pk:([^:]+):spade$/pk:s:$1/
+    - derive/^pk:([^:]+):heart$/pk:h:$1/
+    - derive/^pk:([^:]+):diamond$/pk:d:$1/
+    - derive/^pk:([^:]+):club$/pk:c:$1/
+    - derive/^(tl:\d+):.*$/$1/
+    - derive/^(gp|mj|pk|tl|tz|xq):/qp:$1:/
+    - derive/^(?:gp|mj|pk|tl|tz|xq):/qp:/
+    #} 偏旁部首 {
+    - derive/^kx:/bs:/
+    - derive/^bs:/pp:/
+    #} 漢語拼音 {
+    - derive/^py"/py:xx:/
+    - derive/^py'/py:dx:/
+    #} 希臘文 {
+    - derive/^(xl["']\d+):.+$/$1/
+    - derive/^xl(["'])\d+:/xl$1:/
+    - derive/^xl"/xl:xx:/
+    - derive/^xl'/xl:dx:/
+    #} 俄語 {
+    - derive/^ey"/ey:dx:/
+    - derive/^ey'/ey:xx:/
+    #} 希伯來文 {
+    - derive/^xblw:/xw:/
+    #} 上標、下標 {
+    - derive/^sb:(?:greek|latin):/sb:/
+    - derive/^xb:(?:greek|latin):/xb:/
+    #} 拉丁 {
+    - derive/^ld"(.+)$/ld:$1:xx/
+    - derive/^ld'(.+)$/ld:$1:dx/
+    #} 字母 {
+    - derive/^([a-z])"$/zm:xx:$1/
+    - derive/^([a-z])'$/zm:dx:$1/
+    - derive/^zm:[dx]x:/zm:/
+    #} 數字 {
+    - derive/^lm'/lm:xx:/
+    - derive/^lm"/lm:dx:/
+    - derive/^sz:s[cz]:/sz:/
+    # ※
+    - derive/^lm:([dx])x:(\d+)$/$2:l:$1/
+    - derive/^([sx])b:(\d+)$/$2:$1/
+    #} 簡化輸入 {
+    - xform/[!"':]//
+    #} 縮略碼表 {
+    - derive/^\?.+$/?/
+    #} }
+
+translator:
+  dictionary: *id
+  prism: *id
+
+  # XXX: 無法迴避的問題
+  # 會干擾詞序，重碼更會導致奇怪順序；
+  # 輸入衍生編碼時依然提示原初編碼（一字對多碼）；
+  # 提示碼被配匹後CommentFormat才生效（prematch_comment_format？）；
+  # 提示碼含非法輸入碼時匹配錯誤（忽略字符？）。
+  enable_completion: true
+
+  enable_encoder: false
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  comment_format:
+    - xform/[!"':]+/:/
+
+key_binder:
+  import_preset: default
+
+menu:
+  alternative_select_keys: 'ABCDEFGHIJ'  # 自定選字鍵
+
+style:
+  horizontal: false               # 豎式候選框
+  label_font_face: 'Courier New'  # 等寬字符

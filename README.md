@@ -5,6 +5,7 @@
 - 【中州韻】 ibus-rime → Linux
 - 【小狼毫】 Weasel → Windows
 - 【鼠鬚管】 Squirrel → Mac OS X
+
 这个库收集了许多rime词库，具体用法见[官网](http://rime.im/)
 # 参考：
 - [致第一次安装rime的你](http://jianguoyun.com/p/DZISfzQQv_3jBRj4zgk)

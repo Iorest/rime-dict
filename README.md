@@ -17,6 +17,9 @@
 
 将本源中的所有内容复制到Rime输入法相关的词库目录下，重新部署即可
 这个库收集了许多rime词库，具体用法见[官网](http://rime.im/)
+
+配置可以参考我的另一个仓库[rime-setting](https://github.com/Iorest/rime-setting)
+
 # 参考：
 - [致第一次安装rime的你](http://tieba.baidu.com/p/3288634121)
 - [下载及安装](http://rime.im/download/)

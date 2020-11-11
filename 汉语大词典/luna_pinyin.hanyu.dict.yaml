@@ -23,8 +23,7 @@ name: luna_pinyin.hanyu
 version: "2013.11.01"
 sort: by_weight
 use_preset_vocabulary: true
-...
-
+---
 一一行行
 一七令
 一万日

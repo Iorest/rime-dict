@@ -17,8 +17,7 @@ name: luna_pinyin.net
 version: "2015.06.07"
 sort: by_weight
 use_preset_vocabulary: true
-...
-
+---
 不造
 菌男
 黴女
@@ -36028,4 +36027,3 @@ use_preset_vocabulary: true
 左右爲難
 左志勇
 佐佐木希
-

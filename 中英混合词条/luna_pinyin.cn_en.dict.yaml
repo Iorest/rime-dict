@@ -18,8 +18,7 @@ name: luna_pinyin.cn_en
 version: "2014.09.07"
 sort: by_weight
 use_preset_vocabulary: true
-...
-
+---
 AA制	a a zhi	100
 ATM機	a t m ji	100
 Android	android	100
@@ -103,4 +102,3 @@ iPod	i pod	100
 智能ABC	zhi neng a b c	100
 阿Q	a q	100
 阿Q正傳	a q zheng zhuan	100
-

@@ -17,7 +17,7 @@ name: luna_pinyin.computer
 version: "2014.09.07"
 sort: by_weight
 use_preset_vocabulary: true
----
+...
 阿里通
 阿姆達爾定律
 阿姆斯特朗公理

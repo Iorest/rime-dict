@@ -17,7 +17,7 @@ name: luna_pinyin.diet
 version: "2014.09.07"
 sort: by_weight
 use_preset_vocabulary: true
----
+...
 阿巴
 阿巴尼
 阿寶

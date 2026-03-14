@@ -1,0 +1,10085 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime词库扩展计划」——为小狼毫打造一个强大好用的词库（OpenCC重制版） by @imy0823
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.gd
+version: "2014.09.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+你話呢	ni hua ne
+系啊	xi a
+系邊啊	xi bian a
+1	1
+0	0
+大井	da jing
+風采樓	feng cai lou
+樓村	lou cun
+牛田洋	niu tian yang
+牛皋	niu gao
+甘又系	gan you xi
+唔系	wu xi
+崩口	beng kou
+北大醫院	bei da yi yuan
+菜乾	cai qian
+車管所	che guan suo
+成怪	cheng guai
+第二人民醫院	di er ren min yi yuan
+吊瓜	diao gua
+狗仔	gou zai
+廣州酒家	guang zhou jiu jia
+河粉	he fen
+系咪	xi mi
+蝦粥	xia zhou
+荷蘭豆	he lan dou
+角瓜	jiao gua
+吉之島	ji zhi dao
+葵瓜子	kui gua zi
+量天尺	liang tian chi
+涼瓜	liang gua
+龍蝨	long shi
+麻麻	ma ma
+南風窗	nan feng chuang
+南天大酒店	nan tian da jiu dian
+南乳肉	nan ru rou
+去拉	qu la
+去啦	qu la
+熱刺	re ci
+死啦	si la
+沙葛	sha ge
+沙律	sha lv
+紹菜	shao cai
+生菜包	sheng cai bao
+社保局	she bao ju
+師太	shi tai
+市中醫院	shi zhong yi yuan
+水雞	shui ji
+維拉利爾	wei la li er
+無端端	wu duan duan
+心癢癢	xin yang yang
+牙尖嘴利	ya jian zui li
+子姜	zi jiang
+做乜啊	zuo mie a
+安姐	an jie
+寶安機場	bao an ji chang
+獨睡	du shui
+杜夫	du fu
+恆瑞	heng rui
+華強賓館	hua qiang bin guan
+腳骨	jiao gu
+金海灣大酒店	jin hai wan da jiu dian
+凱悅大酒店	kai yue da jiu dian
+老竇	lao dou
+老水	lao shui
+老卓	lao zhuo
+龍湖賓館	long hu bin guan
+麻姐	ma jie
+眠牀	mian chuang
+山水大酒店	shan shui da jiu dian
+石姐	shi jie
+水弟	shui di
+五柳魚	wu liu yu
+香格里拉大酒店	xiang ge li la da jiu dian
+興華賓館	xing hua bin guan
+振興路	zhen xing lu
+做低	zuo di
+屙尿	e niao
+澳頭	ao tou
+巴閉	ba bi
+八卦嶺	ba gua ling
+怕醜	pa chou
+擺烏龍	bai wu long
+幫口	bang kou
+煲電話粥	bao dian hua zhou
+鯿魚	bian yu
+薄絨	bao rong
+搏彩	bo cai
+菜牌	cai pai
+此在	ci zai
+差人	cha ren
+潮南	chao nan
+長氣	zhang qi
+潮爆	chao bao
+車邊	che bian
+成績好	cheng ji hao
+城管辦	cheng guan ban
+搭順風車	da shun feng che
+赤灣	chi wan
+重有	zhong you
+大賣	da mai
+大男孩	da nan hai
+打救	da jiu
+大老倌	da lao guan
+大板牙	da ban ya
+大沖	da chong
+大牀	da chuang
+帶眼識人	dai yan shi ren
+檔口	dang kou
+淡定	dan ding
+蛋撻	dan ta
+吊頸	diao jing
+叼你啊	diao ni a
+頂你個肺	ding ni ge fei
+頂包	ding bao
+太妃糖	tai fei tang
+冬瓜盅	dong gua zhong
+豆丁	dou ding
+豆泥	dou ni
+獨沽一味	du gu yi wei
+肚痛	du tong
+斷尾	duan wei
+對出	dui chu
+嗯嗯嗯	n n n
+外江	wai jiang
+腌臢	a za
+二世祖	er shi zu
+閥門廠	fa men chang
+返中國	fan zhong guo
+飛象過河	fei xiang guo he
+廢柴	fei chai
+菲傭	fei yong
+費高	fei gao
+鳳凰路	feng huang lu
+幹炒	gan chao
+公仔	gong zai
+購書中心	gou shu zhong xin
+國技	guo ji
+喊打喊殺	han da han sha
+好人好姐	hao ren hao jie
+紅豆沙	hong dou sha
+湖濱路	hu bin lu
+華強北	hua qiang bei
+華老	hua lao
+花心蘿蔔	hua xin luo bo
+壞啦	huai la
+慌慌忙忙	huang huang mang mang
+會展中心	hui zhan zhong xin
+家俬	jia si
+家下	jia xia
+家姐	jia jie
+講大話	jiang da hua
+西隴	xi long
+西洋菜	xi yang cai
+舊口	jiu kou
+繫好	xi hao
+君是	jun shi
+開片	kai pian
+看更	kan geng
+口淡	kou dan
+口水花	kou shui hua
+老坑	lao keng
+老少平安	lao shao ping an
+老想着	lao xiang zhe
+撈過界	lao guo jie
+老貓燒須	lao mao shao xu
+兩公婆	liang gong po
+臨時臨急	lin shi lin ji
+龍華鎮	long hua zhen
+龍舟節	long zhou jie
+龍井村	long jing cun
+沙井	sha jing
+沙井鎮	sha jing zhen
+汕頭日報	shan tou ri bao
+沙展	sha zhan
+囉嗦	luo suo
+埋單	mai dan
+埋堆	mai dui
+麥德龍	mai de long
+面無表情	mian wu biao qing
+明思克	ming si ke
+你個頭	ni ge tou
+牛奶場	niu nai chang
+煙子	yan zi
+泡打粉	pao da fen
+青春片	qing chun pian
+取錄	qu lu
+人才大市場	ren cai da shi chang
+人蛇	ren she
+人民廣場	ren min guang chang
+山旮旯	shan ga la
+蛇口港	she kou gang
+上鍊	shang lian
+上沙	shang sha
+上川	shang chuan
+上落	shang luo
+燒透	shao tou
+潲水	shao shui
+深圳大學	shen zhen da xue
+生抽	sheng chou
+施治	shi zhi
+屎坑	shi keng
+實驗中學	shi yan zhong xue
+是本	shi ben
+收聲	shou sheng
+受力	shou li
+手提電話	shou ti dian hua
+雙皮奶	shuang pi nai
+熟落	shu luo
+水靜河飛	shui jing he fei
+松毛	song mao
+死人頭	si ren tou
+酸枝	suan zhi
+太白路	tai bai lu
+田東	tian dong
+同你	tong ni
+貼士	tie shi
+通水	tong shui
+玩啦	wan la
+爲左	wei zuo
+未開	wei kai
+衛生學校	wei sheng xue xiao
+未洗	wei xi
+烏燈黑火	wu deng hei huo
+無聊賴	wu liao lai
+無相干	wu xiang gan
+呷醋	ga cu
+絃索	xian suo
+鹹澀	xian se
+鹹豬手	xian zhu shou
+橡筋	xiang jin
+擤鼻涕	xing bi ti
+雪櫃	xue gui
+學府路	xue fu lu
+芽菜	ya cai
+藥監局	yao jian ju
+衣車	yi che
+一擔擔	yi dan dan
+一腳踢	yi jiao ti
+陰騭	yin zhi
+鱅魚	yong yu
+遊車河	you che he
+有屁用	you pi yong
+有型有款	you xing you kuan
+有血性	you xue xing
+浴房	yu fang
+曱甴	yue zha
+約到	yue dao
+月娘	yue niang
+啫喱	zhe li
+找贖	zhao shu
+指甲刀	zhi jia dao
+中山東路	zhong shan dong lu
+中山公園	zhong shan gong yuan
+中心醫院	zhong xin yi yuan
+祖雲達斯	zu yun da si
+坐夜	zuo ye
+坐莊	zuo zhuang
+拜山	bai shan
+華能電廠	hua neng dian chang
+青竹蛇	qing zhu she
+手襪	shou wa
+油角	you jiao
+鬱佢	yu qu
+糉球	zong qiu
+仆街	pu jie
+天虹商場	tian hong shang chang
+轉性	zhuan xing
+咁落	gan luo
+箍臣	gu chen
+魚絲袋	yu si dai
+茸茸爛爛	rong rong lan lan
+一睇見	yi di jian
+咁慢	gan man
+走咁遠	zou gan yuan
+軟荏荏	ruan ren ren
+惹不漲	re bu zhang
+白欖	bai lan
+變態嘅	bian tai kai
+牛白腩	niu bai nan
+當佢冇嚟	dang qu mao li
+你真系無聊	ni zhen xi wu liao
+費得拿	fei de na
+胡哩馬叉	hu li ma cha
+又喺喔	you xi o
+宋鬱文	song yu wen
+頸渴	jing ke
+橋上倒涼茶何苦	qiao shang dao liang cha he ku
+唔逛	wu guang
+冇幾耐	mao ji nai
+小朋友頭	xiao peng you tou
+呢位	ne wei
+釐戥	li deng
+混吉	hun ji
+揀飲擇吃	jian yin ze chi
+擇使	ze shi
+腳骨力	jiao gu li
+抵錢	di qian
+碌士	lu shi
+拉左	la zuo
+菜膽	cai dan
+衫裏	shan li
+釣唔到	diao wu dao
+大熱症	da re zheng
+扯鼻鼾	che bi han
+多多聲	duo duo sheng
+發軟蹄	fa ruan ti
+疏籬	shu li
+走埠	zou bu
+埋冷	mai leng
+唔系路	wu xi lu
+蝦春	xia chun
+戥興	deng xing
+吹水佬	chui shui lao
+食水太深	shi shui tai shen
+呃唔到	e wu dao
+喺啦	xi la
+放咁耐	fang gan nai
+山草藥	shan cao yao
+都是咁	dou shi gan
+水瓜	shui gua
+訓覺了	xun jue le
+話名	hua ming
+雞髀	ji bi
+去搵工	qu wen gong
+蛾喉	e hou
+揩油索油	kai you suo you
+好着緊	hao zhe jin
+粵語拼音輸入法	yue yu pin yin shu ru fa
+泄嗮	xie sai
+監躉	jian dun
+生人唔生膽	sheng ren wu sheng dan
+叻囝	le jian
+叻囡	le nan
+一個骨	yi ge gu
+睇吖	di ya
+酸餿爛臭	suan sou lan chou
+哽喺	geng xi
+咁其他人	gan qi ta ren
+宜得咿咿哦啊	yi de yi yi o a
+臘鴨髀	la ya bi
+好犀利啊	hao xi li a
+士碌架	shi lu jia
+到夠	dao gou
+嚟架	li jia
+咁都會	gan dou hui
+都幾便	dou ji bian
+無搭霎	wu da sha
+撬馬腳	qiao ma jiao
+聽早	ting zao
+甫士卡	fu shi ka
+唔拒絕	wu ju jue
+灌咗	guan zuo
+措措埋埋	cuo cuo mai mai
+有咁早	you gan zao
+短度闊封	duan du kuo feng
+艇仔粥	ting zai zhou
+你喺邊	ni xi bian
+見步行步	jian bu xing bu
+寒背	han bei
+唔喺啩	wu xi gua
+啲咑佬	di da lao
+擔屎都唔偷食	dan shi dou wu tou shi
+盡地一煲	jin di yi bao
+和過	he guo
+打大交	da da jiao
+食環處	shi huan chu
+光劣出	guang lie chu
+摑佢一巴	guai qu yi ba
+啷箕	lang ji
+摙住	lian zhu
+付埋	fu mai
+竹紗	zhu sha
+實淨	shi jing
+廣州話入門	guang zhou hua ru men
+睬佢	cai qu
+趕唔趕	gan wu gan
+醒定	xing ding
+好嬲乜	hao niao mie
+懶佬工夫	lan lao gong fu
+紅粉緋緋	hong fen fei fei
+唔夠訓	wu gou xun
+亮豁	liang huo
+啖頭啖樣	dan tou dan yang
+魯好	lu hao
+兩撇雞	liang pie ji
+蒂土機	di tu ji
+不成器皿	bu cheng qi min
+呢啲	ne di
+仙屎	xian shi
+唔制	wu zhi
+都估唔到	dou gu wu dao
+誰不知	shui bu zhi
+暴暴	bao bao
+炕沙	kang sha
+無頭烏蠅	wu tou wu ying
+落來咯	luo lai ge
+點啊	dian a
+唔夠錢	wu gou qian
+針對佢	zhen dui qu
+五六十蚊	wu liu shi wen
+睇淡睇頭	di dan di tou
+冇譜	mao pu
+攪是攪非	jiao shi jiao fei
+大泡和	da pao he
+詐假意	zha jia yi
+漚仔	ou zai
+呢嗱	ne na
+多事實	duo shi shi
+等埋	deng mai
+黃花筒	huang hua tong
+凍到震	dong dao zhen
+抵諗	di shen
+冇錯	mao cuo
+冇用嘅	mao yong kai
+好急住	hao ji zhu
+打思噎	da si ye
+買咗樓	mai zuo lou
+咁都唔算	gan dou wu suan
+麻笠佬	ma li lao
+柴臺	chai tai
+到頭黎	dao tou li
+乞嗤	qi chi
+成熟咗	cheng shu zuo
+得人怕	de ren pa
+唔見曬	wu jian shai
+畀面	bi mian
+蟹厴	xie yan
+冇世藝	mao shi yi
+溼滯十字鋤	shi zhi shi zi chu
+頭殼頂	tou ke ding
+仲殺	zhong sha
+佢地都	qu di dou
+跟尾狗	gen wei gou
+叻女	le nv
+橋躉	qiao dun
+叔仔	shu zai
+拉柴	la chai
+冇釐搭霎	mao li da sha
+花哩花碌	hua li hua lu
+窗鉤	chuang gou
+撈頭	lao tou
+白飯魚	bai fan yu
+畀唔畀	bi wu bi
+搵緊	wen jin
+該煨	gai wei
+石屎	shi shi
+對面海	dui mian hai
+餼雞	xi ji
+妹裙	mei qun
+盲摸摸	mang mo mo
+剃眼眉	ti yan mei
+蛋茶	dan cha
+囄喇	li la
+蛋饊	dan san
+衰婆	shuai po
+點同佢	dian tong qu
+巴斯隆拿	ba si long na
+炒蝦拆蟹	chao xia chai xie
+耐唔耐	nai wu nai
+波珠	bo zhu
+天腳底	tian jiao di
+老虎都	lao hu dou
+乜乜物物	mie mie wu wu
+系你後面	xi ni hou mian
+劏車劏光豬	tang che tang guang zhu
+狗牙	gou ya
+跛腳佬	bo jiao lao
+萬壽菓	wan shou guo
+點鍾	dian zhong
+親朋勿友	qin peng wu you
+臨急開坑	lin ji kai keng
+演雙簧	yan shuang huang
+屌你老鼠	diao ni lao shu
+回零	hui ling
+執仔婆	zhi zai po
+黑葉	hei ye
+唔到機	wu dao ji
+車卡	che ka
+夠運	gou yun
+十分凍	shi fen dong
+登對	deng dui
+返屋企	fan wu qi
+最姣	zui jiao
+吳想讓雞	wu xiang rang ji
+攰死人乜	gui si ren mie
+偉大嘅	wei da kai
+都話系咯	dou hua xi ge
+屘二	man er
+煙盅	yan zhong
+打死纈	da si xie
+老虎崬	lao hu dong
+囉呵	luo he
+聽暇	ting xia
+神主牌	shen zhu pai
+你做完未	ni zuo wan wei
+唔見到你	wu jian dao ni
+搵嘅	wen kai
+唔使計	wu shi ji
+好心機	hao xin ji
+打交	da jiao
+有頭威冇尾陣	you tou wei mao wei zhen
+女仔之家	nv zai zhi jia
+繑絲邊	qiao si bian
+碼釘	ma ding
+天堂尿壺全神貫注	tian tang niao hu quan shen guan zhu
+系邊咖	xi bian ka
+雞咁腳	ji gan jiao
+佗仔	tuo zai
+祕撈	mi lao
+打機仔	da ji zai
+系咁話	xi gan hua
+想食人只車	xiang shi ren zhi che
+口水佬	kou shui lao
+睇住黎	di zhu li
+搞乜	gao mie
+摩打	mo da
+啋過你	cai guo ni
+死估估	si gu gu
+唔慌	wu huang
+發爛咋	fa lan za
+飛水	fei shui
+打咗啦	da zuo la
+佢果個	qu guo ge
+吪了愣	e le leng
+吔蕉啦	ye jiao la
+唔回	wu hui
+火路	huo lu
+過骨	guo gu
+所以佢	suo yi qu
+蠢到死	chun dao si
+唔得閒	wu de xian
+話唔定	hua wu ding
+煙抽菸	yan chou yan
+咽菜	yan cai
+唔想浪費	wu xiang lang fei
+坐梗	zuo geng
+體緊電影	ti jin dian ying
+三及第	san ji di
+從嚟	cong li
+冇鬼用	mao gui yong
+多句嘴	duo ju zui
+我唔熟	wo wu shu
+死雞撐飯蓋	si ji cheng fan gai
+溼水鞭炮	shi shui bian pao
+我唔收	wo wu shou
+唔化	wu hua
+咁捻死樣	gan nian si yang
+多個香爐多個鬼	duo ge xiang lu duo ge gui
+有冇諗過	you mao shen guo
+飯蕊	fan rui
+口響	kou xiang
+盟籠	meng long
+白霍白鴿	bai huo bai ge
+窒腳	zhi jiao
+着唔落	zhe wu luo
+諗到	shen dao
+腳肚	jiao du
+粵語漢字	yue yu han zi
+用手掣	yong shou che
+一身鬆	yi shen song
+折埋	zhe mai
+喺感價啦	xi gan jia la
+單眼檐	dan yan yan
+個羅	ge luo
+成盤	cheng pan
+雞食放光草心知肚明	ji shi fang guang cao xin zhi du ming
+我講下咋	wo jiang xia za
+上都上唔到	shang dou shang wu dao
+無咁好氣	wu gan hao qi
+面珠躉	mian zhu dun
+型到跌渣	xing dao die zha
+定咗未	ding zuo wei
+冇可能噶	mao ke neng ga
+唔見過	wu jian guo
+茄薯	jia shu
+叫起手	jiao qi shou
+禮衣邊	li yi bian
+雞啖腳	ji dan jiao
+真系恐怖	zhen xi kong bu
+咁嘅名	gan kai ming
+爛口	lan kou
+浪口	lang kou
+牙擦擦	ya ca ca
+呢地野	ne di ye
+咁又喺	gan you xi
+翻抄	fan chao
+諗返	shen fan
+唔上咯	wu shang ge
+咭仔	ji zai
+屎忽窟生瘡無眼睇	shi hu ku sheng chuang wu yan di
+唔系處	wu xi chu
+鬧完交	nao wan jiao
+喂吖	wei ya
+邊處	bian chu
+好物沈歸底	hao wu shen gui di
+傾飽	qing bao
+衫紐	shan niu
+甘多位	gan duo wei
+冇辦法	mao ban fa
+一唔系	yi wu xi
+搰做	hu zuo
+彭嘉志	peng jia zhi
+有乜好做	you mie hao zuo
+咁瞭解	gan liao jie
+講緊你啊	jiang jin ni a
+掃佐	sao zuo
+滑摀	hua wu
+教嘅	jiao kai
+因由人	yin you ren
+嘅機會	kai ji hui
+出到國	chu dao guo
+白鴿籠	bai ge long
+驚死	jing si
+不溜	bu liu
+走佬	zou lao
+潝住	xi zhu
+吖祥	ya xiang
+掟死你	zheng si ni
+擺景	bai jing
+眼翕毛	yan xi mao
+仲有哩	zhong you li
+穩陣	wen zhen
+檐蛇	yan she
+整蠱弄怪	zheng gu nong guai
+唔話得	wu hua de
+渺嘴	miao zui
+凍親	dong qin
+初嚟暴到	chu li bao dao
+搲銀	wa yin
+行落來	xing luo lai
+同你傾電話	tong ni qing dian hua
+最愛粵語金曲榜	zui ai yue yu jin qu bang
+殺咗人	sha zuo ren
+氛園	fen yuan
+話得埋	hua de mai
+帶唔帶到	dai wu dai dao
+劍啦	jian la
+去吖	qu ya
+未得住	wei de zhu
+有咩好建議	you mie hao jian yi
+連埋	lian mai
+拋水	pao shui
+夠鍾	gou zhong
+唔熟性	wu shu xing
+堅野	jian ye
+聽晚	ting wan
+冇尾飛鉈	mao wei fei shi
+打頭鑼	da tou luo
+唔到工	wu dao gong
+假得你	jia de ni
+未抽	wei chou
+左口魚	zuo kou yu
+南方阿叔	nan fang a shu
+睇嚇點	di xia dian
+呢兩場	ne liang chang
+非洲和尚乞人憎	fei zhou he shang qi ren zeng
+唔肯走	wu ken zou
+唔淨只	wu jing zhi
+人地聽	ren di ting
+睇情況啦	di qing kuang la
+即睇	ji di
+你換咗	ni huan zuo
+到咗未	dao zuo wei
+研船	yan chuan
+搵到佢	wen dao qu
+食饅頭	shi man tou
+仲似	zhong shi
+揀飲擇食	jian yin ze shi
+咁樣睇	gan yang di
+淥親	lu qin
+你感屎價	ni gan shi jia
+啦啦聲	la la sheng
+炒飯食	chao fan shi
+冇咁麻煩	mao gan ma fan
+散檔	san dang
+咪阻住	mi zu zhu
+屎柴	shi chai
+晏蒂	yan di
+唔使指意	wu shi zhi yi
+狼命	lang ming
+趕注	gan zhu
+了哥命就食就屙	le ge ming jiu shi jiu e
+佢都唔會	qu dou wu hui
+縮膊	suo bo
+腎人	shen ren
+蝦仔餅	xia zai bing
+新曆年	xin li nian
+單喺	dan xi
+惹黃泥	re huang ni
+爆坼	bao che
+相睇相宜	xiang di xiang yi
+屎波	shi bo
+沙沙滾	sha sha gun
+搬黎	ban li
+你唔試下	ni wu shi xia
+咁奇	gan qi
+冇門口入	mao men kou ru
+火燒旗杆長嘆	huo shao qi gan zhang tan
+大耳窿	da er long
+撩是鬥非	liao shi dou fei
+橫掂側側膊	heng dian ce ce bo
+棚尾拉箱暗中走人	peng wei la xiang an zhong zou ren
+粒聲唔出	li sheng wu chu
+窗空窗	chuang kong chuang
+喺邊啊	xi bian a
+艇家	ting jia
+讀乜	du mie
+喋辦	die ban
+新郎哥	xin lang ge
+大天二	da tian er
+收返埋	shou fan mai
+當黑	dang hei
+埋臺	mai tai
+渴市	ke shi
+下爬	xia pa
+眈天望地	dan tian wang di
+埗頭	bu tou
+同你整	tong ni zheng
+唔多唔少	wu duo wu shao
+開吖	kai ya
+拉油	la you
+口立溼	kou li shi
+得左	de zuo
+咁的確	gan de que
+起嚟	qi li
+雞歲	ji sui
+雞碎	ji sui
+俾班	bi ban
+死左	si zuo
+方唔方便	fang wu fang bian
+話你咯	hua ni ge
+爆嗮棚	bao sai peng
+都唔得	dou wu de
+佢答	qu da
+咖呢	ka ne
+桐油灰	tong you hui
+貴嘅	gui kai
+老鼠仔	lao shu zai
+頭擰擰	tou ning ning
+戥襯	deng chen
+鬼五馬六	gui wu ma liu
+走嘅	zou kai
+個腦生喺屎忽度	ge nao sheng xi shi hu du
+搞三搞四	gao san gao si
+好耐沒見你	hao nai mei jian ni
+窩釘	wo ding
+咁大噶	gan da ga
+死鏟	si chan
+肥摀	fei wu
+打飯炮	da fan pao
+好唔開心	hao wu kai xin
+系唔系架	xi wu xi jia
+相處咗	xiang chu zuo
+行運行到腳趾屘	xing yun xing dao jiao zhi man
+多下添	duo xia tian
+椅籠	yi long
+唔使拘	wu shi ju
+打荷包	da he bao
+寒底	han di
+使費	shi fei
+打掣	da che
+可唔可以	ke wu ke yi
+發唔發覺	fa wu fa jue
+咁你早	gan ni zao
+屌你屎忽	diao ni shi hu
+穿心邊	chuan xin bian
+笠亂	li luan
+蒙查查	meng zha zha
+個心十五十六	ge xin shi wu shi liu
+香梘	xiang jian
+發漚豆	fa ou dou
+得一想二	de yi xiang er
+買咗部	mai zuo bu
+都幾充實	dou ji chong shi
+我都想搵	wo dou xiang wen
+收皮啦你	shou pi la ni
+的式	de shi
+行水	xing shui
+蝻蛇	nan she
+細妹	xi mei
+棖雞婆	cheng ji po
+冇漏罅	mao lou xia
+包頂頸	bao ding jing
+惗返起	nie fan qi
+大價	da jia
+一天都光嗮	yi tian dou guang sai
+烏蠅	wu ying
+激死死	ji si si
+冇研究	mao yan jiu
+撳沈	qin shen
+果幾條	guo ji tiao
+浪衫	lang shan
+鉢酒	bo jiu
+詐顛扮傻	zha dian ban sha
+吖件	ya jian
+駁輪	bo lun
+整色整水	zheng se zheng shui
+契嫂	qi sao
+淨面	jing mian
+有心無神	you xin wu shen
+拿住部	na zhu bu
+整返好	zheng fan hao
+苦口苦面	ku kou ku mian
+冷衫	leng shan
+亞嫲	ya ma
+海底石斑好瘀	hai di shi ban hao yu
+漲咗	zhang zuo
+櫃桶	gui tong
+雨溦	yu wei
+嘆詞表考慮	tan ci biao kao lv
+餐飽	can bao
+打鼻鼾	da bi han
+竇口	dou kou
+崩口人忌食崩口碗	beng kou ren ji shi beng kou wan
+冇使講	mao shi jiang
+阿之阿咗	a zhi a zuo
+意頭	yi tou
+車衫	che shan
+早投	zao tou
+剩番	sheng fan
+玩吖	wan ya
+我訓先	wo xun xian
+送禮物俾我	song li wu bi wo
+趷腳	ke jiao
+抵死友	di si you
+要做埋	yao zuo mai
+佢張相	qu zhang xiang
+冇脈	mao mai
+生水芋頭	sheng shui yu tou
+唔好亂喐	wu hao luan yu
+冤崩爛臭	yuan beng lan chou
+作渴	zuo ke
+田雞東	tian ji dong
+打冷震	da leng zhen
+袋袋平安	dai dai ping an
+斬件	zhan jian
+隔籬	ge li
+蚊螆	wen ci
+未寫曬	wei xie shai
+死八公	si ba gong
+我冇仔	wo mao zai
+眼膊	yan bo
+塞緊車	sai jin che
+阿蘭嫁阿瑞累上加累	a lan jia a rui lei shang jia lei
+咁就得	gan jiu de
+送扎花	song zha hua
+一沈百踩	yi shen bai cai
+無紋路	wu wen lu
+木糠	mu kang
+丟生	diu sheng
+適當嘅	shi dang kai
+雙蒸	shuang zheng
+屌你	diao ni
+改緊	gai jin
+講漏嘴	jiang lou zui
+冇啊	mao a
+壞咗	huai zuo
+浮頭	fu tou
+手尾根	shou wei gen
+戇居	zhuang ju
+夜寣	ye hu
+睇門口	di men kou
+樑雪霏	liang xue fei
+近住	jin zhu
+仲上線	zhong shang xian
+蘇強文	su qiang wen
+口面口角	kou mian kou jiao
+擺明車馬	bai ming che ma
+執翻劑	zhi fan ji
+霎氣	sha qi
+睇更	di geng
+埋嗮	mai sai
+開口棗開嚟	kai kou zao kai li
+都系無野	dou xi wu ye
+發矛	fa mao
+狼過華秀只狗	lang guo hua xiu zhi gou
+無講啊	wu jiang a
+烏劣劣	wu lie lie
+靈擎	ling qing
+竹織批蕩	zhu zhi pi dang
+紅汞水	hong gong shui
+挨拼椅	ai pin yi
+怕羞仔	pa xiu zai
+荷蘭薯	he lan shu
+返黎啦	fan li la
+掹佢出嚟	meng qu chu li
+殺起	sha qi
+巖巖返到	yan yan fan dao
+唔想架	wu xiang jia
+洗左	xi zuo
+撈雞	lao ji
+發你長相	fa ni zhang xiang
+夥記	huo ji
+包括埋	bao kuo mai
+賠湯藥	pei tang yao
+阿超着褲谷住來	a chao zhe ku gu zhu lai
+咁我都系	gan wo dou xi
+識到我	shi dao wo
+準唔準備	zhun wu zhun bei
+走唔起	zou wu qi
+阿嫲	a ma
+嗲吊	die diao
+俾定	bi ding
+咁好機會	gan hao ji hui
+牙灰	ya hui
+發姣	fa jiao
+熟客網	shu ke wang
+識下人	shi xia ren
+大鑊飯	da huo fan
+發嬲	fa niao
+俾短	bi duan
+都唔系咖	dou wu xi ka
+疏乎	shu hu
+你都早點訓啦	ni dou zao dian xun la
+手板眼見工夫	shou ban yan jian gong fu
+雙窬牆	shuang yu qiang
+老公潑扇淒涼	lao gong po shan qi liang
+開乜會	kai mie hui
+敂亂亂	kou luan luan
+睇嘞	di lei
+我俾人	wo bi ren
+埋位	mai wei
+食飯啦	shi fan la
+睇樓團	di lou tuan
+仄紙	ze zhi
+電緊	dian jin
+凍冰冰	dong bing bing
+落貨	luo huo
+複製咗	fu zhi zuo
+咁正常	gan zheng chang
+花哩碌	hua li lu
+你唔早講	ni wu zao jiang
+耷頭耷腦	da tou da nao
+至喺	zhi xi
+無咩所謂	wu mie suo wei
+久唔久	jiu wu jiu
+眉豆	mei dou
+私已	si yi
+補鑊佬	bu huo lao
+威吔	wei ye
+你查咗	ni cha zuo
+亞妹	ya mei
+躁火	zao huo
+墟咁嘈	xu gan cao
+行嚟行去	xing li xing qu
+後枕	hou zhen
+厠紙	ce zhi
+拜神唔見雞	bai shen wu jian ji
+咁多意見	gan duo yi jian
+凼人	dang ren
+查唔到	cha wu dao
+粵講粵過癮	yue jiang yue guo yin
+咁就算咯	gan jiu suan ge
+捱夜捱齋	ai ye ai zhai
+鉸剪	jiao jian
+九因歌	jiu yin ge
+鬧交	nao jiao
+寒飛	han fei
+打功夫	da gong fu
+冇釐癮頭	mao li yin tou
+佗衰	tuo shuai
+夠膽死	gou dan si
+鮓皮	zha pi
+愛得儀	ai de yi
+姨媽姑爹	yi ma gu die
+落面	luo mian
+蝦眼水	xia yan shui
+拿西	na xi
+失失慌	shi shi huang
+去咗	qu zuo
+大頸泡	da jing pao
+打乞嗤	da qi chi
+人地嘅	ren di kai
+墟巴嘈閉	xu ba cao bi
+便唔便	bian wu bian
+成個寒假	cheng ge han jia
+你喺乜水	ni xi mie shui
+咁薄	gan bao
+黃狗頭	huang gou tou
+咁爆	gan bao
+都喺	dou xi
+把屁	ba pi
+唔好喊喇	wu hao han la
+制製得過	zhi zhi de guo
+篤背脊	du bei ji
+金腳帶	jin jiao dai
+塘邊鶴睇準嚟食	tang bian he di zhun li shi
+最新嘅	zui xin kai
+唔卡	wu ka
+返咗	fan zuo
+老禽騎	lao qin qi
+吃咗咩	chi zuo mie
+哩啦	li la
+咁都記得	gan dou ji de
+改咗	gai zuo
+事幹	shi gan
+打皮汗	da pi han
+鬆啲	song di
+心多多	xin duo duo
+眼公仔	yan gong zai
+你咁叻	ni gan le
+咁多場	gan duo chang
+唔返黎	wu fan li
+插你個胃	cha ni ge wei
+過鍾	guo zhong
+瞌一陣	ke yi zhen
+話系你	hua xi ni
+覘天望地	chan tian wang di
+賣剩腳	mai sheng jiao
+呢一刻	ne yi ke
+話就係	hua jiu xi
+面左左	mian zuo zuo
+睇太多	di tai duo
+好少理	hao shao li
+縮沙	suo sha
+戲肉	xi rou
+棺材鋪拜神想人死	guan cai pu bai shen xiang ren si
+無曬	wu shai
+跌親	die qin
+識野	shi ye
+考得咁差	kao de gan cha
+一隻狸	yi zhi li
+脢肉	mei rou
+鳩死	jiu si
+老蚊婆	lao wen po
+打倒掟	da dao zheng
+雞竇	ji dou
+雞腎	ji shen
+來咖咩	lai ka mie
+百厭	bai yan
+拋生藕	pao sheng ou
+撈世界	lao shi jie
+婆果	po guo
+佢點講	qu dian jiang
+碌葛	lu ge
+又走咗	you zou zuo
+我唔瞭解	wo wu liao jie
+摑佢	guai qu
+望星打卦	wang xing da gua
+惗下惗下	nie xia nie xia
+睇牛	di niu
+布鞋仔	bu xie zai
+鼘筋	yuan jin
+反左學	fan zuo xue
+開明車馬	kai ming che ma
+拆肉	chai rou
+火頸	huo jing
+要唔要	yao wu yao
+開底	kai di
+講都得	jiang dou de
+識妳	shi ni
+訓未	xun wei
+青頭仔	qing tou zai
+擒騎	qin qi
+真系偉大	zhen xi wei da
+豬頭丙	zhu tou bing
+迫紐	po niu
+沙灣燈籠何苦	sha wan deng long he ku
+夜晚黑	ye wan hei
+底褲高爭鞋	di ku gao zheng xie
+命水	ming shui
+撩佢	liao qu
+裏面嘅	li mian kai
+啦啦亂	la la luan
+爲何不要墨爾本的翡翠	wei he bu yao mo er ben de fei cui
+似啦	shi la
+隔離系	ge li xi
+拉闊音樂會	la kuo yin le hui
+符弗	fu fu
+快佬	kuai lao
+我邊度	wo bian du
+呢兩條友	ne liang tiao you
+忿氣	fen qi
+住年妹	zhu nian mei
+高中嘅	gao zhong kai
+超値	chao zhi
+食檔	shi dang
+同我熟	tong wo shu
+火水	huo shui
+好靚嘅	hao jing kai
+與誰同坐	yu shui tong zuo
+侍仔	shi zai
+教飛	jiao fei
+探下	tan xia
+蕩失路	dang shi lu
+憨居	han ju
+着鞋	zhe xie
+噍完鬆	jiao wan song
+用信用卡簽帳	yong xin yong ka qian zhang
+搵食	wen shi
+假膊	jia bo
+仲好咩	zhong hao mie
+打大翻	da da fan
+喐不得其正	yu bu de qi zheng
+吊起嚟賣	diao qi li mai
+黃泡髡熟	huang pao kun shu
+俾了	bi le
+睇過先知	di guo xian zhi
+冇系哇	mao xi wa
+記住咗	ji zhu zuo
+度街	du jie
+火滾	huo gun
+遮住嗮	zhe zhu sai
+冇口齒	mao kou chi
+之咁	zhi gan
+戒奶	jie nai
+標冷汗	biao leng han
+牽手仔	qian shou zai
+捉伊人	zhuo yi ren
+冇定性冇定準	mao ding xing mao ding zhun
+哥哥仔	ge ge zai
+咁可惡	gan ke e
+影相	ying xiang
+花階磚	hua jie zhuan
+影下	ying xia
+要唔要飯	yao wu yao fan
+冇紋路	mao wen lu
+家陣	jia zhen
+草花頭	cao hua tou
+炮仗頸	pao zhang jing
+復唔到習	fu wu dao xi
+扭六壬	niu liu ren
+你喺咪	ni xi mi
+發花癲	fa hua dian
+矮躉	ai dun
+仲想	zhong xiang
+出唔到黎	chu wu dao li
+呢處	ne chu
+撈鬆	lao song
+放咁多日	fang gan duo ri
+神神地	shen shen di
+抓車	zhua che
+鐵嘴雞	tie zui ji
+截的士	jie di shi
+熱嘅	re kai
+衫架	shan jia
+佢地玩	qu di wan
+滑潺潺	hua chan chan
+仲系	zhong xi
+唔開心	wu kai xin
+佢真	qu zhen
+你喺得嘅	ni xi de kai
+我唔老	wo wu lao
+籮柚	luo you
+返嚟	fan li
+咁返	gan fan
+你要嘅	ni yao kai
+棖眼	cheng yan
+隔夜粥	ge ye zhou
+到未呀	dao wei ya
+冇嗮	mao sai
+呢期	ne qi
+拎畀我	lin bi wo
+拉吖	la ya
+朋友都系	peng you dou xi
+吃屎大	chi shi da
+羅漢請觀音	luo han qing guan yin
+驚咩喔	jing mie o
+之唔喺	zhi wu xi
+鳩鳩屎	jiu jiu shi
+鹹水草	xian shui cao
+探盤	tan pan
+慌失失	huang shi shi
+咁巖噶	gan yan ga
+到唔恨	dao wu hen
+以後嘅	yi hou kai
+傻傻更更	sha sha geng geng
+見連丸	jian lian wan
+無野講	wu ye jiang
+做啦	zuo la
+番鬼佬	fan gui lao
+有呢回事	you ne hui shi
+睇症	di zheng
+不嘍	bu lou
+食得啦	shi de la
+石春	shi chun
+喐親喐動	yu qin yu dong
+事頭婆	shi tou po
+食咗啦	shi zuo la
+睇到人	di dao ren
+刁僑扭擰	diao qiao niu ning
+我乖仔	wo guai zai
+交吉	jiao ji
+頸癧	jing li
+牙鉸	ya jiao
+覺眼	jue yan
+唔在理	wu zai li
+沙溪仔	sha xi zai
+油甘子	you gan zi
+應該嘅	ying gai kai
+壞吖	huai ya
+拼沈	pin shen
+打腳骨	da jiao gu
+擡棺材甩褲失禮死人	tai guan cai shuai ku shi li si ren
+粉菓	fen guo
+廣府民系	guang fu min xi
+頭木偶	tou mu ou
+左手便	zuo shou bian
+平沽	ping gu
+諗縮數	shen suo shu
+熟鹽	shu yan
+塞唔塞	sai wu sai
+爛命	lan ming
+淡滅滅	dan mie mie
+大碌藕大碌竹	da lu ou da lu zhu
+拔蘭地	ba lan di
+滿肚密圈	man du mi quan
+米吵	mi chao
+爛茸茸	lan rong rong
+未有得食	wei you de shi
+咁多科	gan duo ke
+爛地	lan di
+哈佬	ha lao
+眼矋矋	yan lei lei
+擦紙膠	ca zhi jiao
+度水	du shui
+暢散紙	chang san zhi
+帶咁多	dai gan duo
+搶曬鏡	qiang shai jing
+唔知好醜	wu zhi hao chou
+拍嘅	pai kai
+湯河	tang he
+魚露	yu lu
+話時話	hua shi hua
+番鬼荔枝	fan gui li zhi
+好頸	hao jing
+湯烘	tang hong
+麻甩女	ma shuai nv
+唔單隻	wu dan zhi
+喺嗜	xi shi
+餅印	bing yin
+索察	suo cha
+我問個	wo wen ge
+唔使恨	wu shi hen
+夾萬	jia wan
+落氺	luo shui
+黃榮璋	huang rong zhang
+八妹	ba mei
+痛嘅	tong kai
+有乜食	you mie shi
+生草藥嚨鎂蛧	sheng cao yao long mei wang
+由細到大	you xi dao da
+飛機師	fei ji shi
+舊陣時	jiu zhen shi
+喺唔喺度	xi wu xi du
+唔怪得	wu guai de
+打風	da feng
+有乜事	you mie shi
+親家老爺	qin jia lao ye
+執藥	zhi yao
+忘情號	wang qing hao
+雞泡魚	ji pao yu
+搏懵	bo meng
+貪口爽	tan kou shuang
+一日到黑	yi ri dao hei
+柴冬瓜	chai dong gua
+刨緊	pao jin
+白糖炒涼瓜同甘共苦	bai tang chao liang gua tong gan gong ku
+搵人	wen ren
+都幾熟	dou ji shu
+長氣袋	zhang qi dai
+過咗海就喺神仙	guo zuo hai jiu xi shen xian
+都幾識	dou ji shi
+都睇唔清	dou di wu qing
+你條死仔	ni tiao si zai
+都訓唔着	dou xun wu zhe
+喺我前邊	xi wo qian bian
+唔輕鬆	wu qing song
+我睇到	wo di dao
+一沉百踩	yi chen bai cai
+洗粉	xi fen
+乒乓波	ping pang bo
+矮細	ai xi
+痘皮	dou pi
+皮黃骨瘦	pi huang gu shou
+掹掹緊	meng meng jin
+天時熱	tian shi re
+見親你	jian qin ni
+到其時	dao qi shi
+大妗姐	da jin jie
+水抱	shui bao
+事頭	shi tou
+翳悶	yi men
+宵夜宵夜	xiao ye xiao ye
+越黎越難	yue li yue nan
+呢個詞	ne ge ci
+唔成立	wu cheng li
+溜雞	liu ji
+跑過黎	pao guo li
+頂頭陣	ding tou zhen
+烏殊殊	wu shu shu
+癩渣	lai zha
+你見到咩	ni jian dao mie
+系咁咖啦	xi gan ka la
+二打六	er da liu
+執茶	zhi cha
+仲要	zhong yao
+落雨絲溼	luo yu si shi
+順風屎艇快夾	shun feng shi ting kuai jia
+系對面	xi dui mian
+拉大纜	la da lan
+咁執着	gan zhi zhe
+只剩返	zhi sheng fan
+鐳射唱機	lei she chang ji
+狀棍	zhuang gun
+屈尾十	qu wei shi
+行出行入	xing chu xing ru
+裝起個弶	zhuang qi ge jiang
+三幅被	san fu bei
+督眼督鼻	du yan du bi
+眼花花	yan hua hua
+頸喉紐	jing hou niu
+倒米	dao mi
+片糖	pian tang
+呢度	ne du
+雞食放光蟲心知肚明	ji shi fang guang chong xin zhi du ming
+好眼	hao yan
+打蛇餅	da she bing
+眼肚	yan du
+送乜俾我	song mie bi wo
+蒸生瓜神神地	zheng sheng gua shen shen di
+擺檔口	bai dang kou
+麻骨柺杖	ma gu guai zhang
+搞乜啊	gao mie a
+自細	zi xi
+喺啊	xi a
+唔系咩	wu xi mie
+死女包	si nv bao
+咁完美	gan wan mei
+又訓着	you xun zhe
+就咁先	jiu gan xian
+漏雞	lou ji
+合唔埋	he wu mai
+下間	xia jian
+走趯	zou ti
+捉到鹿唔識脫角	zhuo dao lu wu shi tuo jiao
+好嘅	hao kai
+唔是是馬	wu shi shi ma
+火水燈	huo shui deng
+唔系吖	wu xi ya
+打茅波	da mao bo
+許卿卿	xu qing qing
+知書識墨	zhi shu shi mo
+癡線	chi xian
+書友輸	shu you shu
+姐手姐腳	jie shou jie jiao
+條利	tiao li
+滘校飛	jiao xiao fei
+睇過點先	di guo dian xian
+衰公	shuai gong
+自梳女	zi shu nv
+粗生	cu sheng
+發硝	fa xiao
+白飯魚鞋	bai fan yu xie
+瀑肚	pu du
+街坊大姐	jie fang da jie
+話口未完	hua kou wei wan
+爛女	lan nv
+幾難先至	ji nan xian zhi
+石屎樓	shi shi lou
+滑牛	hua niu
+糠耳炕	kang er kang
+埋手	mai shou
+好衰價	hao shuai jia
+樹仔頭	shu zai tou
+圈聲	quan sheng
+唔喺喇	wu xi la
+倫滘糕	lun jiao gao
+籮底橙	luo di cheng
+打俾妳	da bi ni
+眉眨眼	mei zha yan
+果個咯	guo ge ge
+埋數	mai shu
+麻麻地	ma ma di
+沖涼房	chong liang fang
+佢其實	qu qi shi
+耷尾	da wei
+遮骨	zhe gu
+熟客仔熟行	shu ke zai shu xing
+捻手菜	nian shou cai
+阿些斯奧	a xie si ao
+蒔田	shi tian
+拿拿聲	na na sheng
+摸盲盲	mo mang mang
+中入調	zhong ru diao
+賣豬仔	mai zhu zai
+你真系	ni zhen xi
+蝦到上面	xia dao shang mian
+阿肥	a fei
+迭埋心水	die mai xin shui
+拗交	ao jiao
+爆竊	bao qie
+氈酒	zhan jiu
+做豬	zuo zhu
+發風	fa feng
+唔打緊	wu da jin
+關佢咩事	guan qu mie shi
+假過賣貓	jia guo mai mao
+瘦擘擘	shou bai bai
+我架啦	wo jia la
+後屘	hou man
+食軟飯	shi ruan fan
+做得唔錯	zuo de wu cuo
+車轆	che lu
+發緊夢	fa jin meng
+未調	wei diao
+佢本身	qu ben shen
+立實心腸	li shi xin chang
+落嚟	luo li
+舊果個	jiu guo ge
+先咖	xian ka
+行得埋	xing de mai
+食粥	shi zhou
+颯氣	sa qi
+墜火	zhui huo
+叫你都唔應	jiao ni dou wu ying
+心罨	xin yan
+雙行簿	shuang xing bu
+翻來咗	fan lai zuo
+腳爭	jiao zheng
+食滯	shi zhi
+唔打人	wu da ren
+俾錢	bi qian
+結厴	jie yan
+系街度	xi jie du
+投扭	tou niu
+越講越唔明	yue jiang yue wu ming
+咩意思咯	mie yi si ge
+亂黎	luan li
+翻頭婆	fan tou po
+想同你玩	xiang tong ni wan
+細姐	xi jie
+大葵扇	da kui shan
+褸裙	lv qun
+關你乜事	guan ni mie shi
+咁就要	gan jiu yao
+我可唔可以	wo ke wu ke yi
+陰司紙	yin si zhi
+喺邊度	xi bian du
+佢喺	qu xi
+打掂	da dian
+唔聽你話	wu ting ni hua
+清遠咯	qing yuan ge
+冇埞企	mao di qi
+決定咗	jue ding zuo
+煨番薯	wei fan shu
+咁睇唔開	gan di wu kai
+老坑公	lao keng gong
+打低	da di
+上晝	shang zhou
+揸頸	zha jing
+黃紫羅	huang zi luo
+攩瑖	dang duan
+咁蠢	gan chun
+唔在講	wu zai jiang
+狼戾	lang li
+媳和兒	xi he er
+私夥局	si huo ju
+肥哪	fei na
+同喺	tong xi
+我要嘅	wo yao kai
+雀仔	que zai
+側側搏	ce ce bo
+他條	ta tiao
+企定	qi ding
+羅傘帳	luo san zhang
+大寶號	da bao hao
+狗唔搭叭	gou wu da ba
+冇厴雞籠	mao yan ji long
+有得有分數	you de you fen shu
+感暑	gan shu
+無有怕	wu you pa
+領當	ling dang
+唔勒	wu lei
+鉛筆刨	qian bi pao
+又凍又溼	you dong you shi
+耍手	shua shou
+唔撈	wu lao
+唔記住	wu ji zhu
+候鑊	hou huo
+嘅嗻	kai zhe
+食死貓	shi si mao
+煙精	yan jing
+鉢頭	bo tou
+壓咗	ya zuo
+唔夠眼	wu gou yan
+佛都有火	fu dou you huo
+俾你看下	bi ni kan xia
+皆因解	jie yin jie
+日日出去	ri ri chu qu
+趷路	ke lu
+死蠢	si chun
+鬍鬚刨	hu xu pao
+肉酸	rou suan
+咩設計	mie she ji
+念嚇先	nian xia xian
+惡死能登	e si neng deng
+燈膽	deng dan
+咋嘛	za ma
+煮米	zhu mi
+好夾	hao jia
+婄腩	pou nan
+合尺	he chi
+距系	ju xi
+烏哩單刀	wu li dan dao
+冇王管	mao wang guan
+咪去咯	mi qu ge
+爛飯	lan fan
+蘇蝦仔	su xia zai
+都唔請	dou wu qing
+光掁掁	guang cheng cheng
+喊苦喊忽	han ku han hu
+睇電視	di dian shi
+都咁夜	dou gan ye
+踢波	ti bo
+話曬	hua shai
+霸定位	ba ding wei
+各位同學仔	ge wei tong xue zai
+多唔到	duo wu dao
+嘅乜	kai mie
+菢竇	bao dou
+冇所謂	mao suo wei
+特登	te deng
+冇得頂	mao de ding
+紙紮下扒	zhi za xia ba
+打大赤肋	da da chi le
+佢嘅	qu kai
+伙頭	huo tou
+個本野	ge ben ye
+大家咁話啦	da jia gan hua la
+行多轉	xing duo zhuan
+唔系呀	wu xi ya
+應該睇	ying gai di
+契家佬	qi jia lao
+啦嗎	la ma
+重喺	zhong xi
+癡扇	chi shan
+捱世界	ai shi jie
+無線電視配音組	wu xian dian shi pei yin zu
+地下錢莊	di xia qian zhuang
+谷牛	gu niu
+喂譁鬼震	wei hua gui zhen
+埃布爾	ai bu er
+今日關注	jin ri guan zhu
+整鬼整怪	zheng gui zheng guai
+唔怪之	wu guai zhi
+闊佬懶理	kuo lao lan li
+縮埋一嚿	suo mai yi huo
+長撓撓	zhang nao nao
+就話嗟	jiu hua jie
+遲嚟先上岸	chi li xian shang an
+花款	hua kuan
+執人口水溦	zhi ren kou shui wei
+冇本心	mao ben xin
+口水澂	kou shui cheng
+好唱口	hao chang kou
+濁親	zhuo qin
+稱唔上	cheng wu shang
+無咁痛	wu gan tong
+做咗手腳	zuo zuo shou jiao
+放葫蘆	fang hu lu
+衝菜	chong cai
+樣衰	yang shuai
+冇需要	mao xu yao
+食屎屙飯	shi shi e fan
+哩度	li du
+大檸樂	da ning le
+晚黑	wan hei
+黑寣	hei hu
+釘咗	ding zuo
+外底	wai di
+雨褸	yu lv
+發曬姣	fa shai jiao
+落咗	luo zuo
+戥頭	deng tou
+講呢句	jiang ne ju
+我落咗	wo luo zuo
+逼人地	bi ren di
+星悶	xing men
+大偈	da ji
+屙啡啡	e fei fei
+都系你最好	dou xi ni zui hao
+木口木面	mu kou mu mian
+神七咁早	shen qi gan zao
+殺咗個	sha zuo ge
+擡棺材脫了褲失禮人	tai guan cai tuo le ku shi li ren
+拗頸	ao jing
+腳魚	jiao yu
+沓水	da shui
+做咗	zuo zuo
+使乜	shi mie
+土佬	tu lao
+孫仔仔	sun zai zai
+你中意啦	ni zhong yi la
+四塊半	si kuai ban
+系遮	xi zhe
+逼唔逼	bi wu bi
+派埋	pai mai
+爛喊貓	lan han mao
+果個網址	guo ge wang zhi
+險死還生	xian si hai sheng
+蝦瘌	xia la
+傻更更	sha geng geng
+鬆柴	song chai
+監粗嚟	jian cu li
+炮仗領	pao zhang ling
+老頂	lao ding
+好啉	hao lin
+老定	lao ding
+覘高頭	chan gao tou
+出來嘅	chu lai kai
+鞋抽	xie chou
+好眼界	hao yan jie
+系入面	xi ru mian
+臘稱	la cheng
+現暫	xian zan
+講實	jiang shi
+我果組	wo guo zu
+喝生嗮	he sheng sai
+空如恨	kong ru hen
+衰鬼竇	shuai gui dou
+死黨死火	si dang si huo
+墟冚	xu kan
+神吖	shen ya
+打風嚿	da feng huo
+衛生口罩嘴上一套	wei sheng kou zhao zui shang yi tao
+呢張相	ne zhang xiang
+既啫	ji zhe
+好攰啦	hao gui la
+坐花廳	zuo hua ting
+咁複習	gan fu xi
+死吖	si ya
+唔少得	wu shao de
+做咖	zuo ka
+你話乜話	ni hua mie hua
+圍頭話	wei tou hua
+單吊西	dan diao xi
+行咗下	xing zuo xia
+唔喺路	wu xi lu
+慳雞	qian ji
+兩仔爺	liang zai ye
+傻仔水	sha zai shui
+藥材鋪	yao cai pu
+科員仔	ke yuan zai
+人怕危米怕篩	ren pa wei mi pa shai
+點咖樣	dian ka yang
+各司各法	ge si ge fa
+思思縮縮	si si suo suo
+得嘸	de fu
+得吖	de ya
+整也	zheng ye
+呢餐飯	ne can fan
+皮光肉滑	pi guang rou hua
+慳儉	qian jian
+琳住去	lin zhu qu
+乞人憎	qi ren zeng
+喊苦喊弗	han ku han fu
+無用嘅	wu yong kai
+拉埋天窗	la mai tian chuang
+食谷種食閒口	shi gu zhong shi xian kou
+布碎	bu sui
+成間廠	cheng jian chang
+瓦背頂	wa bei ding
+同我同屆	tong wo tong jie
+污糟邋遢	wu zao la ta
+喺乜嚟架	xi mie li jia
+講咗咯	jiang zuo ge
+窮到窿	qiong dao long
+嘞牙	lei ya
+睇麼	di me
+煲無米粥	bao wu mi zhou
+天時冷	tian shi leng
+麻陵煩	ma ling fan
+行完花街	xing wan hua jie
+拗撬	ao qiao
+度橋	du qiao
+香牙蕉	xiang ya jiao
+滿肚文章	man du wen zhang
+喊驚	han jing
+請飲	qing yin
+鬼贊	gui zan
+成村人	cheng cun ren
+系邊呢	xi bian ne
+着慣	zhe guan
+流野	liu ye
+轉移曬	zhuan yi shai
+唔咁凍	wu gan dong
+大家都啖話	da jia dou dan hua
+拍得過	pai de guo
+八婆仔	ba po zai
+呢樣果樣	ne yang guo yang
+有聲氣	you sheng qi
+咁啲話	gan di hua
+三兩下手勢	san liang xia shou shi
+我要給你全部的愛	wo yao gei ni quan bu de ai
+好好睇咖	hao hao di ka
+想睇	xiang di
+海皮	hai pi
+輸賭	shu du
+鯁頸	geng jing
+上鹹	shang xian
+萬金咩	wan jin mie
+見佢地	jian qu di
+港紙	gang zhi
+賺頭蝕尾	zhuan tou shi wei
+最緊要正字	zui jin yao zheng zi
+火筒	huo tong
+計我話	ji wo hua
+心火盛	xin huo sheng
+喺威喺勢	xi wei xi shi
+撲親	pu qin
+呢只款	ne zhi kuan
+碧鹹	bi xian
+無位啦	wu wei la
+與其話	yu qi hua
+幾乖仔	ji guai zai
+嚟啦	li la
+咁密都會哺出仔	gan mi dou hui bu chu zai
+唔理咁多	wu li gan duo
+話落	hua luo
+坐月婆	zuo yue po
+哩個	li ge
+都沒乜	dou mei mie
+做緊物	zuo jin wu
+俾乜	bi mie
+柱躉	zhu dun
+落去咯	luo qu ge
+佮佮冚	ge ge kan
+好了喔	hao le o
+爆大鍋	bao da guo
+睇老婆	di lao po
+我咁好	wo gan hao
+吹漲	chui zhang
+起唔到	qi wu dao
+收皮	shou pi
+煙槓	yan gang
+袋錶	dai biao
+留醫	liu yi
+剝光豬	bo guang zhu
+醫緊	yi jin
+嘅咯	kai ge
+有格仔	you ge zai
+頭前子	tou qian zi
+熱死辣辣	re si la la
+認低威	ren di wei
+家山有眼	jia shan you yan
+返扯	fan che
+執私	zhi si
+咁算啦	gan suan la
+要嘅	yao kai
+餐櫃	can gui
+石灰籮	shi hui luo
+有陣時	you zhen shi
+唔漏	wu lou
+倒吊冇滴墨水	dao diao mao di mo shui
+返唔返去	fan wu fan qu
+多籮籮	duo luo luo
+嗜正	shi zheng
+落曬形	luo shai xing
+咁即系	gan ji xi
+阿駝行路中中地	a tuo xing lu zhong zhong di
+咬唔入	yao wu ru
+心掛掛	xin gua gua
+斬料	zhan liao
+果啲	guo di
+口嚡脷素	kou hai li su
+呢部	ne bu
+線轆	xian lu
+企起身	qi qi shen
+南關高中	nan guan gao zhong
+食大餐	shi da can
+離行離迾	li xing li lie
+我憎死你	wo zeng si ni
+工業行動	gong ye xing dong
+話曬都	hua shai dou
+冇米粥	mao mi zhou
+原嚟	yuan li
+我冇佢	wo mao qu
+縮骨遮	suo gu zhe
+梗系噶	geng xi ga
+罌硬喺	ying ying xi
+順風駛	shun feng shi
+我設咗	wo she zuo
+大面鉢	da mian bo
+暈酡酡	yun tuo tuo
+你上咗	ni shang zuo
+咖妹	ka mei
+吖吱吖咗	ya zhi ya zuo
+返工咯	fan gong ge
+飛出黎	fei chu li
+木蝨	mu shi
+茄哩啡	jia li fei
+賓妹	bin mei
+講耶穌	jiang ye su
+多咩謝	duo mie xie
+倒掟	dao zheng
+一一二二	yi yi er er
+新開咗	xin kai zuo
+蔗莢	zhe jia
+知樫識儉	zhi jian shi jian
+擔戴	dan dai
+吃咩藥	chi mie yao
+裹蒸糉	guo zheng zong
+無記性	wu ji xing
+掖高褲腳	ye gao ku jiao
+單單打打	dan dan da da
+老糠老行尊	lao kang lao xing zun
+蔗雞	zhe ji
+似唔似	shi wu shi
+薄英英	bao ying ying
+唔喺幾	wu xi ji
+發雞盲	fa ji mang
+唔帶我去	wu dai wo qu
+有佢地	you qu di
+冧友	lin you
+爛賭	lan du
+索油	suo you
+斬腳趾避沙蟲	zhan jiao zhi bi sha chong
+笑林小子	xiao lin xiao zi
+賺唔賺	zhuan wu zhuan
+吐血吃	tu xie chi
+曬氣	shai qi
+化骨龍	hua gu long
+眼仔訓	yan zai xun
+出術	chu shu
+跌交	die jiao
+掕掕跳	ling ling tiao
+汽車大燈	qi che da deng
+借歪啲	jie wai di
+花士令	hua shi ling
+耷溼	da shi
+腳板底	jiao ban di
+吊癮	diao yin
+塘蝨	tang shi
+畀心機	bi xin ji
+付咗款	fu zuo kuan
+反轉豬肚就是屎	fan zhuan zhu du jiu shi shi
+都唔壞	dou wu huai
+你喺	ni xi
+唔理啦	wu li la
+襯到絕	chen dao jue
+六七蚊	liu qi wen
+魚滑	yu hua
+順檔	shun dang
+吳去耐哩	wu qu nai li
+艾朗素	ai lang su
+益佢	yi qu
+洗屎忽	xi shi hu
+返江門	fan jiang men
+通拉	tong la
+我學識拍拖	wo xue shi pai tuo
+咁你應該	gan ni ying gai
+捩手掉咗	lie shou diao zuo
+咁有冇	gan you mao
+食夜粥	shi ye zhou
+摑佢一巴掌	guai qu yi ba zhang
+扯人	che ren
+快快脆脆	kuai kuai cui cui
+生螆	sheng ci
+揸咈	zha fu
+腳眼	jiao yan
+啲咁多	di gan duo
+學下人地	xue xia ren di
+嗮冷	sai leng
+巷豚	xiang tun
+冤臭	yuan chou
+右手便	you shou bian
+厄水	e shui
+你出咗	ni chu zuo
+犯駁	fan bo
+冇計	mao ji
+屎眼	shi yan
+碰着黑	peng zhe hei
+臺臺凳凳	tai tai deng deng
+關咪	guan mi
+三分顔色上大紅	san fen yan se shang da hong
+飽到嘔	bao dao ou
+姨仔	yi zai
+佮份	ge fen
+一句鍾	yi ju zhong
+幾難搵	ji nan wen
+惗的出	nie de chu
+有風駛盡	you feng shi jin
+都唔想食	dou wu xiang shi
+絲髮	si fa
+十二優	shi er you
+扭紋	niu wen
+卒之	zu zhi
+斷開咗	duan kai zuo
+差暗	cha an
+蹺妙	qiao miao
+我多咗	wo duo zuo
+個幾兩個月	ge ji liang ge yue
+拈刺咁拈	nian ci gan nian
+慳皮	qian pi
+呢單野	ne dan ye
+勞挨	lao ai
+睇唔到	di wu dao
+飛返	fei fan
+煲乜	bao mie
+唔知醒	wu zhi xing
+睇緊	di jin
+豬潲	zhu shao
+問果個	wen guo ge
+屈氣	qu qi
+拗數口	ao shu kou
+生定	sheng ding
+知微麻利	zhi wei ma li
+見周公	jian zhou gong
+唔覺眼	wu jue yan
+我記得系	wo ji de xi
+打冷震打噎	da leng zhen da ye
+咁光	gan guang
+着好衫	zhe hao shan
+冚家產	kan jia chan
+冚家鏟	kan jia chan
+又唔見	you wu jian
+家機布	jia ji bu
+開左	kai zuo
+鑊鏟	huo chan
+好瘀	hao yu
+搽脂蕩粉	cha zhi dang fen
+棺材柺杖死頂	guan cai guai zhang si ding
+有乜冬瓜豆腐	you mie dong gua dou fu
+閘住	zha zhu
+唔講我	wu jiang wo
+返到黎	fan dao li
+睇咗	di zuo
+瘟瘟噔噔	wen wen deng deng
+就唔使	jiu wu shi
+睇咁	di gan
+凼你開心	dang ni kai xin
+踏正	ta zheng
+疏嘞	shu lei
+佮手佮腳	ge shou ge jiao
+放唔放	fang wu fang
+約莫	yue mo
+粘米	zhan mi
+木嘴	mu zui
+生勾勾	sheng gou gou
+咁單純	gan dan chun
+開便	kai bian
+幾唔想	ji wu xiang
+單身寡佬	dan shen gua lao
+棹艇	zhao ting
+腥悶	xing men
+懶蛇	lan she
+油香餅	you xiang bing
+泥骨蟲	ni gu chong
+易話爲	yi hua wei
+輝黃二聖	hui huang er sheng
+咁所以	gan suo yi
+極其量	ji qi liang
+洗腳不抹腳是咁甩	xi jiao bu mo jiao shi gan shuai
+食緊粥	shi jin zhou
+讀口黃	du kou huang
+大頭六火	da tou liu huo
+冇乜	mao mie
+等咗	deng zuo
+一覺訓醒	yi jue xun xing
+放聲氣	fang sheng qi
+身光頸靚	shen guang jing jing
+主管仔	zhu guan zai
+冚盅	kan zhong
+好耐冇見	hao nai mao jian
+埋底	mai di
+過咗未	guo zuo wei
+惡爺	e ye
+囉囉攣	luo luo luan
+叻馬	le ma
+多惗	duo nie
+俾個答覆	bi ge da fu
+隔離班	ge li ban
+官觀音兵	guan guan yin bing
+嘜大口得個窿	ma da kou de ge long
+我着緊	wo zhe jin
+做世界	zuo shi jie
+靜英英	jing ying ying
+假假地都喺	jia jia di dou xi
+換咗佢	huan zuo qu
+雪糕批	xue gao pi
+亞鬥官	ya dou guan
+打臺波	da tai bo
+有幾何	you ji he
+食咗飯未	shi zuo fan wei
+膝頭哥	xi tou ge
+瘦蜢蜢	shou meng meng
+邊噶	bian ga
+咁我都要	gan wo dou yao
+傾緊	qing jin
+三日唔埋	san ri wu mai
+羅柚	luo you
+屌娜星	diao na xing
+邊做邊搵	bian zuo bian wen
+侵早	qin zao
+攀籬	pan li
+俾你做咩	bi ni zuo mie
+俾佢	bi qu
+滯雞	zhi ji
+捻化	nian hua
+都幾難	dou ji nan
+仲一齊	zhong yi qi
+雙企人	shuang qi ren
+鼻哥	bi ge
+笑笑口	xiao xiao kou
+甘咪系咯	gan mi xi ge
+做邊行	zuo bian xing
+紙鶴風鈴	zhi he feng ling
+無省起	wu sheng qi
+死佬	si lao
+人去曬	ren qu shai
+幾甘	ji gan
+炒河	chao he
+入樽賽	ru zun sai
+先至	xian zhi
+但凡但喺	dan fan dan xi
+系勁	xi jin
+人地度	ren di du
+花臣	hua chen
+快趣	kuai qu
+麻勒佬	ma lei lao
+你都知呢	ni dou zhi ne
+鬱彎	yu wan
+咁無奈	gan wu nai
+生蟲柺杖累死人	sheng chong guai zhang lei si ren
+戇勼勼	zhuang jiu jiu
+去調	qu diao
+之前都無	zhi qian dou wu
+用唔到	yong wu dao
+唔一定得	wu yi ding de
+放唔曬	fang wu shai
+番鬼佬月餅悶極	fan gui lao yue bing men ji
+吵怨巴閉	chao yuan ba bi
+發羊吊	fa yang diao
+眼斬斬	yan zhan zhan
+新鮮熱辣	xin xian re la
+懶得理佢	lan de li qu
+拍烏蠅	pai wu ying
+弊弊無咁弊	bi bi wu gan bi
+人地來	ren di lai
+黃皮樹了哥唔熟唔食	huang pi shu le ge wu shu wu shi
+咁耐噶	gan nai ga
+甘嘅人	gan kai ren
+琴晚黑琴日	qin wan hei qin ri
+無得彈	wu de dan
+手指公	shou zhi gong
+咁多位	gan duo wei
+好近咋	hao jin za
+都系要去	dou xi yao qu
+癲埋	dian mai
+紅底橫	hong di heng
+無情雞	wu qing ji
+老師講咖	lao shi jiang ka
+愛錫	ai xi
+都唔睬我	dou wu cai wo
+屌你啊	diao ni a
+輕秤香梘	qing cheng xiang jian
+油螆	you ci
+錢罌	qian ying
+錯蕩	cuo dang
+捋手捋腳	lv shou lv jiao
+閘側	zha ce
+八卦妹	ba gua mei
+餐懵	can meng
+分甘同味	fen gan tong wei
+陰陰笑	yin yin xiao
+跌落地都要楋翻揸沙	die luo di dou yao la fan zha sha
+時辰鍾	shi chen zhong
+但喺	dan xi
+相當之	xiang dang zhi
+要頸唔要命	yao jing wu yao ming
+都繫系度	dou xi xi du
+太監磨柱真喺滑	tai jian mo zhu zhen xi hua
+忍唔住	ren wu zhu
+有頭威無尾陣	you tou wei wu wei zhen
+大唔透	da wu tou
+揸篼乞食	zha dou qi shi
+一上黎	yi shang li
+眼溼溼	yan shi shi
+打完齋唔要和尙	da wan zhai wu yao he shang
+盲拳打死老師傅	mang quan da si lao shi fu
+睇嚟	di li
+露翹翹	lu qiao qiao
+下扒	xia ba
+返到未	fan dao wei
+咁快	gan kuai
+咁款	gan kuan
+睇囖	di lo
+唔夠喉	wu gou hou
+縮數	suo shu
+篩箕	shai ji
+打橫嚟	da heng li
+友仔	you zai
+寫咗啦	xie zuo la
+壞左	huai zuo
+溼碎	shi sui
+咁多嘅	gan duo kai
+冇幾遠	mao ji yuan
+打麻雀	da ma que
+無符	wu fu
+咁咖	gan ka
+坐坐低	zuo zuo di
+對落	dui luo
+自己果樣	zi ji guo yang
+吊鍾	diao zhong
+系甘先	xi gan xian
+疏哩大	shu li da
+睇過點	di guo dian
+對埋	dui mai
+冇家教	mao jia jiao
+訓懶覺	xun lan jue
+屌你老母	diao ni lao mu
+整古做怪	zheng gu zuo guai
+出年	chu nian
+都系算了	dou xi suan le
+講粗口	jiang cu kou
+碰咗	peng zuo
+果兩本	guo liang ben
+九唔搭八	jiu wu da ba
+唔緊要	wu jin yao
+得唔得架	de wu de jia
+公頭	gong tou
+捱飢抵餓	ai ji di e
+我就落啦	wo jiu luo la
+天光墟	tian guang xu
+咁歡	gan huan
+啡士機	fei shi ji
+刀仔	dao zai
+今時唔同往日	jin shi wu tong wang ri
+訓覺	xun jue
+吹水啊	chui shui a
+似足	shi zu
+脫衫	tuo shan
+逍良	xiao liang
+洗啦	xi la
+盲公開眼痠嘟嘟	mang gong kai yan suan du du
+大碌木	da lu mu
+唔抵得	wu di de
+震震貢	zhen zhen gong
+手影機	shou ying ji
+橫丫腸	heng ya chang
+最多唔喺	zui duo wu xi
+倒瓤倒瀉籮蟹	dao rang dao xie luo xie
+咁似你	gan shi ni
+手甲	shou jia
+紅簿仔	hong bu zai
+牛腸	niu chang
+定過臺油	ding guo tai you
+跟手尾	gen shou wei
+冇腰骨	mao yao gu
+睇醫生	di yi sheng
+放假咁耐	fang jia gan nai
+喺咁	xi gan
+腸熱症	chang re zheng
+呢幾間	ne ji jian
+橫街窄巷	heng jie zhai xiang
+裏便	li bian
+親家奶奶	qin jia nai nai
+冇嗮癮	mao sai yin
+唔中用	wu zhong yong
+愛愛惜	ai ai xi
+指嘅	zhi kai
+執死雞	zhi si ji
+踢出我天地	ti chu wo tian di
+猴擒	hou qin
+低波	di bo
+冇嗮表情冇嗮符	mao sai biao qing mao sai fu
+咁夜	gan ye
+火屎火船	huo shi huo chuan
+七七嚇	qi qi xia
+安士	an shi
+彈埋	dan mai
+身慶	shen qing
+鳳梨麻	feng li ma
+糸囖	mi lo
+過唔過黎	guo wu guo li
+仲訓緊教	zhong xun jin jiao
+腳趾屘	jiao zhi man
+咁淫	gan yin
+落曬	luo shai
+趟聲	tang sheng
+大雞唔食細米大雞三味	da ji wu shi xi mi da ji san wei
+亞爺	ya ye
+臊蝦女	sao xia nv
+鐵支	tie zhi
+冇表情	mao biao qing
+系班	xi ban
+亂咁囄	luan gan li
+淨系	jing xi
+冇得傾	mao de qing
+擺白	bai bai
+叫嘅	jiao kai
+凼凼轉	dang dang zhuan
+七頭仔	qi tou zai
+酸酸宿宿	suan suan su su
+拍硬檔	pai ying dang
+眯吵	mi chao
+抹檯布	mo tai bu
+計埋	ji mai
+畫鬼腳	hua gui jiao
+頂唔住	ding wu zhu
+你果只	ni guo zhi
+平唔到	ping wu dao
+盞鬼	zhan gui
+勞氣	lao qi
+去抽	qu chou
+喺乜嚟嘎	xi mie li ga
+一戙都無	yi dong dou wu
+爆煲	bao bao
+實食無渣嗱	shi shi wu zha na
+開房未	kai fang wei
+無世藝	wu shi yi
+搵得着	wen de zhe
+明滾	ming gun
+改簿	gai bu
+傻婆仔	sha po zai
+出痘	chu dou
+冇咁多人	mao gan duo ren
+變嘅	bian kai
+上咗來	shang zuo lai
+我返黎咯	wo fan li ge
+激光唱機	ji guang chang ji
+偷雞唔到蝕揸米	tou ji wu dao shi zha mi
+訓唔入	xun wu ru
+周身刀冇張利	zhou shen dao mao zhang li
+虧佬	kui lao
+關咗燈	guan zuo deng
+踩屐	cai ji
+坐硬	zuo ying
+影響埋	ying xiang mai
+扮訓	ban xun
+單房	dan fang
+翻嚟	fan li
+夠照	gou zhao
+頸仔	jing zai
+唔提醒	wu ti xing
+起碼系	qi ma xi
+派拿	pai na
+聲喉	sheng hou
+枳入去	zhi ru qu
+不過咁	bu guo gan
+地鐵仔	di tie zai
+聽朝早	ting chao zao
+眼火爆	yan huo bao
+大學嘅	da xue kai
+癲佬	dian lao
+問題嗟	wen ti jie
+大大封	da da feng
+賣口乖	mai kou guai
+摞囄	luo li
+果條友	guo tiao you
+間花腩	jian hua nan
+咁遲鈍	gan chi dun
+面衫	mian shan
+就去咗	jiu qu zuo
+趯更	ti geng
+左啦	zuo la
+冇有	mao you
+打喊露	da han lu
+喺人都	xi ren dou
+都要識	dou yao shi
+幫嚇眼	bang xia yan
+大花灑	da hua sa
+蘇州屎	su zhou shi
+粵語一學就會	yue yu yi xue jiu hui
+用緊啦	yong jin la
+單企人	dan qi ren
+眼見心謀	yan jian xin mou
+銀行仔	yin xing zai
+擺甫士	bai fu shi
+返深圳	fan shen zhen
+實穩	shi wen
+牀下底踢毽大家咁高	chuang xia di ti jian da jia gan gao
+孱仔	can zai
+酒凹	jiu ao
+託水龍	tuo shui long
+張悅楷	zhang yue kai
+張頌欣	zhang song xin
+一鑊泡	yi huo pao
+啲啲	di di
+撇甩	pie shuai
+唔喺吖	wu xi ya
+唔知幾想	wu zhi ji xiang
+高爭鞋	gao zheng xie
+唔到你	wu dao ni
+牙痛啖聲	ya tong dan sheng
+喺咪	xi mi
+都報咗	dou bao zuo
+狗窿	gou long
+喂咗	wei zuo
+做把戲	zuo ba xi
+都冇睇	dou mao di
+十萬蚊	shi wan wen
+九大鬼	jiu da gui
+住月婆	zhu yue po
+大光燈	da guang deng
+扭紋柴	niu wen chai
+發狼戾	fa lang li
+話定	hua ding
+無乜	wu mie
+打電話俾我啦	da dian hua bi wo la
+剔手邊	ti shou bian
+失匙夾萬	shi shi jia wan
+咁我訓啦	gan wo xun la
+激氣	ji qi
+三腳櫈	san jiao deng
+擺闊佬	bai kuo lao
+唔自然	wu zi ran
+我知嘅	wo zhi kai
+又幾似	you ji shi
+夠曬多	gou shai duo
+唔聽電話	wu ting dian hua
+亞姨	ya yi
+趁墟	chen xu
+掬氣	ju qi
+草披	cao pi
+俾佢食	bi qu shi
+你要佢	ni yao qu
+撳釘	qin ding
+諳得	an de
+笑談廣東話	xiao tan guang dong hua
+皮費	pi fei
+淥嚇	lu xia
+貨尾	huo wei
+得咁笑	de gan xiao
+唔打啦	wu da la
+點咗名	dian zuo ming
+腳板腳板底	jiao ban jiao ban di
+分分鍾	fen fen zhong
+金山客	jin shan ke
+掂水	dian shui
+暗啞抵	an ya di
+溪錢	xi qian
+有突	you tu
+入唔到	ru wu dao
+抽手	chou shou
+系啦	xi la
+紅包仔	hong bao zai
+咪制	mi zhi
+暖唔暖	nuan wu nuan
+筆塔	bi ta
+半天吊	ban tian diao
+未喂	wei wei
+喊包	han bao
+爭咁遠	zheng gan yuan
+咁興	gan xing
+的起心肝	de qi xin gan
+雞項雞子	ji xiang ji zi
+細膽	xi dan
+花令	hua ling
+斷柄鋤頭無揸拿	duan bing chu tou wu zha na
+登曬	deng shai
+是但	shi dan
+仲平過	zhong ping guo
+一時時	yi shi shi
+攝青鬼	she qing gui
+吃屎屙飯	chi shi e fan
+讀朱	du zhu
+咩黎嘅	mie li kai
+掂唔掂	dian wu dian
+我話嘅	wo hua kai
+報唔報	bao wu bao
+佢話	qu hua
+咁睇得起	gan di de qi
+邊夠人	bian gou ren
+沙士堅	sha shi jian
+溼柴	shi chai
+鹹水歌	xian shui ge
+睇佢	di qu
+麥豆	mai dou
+肥仔德	fei zai de
+唔湯唔水唔通	wu tang wu shui wu tong
+唔好啦	wu hao la
+甜耶耶	tian ye ye
+混亂曬	hun luan shai
+做嗮啦	zuo sai la
+聽入去	ting ru qu
+玩曬啦	wan shai la
+咁睇我	gan di wo
+咖喔	ka o
+唔埋得個鼻	wu mai de ge bi
+咖嗟	ka jie
+計唔出	ji wu chu
+掗拃	ya zha
+俾到你	bi dao ni
+豬杆	zhu gan
+豬甘	zhu gan
+矮瓜	ai gua
+咗啦	zuo la
+估到啦	gu dao la
+咁樣	gan yang
+事實啊嘛	shi shi a ma
+腥鰮鰮	xing wen wen
+系你嗟	xi ni jie
+眼崛崛	yan jue jue
+唔關我事	wu guan wo shi
+梗系	geng xi
+前便	qian bian
+好耐	hao nai
+軚盤	dai pan
+逼得太緊	bi de tai jin
+唔搵	wu wen
+折咗	zhe zuo
+醃尖聲悶	yan jian sheng men
+冚家	kan jia
+吊命	diao ming
+翻渣	fan zha
+問下先啦	wen xia xian la
+起肉	qi rou
+執福	zhi fu
+先時先一排	xian shi xian yi pai
+幾唔爽	ji wu shuang
+綠豆公	lv dou gong
+搵丁	wen ding
+都唔系	dou wu xi
+席攝底	xi she di
+老餅	lao bing
+膊頭	bo tou
+定必	ding bi
+搬出嚟黎	ban chu li li
+牙痛咁聲	ya tong gan sheng
+系人都會	xi ren dou hui
+埋便	mai bian
+咁都話	gan dou hua
+及第粥	ji di zhou
+詐傻扮懵	zha sha ban meng
+佢講過	qu jiang guo
+電影院睇	dian ying yuan di
+睇曬	di shai
+再返黎	zai fan li
+間尺	jian chi
+講唔完	jiang wu wan
+隔年通勝唔值錢	ge nian tong sheng wu zhi qian
+嗌我	ai wo
+借頭借路	jie tou jie lu
+喺囖	xi lo
+日本嘅	ri ben kai
+撐艇	cheng ting
+電燈杉	dian deng shan
+沃也	wo ye
+食完咯	shi wan ge
+火燒棺材大嘆	huo shao guan cai da tan
+見唔見到	jian wu jian dao
+無膽	wu dan
+發癲	fa dian
+蠟蠟靚	la la jing
+打電話俾你啦	da dian hua bi ni la
+笨叱	ben chi
+喺呢度	xi ne du
+起菜	qi cai
+唔怕咯	wu pa ge
+執手尾	zhi shou wei
+設定咗	she ding zuo
+起膊	qi bo
+訓着覺	xun zhe jue
+鵝子菜	e zi cai
+無走趲	wu zou zan
+叻嗮	le sai
+白鴿眼	bai ge yan
+水洗都唔清	shui xi dou wu qing
+俾咗	bi zuo
+細個仔	xi ge zai
+幾咁閒	ji gan xian
+我要返工	wo yao fan gong
+梗想	geng xiang
+廣州話拼音方案	guang zhou hua pin yin fang an
+呢種心態	ne zhong xin tai
+都有嘅	dou you kai
+蜑家	dan jia
+三扒兩撥	san ba liang bo
+車呔	che dai
+贛居佬	gan ju lao
+番禺蠟燭假細心	pan yu la zhu jia xi xin
+睇我唔起	di wo wu qi
+木頭公仔	mu tou gong zai
+差一皮	cha yi pi
+得把嘴	de ba zui
+用嗮	yong sai
+拗痕	ao hen
+喧一會	xuan yi hui
+佢唔玩	qu wu wan
+唔入	wu ru
+詐詐諦諦	zha zha di di
+睇就睇	di jiu di
+茂裏	mao li
+來果時	lai guo shi
+媽姐	ma jie
+喐身喐勢	yu shen yu shi
+賣賣大包	mai mai da bao
+想唔	xiang wu
+凼凼	dang dang
+冚被	kan bei
+我帶佢	wo dai qu
+整鬼整馬	zheng gui zheng ma
+唔對路	wu dui lu
+唔好意思啊	wu hao yi si a
+行行企企行開	xing xing qi qi xing kai
+數還數路還路	shu hai shu lu hai lu
+都系甘啦	dou xi gan la
+腳坳	jiao ao
+咩姿勢	mie zi shi
+挨夜	ai ye
+京溪園人	jing xi yuan ren
+黑墨墨	hei mo mo
+早知冇乞丐	zao zhi mao qi gai
+唔會翻	wu hui fan
+當佢無嚟	dang qu wu li
+烏面貓	wu mian mao
+一蠹尿	yi du niao
+賊仔	zei zai
+話事偈	hua shi ji
+嗮士	sai shi
+中中等等	zhong zhong deng deng
+有乜意義	you mie yi yi
+三口六面	san kou liu mian
+上網嘅	shang wang kai
+咁多手	gan duo shou
+豬嘜	zhu ma
+竈君跌落鑊精神	zao jun die luo huo jing shen
+想着帥	xiang zhe shuai
+櫼頭到腳	jian tou dao jiao
+拉啦	la la
+咁樣呢	gan yang ne
+無研究	wu yan jiu
+返唔到去	fan wu dao qu
+肥美仔	fei mei zai
+難抵	nan di
+睇咗啦	di zuo la
+神高神大	shen gao shen da
+開咗	kai zuo
+我搵過	wo wen guo
+紊盡	wen jin
+頂心頂肺	ding xin ding fei
+碰彩	peng cai
+唔愛	wu ai
+忙忙狼狼	mang mang lang lang
+拉纜	la lan
+傍友	bang you
+碼頭級	ma tou ji
+眼眉毛長	yan mei mao zhang
+嗲嗲吊	die die diao
+講價啦	jiang jia la
+手坳	shou ao
+唔關事	wu guan shi
+關佢事	guan qu shi
+派士	pai shi
+跳黎跳去	tiao li tiao qu
+唔抵得諗	wu di de shen
+好地地	hao di di
+芫茜	yan qian
+冚啲	kan di
+一嚿溜	yi huo liu
+暫時嗟	zan shi jie
+神左	shen zuo
+唔開會	wu kai hui
+冧宮頭	lin gong tou
+你唔去	ni wu qu
+你咁講	ni gan jiang
+何裏活	he li huo
+散收收	san shou shou
+書都冇	shu dou mao
+爲皮	wei pi
+你咁豬	ni gan zhu
+就係咁	jiu xi gan
+好衰唔衰	hao shuai wu shuai
+的士夠格	di shi gou ge
+莫答	mo da
+起上嚟	qi shang li
+喉急	hou ji
+增加左	zeng jia zuo
+糸乜	mi mie
+洗腳唔抹腳	xi jiao wu mo jiao
+雞髀打人牙鉸軟	ji bi da ren ya jiao ruan
+私還私	si hai si
+鳩呃佬	jiu e lao
+都唔咁	dou wu gan
+夠皮	gou pi
+脫咗	tuo zuo
+出黎	chu li
+行得走得	xing de zou de
+呃鬼食豆腐	e gui shi dou fu
+曬冷	shai leng
+輸唔到	shu wu dao
+唔生性	wu sheng xing
+雞仔媒人	ji zai mei ren
+話咁易	hua gan yi
+電心	dian xin
+有乜問題乜	you mie wen ti mie
+黃蜂竇	huang feng dou
+都似	dou shi
+天時暑熱	tian shi shu re
+搵我	wen wo
+踢竇	ti dou
+冇釐癮	mao li yin
+識精	shi jing
+冇野好講	mao ye hao jiang
+返轉頭	fan zhuan tou
+撇脫	pie tuo
+唔該嗮	wu gai sai
+冇冷氣	mao leng qi
+訓唔著	xun wu zhu
+咁悲哀	gan bei ai
+開學咁耐	kai xue gan nai
+耐不耐	nai bu nai
+行北京路	xing bei jing lu
+芙翅	fu chi
+詐癲扮傻	zha dian ban sha
+慘情	can qing
+唔系掛	wu xi gua
+得啖笑	de dan xiao
+老虎蟹	lao hu xie
+石米	shi mi
+枕頭包	zhen tou bao
+僕築路	pu zhu lu
+咁但系	gan dan xi
+失魂魚	shi hun yu
+搏亂	bo luan
+睇死	di si
+大姐仔	da jie zai
+有乜關照	you mie guan zhao
+唔正常	wu zheng chang
+碰巖	peng yan
+睇水	di shui
+大一嘅	da yi kai
+摸門釘	mo men ding
+睇衰	di shuai
+紅毛泥	hong mao ni
+堅過石堅	jian guo shi jian
+煮俾我食	zhu bi wo shi
+細路女	xi lu nv
+出出去	chu chu qu
+買咗	mai zuo
+走投	zou tou
+講出黎	jiang chu li
+惗下	nie xia
+睇唔出	di wu chu
+病軍	bing jun
+好人事	hao ren shi
+一眼關七	yi yan guan qi
+呢只色	ne zhi se
+馬辰席	ma chen xi
+系羅	xi luo
+咁乖女	gan guai nv
+調咗	diao zuo
+見到你喔	jian dao ni o
+屙噓噓	e xu xu
+咁滯	gan zhi
+梘粉	jian fen
+唔同牌子	wu tong pai zi
+系埋	xi mai
+偷薄	tou bao
+一起黎	yi qi li
+搵你去	wen ni qu
+摙死	lian si
+拼撇嚟	pin pie li
+冇搵到	mao wen dao
+偸薄	tou bao
+唔知醜	wu zhi chou
+睇咩啊	di mie a
+橫手	heng shou
+五經福	wu jing fu
+細蝦大	xi xia da
+冇咖	mao ka
+拉頭纜	la tou lan
+幾喺	ji xi
+執贏	zhi ying
+爲咗	wei zuo
+黎坤蓮	li kun lian
+頂唔順	ding wu shun
+啫屐	zhe ji
+打消咗	da xiao zuo
+士閶	shi chang
+冇膽匪類	mao dan fei lei
+咁算咯	gan suan ge
+周身唔聚財	zhou shen wu ju cai
+呢間鋪	ne jian pu
+發木獨	fa mu du
+趟櫳	tang long
+借歪	jie wai
+忙唔忙	mang wu mang
+屌那媽	diao na ma
+屎虧	shi kui
+買果對	mai guo dui
+我咁慘	wo gan can
+手指尾	shou zhi wei
+屎窟	shi ku
+氣羅氣喘	qi luo qi chuan
+枕長	zhen zhang
+十月芥菜起心	shi yue jie cai qi xin
+一啖	yi dan
+冇益	mao yi
+講咗好耐	jiang zuo hao nai
+呢幾排	ne ji pai
+抽啦	chou la
+果篇	guo pian
+開咖	kai ka
+呃呃騙騙	e e pian pian
+行衰運	xing shuai yun
+罨住	yan zhu
+嚟喇	li la
+行開先	xing kai xian
+失禮死人	shi li si ren
+行開下	xing kai xia
+魚片粥巖巖熟	yu pian zhou yan yan shu
+佢鬧	qu nao
+行白雲山	xing bai yun shan
+話唔埋	hua wu mai
+包尾油	bao wei you
+近唔近	jin wu jin
+畫花口面	hua hua kou mian
+太平鋪	tai ping pu
+手作仔	shou zuo zai
+基圍	ji wei
+唔開氣	wu kai qi
+南乳	nan ru
+胳肋底	ge le di
+讀嚇	du xia
+釘鞋釘	ding xie ding
+實質質	shi zhi zhi
+抄更偷雞	chao geng tou ji
+長腳蜢	zhang jiao meng
+北代	bei dai
+心肝椗	xin gan ding
+催咗	cui zuo
+就至	jiu zhi
+逼於無奈	bi yu wu nai
+講緊	jiang jin
+捉棋	zhuo qi
+好攰吖	hao gui ya
+棚民方言	peng min fang yan
+威水史	wei shui shi
+行唔起	xing wu qi
+牙罅	ya xia
+一隻屐	yi zhi ji
+唔解決	wu jie jue
+四十幾蚊	si shi ji wen
+扭計師爺	niu ji shi ye
+賣左佢	mai zuo qu
+做女傭打爛沙盆璺到豚	zuo nv yong da lan sha pen wen dao tun
+手巾仔	shou jin zai
+高唔過	gao wu guo
+肥婆坐屎塔滴水不漏	fei po zuo shi ta di shui bu lou
+伏低	fu di
+跟尾	gen wei
+都冇你	dou mao ni
+朱義盛	zhu yi sheng
+裝假狗	zhuang jia gou
+搞緊清潔	gao jin qing jie
+買乜書	mai mie shu
+你係邊呀	ni xi bian ya
+新帝女花	xin di nv hua
+賣頭賣尾	mai tou mai wei
+你睇咯	ni di ge
+咁系未	gan xi wei
+傻傻庚庚	sha sha geng geng
+就話	jiu hua
+有事飛短	you shi fei duan
+蒙比利埃	meng bi li ai
+香港嘅	xiang gang kai
+出麻	chu ma
+唔識駕步	wu shi jia bu
+之啖	zhi dan
+第世	di shi
+鳳梨雞靠黏	feng li ji kao nian
+憂心熱頭	you xin re tou
+咩程度	mie cheng du
+紐耳	niu er
+我呢世	wo ne shi
+扒錢包	ba qian bao
+唔喺咁話	wu xi gan hua
+家頭細務	jia tou xi wu
+晾蚊帳	liang wen zhang
+你話咖	ni hua ka
+落雨溼溼	luo yu shi shi
+無米粥	wu mi zhou
+睇小	di xiao
+黎野	li ye
+求求其其	qiu qiu qi qi
+就是咁啦	jiu shi gan la
+精仔	jing zai
+食唔食到	shi wu shi dao
+浮浮盼	fu fu pan
+風吹皇帝褲浪孤鳩寒	feng chui huang di ku lang gu jiu han
+點爲知	dian wei zhi
+大隻騾騾	da zhi luo luo
+冇心肝	mao xin gan
+爛訓	lan xun
+第時	di shi
+又系喔	you xi o
+泥肉	ni rou
+年紀大咗	nian ji da zuo
+呢句好	ne ju hao
+好快還	hao kuai hai
+咪仙	mi xian
+你講笑遮話	ni jiang xiao zhe hua
+行雷	xing lei
+世界仔	shi jie zai
+無聲氣	wu sheng qi
+做緊乜	zuo jin mie
+大老倌出臺喺威喺勢	da lao guan chu tai xi wei xi shi
+爛泥扶唔上壁	lan ni fu wu shang bi
+恤發	xu fa
+真系咖	zhen xi ka
+搵話題	wen hua ti
+咁米咯	gan mi ge
+支質	zhi zhi
+口水多過茶	kou shui duo guo cha
+冇走趲	mao zou zan
+喊咁口	han gan kou
+唔知死	wu zhi si
+樑球	liang qiu
+中專仔	zhong zhuan zai
+喺咁大	xi gan da
+單料銅煲	dan liao tong bao
+咁點呢	gan dian ne
+腳甲	jiao jia
+金山橙	jin shan cheng
+明咖啦	ming ka la
+搞彎	gao wan
+眼挑針	yan tiao zhen
+生意佬	sheng yi lao
+拖住手仔	tuo zhu shou zai
+擗咗	pi zuo
+呢本野	ne ben ye
+咁就真系	gan jiu zhen xi
+咁早	gan zao
+死肥仔	si fei zai
+冇行	mao xing
+咁憎	gan zeng
+臭亨亨	chou heng heng
+登唔到	deng wu dao
+飲咩酒	yin mie jiu
+手滕腳震	shou teng jiao zhen
+山蜞	shan qi
+唔臭米氣	wu chou mi qi
+從頭黎過	cong tou li guo
+邊夠時間	bian gou shi jian
+揀靚衫	jian jing shan
+聽唔清	ting wu qing
+口多多	kou duo duo
+士撻膽	shi ta dan
+除咗	chu zuo
+唔出咯	wu chu ge
+馬狂螂	ma kuang lang
+竈蝦	zao xia
+滾友	gun you
+佢打電話	qu da dian hua
+朕花	zhen hua
+蝦碌	xia lu
+口窒窒	kou zhi zhi
+咁佢	gan qu
+華囝	hua jian
+寫紙仔	xie zhi zai
+亂笠笠	luan li li
+佢咖	qu ka
+落重本	luo zhong ben
+神啦	shen la
+睇過先	di guo xian
+臊蝦	sao xia
+食塞米	shi sai mi
+一唪臭味	yi feng chou wei
+咁多件	gan duo jian
+林林森森	lin lin sen sen
+粵拼	yue pin
+二花面	er hua mian
+走精便	zou jing bian
+箍煲	gu bao
+邊有啊	bian you a
+冇呀	mao ya
+冇修	mao xiu
+黎做乜	li zuo mie
+糖環	tang huan
+冇性	mao xing
+盒仔茶	he zai cha
+冇毛雞打交啖啖到肉	mao mao ji da jiao dan dan dao rou
+蚊訓	wen xun
+煙鏟	yan chan
+弊弊冇咁弊	bi bi mao gan bi
+差佬	cha lao
+話齋	hua zhai
+開估	kai gu
+想點都得	xiang dian dou de
+果日	guo ri
+雙眼檐	shuang yan yan
+幾好咖	ji hao ka
+劏豬	tang zhu
+睇低	di di
+屙肚	e du
+埋街	mai jie
+幾點食	ji dian shi
+話遮	hua zhe
+掛海珠	gua hai zhu
+咁勤奮	gan qin fen
+睇點	di dian
+咁或者	gan huo zhe
+溼水棉花無得彈	shi shui mian hua wu de dan
+使人唔使本	shi ren wu shi ben
+領曬	ling shai
+班戟	ban ji
+穩唔到	wen wu dao
+影返張	ying fan zhang
+結恭	jie gong
+打真軍	da zhen jun
+唔包食住	wu bao shi zhu
+無本心	wu ben xin
+雞春	ji chun
+搭單	da dan
+興早	xing zao
+廣州動物公園	guang zhou dong wu gong yuan
+冇咩感覺	mao mie gan jue
+粵拼輸入法	yue pin shu ru fa
+黑眯鼆	hei mi meng
+喺唔喺好使	xi wu xi hao shi
+聯埋	lian mai
+打斧頭	da fu tou
+東莞電視臺	dong guan dian shi tai
+扭擰	niu ning
+牙力	ya li
+唔系話	wu xi hua
+竈窟	zao ku
+會同佢	hui tong qu
+新衫新褲	xin shan xin ku
+豆仔	dou zai
+撖頭埋牆	han tou mai qiang
+賣鯇魚尾搭嘴	mai huan yu wei da zui
+打突兀	da tu wu
+韞住	yun zhu
+大唔大	da wu da
+出咗差	chu zuo cha
+傻伾祦	sha pi wu
+唔喺嘅話	wu xi kai hua
+頂櫳	ding long
+杉木靈牌做唔得主	sha mu ling pai zuo wu de zhu
+擰頭	ning tou
+頭赤	tou chi
+利毒	li du
+我俾面	wo bi mian
+講三講四	jiang san jiang si
+掟咗	zheng zuo
+周身蟻	zhou shen yi
+你訓先	ni xun xian
+咁幸運	gan xing yun
+驚青驚住	jing qing jing zhu
+戇叱鳩	zhuang chi jiu
+咁大禍	gan da huo
+戇居仔	zhuang ju zai
+匙羹白	shi geng bai
+度蹺	du qiao
+侍曲	shi qu
+連隨	lian sui
+挨拼	ai pin
+上網傾	shang wang qing
+頭車	tou che
+訓咗	xun zuo
+咁正經	gan zheng jing
+唔似樣	wu shi yang
+一字角	yi zi jiao
+屎片	shi pian
+尾油	wei you
+屎皮	shi pi
+唔知喔	wu zhi o
+小欖仔	xiao lan zai
+霸曬	ba shai
+系度	xi du
+牽蝦	qian xia
+呃秤	e cheng
+邊有得玩	bian you de wan
+客仔	ke zai
+數尾	shu wei
+縮骨	suo gu
+冇叫	mao jiao
+發啲	fa di
+唔想咩	wu xiang mie
+滾返黎	gun fan li
+數圍	shu wei
+打死狗講價	da si gou jiang jia
+雞腎衣	ji shen yi
+哩吧啦	li ba la
+到時話我知	dao shi hua wo zhi
+戙起牀板戙企	dong qi chuang ban dong qi
+打櫼	da jian
+幾耐世秋	ji nai shi qiu
+檳榔芋	bin lang yu
+舅母仔	jiu mu zai
+冇解	mao jie
+小心駛得晚年船	xiao xin shi de wan nian chuan
+拋浪頭	pao lang tou
+鍾意	zhong yi
+大嗮	da sai
+唔信啊	wu xin a
+過一排	guo yi pai
+大拿拿	da na na
+花冧	hua lin
+眼定定	yan ding ding
+點知道	dian zhi dao
+無耳藤急靠託	wu er teng ji kao tuo
+你想點就點	ni xiang dian jiu dian
+笑騎騎	xiao qi qi
+山瑞	shan rui
+你信唔信	ni xin wu xin
+入息	ru xi
+阿奇生阿奇奇上加奇	a qi sheng a qi qi shang jia qi
+順得哥情失嫂意	shun de ge qing shi sao yi
+發吽豆	fa hong dou
+一粒色	yi li se
+窿罅	long xia
+奸貓	jian mao
+一抽一掕	yi chou yi ling
+前世唔修	qian shi wu xiu
+唔打	wu da
+一嚿飯	yi huo fan
+唔自在唔精神	wu zi zai wu jing shen
+買唔到	mai wu dao
+系咪本人	xi mi ben ren
+唔系同	wu xi tong
+冇聲氣	mao sheng qi
+米得囖	mi de lo
+油器	you qi
+買唔買	mai wu mai
+無釐神氣	wu li shen qi
+見食	jian shi
+基老	ji lao
+往陣時	wang zhen shi
+見使	jian shi
+幹手溎	gan shou yan
+走鬼	zou gui
+冇交易	mao jiao yi
+羅羅攣	luo luo luan
+拖友	tuo you
+一粒神	yi li shen
+打倒褪	da dao tui
+惡亨亨	e heng heng
+高戙戙	gao dong dong
+某乜啊	mou mie a
+考衰咗	kao shuai zuo
+我幫你睇睇	wo bang ni di di
+唔志在	wu zhi zai
+廚房階磚鹹溼	chu fang jie zhuan xian shi
+虧柴	kui chai
+倒褪	dao tui
+我都系用	wo dou xi yong
+靚爆鏡	jing bao jing
+鼠摸	shu mo
+賣剩蔗	mai sheng zhe
+人地公司	ren di gong si
+大嚿衰	da huo shuai
+想出黎	xiang chu li
+佢講	qu jiang
+拎住	lin zhu
+都系錢	dou xi qian
+唔經唔覺	wu jing wu jue
+米通	mi tong
+點紅點綠	dian hong dian lv
+系就好咯	xi jiu hao ge
+事但	shi dan
+甩青	shuai qing
+蚊赧	wen nan
+開膳	kai shan
+懵居	meng ju
+家空物淨	jia kong wu jing
+大資爺	da zi ye
+慢嚇手	man xia shou
+佢叫	qu jiao
+就喺羅	jiu xi luo
+生雞	sheng ji
+唔聚財	wu ju cai
+第日	di ri
+死仔頭	si zai tou
+依家	yi jia
+第二朝	di er chao
+拿咗未	na zuo wei
+可以咖	ke yi ka
+定喺	ding xi
+耐唔中	nai wu zhong
+報緊名	bao jin ming
+訓咗覺	xun zuo jue
+毛小心	mao xiao xin
+嬲到爆	niao dao bao
+高大衰	gao da shuai
+磅水	bang shui
+喋嗮糖咁款	die sai tang gan kuan
+待薄	dai bao
+距既	ju ji
+米就係咯	mi jiu xi ge
+巢皮眯	chao pi mi
+三六香肉	san liu xiang rou
+吞槍	tun qiang
+翻頭嫁	fan tou jia
+唔阻你	wu zu ni
+我夠知囖	wo gou zhi lo
+爛船都有三分鐵	lan chuan dou you san fen tie
+咁話人	gan hua ren
+蟀子	shuai zi
+風腸	feng chang
+長拉拉	zhang la la
+飯湯	fan tang
+唔知想點	wu zhi xiang dian
+未拉	wei la
+人一世物一世	ren yi shi wu yi shi
+該專	gai zhuan
+聯絡佢	lian luo qu
+咪喺咯	mi xi ge
+等太耐	deng tai nai
+酒埕	jiu cheng
+邊似得你	bian shi de ni
+艾蒙尼亞	ai meng ni ya
+倒米壽星	dao mi shou xing
+爲口奔馳	wei kou ben chi
+玲瓏浮突	ling long fu tu
+門飛	men fei
+幡杆燈籠照遠唔照近	fan gan deng long zhao yuan wu zhao jin
+免至	mian zhi
+攬身攬勢	lan shen lan shi
+士叻	shi le
+撬牆腳	qiao qiang jiao
+景轟	jing hong
+咁自卑	gan zi bei
+免治	mian zhi
+佮佮	ge ge
+風赧	feng nan
+仔大仔世界	zai da zai shi jie
+乜劇	mie ju
+一段仔	yi duan zai
+唔發啦	wu fa la
+付曬	fu shai
+又點吖	you dian ya
+低莊	di zhuang
+批蕩	pi dang
+唔巖	wu yan
+睇唔開	di wu kai
+系嘅話	xi kai hua
+贈慶	zeng qing
+本地狀元	ben di zhuang yuan
+讀唔出	du wu chu
+流離浪蕩	liu li lang dang
+冇料到	mao liao dao
+過水溼腳	guo shui shi jiao
+倒汗水	dao han shui
+去壞	qu huai
+粉角	fen jiao
+後唔後悔	hou wu hou hui
+被竇	bei dou
+冇話	mao hua
+趕咗	gan zuo
+飛機火足燒雲	fei ji huo zu shao yun
+果一頁	guo yi ye
+滾攪	gun jiao
+周不時	zhou bu shi
+爆谷	bao gu
+懶人多屎尿	lan ren duo shi niao
+屎潰	shi kui
+木獨	mu du
+粉蕉	fen jiao
+點都應該	dian dou ying gai
+兩公孫	liang gong sun
+等埋我	deng mai wo
+得把牙	de ba ya
+都喺咁	dou xi gan
+返咯	fan ge
+一支公	yi zhi gong
+狗上瓦桁有條路	gou shang wa heng you tiao lu
+褲歸	ku gui
+面珠墩	mian zhu dun
+好唔好使	hao wu hao shi
+蚊仔	wen zai
+一於	yi yu
+搞搞震	gao gao zhen
+四邑	si yi
+哨牙潲	shao ya shao
+心水清	xin shui qing
+所以話咯	suo yi hua ge
+你感衰價	ni gan shuai jia
+冇相干	mao xiang gan
+覺覺豬	jue jue zhu
+咁好	gan hao
+劈炮	pi pao
+我都好凍	wo dou hao dong
+埋口	mai kou
+得耍嘴皮子	de shua zui pi zi
+嬲爆爆	niao bao bao
+牙軟	ya ruan
+枝竹	zhi zhu
+大粒神	da li shen
+蕩下蕩下	dang xia dang xia
+唔嗲唔吊	wu die wu diao
+火燒豬頭熟口熟面	huo shao zhu tou shu kou shu mian
+傻更	sha geng
+喎妥	wai tuo
+接唔上	jie wu shang
+攣攣蜎蜎	luan luan yuan yuan
+你啲人	ni di ren
+雀局	que ju
+唔畀面	wu bi mian
+唔多	wu duo
+細佬哥剃頭就快就快	xi lao ge ti tou jiu kuai jiu kuai
+拉士	la shi
+打靶鬼	da ba gui
+阿貴買布唔講那筆	a gui mai bu wu jiang na bi
+馬蹄粉	ma ti fen
+越講越衰	yue jiang yue shuai
+冇省起	mao sheng qi
+頸喉	jing hou
+過底紙	guo di zhi
+死得啦	si de la
+唔凍	wu dong
+揮春	hui chun
+火麒麟周身引	huo qi lin zhou shen yin
+執漏	zhi lou
+梯橫	ti heng
+得咁	de gan
+我咪就係	wo mi jiu xi
+念喘	nian chuan
+雙糧	shuang liang
+呢番話	ne fan hua
+下添	xia tian
+得幾好	de ji hao
+有冇搞錯	you mao gao cuo
+密籠	mi long
+父罅罅	fu xia xia
+到喉唔到肺	dao hou wu dao fei
+無釐癮	wu li yin
+頭蒂	tou di
+炙火	zhi huo
+胡胡混混	hu hu hun hun
+肥仔嘜	fei zai ma
+你估系	ni gu xi
+回尾	hui wei
+擔竿	dan gan
+拗心白菜	ao xin bai cai
+餐搵餐食	can wen can shi
+好物沉歸底	hao wu chen gui di
+番薯番薯糖	fan shu fan shu tang
+白頭郎	bai tou lang
+講乜啊	jiang mie a
+死牛一便頸	si niu yi bian jing
+嘁起條筋	qi qi tiao jin
+就嚟	jiu li
+軒芝斯	xuan zhi si
+未睇	wei di
+貨縷羞	huo lv xiu
+影咗	ying zuo
+竄仔	cuan zai
+死賤雞	si jian ji
+後生女	hou sheng nv
+打完機啦	da wan ji la
+舅仔	jiu zai
+青碧碧	qing bi bi
+諗巴	shen ba
+無修	wu xiu
+點會冇	dian hui mao
+死都唔	si dou wu
+做七	zuo qi
+禾稈冚珍珠	he gan kan zhen zhu
+大鑊	da huo
+扎仔粉	zha zai fen
+行路唔帶眼	xing lu wu dai yan
+尋晚	xun wan
+啖又喺	dan you xi
+你諗你	ni shen ni
+買水	mai shui
+中國嘅	zhong guo kai
+飯都未	fan dou wei
+泄埋	xie mai
+空寥寥	kong liao liao
+唔及得	wu ji de
+咁咖啦	gan ka la
+未行過	wei xing guo
+咁你玩	gan ni wan
+去神	qu shen
+做磨心	zuo mo xin
+抖氣	dou qi
+雷射唱機	lei she chang ji
+惗嘅	nie kai
+揸筆	zha bi
+八仙過海各有千秋	ba xian guo hai ge you qian qiu
+人老精鬼老靈	ren lao jing gui lao ling
+買藥食	mai yao shi
+牙屎屎	ya shi shi
+和尚擔遮無法無天	he shang dan zhe wu fa wu tian
+打仔	da zai
+又試	you shi
+飲筒	yin tong
+咁一系	gan yi xi
+行埋一齊	xing mai yi qi
+細食	xi shi
+細時	xi shi
+捱更抵夜	ai geng di ye
+理髮師傅	li fa shi fu
+竟轟	jing hong
+考唔考	kao wu kao
+落答	luo da
+駁艇	bo ting
+昏酡酡	hun tuo tuo
+留意睇	liu yi di
+計仔	ji zai
+拔出黎	ba chu li
+匿埋	ni mai
+問緊佢	wen jin qu
+無得傾	wu de qing
+摳路	kou lu
+阿吱阿咗	a zhi a zuo
+快俾	kuai bi
+咁好乜	gan hao mie
+我都系一樣	wo dou xi yi yang
+硬顏	ying yan
+枕頭袋	zhen tou dai
+扣盅	kou zhong
+漏咗	lou zuo
+搞返個	gao fan ge
+好話爲	hao hua wei
+趕唔切	gan wu qie
+打機咖	da ji ka
+好吧斃乜	hao ba bi mie
+克戟	ke ji
+好唔過	hao wu guo
+有排	you pai
+泥湴	ni ban
+鈀班	ba ban
+你話系就係啦	ni hua xi jiu xi la
+嘅羣	kai qun
+踩低踩臺	cai di cai tai
+寫朱	xie zhu
+財哥仔	cai ge zai
+佢到時	qu dao shi
+初八啓市	chu ba qi shi
+洋燭	yang zhu
+左便	zuo bian
+吹爆	chui bao
+金魚黃	jin yu huang
+使銅銀夾大聲	shi tong yin jia da sheng
+唔清唔楚	wu qing wu chu
+眼凸凸	yan tu tu
+泥普薩過河自身難保	ni pu sa guo he zi shen nan bao
+碎溼溼	sui shi shi
+斜喱眼	xie li yan
+雙貫	shuang guan
+遊離浪蕩	you li lang dang
+發青光	fa qing guang
+個個都系咁	ge ge dou xi gan
+散仔	san zai
+喺啖先	xi dan xian
+正系	zheng xi
+行羋一邊	xing mi yi bian
+手多多	shou duo duo
+巴喳	ba zha
+幾好唱	ji hao chang
+牙屎	ya shi
+唔加油	wu jia you
+中褸	zhong lv
+神仙放屁不同凡響	shen xian fang pi bu tong fan xiang
+唯一嘅	wei yi kai
+幾想知	ji xiang zhi
+睇緊電視	di jin dian shi
+我咁大	wo gan da
+知慳識儉	zhi qian shi jian
+你嘅	ni kai
+三腳貓三九兩丁七	san jiao mao san jiu liang ding qi
+石糯	shi nuo
+糴佢走	di qu zou
+微菌	wei jun
+鑊氣	huo qi
+衫吊	shan diao
+埋櫃	mai gui
+一面屁	yi mian pi
+諗住	shen zhu
+重複咗	zhong fu zuo
+紅鼕鼕	hong dong dong
+櫼頭對腳	jian tou dui jiao
+搵日啦	wen ri la
+手扼	shou e
+唔俾吖	wu bi ya
+黑板仔	hei ban zai
+你唔覺咩	ni wu jue mie
+新抱	xin bao
+收買佬	shou mai lao
+咁未好咯	gan wei hao ge
+慳溼	qian shi
+蔫韌	nian ren
+驚唔驚喜	jing wu jing xi
+捻樣	nian yang
+樽厔盡地	zun zhi jin di
+話嗻	hua zhe
+區丁玉	qu ding yu
+話嗮	hua sai
+啲多	di duo
+屙屎唔出賴地硬	e shi wu chu lai di ying
+撞板鬆人	zhuang ban song ren
+開硬弓	kai ying gong
+上咗	shang zuo
+嘔電	ou dian
+亦都	yi dou
+力行雞	li xing ji
+幾耐	ji nai
+掟煲	zheng bao
+吳嘉驊	wu jia hua
+估嘅	gu kai
+黃朝白晏	huang chao bai yan
+唔系咖	wu xi ka
+唔爭在	wu zheng zai
+拉手仔拉蘇	la shou zai la su
+尖頭佬	jian tou lao
+頂肚	ding du
+佗手褦腳	tuo shou nai jiao
+拼爛	pin lan
+我無吖	wo wu ya
+超速搖搖	chao su yao yao
+麻叻	ma le
+雪豬	xue zhu
+一啲啲	yi di di
+讀歪音	du wai yin
+黃絲蟻	huang si yi
+執二攤	zhi er tan
+阻手阻腳	zu shou zu jiao
+勁臭	jin chou
+亞崩	ya beng
+使唔使咁	shi wu shi gan
+執拾	zhi shi
+來先啦	lai xian la
+批中	pi zhong
+輸咁多	shu gan duo
+七國咁亂	qi guo gan luan
+落班	luo ban
+白菜煮豆腐一清二白	bai cai zhu dou fu yi qing er bai
+講得口響	jiang de kou xiang
+快脆	kuai cui
+食完返	shi wan fan
+好攰	hao gui
+出賣咗你	chu mai zuo ni
+亞奶	ya nai
+有啲人	you di ren
+音櫃	yin gui
+仲話	zhong hua
+抵埗	di bu
+魚壩	yu ba
+食飯先	shi fan xian
+嗱嗱啉	na na lin
+橫惦	heng dian
+籬士	li shi
+呢兩對	ne liang dui
+睇嚟湊	di li cou
+三十六着	san shi liu zhe
+咁喔	gan o
+來唔來	lai wu lai
+霸掗	ba ya
+你入來啦	ni ru lai la
+挑那星	tiao na xing
+周身骨痛	zhou shen gu tong
+粘仔	zhan zai
+企人邊	qi ren bian
+灰寨	hui zhai
+爆火	bao huo
+背脢	bei mei
+有關嘅	you guan kai
+友好度咖	you hao du ka
+齊葺葺	qi qi qi
+光棍佬遇着冇皮柴	guang gun lao yu zhe mao pi chai
+無定性無定準	wu ding xing wu ding zhun
+彈牙	dan ya
+搬咗去	ban zuo qu
+伯爺公	bo ye gong
+面白白	mian bai bai
+入面	ru mian
+知聲	zhi sheng
+短切切	duan qie qie
+打齋	da zhai
+黃泡仔	huang pao zai
+擏住擏住	qing zhu qing zhu
+講佢知	jiang qu zhi
+有冇	you mao
+眼咁咁	yan gan gan
+逢喺	feng xi
+啃親	ken qin
+揸車	zha che
+打掌	da zhang
+啤令	pi ling
+的而且確	de er qie que
+食蓮子羹	shi lian zi geng
+打震	da zhen
+林佐瀚	lin zuo han
+爆大鑊	bao da huo
+無腰骨	wu yao gu
+無膽匪類	wu dan fei lei
+讀成點	du cheng dian
+得嚟	de li
+熟唔熟	shu wu shu
+扮懵	ban meng
+手硬	shou ying
+好簡單咋	hao jian dan za
+搭膊	da bo
+混桔	hun ju
+一頭煙	yi tou yan
+頻倫	pin lun
+卟匿匿	bu ni ni
+第屘	di man
+你呢咖	ni ne ka
+睇中咗	di zhong zuo
+冇癮	mao yin
+對嘅	dui kai
+織針	zhi zhen
+吹吡吡	chui bi bi
+冧巴	lin ba
+急屎	ji shi
+唔覺啵	wu jue bo
+讀咩書	du mie shu
+就喺囉	jiu xi luo
+屎蟲	shi chong
+涼喉糖	liang hou tang
+雙房	shuang fang
+夾手夾腳	jia shou jia jiao
+眼闊肚窄	yan kuo du zhai
+醉酒佬	zui jiu lao
+唔夠氣	wu gou qi
+爛喊	lan han
+聽尼士	ting ni shi
+賣魚佬沖涼冇嗮腥氣	mai yu lao chong liang mao sai xing qi
+好翻	hao fan
+一定嘅	yi ding kai
+階磚	jie zhuan
+其實你係	qi shi ni xi
+感都得	gan dou de
+錯有錯着	cuo you cuo zhe
+黴香鹹魚	mei xiang xian yu
+伯爺婆	bo ye po
+大冷陣	da leng zhen
+蛇喱眼	she li yan
+吊泥艋	diao ni meng
+唔收錢	wu shou qian
+甩毛	shuai mao
+講果時	jiang guo shi
+佢邊	qu bian
+可惱也	ke nao ye
+行下路	xing xia lu
+厴門	yan men
+夾衲	jia na
+烏哩馬岔	wu li ma cha
+呢類人	ne lei ren
+無乜野	wu mie ye
+打水片	da shui pian
+我的老豆是大佬	wo de lao dou shi da lao
+咁嘅意思	gan kai yi si
+你點返	ni dian fan
+宣教文衛辦	xuan jiao wen wei ban
+打水撇	da shui pie
+嘅咋	kai za
+呢件事	ne jian shi
+可唔可靠	ke wu ke kao
+咁大風	gan da feng
+擰轉頭	ning zhuan tou
+半賣	ban mai
+拖肥糖	tuo fei tang
+系咁嘅	xi gan kai
+四通注音符號	si tong zhu yin fu hao
+都系咁講	dou xi gan jiang
+薯下薯下	shu xia shu xia
+理得佢死	li de qu si
+潛烏龜	qian wu gui
+報咗未	bao zuo wei
+熟檔	shu dang
+水鬼人情	shui gui ren qing
+頭歪頭	tou wai tou
+貨仔	huo zai
+吹水唔抹嘴	chui shui wu mo zui
+點不知	dian bu zhi
+人頭涌涌	ren tou yong yong
+索氣	suo qi
+返嚟啦	fan li la
+吊尾吊味	diao wei diao wei
+牛噍牡丹	niu jiao mu dan
+飛機火燭燒雲	fei ji huo zhu shao yun
+亞狗亞貓	ya gou ya mao
+衰到死	shuai dao si
+着衫	zhe shan
+惗緊	nie jin
+錫你	xi ni
+嗌交	ai jiao
+咁都得	gan dou de
+踢返場	ti fan chang
+捻住	nian zhu
+眼唔見爲淨	yan wu jian wei jing
+慌死	huang si
+斜和崗	xie he gang
+你等唔等	ni deng wu deng
+系邊條	xi bian tiao
+俾人坤	bi ren kun
+俾人昆	bi ren kun
+好彩數	hao cai shu
+捉用神	zhuo yong shen
+計正	ji zheng
+肉赤	rou chi
+唔同老師	wu tong lao shi
+大大話話	da da hua hua
+撻沙魚	ta sha yu
+財主佬	cai zhu lao
+全身溼曬	quan shen shi shai
+越黎越似	yue li yue shi
+口碼	kou ma
+花生肉	hua sheng rou
+認住	ren zhu
+仲好早	zhong hao zao
+窮到出汁	qiong dao chu zhi
+撳鷓鴣	qin zhe gu
+我都未知	wo dou wei zhi
+講咗好多次	jiang zuo hao duo ci
+生沙淋	sheng sha lin
+唔整	wu zheng
+軟咗	ruan zuo
+澳門電視臺	ao men dian shi tai
+嘆世界	tan shi jie
+鹽燏	yan yu
+生蟲柺杖靠吳住	sheng chong guai zhang kao wu zhu
+當時得令	dang shi de ling
+講緊價	jiang jin jia
+上五寸下五寸	shang wu cun xia wu cun
+賣魚佬有聲氣	mai yu lao you sheng qi
+林元春	lin yuan chun
+廣東三件寶	guang dong san jian bao
+撞棍	zhuang gun
+差皮	cha pi
+贈閉	zeng bi
+作狀	zuo zhuang
+白鴿眼附旺唔附衰	bai ge yan fu wang wu fu shuai
+鐵沙梨	tie sha li
+陪太子讀書	pei tai zi du shu
+然之後	ran zhi hou
+一齊時	yi qi shi
+冇符	mao fu
+咁又唔同	gan you wu tong
+打霧	da wu
+煙仔	yan zai
+我拿曬	wo na shai
+填咗	tian zuo
+仲講	zhong jiang
+蒸生瓜	zheng sheng gua
+頻撲	pin pu
+老襟	lao jin
+好唔想	hao wu xiang
+我食咗	wo shi zuo
+返唔到來	fan wu dao lai
+重無咁嬲	zhong wu gan niao
+無手尾	wu shou wei
+老階	lao jie
+陰陰溼溼	yin yin shi shi
+陀地	tuo di
+油紙遮	you zhi zhe
+冚鬥	kan dou
+咁都好開	gan dou hao kai
+車唔到	che wu dao
+拉尺	la chi
+過口癮過橋抽板	guo kou yin guo qiao chou ban
+唔精神	wu jing shen
+話咁快	hua gan kuai
+孤釐	gu li
+溼湝	shi jie
+冚賭	kan du
+講咗啦	jiang zuo la
+咁證明	gan zheng ming
+齊黑	qi hei
+稀冧冧	xi lin lin
+話咩	hua mie
+都冇人應	dou mao ren ying
+信瓜	xin gua
+騎樓底	qi lou di
+姍翠斯	shan cui si
+唔見嗮	wu jian sai
+過身	guo shen
+詐詐地	zha zha di
+求其喇	qiu qi la
+發爛渣	fa lan zha
+圓凼	yuan dang
+豬籠入水	zhu long ru shui
+唔恨	wu hen
+屌你媽	diao ni ma
+屌鳩你	diao jiu ni
+起章節附註	qi zhang jie fu zhu
+好睇	hao di
+蛇窟	she ku
+冇運行	mao yun xing
+收檔	shou dang
+唔開胃	wu kai wei
+蛇客	she ke
+飛士	fei shi
+先過咗	xian guo zuo
+衰牌	shuai pai
+手爭	shou zheng
+魚笱	yu gou
+乜說話	mie shuo hua
+冧酒	lin jiu
+繼續睇	ji xu di
+瓦檐獅子叻到滿	wa yan shi zi le dao man
+盲火	mang huo
+唔等使	wu deng shi
+爛市	lan shi
+舂瘟雞	chong wen ji
+肥仔勇	fei zai yong
+把鬼	ba gui
+花手巾	hua shou jin
+做吖	zuo ya
+起鑊	qi huo
+黎咖啦	li ka la
+直筆甩	zhi bi shuai
+添唔添飯	tian wu tian fan
+氹人	dang ren
+撞手神	zhuang shou shen
+米咁早	mi gan zao
+但系	dan xi
+飲咗未	yin zuo wei
+出埋錢	chu mai qian
+大葛樓	da ge lou
+靠害	kao hai
+軟熟	ruan shu
+唔喺掛	wu xi gua
+捉錯用神	zhuo cuo yong shen
+拼撇	pin pie
+唔平衡	wu ping heng
+開講有話	kai jiang you hua
+山大斬埋亦喺柴	shan da zhan mai yi xi chai
+會唔會	hui wu hui
+黴菜	mei cai
+滑蕨	hua jue
+爛食	lan shi
+得個吉	de ge ji
+嚟講	li jiang
+粉槍	fen qiang
+金嘉島	jin jia dao
+幾靚喔	ji jing o
+跳皮	tiao pi
+輕寥寥	qing liao liao
+眼蛇蛇	yan she she
+加風	jia feng
+五百幾蚊	wu bai ji wen
+咁仲得	gan zhong de
+咁咖你	gan ka ni
+咁睇黎	gan di li
+拎埋	lin mai
+高竇	gao dou
+拉臣	la chen
+米復	mi fu
+都系咁	dou xi gan
+返到嚟	fan dao li
+請曬	qing shai
+唔出去	wu chu qu
+都系咁咯	dou xi gan ge
+傳說中嘅	chuan shuo zhong kai
+鏈冚	lian kan
+都乜	dou mie
+單窬牆	dan yu qiang
+惡屎棱登	e shi leng deng
+邊幾款	bian ji kuan
+唔該唔該嗮	wu gai wu gai sai
+打鞋碼	da xie ma
+咁頭咁樣	gan tou gan yang
+怪唔得	guai wu de
+甘串	gan chuan
+牙屎嚟硒	ya shi li xi
+肥廷	fei ting
+火攪米	huo jiao mi
+訓中午覺	xun zhong wu jue
+過氣佬倌	guo qi lao guan
+問唔出	wen wu chu
+屈水	qu shui
+請槍	qing qiang
+中學雞	zhong xue ji
+揀巖	jian yan
+口痕友	kou hen you
+摩登瓜子	mo deng gua zi
+凼女	dang nv
+扮曬野	ban shai ye
+打牙較	da ya jiao
+冚家富貴	kan jia fu gui
+打牙鉸	da ya jiao
+昧水	mei shui
+系網度	xi wang du
+四便	si bian
+楋手唔成勢	la shou wu cheng shi
+賊公	zei gong
+嘮嘈	lao cao
+茶仔	cha zai
+睇住嚟	di zhu li
+睇錯咗	di cuo zuo
+寫咖	xie ka
+秀才手巾包書	xiu cai shou jin bao shu
+鉢櫃	bo gui
+亂嚟	luan li
+氣呵氣喘	qi he qi chuan
+德律風	de lv feng
+鉢仔糕	bo zai gao
+八八卦卦	ba ba gua gua
+賴貓君	lai mao jun
+遲下	chi xia
+遲嚇	chi xia
+甩拖	shuai tuo
+定個臺油	ding ge tai you
+你都早點訓	ni dou zao dian xun
+慳得就慳	qian de jiu qian
+頂檔	ding dang
+生嘅	sheng kai
+卸膊	xie bo
+生嗮	sheng sai
+煲冇米粥	bao mao mi zhou
+將啲	jiang di
+容乜易	rong mie yi
+應該點做	ying gai dian zuo
+沙蟬	sha chan
+麻甩	ma shuai
+論盡	lun jin
+甘耐啦	gan nai la
+好膽	hao dan
+好事黎咖	hao shi li ka
+啥唔到	sha wu dao
+碌柚	lu you
+都唔上線	dou wu shang xian
+醉咗	zui zuo
+吹乜	chui mie
+唔想報	wu xiang bao
+邊似我	bian shi wo
+乾溼褸	qian shi lv
+線絡	xian luo
+林沉	lin chen
+嬲爆	niao bao
+解唔解	jie wu jie
+過基峽	guo ji xia
+迪祖高域	di zu gao yu
+冇錢	mao qian
+跟佬	gen lao
+講乜	jiang mie
+鬆骨	song gu
+難嘅	nan kai
+神咗	shen zuo
+無情白事	wu qing bai shi
+陽臺度	yang tai du
+點話點好	dian hua dian hao
+翻黎	fan li
+無癮	wu yin
+佢個樣	qu ge yang
+翹埋雙腳	qiao mai shuang jiao
+講古仔	jiang gu zai
+飯鏟頭	fan chan tou
+無無端端	wu wu duan duan
+沙膽	sha dan
+神神化化	shen shen hua hua
+禮樂橋	li le qiao
+海都匯	hai dou hui
+基利斯馬	ji li si ma
+五六蚊	wu liu wen
+戌門	xu men
+眼仔碌碌	yan zai lu lu
+唔講住了	wu jiang zhu le
+飛發	fei fa
+訓到覺	xun dao jue
+太監騎馬無得頂	tai jian qi ma wu de ding
+門鉸	men jiao
+你惗好	ni nie hao
+淺窄	qian zhai
+疊埋心水	die mai xin shui
+月亮說	yue liang shuo
+拗腰	ao yao
+黃瓜酸	huang gua suan
+黃面婆	huang mian po
+睇到一半	di dao yi ban
+膊頭高過耳	bo tou gao guo er
+你地	ni di
+嚤佗	mo tuo
+你報唔報	ni bao wu bao
+鈕活鈕釦	niu huo niu kou
+亂唔亂	luan wu luan
+企歪啲	qi wai di
+你都喺姐	ni dou xi jie
+黑古勒特	hei gu lei te
+餐廳仔	can ting zai
+有乜特產	you mie te chan
+威化餅	wei hua bing
+垃雜	la za
+一字咁淺	yi zi gan qian
+色司	se si
+咁想響	gan xiang xiang
+拍手掌	pai shou zhang
+織蟀	zhi shuai
+偈油	ji you
+色水	se shui
+留埋言	liu mai yan
+過基甲	guo ji jia
+裝香	zhuang xiang
+乜公司	mie gong si
+周身屎	zhou shen shi
+唔近視	wu jin shi
+趕返黎	gan fan li
+食左飯未	shi zuo fan wei
+甘都得	gan dou de
+認識咗	ren shi zuo
+讀破字膽	du po zi dan
+咪一樣	mi yi yang
+風頭火勢	feng tou huo shi
+情人仔	qing ren zai
+咁多本	gan duo ben
+星君仔	xing jun zai
+拗胡婆	ao hu po
+火鵝	huo e
+觸蟮	chu shan
+天時旱	tian shi han
+吖嗱	ya na
+頭暈身慶	tou yun shen qing
+實枳枳	shi zhi zhi
+五花腩	wu hua nan
+水兵對水手水斗水	shui bing dui shui shou shui dou shui
+冇膽	mao dan
+涯愛儀	ya ai yi
+人地又	ren di you
+過嚟	guo li
+俾我	bi wo
+撞火	zhuang huo
+好心你	hao xin ni
+聽話仔	ting hua zai
+漏罅	lou xia
+也文也武	ye wen ye wu
+睡目咯	shui mu ge
+摳亂	kou luan
+冇得	mao de
+企理	qi li
+墨七	mo qi
+咁謙	gan qian
+探老人	tan lao ren
+油湝	you jie
+唔洗掛	wu xi gua
+萬大有我	wan da you wo
+吟沉	yin chen
+唔好手腳	wu hao shou jiao
+咁淺	gan qian
+指代人物	zhi dai ren wu
+冇用咖	mao yong ka
+手指模	shou zhi mo
+死死氣	si si qi
+烏喱馬杈	wu li ma cha
+神主牌都會喐	shen zhu pai dou hui yu
+死妹釘	si mei ding
+一凹一凸	yi ao yi tu
+體下點先	ti xia dian xian
+系啩	xi gua
+笠高帽	li gao mao
+屈蛇	qu she
+十劃都未有一撇	shi hua dou wei you yi pie
+唔夾	wu jia
+幹鯁鯁	gan geng geng
+撈靜水	lao jing shui
+山埃	shan ai
+訓唔訓得着	xun wu xun de zhe
+同佢	tong qu
+精甩辮	jing shuai bian
+收嗲	shou die
+拉牛上樹	la niu shang shu
+咁你有咩	gan ni you mie
+魚癯	yu qu
+甚至無	shen zhi wu
+客家佔地主	ke jia zhan di zhu
+念口黃	nian kou huang
+面懵心精	mian meng xin jing
+走寶	zou bao
+打乜球	da mie qiu
+無耳性	wu er xing
+我影咗	wo ying zuo
+可憐嘅	ke lian kai
+去食早餐	qu shi zao can
+囉攣	luo luan
+威士鹹	wei shi xian
+眼眉跳	yan mei tiao
+都話唔系咯	dou hua wu xi ge
+朱油	zhu you
+冇頭冇尾	mao tou mao wei
+餐搵	can wen
+冇搭霎	mao da sha
+得滯	de zhi
+波子	bo zi
+返咗去	fan zuo qu
+溼滯	shi zhi
+手作	shou zuo
+得到咗	de dao zuo
+從化仔	cong hua zai
+我幾好	wo ji hao
+咁鬼凍	gan gui dong
+無曬意思	wu shai yi si
+拉勻	la yun
+蛋筒	dan tong
+無料到	wu liao dao
+訓唔着	xun wu zhe
+時嘜	shi ma
+划艇仔	hua ting zai
+一見到佢	yi jian dao qu
+砂煲兄弟	sha bao xiong di
+溝據	gou ju
+火麒麟周身癮	huo qi lin zhou shen yin
+冇咁早	mao gan zao
+唔想返	wu xiang fan
+攝石	she shi
+嘈乜鬼	cao mie gui
+改唔到	gai wu dao
+果佔	guo zhan
+羣埋	qun mai
+佢地	qu di
+好返啲	hao fan di
+玩咗	wan zuo
+米去咯	mi qu ge
+無眼睇	wu yan di
+諗頭	shen tou
+番薯糖水	fan shu tang shui
+叫住先	jiao zhu xian
+嚾藛	huan xie
+啲啲多	di di duo
+睇野	di ye
+士啤呔	shi pi dai
+越食越餓	yue shi yue e
+唔怕嘅	wu pa kai
+貼琿春	tie hun chun
+打理你	da li ni
+兜路行	dou lu xing
+做緊也	zuo jin ye
+牙齒當金使	ya chi dang jin shi
+咁大火	gan da huo
+搵老襯	wen lao chen
+七除八扣	qi chu ba kou
+搞日大瞎	gao ri da xia
+揸二攤	zha er tan
+都叫佢	dou jiao qu
+使橫手	shi heng shou
+唔理天胎	wu li tian tai
+亂嗮坑	luan sai keng
+過咗關	guo zuo guan
+乾手淨腳	qian shou jing jiao
+咁感性	gan gan xing
+幾抵買	ji di mai
+阿崩養貓轉性	a beng yang mao zhuan xing
+南無佬	nan wu lao
+飲醉	yin zui
+唔喺啊	wu xi a
+無聊到你	wu liao dao ni
+面紅紅	mian hong hong
+脷刮	li gua
+誓願當食生菜	shi yuan dang shi sheng cai
+跳跳扎扎	tiao tiao zha zha
+甫士咭	fu shi ji
+輸蝕	shu shi
+知道愛	zhi dao ai
+歪烏連	wai wu lian
+未有咁快住	wei you gan kuai zhu
+心肝碇	xin gan ding
+污糟	wu zao
+搞唔清楚	gao wu qing chu
+衰到貼地	shuai dao tie di
+無嗮	wu sai
+着襪	zhe wa
+滑捋捋	hua lv lv
+漏口	lou kou
+話唔到事	hua wu dao shi
+搵下	wen xia
+地塘	di tang
+大安旨意	da an zhi yi
+撳住頭	qin zhu tou
+銀棯	yin ren
+至系	zhi xi
+谷古	gu gu
+過大海	guo da hai
+一舊雲	yi jiu yun
+見唔到	jian wu dao
+重重沓沓	chong chong da da
+詐戇	zha zhuang
+伏匿匿	fu ni ni
+舂舂米公	chong chong mi gong
+落妝落足	luo zhuang luo zu
+喐手喐腳	yu shou yu jiao
+咩都唔想做	mie dou wu xiang zuo
+食屎食着豆	shi shi shi zhe dou
+十足十	shi zu shi
+站系	zhan xi
+爆曬棚	bao shai peng
+咪媽爛臭	mi ma lan chou
+出黎行	chu li xing
+有冤無路訴	you yuan wu lu su
+隨得	sui de
+撲你個街	pu ni ge jie
+清補涼	qing bu liang
+唔肯出	wu ken chu
+嘈交	cao jiao
+火起	huo qi
+犯衆憎飯鏟頭	fan zhong zeng fan chan tou
+手指罅疏	shou zhi xia shu
+肥仔米	fei zai mi
+腳趾罅	jiao zhi xia
+牛唔飲水唔撳得牛頭低	niu wu yin shui wu qin de niu tou di
+着草	zhe cao
+瓦罉	wa cheng
+娘管	niang guan
+有咖	you ka
+喺咁先	xi gan xian
+真開	zhen kai
+夠唔夠	gou wu gou
+唔想出去	wu xiang chu qu
+點會嗟	dian hui jie
+爛船都有三斤釘	lan chuan dou you san jin ding
+攤直	tan zhi
+都唔見你上	dou wu jian ni shang
+系甘意	xi gan yi
+食唔落	shi wu luo
+咁優秀	gan you xiu
+烏卒卒	wu zu zu
+亞媽	ya ma
+蔥度	cong du
+有理無理	you li wu li
+摩晞	mo xi
+齊緝緝	qi ji ji
+新屍蘿蔔皮新地	xin shi luo bo pi xin di
+坐定粒六	zuo ding li liu
+過咗	guo zuo
+打埋	da mai
+翻風	fan feng
+冇耳茶煲得把嘴	mao er cha bao de ba zui
+直程	zhi cheng
+有寫住	you xie zhu
+懶佬椅	lan lao yi
+除左	chu zuo
+人咁多	ren gan duo
+埋嚟	mai li
+是咁啦	shi gan la
+拖手仔	tuo shou zai
+倒拗	dao ao
+嘁起	qi qi
+飛冰	fei bing
+你都傻嘅	ni dou sha kai
+手瓜硬	shou gua ying
+聽過隔籬	ting guo ge li
+喺啵	xi bo
+醒胃	xing wei
+買走咗	mai zou zuo
+摞錢	luo qian
+屎坑關刀無張利	shi keng guan dao wu zhang li
+碎吟吟	sui yin yin
+喺嘞	xi lei
+系唔系玩	xi wu xi wan
+點惗	dian nie
+嗌佢去	ai qu qu
+一碌木	yi lu mu
+埋囄	mai li
+身邊嘅人	shen bian kai ren
+駕步	jia bu
+槓架	gang jia
+得人驚	de ren jing
+獨家試菜	du jia shi cai
+禾稈	he gan
+神又你鬼又你	shen you ni gui you ni
+急尿	ji niao
+咁慘	gan can
+一雞	yi ji
+做醜人	zuo chou ren
+走公產	zou gong chan
+黃牙白	huang ya bai
+搞住你	gao zhu ni
+黑狗得食白狗當災	hei gou de shi bai gou dang zai
+煎碓	jian dui
+唔抵得佢	wu di de qu
+琴晚	qin wan
+一人行喊窄霸道	yi ren xing han zhai ba dao
+精神爽利整	jing shen shuang li zheng
+唔選擇	wu xuan ze
+挨年近晚	ai nian jin wan
+竄女	cuan nv
+蠟靚	la jing
+拉姨	la yi
+豆拎	dou lin
+球檯球	qiu tai qiu
+光鴨	guang ya
+邊個話架	bian ge hua jia
+中意你	zhong yi ni
+急得滯	ji de zhi
+都唔睬	dou wu cai
+搏盡	bo jin
+醜頸	chou jing
+包蘿	bao luo
+發生嘅事	fa sheng kai shi
+似你啊	shi ni a
+太子爺	tai zi ye
+全部換曬	quan bu huan shai
+墳前燒報紙呃鬼	fen qian shao bao zhi e gui
+埋席	mai xi
+認屎認屁	ren shi ren pi
+似似地	shi shi di
+一轆木	yi lu mu
+呃鬼	e gui
+系咁啦	xi gan la
+蘋果批	ping guo pi
+訓住覺	xun zhu jue
+出黎先	chu li xian
+俾返	bi fan
+札馬	zha ma
+呢套戲	ne tao xi
+有幾遲	you ji chi
+我煲緊	wo bao jin
+畫公仔畫出腸	hua gong zai hua chu chang
+個心嗱住	ge xin na zhu
+口花花	kou hua hua
+乜東東	mie dong dong
+死牛一邊頸	si niu yi bian jing
+刻唔到	ke wu dao
+執頭執尾	zhi tou zhi wei
+大喊十	da han shi
+蟹爪筆	xie zhao bi
+好好睇睇	hao hao di di
+起痰	qi tan
+喺啊嘛	xi a ma
+話之他	hua zhi ta
+先好買	xian hao mai
+趣趣地	qu qu di
+砣表	tuo biao
+愛嘅人	ai kai ren
+有咁	you gan
+死雞撐硬腳	si ji cheng ying jiao
+呢條女	ne tiao nv
+企起	qi qi
+眼毛	yan mao
+去死啦	qu si la
+南洋伯	nan yang bo
+趕牛的呼喊	gan niu de hu han
+巖巖好	yan yan hao
+怕蚊水	pa wen shui
+同屋主	tong wu zhu
+涼茶涼菓	liang cha liang guo
+念計	nian ji
+唔拘	wu ju
+師姐仔	shi jie zai
+打昂	da ang
+腳趾公	jiao zhi gong
+哈棚人	ha peng ren
+咁你講啦	gan ni jiang la
+有蟻	you yi
+但佢地	dan qu di
+揸拿	zha na
+眼蒙	yan meng
+佢負責	qu fu ze
+慄米	li mi
+極之	ji zhi
+定系	ding xi
+小鬼陞城隍	xiao gui sheng cheng huang
+口脣膏	kou chun gao
+燒冷竈	shao leng zao
+仲有捏	zhong you nie
+冇有怕	mao you pa
+想玩乜	xiang wan mie
+駁艔	bo dao
+我屌你	wo diao ni
+成身大汗	cheng shen da han
+有碗話碗有碟話碟	you wan hua wan you die hua die
+惡摀	e wu
+嗮料啦	sai liao la
+佢似	qu shi
+馬騮精	ma liu jing
+諗下	shen xia
+懷奧蓮	huai ao lian
+露膊	lu bo
+攝鐵	she tie
+你咁都得	ni gan dou de
+溼納納	shi na na
+肇慶咯	zhao qing ge
+粗口爛舌	cu kou lan she
+雞皮紙	ji pi zhi
+曚曚光	meng meng guang
+你老屎	ni lao shi
+咁嘅啦	gan kai la
+裝彈弓	zhuang dan gong
+甩身	shuai shen
+埋手打三更	mai shou da san geng
+總唔會	zong wu hui
+冇時間	mao shi jian
+好便	hao bian
+幹事仔	gan shi zai
+啶喺	ding xi
+打醒精神	da xing jing shen
+專登	zhuan deng
+招唔到	zhao wu dao
+咁多啊	gan duo a
+有便宜唔使頸	you pian yi wu shi jing
+碌地沙	lu di sha
+楊梅灘	yang mei tan
+磅龍	bang long
+摀震	wu zhen
+調返黎	diao fan li
+慳散子	qian san zi
+溝到仔	gou dao zai
+衫腳	shan jiao
+牙煙	ya yan
+佢仲	qu zhong
+過年過節	guo nian guo jie
+無嗮表情無嗮符	wu sai biao qing wu sai fu
+丟疏	diu shu
+屋家	wu jia
+吃口吃舌	chi kou chi she
+你夠系咯	ni gou xi ge
+四方辮頂	si fang bian ding
+唔阻你啦	wu zu ni la
+咖喱仔	ga li zai
+至無至話	zhi wu zhi hua
+朝早	chao zao
+幾日嗟	ji ri jie
+布甸	bu dian
+見飯見功	jian fan jian gong
+劏死牛	tang si niu
+結咗婚	jie zuo hun
+食屎大	shi shi da
+信肉	xin rou
+你呢排	ni ne pai
+打通咗	da tong zuo
+擒青	qin qing
+管佢	guan qu
+唔聽話	wu ting hua
+懶佬鞋	lan lao xie
+燕梳	yan shu
+生冷降	sheng leng jiang
+演唱會飛	yan chang hui fei
+醜死鬼	chou si gui
+隔離鄰舍	ge li lin she
+刮佢出嚟	gua qu chu li
+公仔麪	gong zai mian
+發生乜事	fa sheng mie shi
+冇根蔸	mao gen dou
+笑口棗	xiao kou zao
+諳得姿這樣	an de zi zhe yang
+三元宮土地錫身	san yuan gong tu di xi shen
+白頭仔	bai tou zai
+大碌竹	da lu zhu
+奶式	nai shi
+死擂	si lei
+細佬哥頭	xi lao ge tou
+鮮菇冧	xian gu lin
+緝蛇	ji she
+還唔還	hai wu hai
+嚟神	li shen
+黃禽禽	huang qin qin
+脈雞呀	mai ji ya
+鬼咁凍	gui gan dong
+當衰	dang shuai
+好心着雷劈	hao xin zhe lei pi
+狗公	gou gong
+隔離飯香	ge li fan xiang
+頂硬上	ding ying shang
+熟性	shu xing
+熟行	shu xing
+慳返	qian fan
+話之佢	hua zhi qu
+爛佬	lan lao
+唔系咁講	wu xi gan jiang
+行咗去	xing zuo qu
+三更出世害死人	san geng chu shi hai si ren
+一搵到	yi wen dao
+貓兒洗面喺咁意	mao er xi mian xi gan yi
+冇尾飛堶	mao wei fei tuo
+受咗	shou zuo
+的斜	de xie
+光黑	guang hei
+咁你搵	gan ni wen
+無度數	wu du shu
+唔再去	wu zai qu
+表姐仔	biao jie zai
+衡嗮	heng sai
+冇人嘅	mao ren kai
+狗尾粟	gou wei su
+喧關	xuan guan
+十問九唔應	shi wen jiu wu ying
+回南	hui nan
+老蚊公	lao wen gong
+剁樹	duo shu
+負唔負責	fu wu fu ze
+煙縮縮	yan suo suo
+戥穿石	deng chuan shi
+開緊工	kai jin gong
+又唔系	you wu xi
+頭耷耷	tou da da
+針無兩頭利	zhen wu liang tou li
+咁早返	gan zao fan
+擏惜	qing xi
+超越咗	chao yue zuo
+甘靚	gan jing
+食篩	shi shai
+食曬	shi shai
+屌七你	diao qi ni
+我唔肯定	wo wu ken ding
+圓咗	yuan zuo
+兩日咋	liang ri za
+豬潤	zhu run
+老積	lao ji
+馬騮升官唔喺人咁品	ma liu sheng guan wu xi ren gan pin
+冇度數	mao du shu
+馬騮幹	ma liu gan
+冧篷頭	lin peng tou
+屘屘屎	man man shi
+茶煲	cha bao
+喐乜喐	yu mie yu
+搵工咯	wen gong ge
+揸旗	zha qi
+一僕一碌	yi pu yi lu
+煮重米	zhu zhong mi
+打完齋唔要和尚	da wan zhai wu yao he shang
+留意咗	liu yi zuo
+潮州二胡自己顧自己	chao zhou er hu zi ji gu zi ji
+呢排	ne pai
+甘勁	gan jin
+返番禺	fan pan yu
+南華李	nan hua li
+講飲講食	jiang yin jiang shi
+喺邊到	xi bian dao
+返學	fan xue
+出晤出去	chu wu chu qu
+乜都有	mie dou you
+做瓜	zuo gua
+行差搭錯	xing cha da cuo
+把炮	ba pao
+死得未	si de wei
+蝦膠	xia jiao
+返嘅	fan kai
+縮埋一字角	suo mai yi zi jiao
+茶居	cha ju
+滑脫脫	hua tuo tuo
+探熱針	tan re zhen
+陳年中草藥發爛渣	chen nian zhong cao yao fa lan zha
+乜天氣	mie tian qi
+埋曬	mai shai
+型啲	xing di
+而家	er jia
+蟹弶	xie jiang
+飛發佬	fei fa lao
+喺啖意	xi dan yi
+亞叔	ya shu
+行行企企	xing xing qi qi
+大癲大廢	da dian da fei
+咁啊	gan a
+黎真	li zhen
+貪得意	tan de yi
+光光猛猛	guang guang meng meng
+二撇雞	er pie ji
+頂趾鞋頂證	ding zhi xie ding zheng
+霎戇霎時	sha zhuang sha shi
+拉咗	la zuo
+飯焦	fan jiao
+都未決定	dou wei jue ding
+鬥負氣	dou fu qi
+鳩屎	jiu shi
+唔是幾好	wu shi ji hao
+陸軍裝	lu jun zhuang
+行咁	xing gan
+懶理	lan li
+銀腳帶	yin jiao dai
+冇料	mao liao
+老鼠拉龜冇訂埋手	lao shu la gui mao ding mai shou
+無鞋着	wu xie zhe
+外便	wai bian
+識唔識	shi wu shi
+田雞過河各有各蹬	tian ji guo he ge you ge deng
+賴貓	lai mao
+識唔使	shi wu shi
+兩睇	liang di
+你又話去	ni you hua qu
+被鋪蚊帳	bei pu wen zhang
+梗喺	geng xi
+駁古駁輪	bo gu bo lun
+做緊人	zuo jin ren
+菲士	fei shi
+返尋味	fan xun wei
+些釐酒	xie li jiu
+講野	jiang ye
+又系嘅	you xi kai
+就咁睇	jiu gan di
+高腳寮刁	gao jiao liao diao
+梗巖	geng yan
+無釐搭霎	wu li da sha
+系邊處	xi bian chu
+厾穿個窿	du chuan ge long
+你唔繫好	ni wu xi hao
+系都要	xi dou yao
+除褲放屁多此一舉	chu ku fang pi duo ci yi ju
+傾偈	qing ji
+零舍零星落索	ling she ling xing luo suo
+光脫脫	guang tuo tuo
+背手影	bei shou ying
+唔使慌	wu shi huang
+傳唔傳	chuan wu chuan
+坑渠	keng qu
+起勢咁	qi shi gan
+一齊睇	yi qi di
+冇咁嚴重	mao gan yan zhong
+毫紙	hao zhi
+你好叻乜	ni hao le mie
+契仔	qi zai
+三分顏色上大紅	san fen yan se shang da hong
+對歲	dui sui
+撳電掣	qin dian che
+等到佢	deng dao qu
+訓下	xun xia
+系唔系	xi wu xi
+膽粗	dan cu
+睇雨	di yu
+星君	xing jun
+影婚紗相	ying hun sha xiang
+唔繫好清	wu xi hao qing
+放佢飛機	fang qu fei ji
+喺邊	xi bian
+未食飽	wei shi bao
+唔戲睇	wu xi di
+亞茂	ya mao
+苦麥	ku mai
+仲以爲	zhong yi wei
+蛇頭鼠腦	she tou shu nao
+搭食	da shi
+掅起	qing qi
+買咗對鞋	mai zuo dui xie
+陰聲細氣	yin sheng xi qi
+辭咗工	ci zuo gong
+修遊	xiu you
+乜哩價	mie li jia
+瘦骨仙	shou gu xian
+仲喺	zhong xi
+調啦	diao la
+教佢地	jiao qu di
+牛草肚	niu cao du
+乒鈴	ping ling
+卜卜齋	bo bo zhai
+大地魚	da di yu
+生埗	sheng bu
+倒數緊	dao shu jin
+行咁遠	xing gan yuan
+返潮話梅又鹹又溼	fan chao hua mei you xian you shi
+一吤吤	yi jie jie
+口疏	kou shu
+仲有	zhong you
+我喺	wo xi
+掂檔	dian dang
+你睇咗	ni di zuo
+我嘅	wo kai
+米機米骨	mi ji mi gu
+銻煲	ti bao
+聯亂咁舂	lian luan gan chong
+早一排	zao yi pai
+傾下咯	qing xia ge
+做野	zuo ye
+湊蹺	cou qiao
+食左	shi zuo
+大隻佬	da zhi lao
+一氽水	yi tun shui
+似層層	shi ceng ceng
+我都唔想知	wo dou wu xiang zhi
+丫角髻	ya jiao ji
+系噶	xi ga
+清撈寡水	qing lao gua shui
+喺米真伽	xi mi zhen ga
+仲未	zhong wei
+着咩衫	zhe mie shan
+乜樹	mie shu
+猜呈沈	cai cheng shen
+嶽高頭	yue gao tou
+嗮錢	sai qian
+譖氣	zen qi
+坤人	kun ren
+髮腳	fa jiao
+都唔繫好清楚	dou wu xi hao qing chu
+老實威	lao shi wei
+有機會嘅	you ji hui kai
+戲飛	xi fei
+開緊機	kai jin ji
+幫託	bang tuo
+趕喉趕命	gan hou gan ming
+睇化	di hua
+畀你	bi ni
+成個班	cheng ge ban
+真系矛盾	zhen xi mao dun
+只死仔還在	zhi si zai hai zai
+鹹龍	xian long
+餓過飢	e guo ji
+吹下吹下	chui xia chui xia
+水螆	shui ci
+本嚟	ben li
+打個冷	da ge leng
+有沒搵	you mei wen
+好嚤	hao mo
+企喺度	qi xi du
+死嘮仔	si lao zai
+領呔	ling dai
+摺傘	zhe san
+某怪你	mou guai ni
+國家打比	guo jia da bi
+黎果喔	li guo o
+可能嗟	ke neng jie
+顛嘅	dian kai
+衰格	shuai ge
+個男嘅	ge nan kai
+咁得閒	gan de xian
+碟飯	die fan
+傻豬哩價	sha zhu li jia
+你做緊咩呀	ni zuo jin mie ya
+隔離屋	ge li wu
+都唔打算	dou wu da suan
+三尖八角	san jian ba jiao
+都系佢	dou xi qu
+邊有姐	bian you jie
+系真嘅	xi zhen kai
+走白地	zou bai di
+扳着臉	ban zhe lian
+巢咪媽錳	chao mi ma meng
+肥婆坐屎塔撼	fei po zuo shi ta han
+架世	jia shi
+唔忍心	wu ren xin
+下欄	xia lan
+你悶唔悶	ni men wu men
+咁咪得咯	gan mi de ge
+影相機	ying xiang ji
+口痕	kou hen
+嚟唔嚟	li wu li
+短命種	duan ming zhong
+唔仲意	wu zhong yi
+變咗形	bian zuo xing
+撈邊行	lao bian xing
+咁都	gan dou
+老同	lao tong
+你咪理	ni mi li
+甜竹	tian zhu
+睇返	di fan
+好凍咩	hao dong mie
+波衫	bo shan
+標青	biao qing
+收返曬	shou fan shai
+下半晝	xia ban zhou
+反屌	fan diao
+心喐喐	xin yu yu
+鹹赧赧	xian nan nan
+咁咖意思	gan ka yi si
+丟眼角	diu yan jiao
+臨返學	lin fan xue
+大花筒	da hua tong
+跳樓貨	tiao lou huo
+扎炮	zha pao
+行人路	xing ren lu
+俾啦	bi la
+呢三樣	ne san yang
+雞啄唔斷	ji zhuo wu duan
+懵盛盛	meng sheng sheng
+對於你黎講	dui yu ni li jiang
+囉氣	luo qi
+無漏罅	wu lou xia
+損手爛腳	sun shou lan jiao
+口水肩	kou shui jian
+白鼻哥	bai bi ge
+烏襤苟褸	wu lan gou lv
+椰衣	ye yi
+黃粟	huang su
+做左	zuo zuo
+唔明白	wu ming bai
+你話事	ni hua shi
+屌你老帽	diao ni lao mao
+粵語拼音	yue yu pin yin
+牙肉	ya rou
+紫沙子	zi sha zi
+大懵	da meng
+未訓	wei xun
+雞毛掃	ji mao sao
+諗巴溫	shen ba wen
+雞手鴨腳	ji shou ya jiao
+詐諦	zha di
+拆骨	chai gu
+雪褸	xue lv
+夜麻麻	ye ma ma
+落貼	luo tie
+燈油火蠟	deng you huo la
+暗暗沉沉	an an chen chen
+元肉	yuan rou
+咁你以前	gan ni yi qian
+罌告	ying gao
+威也	wei ye
+玉糠	yu kang
+風水佬	feng shui lao
+食晏	shi yan
+伯耶婆	bo ye po
+呢兩樣	ne liang yang
+碌蕉	lu jiao
+大茶飯	da cha fan
+笠衫	li shan
+幾難明	ji nan ming
+有黑人	you hei ren
+唔臭鍟	wu chou sheng
+唔傾咯	wu qing ge
+奸賴貓	jian lai mao
+保你大	bao ni da
+唔遲唔早	wu chi wu zao
+睬唔睬	cai wu cai
+篩篩	shai shai
+羞家	xiu jia
+睡倒蒼	shui dao cang
+驚都未驚過	jing dou wei jing guo
+竈頭抹布鹹溼	zao tou ma bu xian shi
+乜都假	mie dou jia
+篩身	shai shen
+色士風	se shi feng
+大食懶	da shi lan
+咕哩	gu li
+騸雞	shan ji
+又變咗	you bian zuo
+咁少	gan shao
+寫包單	xie bao dan
+咩黎咖	mie li ka
+唔喺手腳	wu xi shou jiao
+開唔到	kai wu dao
+過意唔去	guo yi wu qu
+鳩鳩死	jiu jiu si
+邊春個	bian chun ge
+粵語白話文	yue yu bai hua wen
+嘈生嗮	cao sheng sai
+蠶蟲	can chong
+落足嘴頭	luo zu zui tou
+咩專業	mie zhuan ye
+濱江花市	bin jiang hua shi
+卡罅	ka xia
+條脷嚡	tiao li hai
+飛來蜢	fei lai meng
+鳳梨蓋	feng li gai
+哪往	na wang
+山棯	shan ren
+鹹欖煲茶白欖冇得解	xian lan bao cha bai lan mao de jie
+巖巖帋	yan yan zhi
+瘟瘟沌沌	wen wen dun dun
+有野睇	you ye di
+金埕	jin cheng
+返黎咯	fan li ge
+空籠	kong long
+我係埋	wo xi mai
+最終都系	zui zhong dou xi
+講真咖	jiang zhen ka
+咁抽象	gan chou xiang
+咁咯喔	gan ge o
+有寶	you bao
+過返去	guo fan qu
+系咯系咯	xi ge xi ge
+水瓜打狗唔見緊桷	shui gua da gou wu jian jin jue
+攻鼻	gong bi
+好好聽噶	hao hao ting ga
+你老尾	ni lao wei
+執籌	zhi chou
+拍得住	pai de zhu
+戲橋	xi qiao
+唔出來	wu chu lai
+屈頭雞	qu tou ji
+話實	hua shi
+烏喱單刀	wu li dan dao
+睇來	di lai
+咁梗系啦	gan geng xi la
+呢部機	ne bu ji
+新年流流	xin nian liu liu
+尖筆甩	jian bi shuai
+眼訓	yan xun
+我噶目標	wo ga mu biao
+賣風	mai feng
+爛打	lan da
+鐸叔	duo shu
+狗毛蟲	gou mao chong
+喊啖口	han dan kou
+好聽嘅	hao ting kai
+精出骨	jing chu gu
+諗計	shen ji
+黎買	li mai
+蒜子肉	suan zi rou
+櫼隊	jian dui
+咁低能	gan di neng
+蕉積	jiao ji
+鈴鈴都掉埋	ling ling dou diao mai
+訓番覺	xun fan jue
+講咗個	jiang zuo ge
+睇黎	di li
+爛笪笪	lan da da
+爲乜	wei mie
+扼手	e shou
+無問題咯	wu wen ti ge
+開學啦	kai xue la
+苦瓜咁嘅面	ku gua gan kai mian
+乜嚟嘎	mie li ga
+砂煲	sha bao
+勁啦	jin la
+睇錢份上	di qian fen shang
+下星期返	xia xing qi fan
+睄佢幾眼	shao qu ji yan
+消滯	xiao zhi
+約好咗	yue hao zuo
+司前口音	si qian kou yin
+鷣鷣婆	yin yin po
+錐仔	zhui zai
+細路仔	xi lu zai
+無尾飛堶	wu wei fei tuo
+伊麪	yi mian
+唔相干	wu xiang gan
+叱頭	chi tou
+精埋一便	jing mai yi bian
+烏龍王	wu long wang
+臺臺櫈櫈	tai tai deng deng
+得唔得閒	de wu de xian
+夾硬	jia ying
+買飛	mai fei
+咁我買	gan wo mai
+發瘟	fa wen
+手尾手眼	shou wei shou yan
+千祈	qian qi
+啉死人啦	lin si ren la
+花令紙	hua ling zhi
+訓王	xun wang
+明白嘅	ming bai kai
+心實	xin shi
+機會好微	ji hui hao wei
+花弗	hua fu
+豬脷	zhu li
+雞閹	ji yan
+牀底破柴撞嗮大板	chuang di po chai zhuang sai da ban
+系掛	xi gua
+死撲街	si pu jie
+神臺桔陰乾	shen tai ju yin qian
+計帶	ji dai
+得咗	de zuo
+返學啦	fan xue la
+無嗱嗱	wu na na
+搵你	wen ni
+斟盤	zhen pan
+禾叉髀	he cha bi
+番薯跌落竈該煨	fan shu die luo zao gai wei
+浪口洗面	lang kou xi mian
+睇唔完	di wu wan
+劉惠雲	liu hui yun
+謝慧儀	xie hui yi
+陀陀擰	tuo tuo ning
+天光大白	tian guang da bai
+似你多	shi ni duo
+咪咁	mi gan
+投石落屎坑激起公憤	tou shi luo shi keng ji qi gong fen
+真繫好愛你	zhen xi hao ai ni
+唔同房	wu tong fang
+啲人話	di ren hua
+入嚟	ru li
+唔定	wu ding
+攝電	she dian
+上便	shang bian
+囃穱樣	ca zhuo yang
+伯爺	bo ye
+哎吔	ai ye
+大位事	da wei shi
+塞入去	sai ru qu
+搵仔	wen zai
+薯頭	shu tou
+班馬	ban ma
+爛溶溶	lan rong rong
+心大心細	xin da xin xi
+兵兵波	bing bing bo
+咪搞我	mi gao wo
+訓低	xun di
+嗮棚	sai peng
+騎呢	qi ne
+用曬	yong shai
+撞冧	zhuang lin
+落膈	luo ge
+扯線	che xian
+眼光光	yan guang guang
+死人燈籠報大數	si ren deng long bao da shu
+講人事	jiang ren shi
+龍舟水	long zhou shui
+窄摀	zhai wu
+吳得閒磨	wu de xian mo
+花哩胡碌	hua li hu lu
+撲飛	pu fei
+盼谷	pan gu
+俾你蝦	bi ni xia
+倒掛臘鴨油嘴滑舌	dao gua la ya you zui hua she
+死死地氣	si si di qi
+新鮮滾熱辣	xin xian gun re la
+扯蝦	che xia
+人唔出	ren wu chu
+手指拗出唔拗入	shou zhi ao chu wu ao ru
+江坑	jiang keng
+打機無	da ji wu
+流馬尿	liu ma niao
+甘好	gan hao
+揸手	zha shou
+白霍	bai huo
+透大氣	tou da qi
+大吉利事	da ji li shi
+崗棯	gang ren
+咁串	gan chuan
+補厴	bu yan
+身水身汗	shen shui shen han
+唔好搞我	wu hao gao wo
+落堂	luo tang
+無釐癮頭	wu li yin tou
+滾攪嗮	gun jiao sai
+暈浪	yun lang
+有理冇理	you li mao li
+收科	shou ke
+沒相干	mei xiang gan
+冇咗	mao zuo
+淨系講	jing xi jiang
+沙哩弄銃	sha li nong chong
+清撈白熠	qing lao bai yi
+咁寸	gan cun
+固之然	gu zhi ran
+留意唔到	liu yi wu dao
+大王眼	da wang yan
+橫水艔	heng shui dao
+捱夜	ai ye
+我搵咗	wo wen zuo
+你話喺米羅	ni hua xi mi luo
+南乳花生	nan ru hua sheng
+兩錢重	liang qian zhong
+滾紅滾綠	gun hong gun lv
+返咋	fan za
+晚頭夜	wan tou ye
+甩須	shuai xu
+白嗮嗮	bai sai sai
+雷公蛇	lei gong she
+做果時	zuo guo shi
+紐公	niu gong
+埋站	mai zhan
+丐世英雄	gai shi ying xiong
+埋棧	mai zhan
+爛頭蟀	lan tou shuai
+嬲你	niao ni
+你咁大	ni gan da
+禁諗	jin shen
+冇勾稈得把聲	mao gou gan de ba sheng
+散修修	san xiu xiu
+生保	sheng bao
+生暴	sheng bao
+男仔頭	nan zai tou
+定下驚	ding xia jing
+好亂飛	hao luan fei
+一喺	yi xi
+寮刁	liao diao
+盛惠	sheng hui
+蓮子蓉面口	lian zi rong mian kou
+老懵懂	lao meng dong
+分分鐘	fen fen zhong
+紅噹噹	hong dang dang
+睇路	di lu
+紅當蕩	hong dang dang
+條野	tiao ye
+伯孃	bo niang
+返草	fan cao
+上咗網	shang zuo wang
+翻到黎	fan dao li
+掹衫尾	meng shan wei
+做咩突然	zuo mie tu ran
+肥肚腩	fei du nan
+麻甩佬	ma shuai lao
+調試緊	diao shi jin
+睇脈	di mai
+你個死人頭	ni ge si ren tou
+企一齊	qi yi qi
+玩嗟	wan jie
+帶俾	dai bi
+我有咁	wo you gan
+無譜	wu pu
+有紋有路	you wen you lu
+銀仔	yin zai
+紅組加油	hong zu jia you
+咁嘅事	gan kai shi
+咁鬼多人	gan gui duo ren
+識做	shi zuo
+生安白造	sheng an bai zao
+嘍當	lou dang
+瓦靴唔落得臺	wa xue wu luo de tai
+日濤姐	ri tao jie
+拗氣	ao qi
+屎軍師	shi jun shi
+周先生教書有警逛	zhou xian sheng jiao shu you jing guang
+嚇乜	xia mie
+聯針	lian zhen
+笑甩棚牙	xiao shuai peng ya
+休下息	xiu xia xi
+系邊啊你	xi bian a ni
+叻仔	le zai
+笑星撞地球	xiao xing zhuang di qiu
+急唔急	ji wu ji
+無黎正經	wu li zheng jing
+搵野	wen ye
+間條	jian tiao
+亂龍	luan long
+戇鬮	zhuang jiu
+冷手執個熱煎冷天	leng shou zhi ge re jian leng tian
+生蘿蔔	sheng luo bo
+打緊針	da jin zhen
+夜啲	ye di
+賣生藕	mai sheng ou
+溼溼碎	shi shi sui
+一樣系	yi yang xi
+阻埞	zu di
+俾着我	bi zhe wo
+調轉頭	diao zhuan tou
+零零丁	ling ling ding
+靚歌	jing ge
+無口齒	wu kou chi
+崩沙	beng sha
+飼前	si qian
+都得嗟	dou de jie
+最重要噶系	zui zhong yao ga xi
+大眼乞兒	da yan qi er
+的確系	de que xi
+都系果個	dou xi guo ge
+遊車行	you che xing
+大伯大班	da bo da ban
+湯丸	tang wan
+洗咗	xi zuo
+咪搞	mi gao
+十分似	shi fen shi
+霎眼嬌	sha yan jiao
+瘦骨如柴煲碌竹	shou gu ru chai bao lu zhu
+倒吊無滴墨水	dao diao wu di mo shui
+冇記性	mao ji xing
+都有佢	dou you qu
+我得喔	wo de o
+後生細仔	hou sheng xi zai
+執式	zhi shi
+電話無錢	dian hua wu qian
+佢唔應我	qu wu ying wo
+執屍	zhi shi
+搞唔	gao wu
+明仔哥	ming zai ge
+冇咁多時間	mao gan duo shi jian
+同你講咯	tong ni jiang ge
+幾勁下	ji jin xia
+喐喐貢	yu yu gong
+唔想咖	wu xiang ka
+精叻	jing le
+撒路溪錢吸引死人	sa lu xi qian xi yin si ren
+搵我有乜事	wen wo you mie shi
+煙骨	yan gu
+火尾	huo wei
+仲唔開	zhong wu kai
+靚爹	jing die
+執輸	zhi shu
+爭取緊	zheng qu jin
+番鴨	fan ya
+聽唔到	ting wu dao
+針冇兩頭利	zhen mao liang tou li
+狗爪邊狗爪豆	gou zhao bian gou zhao dou
+唔想笑	wu xiang xiao
+點行	dian xing
+行差踏錯	xing cha ta cuo
+系咪好傻	xi mi hao sha
+乜滯	mie zhi
+機會嘅	ji hui kai
+無根蔸	wu gen dou
+有路數	you lu shu
+第日傾過	di ri qing guo
+冧巴溫	lin ba wen
+我係度	wo xi du
+同我講咯	tong wo jiang ge
+打返黎	da fan li
+我同佢	wo tong qu
+生雞精生鬼	sheng ji jing sheng gui
+後尾枕	hou wei zhen
+找數	zhao shu
+浙醋	zhe cu
+豬肚棉	zhu du mian
+唔三唔四	wu san wu si
+淡茂茂	dan mao mao
+佢個度	qu ge du
+八卦婆	ba gua po
+呢編	ne bian
+就係	jiu xi
+羅呵	luo he
+飛機上放屁響的開	fei ji shang fang pi xiang de kai
+邊薯	bian shu
+蝦笱	xia gou
+人煩人	ren fan ren
+咁多圖	gan duo tu
+七頭咁款	qi tou gan kuan
+搵多啲	wen duo di
+日光日白	ri guang ri bai
+唔在意	wu zai yi
+笑星救地球	xiao xing jiu di qiu
+使唔使	shi wu shi
+隔離部門	ge li bu men
+好冧	hao lin
+水柿	shui shi
+一本曼莉	yi ben man li
+及唔及格	ji wu ji ge
+零星落索	ling xing luo suo
+車房仔	che fang zai
+暗謀天	an mou tian
+乜都識	mie dou shi
+雨溦溦	yu wei wei
+枕住	zhen zhu
+好耐冇嚟	hao nai mao li
+喐來喐去	yu lai yu qu
+窿窿啦啦	long long la la
+撩鼻屎	liao bi shi
+喉欖	hou lan
+新年頭	xin nian tou
+獨食罌	du shi ying
+拖艔	tuo dao
+明唔明	ming wu ming
+發俾你	fa bi ni
+無曬計	wu shai ji
+避唔過	bi wu guo
+唔惗着	wu nie zhe
+瓦檐口	wa yan kou
+除咗去	chu zuo qu
+江湖佬	jiang hu lao
+飛發鋪	fei fa pu
+司馬秤	si ma cheng
+影低	ying di
+幫下我手	bang xia wo shou
+臨老學吹打	lin lao xue chui da
+記低咗	ji di zuo
+擘大口	bai da kou
+豉油豉汁	shi you shi zhi
+威水	wei shui
+獨喺	du xi
+蠟青	la qing
+阿燦	a can
+又無咗	you wu zuo
+大陣仗大早	da zhen zhang da zao
+咭女	ji nv
+開門未	kai men wei
+只喺	zhi xi
+光雞	guang ji
+倒吊荷包	dao diao he bao
+冇耳性	mao er xing
+逢人坤	feng ren kun
+從黎	cong li
+鼎湖上素好齋	ding hu shang su hao zhai
+督背脊	du bei ji
+俾你	bi ni
+狼胎	lang tai
+之前嘅	zhi qian kai
+香港地	xiang gang di
+肉緊	rou jin
+收曬皮	shou shai pi
+使頸	shi jing
+呢首歌	ne shou ge
+落剩	luo sheng
+鬼盞	gui zhan
+唔化算	wu hua suan
+飾櫃	shi gui
+屎忽窿	shi hu long
+柯非時	ke fei shi
+註冊咗	zhu ce zuo
+玉荷包	yu he bao
+唔喺喔	wu xi o
+落手	luo shou
+鸚鵡仔	ying wu zai
+燂一下	tan yi xia
+搭的士	da di shi
+咁我問	gan wo wen
+人地可能	ren di ke neng
+都咁多人	dou gan duo ren
+下晏	xia yan
+密底算盤	mi di suan pan
+咣樣	guang yang
+神暈顛倒	shen yun dian dao
+返廣西	fan guang xi
+地廬商場	di lu shang chang
+早點訓	zao dian xun
+山草藥嚨鎂蛧	shan cao yao long mei wang
+食貓面	shi mao mian
+冇幾何	mao ji he
+爲口賓士	wei kou bin shi
+搞埋	gao mai
+棯仔	ren zai
+乍乍帝	zha zha di
+咁靚	gan jing
+好耐之後	hao nai zhi hou
+傔韍	qian fu
+照計	zhao ji
+殽框	xiao kuang
+指天椒	zhi tian jiao
+細佬哥	xi lao ge
+撈佬	lao lao
+咁都唔系	gan dou wu xi
+單身寡仔	dan shen gua zai
+先知咩	xian zhi mie
+火浸眼眉唔知死	huo jin yan mei wu zhi si
+菢雞仔	bao ji zai
+整色水	zheng se shui
+起勢啖	qi shi dan
+好話唔好聽	hao hua wu hao ting
+水橫枝	shui heng zhi
+訓一覺	xun yi jue
+叼七你	diao qi ni
+驚喔	jing o
+落嗮形	luo sai xing
+多謝嗮	duo xie sai
+一落橋	yi luo qiao
+去地爹	qu di die
+花樽	hua zun
+依時依候	yi shi yi hou
+即喺	ji xi
+鞋揪	xie jiu
+快啲	kuai di
+變咗	bian zuo
+咁點算	gan dian suan
+拔咗	ba zuo
+縮開啲	suo kai di
+真喺有心	zhen xi you xin
+講起又講	jiang qi you jiang
+一路路	yi lu lu
+唔好意思	wu hao yi si
+似佢	shi qu
+無端白事	wu duan bai shi
+買過支	mai guo zhi
+銀粘	yin zhan
+零加池塘多尻餘	ling jia chi tang duo kao yu
+無交易	wu jiao yi
+都咁好	dou gan hao
+失運	shi yun
+光鮮企理	guang xian qi li
+我要俾	wo yao bi
+爲得過	wei de guo
+想講你知	xiang jiang ni zhi
+豆沙喉	dou sha hou
+地埗地膽	di bu di dan
+面豉	mian shi
+水尾水皮	shui wei shui pi
+鳩佬	jiu lao
+白麪仔	bai mian zai
+手瓜	shou gua
+心口翳	xin kou yi
+泳遠是你	yong yuan shi ni
+希幺	xi yao
+餐牌	can pai
+牛輾	niu zhan
+生咗仔	sheng zuo zai
+一大棚人	yi da peng ren
+指手厾腳	zhi shou du jiao
+脹卜卜	zhang bo bo
+咁佢地	gan qu di
+以爲我係	yi wei wo xi
+有定冇	you ding mao
+笑口吟吟	xiao kou yin yin
+傾偈仔	qing ji zai
+拍心口	pai xin kou
+食枉米	shi wang mi
+取消咗	qu xiao zuo
+咖喇	ka la
+搭唔上	da wu shang
+傾計	qing ji
+無論點都	wu lun dian dou
+棖雞	cheng ji
+番婆大肚心懷鬼胎	fan po da du xin huai gui tai
+大圈仔	da quan zai
+行開行埋	xing kai xing mai
+扭計祖宗	niu ji zu zong
+似得你	shi de ni
+住嘅	zhu kai
+靜雞雞	jing ji ji
+包系我身上	bao xi wo shen shang
+咁訓啦	gan xun la
+通菜	tong cai
+抽低你	chou di ni
+雪批	xue pi
+唔識打	wu shi da
+吖嘛	ya ma
+仲傾緊	zhong qing jin
+賴低	lai di
+門口狗	men kou gou
+聽咖	ting ka
+冇得彈	mao de dan
+揸爆	zha bao
+屎忽鬼	shi hu gui
+甘巖既	gan yan ji
+化州話	hua zhou hua
+煤屎	mei shi
+系叫	xi jiao
+執到正	zhi dao zheng
+就咁咯	jiu gan ge
+日日遲到	ri ri chi dao
+行黎行去	xing li xing qu
+大花大朵	da hua da duo
+黃蜞	huang qi
+呢套野	ne tao ye
+咪拘	mi ju
+叫咗	jiao zuo
+畀錢	bi qian
+落手落腳	luo shou luo jiao
+撞親	zhuang qin
+花假	hua jia
+齧牙	nie ya
+壽頭	shou tou
+油炸蟹	you zha xie
+你有咩任務	ni you mie ren wu
+通勝	tong sheng
+使牛	shi niu
+唔關我事噶	wu guan wo shi ga
+星鐵	xing tie
+姜酌	jiang zhuo
+食煙	shi yan
+俾人捉	bi ren zhuo
+呢間公司	ne jian gong si
+等唔切	deng wu qie
+放飛機	fang fei ji
+落雪水	luo xue shui
+肥屍大隻	fei shi da zhi
+惜你	xi ni
+進行緊	jin xing jin
+頂佢個肺	ding qu ge fei
+硬打硬	ying da ying
+人地請	ren di qing
+撳沉	qin chen
+撇人	pie ren
+登陸咗	deng lu zuo
+我表哥話	wo biao ge hua
+唔鐘意	wu zhong yi
+俾錢你	bi qian ni
+懶到出骨	lan dao chu gu
+黎個人	li ge ren
+隔涉	ge she
+指冬瓜畫葫蘆	zhi dong gua hua hu lu
+雜柴	za chai
+航空母艦食水深	hang kong mu jian shi shui shen
+你唔瞭解	ni wu liao jie
+尾龍骨	wei long gu
+秒咗	miao zuo
+穩穩陣陣	wen wen zhen zhen
+老襯	lao chen
+窮人愛麗絲	qiong ren ai li si
+豬婄腩	zhu pou nan
+玩唔到	wan wu dao
+嚟咗	li zuo
+吟沈	yin shen
+豬郎	zhu lang
+長命債長命還	zhang ming zhai zhang ming hai
+攻入去	gong ru qu
+奔人笑	ben ren xiao
+應該無咩	ying gai wu mie
+用腳來回擦	yong jiao lai hui ca
+開放咗	kai fang zuo
+我行過去	wo xing guo qu
+翕手	xi shou
+我驚系	wo jing xi
+臭飛	chou fei
+暖粒粒	nuan li li
+改咗啦	gai zuo la
+搵你咯	wen ni ge
+蝕底	shi di
+嚡熠熠	hai yi yi
+先至喺	xian zhi xi
+咪系囖	mi xi lo
+唔下載	wu xia zai
+得嘅	de kai
+咁高	gan gao
+咁噶	gan ga
+三腳雞	san jiao ji
+喺度	xi du
+系同	xi tong
+明呃	ming e
+倒掟頭	dao zheng tou
+雞心肺	ji xin fei
+差館	cha guan
+歐嗮	ou sai
+牙擦	ya ca
+喺讀	xi du
+成整	cheng zheng
+睬你都傻	cai ni dou sha
+你咁高	ni gan gao
+睇到麼	di dao me
+睇嗮	di sai
+行下先	xing xia xian
+開氣	kai qi
+又唔聽話	you wu ting hua
+牛牯	niu gu
+鳩呃呃	jiu e e
+架喇	jia la
+迉低	qi di
+換咗人	huan zuo ren
+都話	dou hua
+埋牙	mai ya
+踩雪屐	cai xue ji
+傻嘅	sha kai
+鳩呃	jiu e
+蓋咗	gai zuo
+一鑊熟	yi huo shu
+跟眼	gen yan
+肥仔丸	fei zai wan
+青悲悲	qing bei bei
+肚屙	du e
+咁鬼慢	gan gui man
+竹織鴨	zhu zhi ya
+呢世仔	ne shi zai
+唔實習	wu shi xi
+太空褸	tai kong lv
+鹹臭鹹蟲	xian chou xian chong
+睇攻略	di gong lve
+紐門	niu men
+呢場波	ne chang bo
+第曰	di yue
+走路不長眼睛	zou lu bu zhang yan jing
+入冬生魚詐死	ru dong sheng yu zha si
+早就係咁	zao jiu xi gan
+吖陶	ya tao
+邊兩樣	bian liang yang
+食咗飯未啊	shi zuo fan wei a
+能古話	neng gu hua
+快勞	kuai lao
+無脈	wu mai
+一樖樹	yi ke shu
+唔錯架	wu cuo jia
+鬍鬚佬	hu xu lao
+翳氣	yi qi
+闊咧啡	kuo lie fei
+同你講	tong ni jiang
+慳錢	qian qian
+晾衫	liang shan
+忍住咗	ren zhu zuo
+黃綠醫生	huang lv yi sheng
+溼水雞	shi shui ji
+捻捻	nian nian
+都唔話我知	dou wu hua wo zhi
+揀得個爛燈盞	jian de ge lan deng zhan
+系咁多	xi gan duo
+化學公仔	hua xue gong zai
+講數口	jiang shu kou
+太唔瞭解	tai wu liao jie
+陸洲	lu zhou
+騎膊馬	qi bo ma
+架罉	jia cheng
+面懵懵	mian meng meng
+繚繑	liao qiao
+苦過弟弟	ku guo di di
+企堂	qi tang
+柯路	ke lu
+叻唔切	le wu qie
+冇人煮	mao ren zhu
+執死雞仔	zhi si ji zai
+蕩街	dang jie
+細個	xi ge
+咁擺	gan bai
+臊堪堪騷	sao kan kan sao
+返學未	fan xue wei
+相信佢	xiang xin qu
+系咖	xi ka
+咿喐	yi yu
+咪家	mi jia
+系咁樣	xi gan yang
+同撈同煲	tong lao tong bao
+惡爺頭	e ye tou
+諗唔到	shen wu dao
+死橋	si qiao
+請茶	qing cha
+得啲	de di
+膠擦	jiao ca
+新屎坑	xin shi keng
+巖曬	yan shai
+撞聾	zhuang long
+講咁易	jiang gan yi
+側便	ce bian
+照殺	zhao sha
+冇頭烏蠅	mao tou wu ying
+火燂煤	huo tan mei
+僕轉	pu zhuan
+一生出黎	yi sheng chu li
+羊乜	yang mie
+呃神騙鬼	e shen pian gui
+兼夾	jian jia
+可憐冇人愛	ke lian mao ren ai
+賣咗佢	mai zuo qu
+來行去	lai xing qu
+唔喺喺話	wu xi xi hua
+糸喇	mi la
+頭凸額	tou tu e
+湊埋	cou mai
+密底算盤冇漏罅	mi di suan pan mao lou xia
+廣東話拼音	guang dong hua pin yin
+捉字蝨	zhuo zi shi
+就喺	jiu xi
+腳瓜瓤	jiao gua rang
+我教佢	wo jiao qu
+執地	zhi di
+咁好咯	gan hao ge
+守清	shou qing
+逢人知己	feng ren zhi ji
+喺都要	xi dou yao
+調整返	diao zheng fan
+啉下我	lin xia wo
+泥水佬	ni shui lao
+豬陸	zhu lu
+爛身爛勢	lan shen lan shi
+大喊包	da han bao
+眼見功夫	yan jian gong fu
+預埋你果份	yu mai ni guo fen
+去行花街	qu xing hua jie
+好快訓	hao kuai xun
+九成九	jiu cheng jiu
+梗喺啦	geng xi la
+佢隔離	qu ge li
+抄完未	chao wan wei
+飲到湯	yin dao tang
+到膽	dao dan
+炕麪包	kang mian bao
+咁都無辦法	gan dou wu ban fa
+粵人谷	yue ren gu
+硬淨	ying jing
+出唔到線	chu wu dao xian
+臭青	chou qing
+食乜啊	shi mie a
+短火	duan huo
+多餘嘅	duo yu kai
+阿蘭嫁阿瑞類鬥類	a lan jia a rui lei dou lei
+臭渠	chou qu
+合嗮合尺	he sai he chi
+米住	mi zhu
+巴仙	ba xian
+冇嚟正經	mao li zheng jing
+好譖	hao zen
+膠通	jiao tong
+餚框	yao kuang
+滯市	zhi shi
+一陣間	yi zhen jian
+咁米即系	gan mi ji xi
+癡媽筋	chi ma jin
+行車天橋	xing che tian qiao
+我都糸	wo dou mi
+蒲頭	pu tou
+冇意思	mao yi si
+做乜也	zuo mie ye
+抽後腳	chou hou jiao
+冇聲咖	mao sheng ka
+無王管	wu wang guan
+花尾艔	hua wei dao
+下低	xia di
+支支整整	zhi zhi zheng zheng
+膠拖	jiao tuo
+返唔返	fan wu fan
+瓦渣崗	wa zha gang
+嘅同學	kai tong xue
+執地仔	zhi di zai
+帶夠衫	dai gou shan
+孱弱書生	chan ruo shu sheng
+菠蘿雞靠黏	bo luo ji kao nian
+頻頻撲撲	pin pin pu pu
+果段日子	guo duan ri zi
+生螆貓入眼	sheng ci mao ru yan
+識喔	shi o
+迫力子	po li zi
+周時無日	zhou shi wu ri
+老藕	lao ou
+老水鴨	lao shui ya
+都可能系	dou ke neng xi
+塵氣春	chen qi chun
+釦針	kou zhen
+鹹水話	xian shui hua
+弊傢伙	bi jia huo
+吊煲	diao bao
+餘美華	yu mei hua
+開啦	kai la
+陰枝	yin zhi
+段斤稱	duan jin cheng
+到未	dao wei
+無家教	wu jia jiao
+戒口	jie kou
+見到嘅	jian dao kai
+嫋高	niao gao
+食西北風	shi xi bei feng
+頂肚餓	ding du e
+一尺中的	yi chi zhong de
+九曲橋散步行彎路	jiu qu qiao san bu xing wan lu
+窒口窒舌	zhi kou zhi she
+酸微草	suan wei cao
+勿歇	wu xie
+捋高	lv gao
+涼埋	liang mai
+無得頂	wu de ding
+系咁嘅啦	xi gan kai la
+蘿蔔仔	luo bo zai
+身紀	shen ji
+雞翼袖	ji yi xiu
+加唔到	jia wu dao
+匙羹褸	shi geng lv
+你明咩	ni ming mie
+沒幾何	mei ji he
+大家都咁話	da jia dou gan hua
+嗒糖	da tang
+盟塞	meng sai
+千揀萬揀	qian jian wan jian
+瘀黑	yu hei
+咪住	mi zhu
+密質質	mi zhi zhi
+涸喉	he hou
+牙斬斬	ya zhan zhan
+砂煲罌罉	sha bao ying cheng
+耷頭佬	da tou lao
+薯仔煲糖水心淡	shu zai bao tang shui xin dan
+共埋	gong mai
+點搵我	dian wen wo
+一個對	yi ge dui
+梗似	geng shi
+火燂塵	huo tan chen
+當街當行	dang jie dang xing
+砂盆	sha pen
+似曬你	shi shai ni
+梳菜	shu cai
+甘樣	gan yang
+大碌藕	da lu ou
+淨喺	jing xi
+出頂	chu ding
+咪自	mi zi
+嘍口	lou kou
+宿舍嘅	su she kai
+系米呢	xi mi ne
+笨屎蟲	ben shi chong
+咪走	mi zou
+咁耐嘅	gan nai kai
+甘巖	gan yan
+邊會有人	bian hui you ren
+睇嚇先	di xia xian
+邊到來噶	bian dao lai ga
+棉緊身	mian jin shen
+差遲	cha chi
+眯埋眼	mi mai yan
+搵野做	wen ye zuo
+就唔系	jiu wu xi
+男咖	nan ka
+生花	sheng hua
+咁勁	gan jin
+包臺	bao tai
+一頭半月	yi tou ban yue
+啜一啖	chuai yi dan
+老婆擔遮陰功	lao po dan zhe yin gong
+你老味	ni lao wei
+未諗好	wei shen hao
+米喺咯	mi xi ge
+咁就	gan jiu
+崖鷹	ya ying
+顧嘉煇	gu jia hui
+籮友	luo you
+牛皮燈籠點極唔明	niu pi deng long dian ji wu ming
+唔忍得	wu ren de
+你張臺	ni zhang tai
+甩底	shuai di
+細豆芽菜	xi dou ya cai
+判頭盤	pan tou pan
+屎急	shi ji
+開波	kai bo
+食糊	shi hu
+穿煲	chuan bao
+唔切	wu qie
+擺去邊	bai qu bian
+衰衰咁	shuai shuai gan
+講咗好多	jiang zuo hao duo
+巴嚟聖日門	ba li sheng ri men
+切醋	qie cu
+去蒲	qu pu
+盒仔飯	he zai fan
+扮蟹	ban xie
+樓官	lou guan
+冇準	mao zhun
+星期美點	xing qi mei dian
+搵緊資料	wen jin zi liao
+他系咪	ta xi mi
+睇不下去	di bu xia qu
+豬鼓	zhu gu
+茶菓	cha guo
+埋尾	mai wei
+盟鼻	meng bi
+晏驟	yan zhou
+可以點喔	ke yi dian o
+事急馬行田	shi ji ma xing tian
+轉屋咔	zhuan wu ka
+屎計	shi ji
+竹升捉錯用神	zhu sheng zhuo cuo yong shen
+攬頸	lan jing
+有心冇神	you xin mao shen
+固然之	gu ran zhi
+橋凳	qiao deng
+唔加入	wu jia ru
+妹釘	mei ding
+出便	chu bian
+烏啄啄烏燈黑火	wu zhuo zhuo wu deng hei huo
+典牀典席	dian chuang dian xi
+你唔中意乜	ni wu zhong yi mie
+頂你啊	ding ni a
+蜆鴨	xian ya
+頭崩額裂	tou beng e lie
+買多咗	mai duo zuo
+麻骨	ma gu
+唔系你嘅	wu xi ni kai
+小厴	xiao yan
+喺啖話	xi dan hua
+有乜誰	you mie shui
+髀罅	bi xia
+咁夜都唔訓	gan ye dou wu xun
+做家庭工	zuo jia ting gong
+執笠	zhi li
+分左去	fen zuo qu
+天歸啦	tian gui la
+是必	shi bi
+訓教啦	xun jiao la
+抽咗	chou zuo
+放落	fang luo
+車頭相	che tou xiang
+爆搽	bao cha
+霎熟狗頭	sha shu gou tou
+來唔來得切	lai wu lai de qie
+圓蹄	yuan ti
+又乜事	you mie shi
+咿挹	yi yi
+是非啄	shi fei zhuo
+想唔都幾難	xiang wu dou ji nan
+畫唔到	hua wu dao
+含含聲	han han sheng
+死絕種	si jue zhong
+出得來行	chu de lai xing
+巖先	yan xian
+滋油	zi you
+借一借	jie yi jie
+咁速度	gan su du
+豬仔得食墟墟冚	zhu zai de shi xu xu kan
+行轉背	xing zhuan bei
+煙士	yan shi
+去街街羅	qu jie jie luo
+加把口	jia ba kou
+走雞	zou ji
+賣剩尾	mai sheng wei
+酒餅	jiu bing
+邊一晚	bian yi wan
+蝦人蝦物	xia ren xia wu
+膠絲	jiao si
+佮檔佮計	ge dang ge ji
+識咗	shi zuo
+行檔	xing dang
+就咁決定	jiu gan jue ding
+嗍一啖	suo yi dan
+幫你踩場	bang ni cai chang
+打同通	da tong tong
+都查唔到	dou cha wu dao
+講開又講	jiang kai you jiang
+纏腳娘	chan jiao niang
+真系吖	zhen xi ya
+踹單車	chuai dan che
+俾嘅	bi kai
+唔知啊	wu zhi a
+刨書	pao shu
+叫佢	jiao qu
+騎牛王馬	qi niu wang ma
+花面貓	hua mian mao
+行得未啊	xing de wei a
+鬱手	yu shou
+日頭日日	ri tou ri ri
+仲叫	zhong jiao
+唔上網	wu shang wang
+系邊	xi bian
+去睇	qu di
+筆嘴	bi zui
+咁要點	gan yao dian
+果個袋	guo ge dai
+光猛	guang meng
+唔同咯	wu tong ge
+偷呃拐騙	tou e guai pian
+你講多次	ni jiang duo ci
+唔同咖	wu tong ka
+夠派	gou pai
+拗爛腳	ao lan jiao
+用起上來	yong qi shang lai
+口水痰	kou shui tan
+棉衲	mian na
+打估	da gu
+大花面	da hua mian
+拉上補下	la shang bu xia
+斬纜	zhan lan
+咧啡	lie fei
+瓦封領包頂頸	wa feng ling bao ding jing
+點喺呀點知	dian xi ya dian zhi
+年晚煎堆人有我有	nian wan jian dui ren you wo you
+咁鬼長	gan gui zhang
+狗咬狗骨	gou yao gou gu
+唔搭八	wu da ba
+勒哈費爾	lei ha fei er
+話頭醒尾	hua tou xing wei
+咁遠水路	gan yuan shui lu
+岌頭岌髻	ji tou ji ji
+打芡	da qian
+坐低	zuo di
+壽星公壽仔	shou xing gong shou zai
+睇黎睇去	di li di qu
+打你啊啦	da ni a la
+好快噶	hao kuai ga
+討娘	tao niang
+無所事事行開	wu suo shi shi xing kai
+猴猴急急	hou hou ji ji
+晚頭黑	wan tou hei
+愛情嘅	ai qing kai
+知醒	zhi xing
+同我分	tong wo fen
+唔擔心	wu dan xin
+趙家巷	zhao jia xiang
+眼角高	yan jiao gao
+鹹蝦	xian xia
+襪箍	wa gu
+油耳	you er
+咁都冇辦法	gan dou mao ban fa
+蜜絲	mi si
+一惗起	yi nie qi
+朝頭早	chao tou zao
+人嚟	ren li
+兩頭唔到岸	liang tou wu dao an
+有乜出奇	you mie chu qi
+芥蘭頭	jie lan tou
+回味緊	hui wei jin
+出貓仔	chu mao zai
+眼冤	yan yuan
+之不過	zhi bu guo
+掗掗拃拃掗拃	ya ya zha zha ya zha
+走人走油	zou ren zou you
+我都睇咗	wo dou di zuo
+調吖	diao ya
+大石磧死蟹	da shi qi si xie
+咁米好咯	gan mi hao ge
+剃刀門楣	ti dao men mei
+勢兇夾狼	shi xiong jia lang
+陪你食	pei ni shi
+聽到你把聲	ting dao ni ba sheng
+咁幾	gan ji
+鈒骨	sa gu
+喺咁意	xi gan yi
+生烏雞	sheng wu ji
+不特止	bu te zhi
+我地	wo di
+形仔	xing zai
+地佬話	di lao hua
+損爛	sun lan
+屎坑石頭又臭又硬	shi keng shi tou you chou you ying
+你咁樣	ni gan yang
+知唔知道	zhi wu zhi dao
+唔得乜	wu de mie
+吧閉	ba bi
+飽死	bao si
+抵得諗	di de shen
+睇咋	di za
+你唔好感啦	ni wu hao gan la
+唔好嘈啦	wu hao cao la
+唔同你講啦	wu tong ni jiang la
+詐奸	zha jian
+運滯	yun zhi
+出糧	chu liang
+大笑姑婆	da xiao gu po
+十月芥菜起嗮心	shi yue jie cai qi sai xin
+茄士乜	jia shi mie
+佢返咗	qu fan zuo
+鬍鬚公	hu xu gong
+醒喔	xing o
+好返啦	hao fan la
+跪地餵豬母睇錢份上	gui di wei zhu mu di qian fen shang
+未神	wei shen
+跌左	die zuo
+合桃酥	he tao su
+曬命	shai ming
+田雞過河各有各樣	tian ji guo he ge you ge yang
+噶喇	ga la
+都系輸	dou xi shu
+走趲	zou zan
+奄尖	yan jian
+歌仔	ge zai
+話低	hua di
+得戚	de qi
+鶻突	gu tu
+猛咁	meng gan
+摟席	lou xi
+右便	you bian
+豬網油	zhu wang you
+牛精	niu jing
+老鼠貨	lao shu huo
+菠蘿麻	bo luo ma
+箭嘴	jian zui
+黑麪神	hei mian shen
+千祈唔好	qian qi wu hao
+呢幾年	ne ji nian
+曬氣啦	shai qi la
+果兩樣	guo liang yang
+米高佐敦	mi gao zuo dun
+岌岌貢	ji ji gong
+新正頭	xin zheng tou
+睇數	di shu
+順攤	shun tan
+復唔到	fu wu dao
+去死啦你	qu si la ni
+滾熱辣	gun re la
+姣氣	jiao qi
+爛頭粥	lan tou zhou
+佢如果	qu ru guo
+睇受	di shou
+唔抵得頸	wu di de jing
+員工仔	yuan gong zai
+磨答溼	mo da shi
+姣婆	jiao po
+糧糕客	liang gao ke
+薄削	bao xue
+詐弟	zha di
+撞死馬	zhuang si ma
+摸埋	mo mai
+盲婆	mang po
+喺嗻	xi zhe
+甩皮甩骨	shuai pi shuai gu
+酸微微酸微仔	suan wei wei suan wei zai
+囉柚	luo you
+牛頭褲	niu tou ku
+甘吖	gan ya
+咁都好	gan dou hao
+呃我	e wo
+宵夜消夜	xiao ye xiao ye
+黑口黑麪	hei kou hei mian
+詐嗲	zha die
+乜場	mie chang
+訓醒一覺	xun xing yi jue
+未同佢	wei tong qu
+閒閒地	xian xian di
+推冧	tui lin
+搵唔搵到	wen wu wen dao
+鍾數	zhong shu
+真正嘅	zhen zheng kai
+急急腳	ji ji jiao
+喺囉	xi luo
+喺啩	xi gua
+聽聞講	ting wen jiang
+有着數	you zhe shu
+唔敢走	wu gan zou
+耐唔住	nai wu zhu
+娶埋	qu mai
+唔該先	wu gai xian
+頭先頭長仔	tou xian tou zhang zai
+斷估	duan gu
+屎塔蓋	shi ta gai
+喺米伽	xi mi ga
+我睇緊電影	wo di jin dian ying
+尋日	xun ri
+飛發剪	fei fa jian
+唔喺度	wu xi du
+都無知道	dou wu zhi dao
+訓得着	xun de zhe
+你真系去	ni zhen xi qu
+後底爺	hou di ye
+喺咪先	xi mi xian
+甘了喔	gan le o
+即管	ji guan
+之嘛	zhi ma
+訓嘅	xun kai
+返來食	fan lai shi
+幾咁	ji gan
+得個字	de ge zi
+初二仔	chu er zai
+只抽	zhi chou
+一身蟻	yi shen yi
+教路	jiao lu
+梳打	shu da
+認叻	ren le
+溼水棉花冇得彈	shi shui mian hua mao de dan
+防唔方便	fang wu fang bian
+快掣	kuai che
+懵剩剩	meng sheng sheng
+伊高斯	yi gao si
+就得咖啦	jiu de ka la
+有咩好提議	you mie hao ti yi
+等待緊	deng dai jin
+屎塔	shi ta
+抽吖	chou ya
+扮野	ban ye
+扮咗	ban zuo
+褲頭帶	ku tou dai
+針嘜	zhen ma
+嫲嫲	ma ma
+比唔上	bi wu shang
+貴人先忙	gui ren xian mang
+發俾你咖	fa bi ni ka
+咁隨便	gan sui bian
+耐中	nai zhong
+領太	ling tai
+嘎佬	ga lao
+至好唔喺	zhi hao wu xi
+對呢方面	dui ne fang mian
+唔喺人咁品	wu xi ren gan pin
+有咁得咁	you gan de gan
+唔會凍	wu hui dong
+咩嘅	mie kai
+嘎喇	ga la
+紮腳婆	za jiao po
+好相與	hao xiang yu
+唔肥	wu fei
+譖趙	zen zhao
+妖你	yao ni
+戇居居	zhuang ju ju
+放監	fang jian
+兩摳	liang kou
+食咗人只車乜	shi zuo ren zhi che mie
+因住	yin zhu
+隔夜油炸鬼	ge ye you zha gui
+唔見着	wu jian zhe
+入數	ru shu
+得把聲	de ba sheng
+都幾搞笑	dou ji gao xiao
+蘿底橙	luo di cheng
+手板堂	shou ban tang
+嚨鎂蛧	long mei wang
+哥爾夫	ge er fu
+吟吟沉沉	yin yin chen chen
+沙塵白霍	sha chen bai huo
+嗟喔	jie o
+石罅米	shi xia mi
+初中果陣	chu zhong guo zhen
+唔明朗	wu ming lang
+唔嬲	wu niao
+西南二伯父	xi nan er bo fu
+小鬼升城隍	xiao gui sheng cheng huang
+圓凼凼	yuan dang dang
+鴨腳粟	ya jiao su
+唔變	wu bian
+褸屘	lv man
+伏伊人	fu yi ren
+回佣會錯意	hui yong hui cuo yi
+諗真啲	shen zhen di
+又唔喺	you wu xi
+我唔信	wo wu xin
+打噎	da ye
+揸住	zha zhu
+無嗮癮	wu sai yin
+怕咩喔	pa mie o
+揸莊	zha zhuang
+賣花贊花香	mai hua zan hua xiang
+睇簽名	di qian ming
+士巴拿	shi ba na
+米水	mi shui
+有咗又點話	you zuo you dian hua
+苦刁刁	ku diao diao
+扒錢	ba qian
+一條氣	yi tiao qi
+好嬲	hao niao
+飲姜酒	yin jiang jiu
+菠蘿蓋	bo luo gai
+一轆杉	yi lu shan
+嘈嘈閉	cao cao bi
+英麗梨	ying li li
+下便	xia bian
+呢味野	ne wei ye
+嘅啫	kai zhe
+打關鬥	da guan dou
+大人大姐	da ren da jie
+揞脈	an mai
+捉黃腳雞	zhuo huang jiao ji
+定過擡油	ding guo tai you
+貼錢買罪受	tie qian mai zui shou
+得得把口	de de ba kou
+頭螺	tou luo
+隔籬鄰舍	ge li lin she
+得喇	de la
+喺乜	xi mie
+唔曾	wu ceng
+呢張呢	ne zhang ne
+系唔系啊	xi wu xi a
+關公細佬亦德	guan gong xi lao yi de
+既野	ji ye
+珍寶機	zhen bao ji
+賣嘅	mai kai
+口密	kou mi
+大安主義	da an zhu yi
+蠔豉	hao shi
+開攤	kai tan
+唔覺意	wu jue yi
+蝦毛	xia mao
+打爛沙盤	da lan sha pan
+嚇窒	xia zhi
+唔到假	wu dao jia
+兩頭唔受中間受	liang tou wu shou zhong jian shou
+一吾一齊	yi wu yi qi
+啲咑	di da
+畀面制	bi mian zhi
+眼癱癱	yan tan tan
+豬黎咖	zhu li ka
+冇心機	mao xin ji
+跳曬舞	tiao shai wu
+超乜	chao mie
+咁搵	gan wen
+椰菜花	ye cai hua
+啫啫雞	zhe zhe ji
+抵冷貪瀟湘	di leng tan xiao xiang
+玩新人	wan xin ren
+我着住	wo zhe zhu
+入便	ru bian
+軒科	xuan ke
+熠熟狗頭	yi shu gou tou
+翹起手	qiao qi shou
+斷搶	duan qiang
+唔講了	wu jiang le
+惡死	e si
+壽星公吊頸嫌命長	shou xing gong diao jing xian ming zhang
+座火	zuo huo
+洗過衫	xi guo shan
+細蚊仔	xi wen zai
+沙沙滾尼嘿	sha sha gun ni hei
+未玩	wei wan
+大髀	da bi
+忽腰	hu yao
+好鬼便	hao gui bian
+紙紮下巴口輕輕	zhi za xia ba kou qing qing
+至步	zhi bu
+搵到	wen dao
+冇問題	mao wen ti
+搞手	gao shou
+翕眼	xi yan
+裏底	li di
+口水澄	kou shui cheng
+麻糖雞	ma tang ji
+乜姐	mie jie
+海鮮醬	hai xian jiang
+煲飯仔	bao fan zai
+脷苔	li tai
+亞單睇榜一眼睇嗮	ya dan di bang yi yan di sai
+點講都好	dian jiang dou hao
+咁你要咩	gan ni yao mie
+屌啊	diao a
+唔講錢	wu jiang qian
+息口	xi kou
+減實	jian shi
+陷家產	xian jia chan
+講佢聽	jiang qu ting
+嗍氣	suo qi
+系迷	xi mi
+被鋪	bei pu
+周志誠	zhou zhi cheng
+長大咗	zhang da zuo
+呢種行爲	ne zhong xing wei
+封嗮	feng sai
+學唔到	xue wu dao
+駛世伯	shi shi bo
+生殼	sheng ke
+淘古井	tao gu jing
+南棗	nan zao
+傻庚庚	sha geng geng
+唔似	wu shi
+仂住	le zhu
+唔送	wu song
+小學雞	xiao xue ji
+撞板	zhuang ban
+大聲公	da sheng gong
+插蘇	cha su
+譖醉	zen zui
+熟煙	shu yan
+適値	shi zhi
+唔酸	wu suan
+要嘅話	yao kai hua
+甩繩馬騮	shuai sheng ma liu
+踢嗮腳	ti sai jiao
+有風駛盡利	you feng shi jin li
+臘腸褲	la chang ku
+不過睇	bu guo di
+咩咋	mie za
+插水	cha shui
+埋去	mai qu
+唔順	wu shun
+屎缸	shi gang
+冇眼睇	mao yan di
+懶音	lan yin
+踩低	cai di
+條氣唔順	tiao qi wu shun
+唔聽人	wu ting ren
+轉嚇眼	zhuan xia yan
+有無搞錯	you wu gao cuo
+各有各睇	ge you ge di
+葉振邦	ye zhen bang
+臨天光賴尿臨時臨急	lin tian guang lai niao lin shi lin ji
+幫緊你	bang jin ni
+都唔食	dou wu shi
+都唔識	dou wu shi
+折磨佢	zhe mo qu
+柯傅	ke fu
+無厴雞籠	wu yan ji long
+唔感覺	wu gan jue
+撈女	lao nv
+所有嘅	suo you kai
+頭婄	tou pou
+喐手	yu shou
+羅攣	luo luan
+周身八寶	zhou shen ba bao
+你做緊乜	ni zuo jin mie
+衫刷	shan shua
+新時代電視	xin shi dai dian shi
+咁又得	gan you de
+我傳緊	wo chuan jin
+生菓	sheng guo
+疏堂	shu tang
+無曬聊	wu shai liao
+撞口卦	zhuang kou gua
+發牙痕	fa ya hen
+訓着	xun zhe
+呢啲事	ne di shi
+靸鞋	sa xie
+鹹蛋滾湯心都實嗮	xian dan gun tang xin dou shi sai
+喂啦	wei la
+肯唔肯	ken wu ken
+出咗	chu zuo
+走噶	zou ga
+呢筆錢	ne bi qian
+咁當然啦	gan dang ran la
+無幾耐	wu ji nai
+收爹	shou die
+乜事	mie shi
+三哥仔	san ge zai
+佢搵	qu wen
+上咁多	shang gan duo
+晏晝	yan zhou
+散賣	san mai
+條友仔	tiao you zai
+嫌錢腥	xian qian xing
+啦聲	la sheng
+潭角	tan jiao
+加嘅	jia kai
+冇得解	mao de jie
+冧檔	lin dang
+岌頭	ji tou
+底衫	di shan
+嘈住嗮	cao zhu sai
+喺咁話	xi gan hua
+連仁	lian ren
+俗骨逐啲	su gu zhu di
+搏傻	bo sha
+叻咗	le zuo
+狗髀架	gou bi jia
+鷩腳	bi jiao
+熄電話	xi dian hua
+典型嘅	dian xing kai
+獨市生意	du shi sheng yi
+打唔着	da wu zhe
+做物西	zuo wu xi
+亞保亞勝	ya bao ya sheng
+士擔	shi dan
+睇啦	di la
+札碼字	zha ma zi
+要咁耐	yao gan nai
+快咖啦	kuai ka la
+蘿蔔圍	luo bo wei
+除笨有精	chu ben you jing
+黑過墨汁	hei guo mo zhi
+低威	di wei
+俾左	bi zuo
+距叫做	ju jiao zuo
+士點	shi dian
+敂埋埋	kou mai mai
+睇唔巖	di wu yan
+搞落去	gao luo qu
+鬼咁	gui gan
+大洗	da xi
+衰女包	shuai nv bao
+真繫有	zhen xi you
+唔打得埋	wu da de mai
+心悒	xin yi
+瓦坑	wa keng
+起先起意	qi xian qi yi
+打齋鶴	da zhai he
+飛走咗	fei zou zuo
+唔喺咁嘎	wu xi gan ga
+倒轉來	dao zhuan lai
+卡士	ka shi
+三個鼻哥窿多一口氣	san ge bi ge long duo yi kou qi
+到咖	dao ka
+眉精眼企	mei jing yan qi
+對唔住	dui wu zhu
+託大腳	tuo da jiao
+刁時	diao shi
+脹泵泵	zhang beng beng
+針波	zhen bo
+羽絨褸	yu rong lv
+唱咖	chang ka
+大嚿	da huo
+大豆芽	da dou ya
+菓佔	guo zhan
+平時都系	ping shi dou xi
+人地先	ren di xian
+就唔明	jiu wu ming
+支整	zhi zheng
+唔得切	wu de qie
+邊度讀	bian du du
+可以睇出	ke yi di chu
+咁多錢	gan duo qian
+長嘅	zhang kai
+晏覺	yan jue
+找續	zhao xu
+心鬱郁	xin yu yu
+較腳	jiao jiao
+馬死落地行	ma si luo di xing
+乜乜	mie mie
+久不久	jiu bu jiu
+撐你	cheng ni
+唔俾上	wu bi shang
+沙冚	sha kan
+幾好用咖	ji hao yong ka
+頭嶽嶽	tou yue yue
+唔吃	wu chi
+飽飽未	bao bao wei
+唔信	wu xin
+一部通書睇到老	yi bu tong shu di dao lao
+學徒仔	xue tu zai
+池中無魚蝦仔貴	chi zhong wu yu xia zai gui
+豬籠車	zhu long che
+呢條友	ne tiao you
+聰哥仔	cong ge zai
+三九唔識七	san jiu wu shi qi
+胭脂腳	yan zhi jiao
+知唔知	zhi wu zhi
+捽老泥	zuo lao ni
+唔續	wu xu
+咿咿哦哦	yi yi o o
+曉飛天	xiao fei tian
+香料粉	xiang liao fen
+使乜講	shi mie jiang
+護照照片出洋相	hu zhao zhao pian chu yang xiang
+飽飽滯滯	bao bao zhi zhi
+嘴藐藐	zui miao miao
+屙屎屙尿	e shi e niao
+平平滑滑	ping ping hua hua
+喊欄	han lan
+鬆婄	song pou
+死蛇爛鱔	si she lan shan
+開咗未	kai zuo wei
+打電話俾我	da dian hua bi wo
+李治延	li zhi yan
+撈麪	lao mian
+鱷魚頭	e yu tou
+篩身篩勢	shai shen shai shi
+搵米路	wen mi lu
+柴哇哇	chai wa wa
+安唔安排	an wu an pai
+雙毫	shuang hao
+流唔出	liu wu chu
+下晝	xia zhou
+戽斗邊	hu dou bian
+幾廿年	ji nian nian
+頭泥	tou ni
+去唔去啊	qu wu qu a
+話我似	hua wo shi
+慢慢食	man man shi
+咁多咯	gan duo ge
+邊系喔	bian xi o
+落閘放狗	luo zha fang gou
+頸鍊	jing lian
+面青青	mian qing qing
+拈刺啖拈	nian ci dan nian
+樹熊仔	shu xiong zai
+塞坨子	sai tuo zi
+我應承你	wo ying cheng ni
+思縮	si suo
+咁未系咯	gan wei xi ge
+食緊屎	shi jin shi
+冇禮物	mao li wu
+眼轆轆	yan lu lu
+電油	dian you
+毛管	mao guan
+系唔系呢	xi wu xi ne
+咁又話	gan you hua
+勻巡	yun xun
+梗板	geng ban
+呾啖先	da dan xian
+籠仔包	long zai bao
+三行仔	san xing zai
+早抖	zao dou
+冧女	lin nv
+牙哨	ya shao
+咁你都系	gan ni dou xi
+巴渣	ba zha
+唔系幾	wu xi ji
+學我咁	xue wo gan
+倒眼	dao yan
+雲紗	yun sha
+你好好人	ni hao hao ren
+我都系咯	wo dou xi ge
+但又唔想	dan you wu xiang
+懶清高	lan qing gao
+一天光嗮	yi tian guang sai
+一餘咁話	yi yu gan hua
+牛王頭	niu wang tou
+唔忿氣	wu fen qi
+死八婆	si ba po
+搲開件衫	wa kai jian shan
+金牌女兒紅	jin pai nv er hong
+手掣	shou che
+貼堂	tie tang
+去左邊度	qu zuo bian du
+捉蛇入屎窟	zhuo she ru shi ku
+叉燒滾湯冇生肉	cha shao gun tang mao sheng rou
+羊城舊恨	yang cheng jiu hen
+乜咯	mie ge
+眼倔倔眼	yan jue jue yan
+精乖伶俐	jing guai ling li
+大褸	da lv
+硬系	ying xi
+一拍行	yi pai xing
+凍吖	dong ya
+做慣乞兒懶做官	zuo guan qi er lan zuo guan
+石狗公	shi gou gong
+阿崩叫狗越叫越走	a beng jiao gou yue jiao yue zou
+舊底	jiu di
+食唔出	shi wu chu
+落形	luo xing
+咁我呢	gan wo ne
+褪過啲	tui guo di
+懵閉閉	meng bi bi
+把心唔定	ba xin wu ding
+訓着未	xun zhe wei
+罨汁	yan zhi
+理佢	li qu
+字粒	zi li
+唔睬你	wu cai ni
+未壞	wei huai
+一些事一些情	yi xie shi yi xie qing
+勢兇	shi xiong
+大眼雞	da yan ji
+定嗮形	ding sai xing
+透火	tou huo
+理得佢	li de qu
+學咩專業	xue mie zhuan ye
+俾噶	bi ga
+望天打卦	wang tian da gua
+烚烚	xia xia
+想識我	xiang shi wo
+瓦渣	wa zha
+去左	qu zuo
+食腦	shi nao
+坎頭埋牆	kan tou mai qiang
+個喎	ge wai
+都曬氣	dou shai qi
+鳩呃犯	jiu e fan
+衰衰啖	shuai shuai dan
+做乜	zuo mie
+冇釐神氣	mao li shen qi
+鹹粒	xian li
+姨甥	yi sheng
+亞嬸	ya shen
+但唔代表	dan wu dai biao
+冇柄士巴拉得棚牙	mao bing shi ba la de peng ya
+着褲	zhe ku
+乜環境	mie huan jing
+公仔書	gong zai shu
+亞蛇	ya she
+大襟衫	da jin shan
+面褲	mian ku
+食唔死	shi wu si
+膝頭大過髀	xi tou da guo bi
+弟嫂	di sao
+屎忽	shi hu
+我都咁話	wo dou gan hua
+筠姐	yun jie
+惗好	nie hao
+十月蔗頭甜到尾	shi yue zhe tou tian dao wei
+人地咯	ren di ge
+豬尿煲	zhu niao bao
+亞嫂	ya sao
+籤埋名	qian mai ming
+濟軍	ji jun
+唔系嘅話	wu xi kai hua
+馴品	xun pin
+無嘅話	wu kai hua
+爆鏡	bao jing
+唔同	wu tong
+打種	da zhong
+都入咗	dou ru zuo
+埕埕塔塔	cheng cheng ta ta
+包屘	bao man
+正喺	zheng xi
+咁我同你	gan wo tong ni
+使婆	shi po
+出水紙	chu shui zhi
+山棯幹	shan ren gan
+死死下	si si xia
+正嗮	zheng sai
+死死嚇	si si xia
+燜熷	men zeng
+打赤肋	da chi le
+唔掂	wu dian
+揸正嚟做	zha zheng li zuo
+只系	zhi xi
+笠笠亂	li li luan
+著衫	zhu shan
+唔地	wu di
+禾塘	he tang
+唔抵	wu di
+你唔信	ni wu xin
+醒唔到	xing wu dao
+天拿水	tian na shui
+膽生毛	dan sheng mao
+香港七公主	xiang gang qi gong zhu
+起尾註	qi wei zhu
+送口菓	song kou guo
+起筷	qi kuai
+下扒輕輕	xia ba qing qing
+唔系我	wu xi wo
+要過咗	yao guo zuo
+梅酌	mei zhuo
+眼眉毛	yan mei mao
+頭刺	tou ci
+氣咳	qi ke
+四邊四便	si bian si bian
+甜曳曳	tian ye ye
+睬佢都戇	cai qu dou zhuang
+開口埋口	kai kou mai kou
+還錢俾你	hai qian bi ni
+對胸衫	dui xiong shan
+勸交	quan jiao
+有定無	you ding wu
+唔知死字點寫	wu zhi si zi dian xie
+上咗癮	shang zuo yin
+貼錯門神	tie cuo men shen
+膠喉	jiao hou
+掹貓尾	meng mao wei
+角落頭	jiao luo tou
+大人衫	da ren shan
+玩左	wan zuo
+數唔完	shu wu wan
+咁信	gan xin
+你咁嘅	ni gan kai
+乜話	mie hua
+反轉豬肚就喺屎	fan zhuan zhu du jiu xi shi
+近嚟	jin li
+重冇咁嬲	zhong mao gan niao
+頂肺	ding fei
+臭烹烹	chou peng peng
+早排	zao pai
+洗衫板	xi shan ban
+唔系嘅	wu xi kai
+有乜搞	you mie gao
+何璐怡	he lu yi
+鬥令	dou ling
+一日都喺感	yi ri dou xi gan
+洋貨鋪	yang huo pu
+甩皮	shuai pi
+冇掩雞籠自出自入	mao yan ji long zi chu zi ru
+鬥零	dou ling
+嘈冤巴閉	cao yuan ba bi
+你唔系	ni wu xi
+唔喺啖話	wu xi dan hua
+喺呢	xi ne
+重兼	zhong jian
+嘅手	kai shou
+新黎新豬肉	xin li xin zhu rou
+距叫	ju jiao
+夠算	gou suan
+墮角	duo jiao
+逢人憎	feng ren zeng
+竇利是	dou li shi
+西斜西紙	xi xie xi zhi
+神臺貓屎神憎鬼厭	shen tai mao shi shen zeng gui yan
+抵到爛	di dao lan
+新淨	xin jing
+唔怪之得	wu guai zhi de
+表肉	biao rou
+我都唔熟	wo dou wu shu
+就係咁樣	jiu xi gan yang
+梳乎釐	shu hu li
+放大咗	fang da zuo
+唔喺呀	wu xi ya
+乞米佬食死蟹只只好	qi mi lao shi si xie zhi zhi hao
+戒方	jie fang
+番梘	fan jian
+瓦煲	wa bao
+唔得解	wu de jie
+我都唔識	wo dou wu shi
+唔習慣	wu xi guan
+好返好多	hao fan hao duo
+距講	ju jiang
+硬唔硬	ying wu ying
+瓦背	wa bei
+嘸謂	fu wei
+啤啤仔	pi pi zai
+盲佬	mang lao
+饒原生	rao yuan sheng
+紮腳	za jiao
+呃人	e ren
+唔小心	wu xiao xin
+木不獨	mu bu du
+擤甩邊髀	xing shuai bian bi
+大掣	da che
+席嘛	xi ma
+二仔底	er zai di
+大喉欖	da hou lan
+一淠屎	yi pi shi
+訓啦	xun la
+洗吖	xi ya
+撞板多過食飯撞彩	zhuang ban duo guo shi fan zhuang cai
+肥田料	fei tian liao
+識惗	shi nie
+搵笨	wen ben
+貝比托夫	bei bi tuo fu
+褪腸頭	tui chang tou
+冇咁好氣	mao gan hao qi
+竹戰	zhu zhan
+騎呢怪	qi ne guai
+牛乳餅	niu ru bing
+竹絲雞	zhu si ji
+嘈喧巴閉	cao xuan ba bi
+出去行行	chu qu xing xing
+打國技	da guo ji
+走夾唔抖	zou jia wu dou
+日逗	ri dou
+喺唔喺	xi wu xi
+未學行	wei xue xing
+線步	xian bu
+穿窿	chuan long
+我訓着	wo xun zhe
+咁俾	gan bi
+天籟調聲法	tian lai diao sheng fa
+騎牛搵馬	qi niu wen ma
+梗系啦	geng xi la
+打地氣	da di qi
+你吹乜	ni chui mie
+冇事	mao shi
+咁嘅	gan kai
+搵條仔	wen tiao zai
+用過曬	yong guo shai
+人心肉做	ren xin rou zuo
+水圳	shui zhen
+摱車邊	man che bian
+整蠱作怪	zheng gu zuo guai
+沙津	sha jin
+甩鉸	shuai jiao
+廣水賓館	guang shui bin guan
+打白鴿轉	da bai ge zhuan
+勝瓜	sheng gua
+癡咗線	chi zuo xian
+伊撈七	yi lao qi
+照照板煮碗	zhao zhao ban zhu wan
+爆缸	bao gang
+復唔入	fu wu ru
+蚊吱	wen zhi
+爆格	bao ge
+挼乾淨件衫	rua qian jing jian shan
+大飲大食	da yin da shi
+介紹嘅	jie shao kai
+白扯子	bai che zi
+面黃黃	mian huang huang
+抹咗	mo zuo
+眼核	yan he
+鄭秀文跑步吳鎮宇	zheng xiu wen pao bu wu zhen yu
+個個都咁講	ge ge dou gan jiang
+唔製得過	wu zhi de guo
+周街	zhou jie
+與及	yu ji
+唔洗	wu xi
+好食懶飛	hao shi lan fei
+求先	qiu xian
+俾我聽啦	bi wo ting la
+爛癮	lan yin
+火水爐	huo shui lu
+腳肚瓤	jiao du rang
+爛竇	lan dou
+眼坦坦	yan tan tan
+返工司	fan gong si
+西裝友	xi zhuang you
+睇白	di bai
+靚媽	jing ma
+發開口夢	fa kai kou meng
+不留都	bu liu dou
+鼻哥窿	bi ge long
+橫風橫雨	heng feng heng yu
+衰貼地	shuai tie di
+死咗	si zuo
+永遠都唔會	yong yuan dou wu hui
+羅氣	luo qi
+你做乜遮	ni zuo mie zhe
+扎扎跳	zha zha tiao
+跌咗	die zuo
+柯打	ke da
+交通燈點紅點綠	jiao tong deng dian hong dian lv
+幼細	you xi
+冇手尾	mao shou wei
+嗮菲林唔見得光	sai fei lin wu jian de guang
+麻鷹	ma ying
+手指罅	shou zhi xia
+爛湴	lan ban
+暈暈沌沌	yun yun dun dun
+下鹹	xia xian
+密蠟	mi la
+橡筋箍	xiang jin gu
+南寧白話	nan ning bai hua
+棹忌	zhao ji
+食咗屎	shi zuo shi
+卜頭黨	bo tou dang
+趷跛跛	ke bo bo
+媽媽聲	ma ma sheng
+老馬失蹄	lao ma shi ti
+有鬼所謂	you gui suo wei
+蛇仔	she zai
+食波餅	shi bo bing
+未返到	wei fan dao
+滑牙	hua ya
+睬佢都傻	cai qu dou sha
+講起佢	jiang qi qu
+起身嚟	qi shen li
+感睇	gan di
+絲母	si mu
+咁都唔	gan dou wu
+迫挾	po xie
+戽被	hu bei
+爛生	lan sheng
+上我度	shang wo du
+需要嘅	xu yao kai
+形女	xing nv
+亞爸	ya ba
+魚生粥僅熟	yu sheng zhou jin shu
+大腳式	da jiao shi
+契家婆契媽	qi jia po qi ma
+睜眉突眼	zheng mei tu yan
+唔喺人啖品	wu xi ren dan pin
+賊亞爸	zei ya ba
+至多唔喺	zhi duo wu xi
+多多事事	duo duo shi shi
+鮓鬥	zha dou
+真繫有問題	zhen xi you wen ti
+橫荷	heng he
+原子粒	yuan zi li
+有啲似	you di shi
+喺迷咖	xi mi ka
+斜埔日	xie pu ri
+一起傾	yi qi qing
+癲癲廢廢	dian dian fei fei
+沓正	da zheng
+個女嘅	ge nv kai
+有咩事	you mie shi
+芋莢	yu jia
+局縮氣	ju suo qi
+去唔到了	qu wu dao le
+削膊	xue bo
+加加埋埋	jia jia mai mai
+閃爧	shan ling
+爆屎	bao shi
+大釵	da chai
+好鬼痛	hao gui tong
+佮手	ge shou
+麒麟臂	qi lin bi
+粵語學習網	yue yu xue xi wang
+彈咗	dan zuo
+系佢	xi qu
+姨媽姑姐	yi ma gu jie
+我寫嘅	wo xie kai
+想話	xiang hua
+周身刀無張利	zhou shen dao wu zhang li
+梗系唔會	geng xi wu hui
+拍手無塵	pai shou wu chen
+錫嘴仔	xi zui zai
+距話	ju hua
+差唔多	cha wu duo
+份人	fen ren
+人地送	ren di song
+得返一個	de fan yi ge
+小學仔	xiao xue zai
+下午有咩	xia wu you mie
+受唔住	shou wu zhu
+屈質	qu zhi
+大個仔	da ge zai
+葫蘆王	hu lu wang
+棍仔	gun zai
+方死冇人知	fang si mao ren zhi
+激活咗	ji huo zuo
+奸賴	jian lai
+冇咩興趣	mao mie xing qu
+漏口佬	lou kou lao
+咪得囖	mi de lo
+我叫佢地	wo jiao qu di
+賀州白話	he zhou bai hua
+唔通氣	wu tong qi
+隔夜油炸鬼冇釐火氣	ge ye you zha gui mao li huo qi
+落嗮形病貓	luo sai xing bing mao
+抵力	di li
+一身筋	yi shen jin
+臭丸	chou wan
+運返來	yun fan lai
+好玩嘅	hao wan kai
+攣毛	luan mao
+搞幺司	gao yao si
+咩快遞	mie kuai di
+老齧齧	lao nie nie
+呢種人	ne zhong ren
+飛機打交高鬥	fei ji da jiao gao dou
+我冇着	wo mao zhe
+屌你乜	diao ni mie
+調左	diao zuo
+配音組	pei yin zu
+盲公盲公餅	mang gong mang gong bing
+想食乜	xiang shi mie
+企系度	qi xi du
+冇仔生	mao zai sheng
+系咪好快	xi mi hao kuai
+訓陣覺	xun zhen jue
+南越民族	nan yue min zu
+駁古	bo gu
+駁骨	bo gu
+熱滯	re zhi
+翳滯	yi zhi
+都系人地	dou xi ren di
+汁執	zhi zhi
+妗母	jin mu
+又屙又嘔	you e you ou
+盎瓶子	ang ping zi
+爭交	zheng jiao
+狗蝨	gou shi
+水殼	shui ke
+留堂	liu tang
+搞掂嗮	gao dian sai
+摁口	en kou
+散紙	san zhi
+生蟲柺杖靠唔住	sheng chong guai zhang kao wu zhu
+崖兜灑	ya dou sa
+時哩沙啦	shi li sha la
+好耐無見	hao nai wu jian
+人客生埗	ren ke sheng bu
+唔相信	wu xiang xin
+四方木	si fang mu
+得未	de wei
+呢集	ne ji
+關咗個	guan zuo ge
+詐嬌	zha jiao
+好易醉	hao yi zui
+扯貓尾	che mao wei
+唔上黎	wu shang li
+最重要嘅	zui zhong yao kai
+衫袋	shan dai
+畫耳上牆	hua er shang qiang
+走唔走到	zou wu zou dao
+老舉寨	lao ju zhai
+殺攤	sha tan
+啪拿	pa na
+面口	mian kou
+膠輪機	jiao lun ji
+走唔走得	zou wu zou de
+閉翳	bi yi
+冚檔	kan dang
+呥呥食	ran ran shi
+個啝	ge he
+肯定冇啦	ken ding mao la
+唔喺	wu xi
+睇病	di bing
+個囉	ge luo
+個啲	ge di
+咁得啦	gan de la
+金山丁	jin shan ding
+唔夠佢嚟	wu gou qu li
+腦囟	nao xin
+邪流丸王子	xie liu wan wang zi
+拼沉	pin chen
+坑腩	keng nan
+計佢	ji qu
+差住先	cha zhu xian
+知到	zhi dao
+削仔	xue zai
+崩口人忌崩口碗	beng kou ren ji beng kou wan
+大頭綠衣	da tou lv yi
+撻頭	ta tou
+我意思系話	wo yi si xi hua
+咁難明	gan nan ming
+夾唔到	jia wu dao
+墨劇	mo ju
+學師仔	xue shi zai
+香笄	xiang ji
+一舊水	yi jiu shui
+搵咯	wen ge
+一泡氣	yi pao qi
+揸頸就命	zha jing jiu ming
+補返	bu fan
+槐枝	huai zhi
+一戙都冇	yi dong dou mao
+咁老友	gan lao you
+好鬼嘈	hao gui cao
+有錢嘅	you qian kai
+笑口噬噬	xiao kou shi shi
+巴嚟帽	ba li mao
+未咖	wei ka
+抹下汗	mo xia han
+唔憤氣	wu fen qi
+煙屎煙友	yan shi yan you
+外母	wai mu
+食碗麪反碗底	shi wan mian fan wan di
+笑到嘎嘎聲	xiao dao ga ga sheng
+沒識	mei shi
+易過借火	yi guo jie huo
+剌剌淋	la la lin
+肥肥白白	fei fei bai bai
+無野	wu ye
+魚尾雲	yu wei yun
+崎士	qi shi
+橫脷	heng li
+講到話	jiang dao hua
+咁都可以	gan dou ke yi
+似樣	shi yang
+糟質	zao zhi
+出來飲	chu lai yin
+猜呈沉	cai cheng chen
+行兩步	xing liang bu
+乜名	mie ming
+爽手	shuang shou
+粵語說書	yue yu shuo shu
+騎咧	qi lie
+拎返	lin fan
+加零一	jia ling yi
+咁就會	gan jiu hui
+戙篤企	dong du qi
+我無飲	wo wu yin
+好俾面	hao bi mian
+眼枷	yan jia
+運腳	yun jiao
+執波仔	zhi bo zai
+軟皮蛇	ruan pi she
+運桔	yun ju
+米搞啦	mi gao la
+抽掅	chou qing
+你講得巖	ni jiang de yan
+鹹煎餅	xian jian bing
+拾下拾下	shi xia shi xia
+賒數	she shu
+呢件	ne jian
+屎鬥	shi dou
+艾邦拉荷	ai bang la he
+艾保爾	ai bao er
+艾比奧爾	ai bi ao er
+艾比度	ai bi du
+艾比路亞	ai bi lu ya
+恩波里	en bo li
+奀雌雌	en ci ci
+阿超著褲穀住來	a chao zhu ku gu zhu lai
+安察洛堤	an cha luo di
+阿迪達	a di da
+艾迪拜約	ai di bai yue
+愛地大廈	ai di da sha
+愛都路	ai dou lu
+艾杜亞度	ai du ya du
+安達臣	an da chen
+奧度	ao du
+艾夫華	ai fu hua
+惡瞓	e fen
+阿古蘭尼	a gu lan ni
+阿古路	a gu lu
+安嘎	an ga
+安古路	an gu lu
+餓過饑	e guo ji
+耳勾	er gou
+阿妗	a jin
+捱饑抵餓	ai ji di e
+阿拉貢尼斯	a la gong ni si
+艾馬臣	ai ma chen
+艾美臣	ai mei chen
+艾美利亞	ai mei li ya
+奧馬眼鏡	ao ma yan jing
+奀妹	en mei
+奧拿裏奧	ao na li ao
+恩尼斯達	en ni si da
+奀嫋鬼命	en niao gui ming
+奀嫋嫋	en niao niao
+阿人	a ren
+愛榕園	ai rong yuan
+愛斯賓奴	ai si bin nu
+艾沙雲	ai sha yun
+艾殊利高爾	ai shu li gao er
+奧沙	ao sha
+奧沙辛拿	ao sha xin na
+恩沙基	en sha ji
+奀瘦	en shou
+歐曬	ou shai
+澳頭村	ao tou cun
+奧脫福	ao tuo fu
+奀挑鬼命	en tiao gui ming
+艾辛	ai xin
+愛心路	ai xin lu
+安些	an xie
+坳下村	ao xia cun
+惡揗揗	e xun xun
+奀細	en xi
+歐下	ou xia
+啊啞奪着死貓	a ya duo zhe si mao
+捱眼瞓	ai yan fen
+安業馨園	an ye xin yuan
+奧雲	ao yun
+二醫院	er yi yuan
+腌臢腥悶	a za xing men
+醃臢腥悶	yan za xing men
+耳仔竉	er zai long
+愛華路	ai hua lu
+餲堪堪	ai kan kan
+跋杯	ba bei
+白白下	bai bai xia
+柏比	bai bi
+鈑彼	ban bi
+貝碧托夫	bei bi tuo fu
+嗶嗶機	bi bi ji
+碧波花園	bi bo hua yuan
+碧波中學	bi bo zhong xue
+並並樣	bing bing yang
+波缽	bo bo
+蔔蔔脆	bo bo cui
+卜蔔脆	bo bo cui
+八達膠管	ba da jiao guan
+巴迪斯達	ba di si da
+柏達臣	bai da chen
+保頓	bao dun
+貝迪素	bei di su
+北斗路	bei dou lu
+北斗小學	bei dou xiao xue
+北墩	bei dun
+鼻腍	bi ren
+擘大個口得個竉	bai da ge kou de ge long
+八卦二路	ba gua er lu
+八卦工業區	ba gua gong ye qu
+八卦路	ba gua lu
+八卦三路	ba gua san lu
+八卦四路	ba gua si lu
+八卦一路	ba gua yi lu
+班格爾馬辛席	ban ge er ma xin xi
+揼工	beng gong
+鼻哥竉	bi ge long
+缽櫃	bo gui
+北郊公園	bei jiao gong yuan
+碧基	bi ji
+弊家夥	bi jia huo
+筆架山水廠	bi jia shan shui chang
+筆架山莊	bi jia shan zhuang
+比腳劃手	bi jiao hua shou
+邊檢依山居	bian jian yi shan ju
+濱江新村	bin jiang xin cun
+缽酒	bo jiu
+布吉海關	bu ji hai guan
+布吉聯檢站	bu ji lian jian zhan
+布吉路	bu ji lu
+布吉農批市場	bu ji nong pi shi chang
+布吉錢樹排	bu ji qian shu pai
+布吉食街總站	bu ji shi jie zong zhan
+布吉西湖新村總站	bu ji xi hu xin cun zong zhan
+布吉鎮政府	bu ji zhen zheng fu
+罷啦	ba la
+巴拉查	ba la cha
+巴黎帽	ba li mao
+巴黎聖日門	ba li sheng ri men
+巴路士	ba lu shi
+拜老公	bai lao gong
+拜老爺	bai lao ye
+柏路達	bai lu da
+半裏	ban li
+邦利拿	bang li na
+寶利來翠景華庭	bao li lai cui jing hua ting
+寶麗路	bao li lu
+寶嶺山莊	bao ling shan zhuang
+保路斯基	bao lu si ji
+貝麗北路	bei li bei lu
+比勒費爾德	bi lei fei er de
+比歷	bi li
+比歷連尼	bi li lian ni
+比列堤	bi lie di
+碧嶺村	bi ling cun
+波歷克	bo li ke
+白芒聯檢站	bai mang lian jian zhan
+寶民二路	bao min er lu
+寶民路	bao min lu
+表盲仔	biao mang zai
+畢婆	bi po
+搏撲克	bo pu ke
+搬錢	ban qian
+抦佢	bing qu
+搏錢	bo qian
+波琴	bo qin
+扮嗮嘢	ban sai ye
+曝粟	pu su
+比斯卓夫	bi si zhuo fu
+賓斯馬	bin si ma
+白曬曬	bai shai shai
+拜神唔見鷄	bai shen wu jian ji
+百仕達花園	bai shi da hua yuan
+白石二道	bai shi er dao
+白石路	bai shi lu
+白石三道	bai shi san dao
+白石四道	bai shi si dao
+扮曬嘢	ban shai ye
+半山翠林花園	ban shan cui lin hua yuan
+寶深路	bao shen lu
+北山灣泳場	bei shan wan yong chang
+北師大附小	bei shi da fu xiao
+比沙路	bi sha lu
+畢昇路	bi sheng lu
+布沙路	bu sha lu
+把舦	ba tai
+拔桶	ba tong
+阪田汽車站	ban tian qi che zhan
+包檯	bao tai
+賓特拿	bin te na
+缽頭	bo tou
+布田	bu tian
+八仙嶺公園	ba xian ling gong yuan
+碧霞莊南	bi xia zhuang nan
+波辛華	bo xin hua
+波裇	bo xu
+布心	bu xin
+布心花園	bu xin hua yuan
+布心路	bu xin lu
+布心山湖居總站	bu xin shan hu ju zong zhan
+布心市場	bu xin shi chang
+扮嘢	ban ye
+餅藥	bing yao
+蔔嘢	bo ye
+卜嘢	bo ye
+步涌村	bu yong cun
+白斬鷄	bai zhan ji
+扳著臉	ban zhu lian
+病症仔	bing zheng zai
+白皚嘥	bai ai sai
+寶安北路	bao an bei lu
+保安村	bao an cun
+寶安廣場	bao an guang chang
+寶安南路	bao an nan lu
+寶安汽車站	bao an qi che zhan
+寶安區政府	bao an qu zheng fu
+寶安自來水廠	bao an zi lai shui chang
+畢爾包	bi er bao
+賓艾化	bin ai hua
+寶城一區	bao cheng yi qu
+保方	bao fang
+北方大廈	bei fang da sha
+泵風	beng feng
+賓菲加	bin fei jia
+柏夫尤真高	bai fu you zhen gao
+百合路	bai he lu
+百花公寓	bai hua gong yu
+百花路	bai hua lu
+百花路口	bai hua lu kou
+百花四路	bai hua si lu
+北環大道	bei huan da dao
+碧海花園	bi hai hua yuan
+碧海路	bi hai lu
+濱河路口	bin he lu kou
+濱河總站	bin he zong zhan
+鼻空	bi kong
+柏拿甸奴	bai na dian nu
+白泥坑	bai ni keng
+白泥坑村	bai ni keng cun
+班納貝	ban na bei
+奔你約	ben ni yue
+比拿	bi na
+比拿勇	bi na yong
+抦你	bing ni
+補泥	bu ni
+百載網吧	bai zai wang ba
+保贊	bao zan
+背仔角	bei zai jiao
+反鬥	fan dou
+飛達仕網吧	fei da shi wang ba
+費迪南	fei di nan
+瞓低	fen di
+粉豆	fen dou
+楓丹雅苑	feng dan ya yuan
+風豆	feng dou
+芙薘	fu da
+浮東	fu dong
+反瞓	fan fen
+飛髮	fei fa
+飛髮剪	fei fa jian
+飛髮佬	fei fa lao
+飛髮舖	fei fa pu
+狒狒哋	fei fei die
+佛佛子	fu fu zi
+浮風	fu feng
+發吽哣	fa hong pou
+芳華苑	fang hua yuan
+費華利	fei hua li
+鳳凰村	feng huang cun
+鳳凰劇院	feng huang ju yuan
+佛話	fu hua
+福虹路	fu hong lu
+福華三路	fu hua san lu
+福華四路	fu hua si lu
+福華新村	fu hua xin cun
+福華一路	fu hua yi lu
+發鷄盲	fa ji mang
+飛機裇	fei ji xu
+瞓覺	fen jue
+福景花園	fu jing hua yuan
+拚爛	pan lan
+番梨	fan li
+費拉利	fei la li
+費拉拿	fei la na
+瞓捩頸	fen lie jing
+芬倫	fen lun
+浮隴	fu long
+菠蘿蔴	bo luo ma
+菠蘿山	bo luo shan
+布力般流浪	bu li ban liu lang
+布歷治	bu li zhi
+布龍公路	bu long gong lu
+風門坳	feng men ao
+福民村	fu min cun
+福民佳園	fu min jia yuan
+福民路	fu min lu
+福民新村	fu min xin cun
+福明路	fu ming lu
+放尿	fang niao
+放尿放屎	fang niao fang shi
+費南迪斯	fei nan di si
+粉鳥	fen niao
+芬寧斯	fen ning si
+福南小學	fu nan xiao xue
+福寧路	fu ning lu
+福強路	fu qiang lu
+福橋花園	fu qiao hua yuan
+福慶街	fu qing jie
+發生咩事	fa sheng mie shi
+翻身村	fan shen cun
+翻身大道	fan shen da dao
+放屎	fang shi
+飛廈	fei sha
+風時雨	feng shi yu
+反為	fan wei
+瞓王	fen wang
+瞓未	fen wei
+風尾雷	feng wei lei
+發噏風發喑話	fa xi feng fa yin hua
+飛翔網吧	fei xiang wang ba
+肥揗揗	fei xun xun
+逢系	feng xi
+浮西	fu xi
+富鹹	fu xian
+福祥街	fu xiang jie
+福鑫苑	fu xin yuan
+福星花園	fu xing hua yuan
+福興樓	fu xing lou
+福星路	fu xing lu
+赴圩	fu wei
+飛燕諾	fei yan nuo
+風涌	feng yong
+福雅園	fu ya yuan
+附一	fu yi
+婦幼活動中心	fu you huo dong zhong xin
+福園花園	fu yuan hua yuan
+擦屎	ca shi
+彩世界家園	cai shi jie jia yuan
+嘈生曬	cao sheng shai
+厝下	cuo xia
+粗重嘢	cu zhong ye
+參叉路口	can cha lu kou
+粗堵	cu du
+厝頂	cuo ding
+菜幹	cai gan
+從怪	cong guai
+彩虹大廈	cai hong da sha
+草猴	cao hou
+翠湖工業區	cui hu gong ye qu
+財經學校	cai jing xue xiao
+刺毛風蟲	ci mao feng chong
+草埔	cao pu
+草埔嚇屋大廈	cao pu xia wu da sha
+草埔總站	cao pu zong zhan
+刺噗	ci pu
+刺噗老爺	ci pu lao ye
+財氣死	cai qi si
+踩臺	cai tai
+彩田居	cai tian ju
+彩田路	cai tian lu
+菜薳	cai wei
+菜英路	cai ying lu
+彩雲路	cai yun lu
+草魚粥	cao yu zhou
+湊啱	cou yan
+翠園花園	cui yuan hua yuan
+翠園街	cui yuan jie
+翠園路	cui yuan lu
+菜栽	cai zai
+刺仔	ci zai
+翠北小學	cui bei xiao xue
+查啊你臘臘	cha a ni la la
+長安花園	zhang an hua yuan
+潮安汽車站	chao an qi che zhan
+脹卜蔔	zhang bo bo
+長城大廈	zhang cheng da sha
+長城招待所	zhang cheng zhao dai suo
+長春路	zhang chun lu
+黐黐	chi chi
+重重遝遝	chong chong ta ta
+叉夠臘	cha gou la
+差舘	cha guan
+茶光村	cha guang cun
+炒糕粿	chao gao guo
+車公廟	che gong miao
+車公廟工業區	che gong miao gong ye qu
+車管所訓練場	che guan suo xun lian chang
+晨光路	chen guang lu
+池個	chi ge
+癡哥	chi ge
+癡哥鬼	chi ge gui
+癡哥兄	chi ge xiong
+窗鈎	chuang gou
+棖鷄	cheng ji
+棖鷄婆	cheng ji po
+長江倉	zhang jiang cang
+長江路東	zhang jiang lu dong
+長江路西	zhang jiang lu xi
+長江路中	zhang jiang lu zhong
+車檢大廈	che jian da sha
+澄江路口	cheng jiang lu kou
+赤窖	chi jiao
+黐筋	chi jin
+臭際	chou ji
+柴浪	chai lang
+長樂花園	zhang le hua yuan
+車路士	che lu shi
+成力	cheng li
+黐脷根	chi li gen
+楚略	chu lve
+穿竉	chuan long
+吹呂	chui lv
+茶米	cha mi
+黐孖筋	chi ma jin
+癡孖筋	chi ma jin
+吃們	chi men
+吹咩	chui mie
+春梅里	chun mei li
+觸牛肉	chu niu rou
+長平路西	zhang ping lu xi
+長平路中	zhang ping lu zhong
+抄牌觘	chao pai chao
+臭屁蝲	chou pi la
+長勝大廈	zhang sheng da sha
+長盛路	zhang sheng lu
+潮汕歌曲	chao shan ge qu
+潮汕客運站	chao shan ke yun zhan
+潮汕路客運站	chao shan lu ke yun zhan
+城市傑作	cheng shi jie zuo
+齒漱	chi shu
+查斯古特	cha si gu te
+赤灣二路	chi wan er lu
+赤灣六路	chi wan liu lu
+赤灣路	chi wan lu
+赤灣三路	chi wan san lu
+赤灣四路	chi wan si lu
+赤灣五路	chi wan wu lu
+赤尾天橋	chi wei tian qiao
+拆藥	chai yao
+巉眼	chan yan
+單眼簷	dan yan yan
+長源村	zhang yuan cun
+潮語	chao yu
+潮語歌曲	chao yu ge qu
+程洋崗	cheng yang gang
+黐牙	chi ya
+黐牙黐爪	chi ya chi zhao
+創業路	chuang ye lu
+春源工業村	chun yuan gong ye cun
+稱籽	cheng zi
+黐咗線	chi zuo xian
+春澤園	chun ze yuan
+單弔西	dan diao xi
+摻多	can duo
+車大奅	che da pao
+臭到滾	chou dao gun
+川迪	chuan di
+牀底破柴撞曬大板	chuang di po chai zhuang shai da ban
+長榮路口	zhang rong lu kou
+長泰花園	zhang tai hua yuan
+黐頭婆	chi tou po
+池塗	chi tu
+春天時	chun tian shi
+長髮東路	zhang fa dong lu
+長髮西路	zhang fa xi lu
+長髮中路	zhang fa zhong lu
+長福花園	zhang fu hua yuan
+喫飯	chi fan
+廚房階磚鹹濕	chu fang jie zhuan xian shi
+春風路	chun feng lu
+單係	dan xi
+常興路	chang xing lu
+扯綫	che xian
+赤西北	chi xi bei
+黐綫	chi xian
+黐線	chi xian
+抽歇未	chou xie wei
+長虹科技大廈	zhang hong ke ji da sha
+潮海酒店	chao hai jiu dian
+澄海路	cheng hai lu
+澄海汽車總站	cheng hai qi che zong zhan
+澄海外砂鎮	cheng hai wai sha zhen
+搊後腳	chou hou jiao
+春輝學校	chun hui xue xiao
+池塊	chi kuai
+陳慈黌故居	chen ci hong gu ju
+陳厝合	chen cuo he
+黐餐	chi can
+沖菜	chong cai
+刺流	ci liu
+大邦	da bang
+打包踭	da bao zheng
+達部	da bu
+打甂爐	da bian lu
+德堡	de bao
+弔煲	diao bao
+迪保斯基	di bao si ji
+迪比亞路	di bi ya lu
+腍鼻	ren bi
+斷柄鋤頭無摣拿	duan bing chu tou wu zha na
+對波	dui bo
+大場天港	da chang tian gang
+大誠商場	da cheng shang chang
+大沖水廠路	da chong shui chang lu
+戥稱	deng cheng
+東昌總站	dong chang zong zhan
+搭錯綫	da cuo xian
+大地苑	da di yuan
+沊低	dan di
+沊低個頭	dan di ge tou
+噉都得	dan dou de
+氹氹	dang dang
+氹氹轉	dang dang zhuan
+倒弔荷包	dao diao he bao
+倒弔冇滴墨水	dao diao mao di mo shui
+大發路	da fa lu
+袋糞	dai fen
+但凡但係	dan fan dan xi
+但凡但系	dan fan dan xi
+睇風水	di feng shui
+迪富賓館	di fu bin guan
+電髮	dian fa
+腍佛	ren fu
+東方村	dong fang cun
+東方公園	dong fang gong yuan
+東方體育樂園	dong fang ti yu le yuan
+東方溫	dong fang wen
+東方之珠大酒店	dong fang zhi zhu da jiu dian
+東風溫	dong feng wen
+豆腐膶	dou fu run
+達葛治	da ge zhi
+打鼓地	da gu di
+沊高個頭	dan gao ge tou
+擔官	dan guan
+地缸	di gang
+迪高	di gao
+地個	di ge
+弔頸	diao jing
+達濠工業區	da hao gong ye qu
+達濠海馬池	da hao hai ma chi
+大河村	da he cun
+大華路口	da hua lu kou
+大華路南	da hua lu nan
+大華路中	da hua lu zhong
+扽蝦籠	den xia long
+帝豪酒店	di hao jiu dian
+唸嚇先	nian xia xian
+東和公園	dong he gong yuan
+東湖村	dong hu cun
+東湖客運站	dong hu ke yun zhan
+東湖汽車站	dong hu qi che zhan
+東湖醫院	dong hu yi yuan
+東湖遊樂場	dong hu you le chang
+大家都噉話	da jia dou dan hua
+大窖	da jiao
+大覺瞓	da jue fen
+大妗	da jin
+擔家	dan jia
+唸計	nian ji
+叼鳩你	diao jiu ni
+疊金	die jin
+大勘村	da kan cun
+噉款	dan kuan
+對摳	dui kou
+大浪村	da lang cun
+大粒嘢	da li ye
+大林水產	da lin shui chan
+達倫賓特	da lun bin te
+打鑼啖搵	da luo dan wen
+打鑼噉搵	da luo dan wen
+打鑼咁搵	da luo gan wen
+帶柳絲	dai liu si
+嘚啦	de la
+嘚喇	de la
+登良路	deng liang lu
+迪羅斯	di luo si
+打孖	da ma
+大梅沙海濱公園	da mei sha hai bin gong yuan
+大梅沙口岸	da mei sha kou an
+大梅沙旅遊中心	da mei sha lv you zhong xin
+大梅沙隧道	da mei sha sui dao
+大面缽	da mian bo
+耽眉仔	dan mei zai
+噉咪啱囉	dan mi yan luo
+噉咪啱羅	dan mi yan luo
+道明尼	dao ming ni
+睇乜嘢	di mie ye
+睇咩嘢	di mie ye
+弔命	diao ming
+電毛	dian mao
+東門北路	dong men bei lu
+東門中	dong men zhong
+鬥木	dou mu
+獨目	du mu
+短目子	duan mu zi
+丹尼臣	dan ni chen
+氹你開心	dang ni kai xin
+鄧尼	deng ni
+弔泥艋	diao ni meng
+叼你老帽	diao ni lao mao
+叼你老母	diao ni lao mu
+叼你老鼠	diao ni lao shu
+叼你咩	diao ni mie
+叼你屎忽	diao ni shi hu
+釣妞	diao niu
+頂你嗰肺	ding ni ge fei
+訂你腰龜	ding ni yao gui
+杜拿蘭	du na lan
+大奅	da pao
+大奅友	da pao you
+大鵬鎮	da peng zhen
+大肶	da pi
+腍啤啤	ren pi pi
+東鵬大廈	dong peng da sha
+東鵬工業大廈	dong peng gong ye da sha
+扽氣	den qi
+弔起嚟賣	diao qi li mai
+扚起佢	diao qi qu
+扚起心肝	diao qi xin gan
+唞氣	dou qi
+大肉飯	da rou fan
+睇日	di ri
+大嘥	da sai
+大餸	da song
+迪斯甸	di si dian
+第四人民醫院	di si ren min yi yuan
+雕塑家園	diao su jia yuan
+杜斯山度士	du si shan du shi
+大曬	da shai
+耷濕	da shi
+達施華	da shi hua
+大世紀花園	da shi ji hua yuan
+擔屎都唔偸食	dan shi dou wu tou shi
+宕石風景區	dang shi feng jing qu
+宕石嶺頂	dang shi ling ding
+倒手邊	dao shou bian
+倒樹	dao shu
+大田世居	da tian shi ju
+達頭	da tou
+大頭好亮	da tou hao liang
+埭頭	dai tou
+噉頭噉樣	dan tou dan yang
+地甜	di tian
+大望村	da wang cun
+地王大廈	di wang da sha
+弔尾弔味	diao wei diao wei
+迪維斯	di wei si
+睇唔對個人影	di wu dui ge ren ying
+睇五行	di wu xing
+堵吾兌	du wu dui
+短薳	duan wei
+大鄉裏	da xiang li
+大小姆	da xiao mu
+大學路頭	da xue lu tou
+丹霞莊	dan xia zhuang
+抌心口	dan xin kou
+德興花園	de xing hua yuan
+點係呀點知	dian xi ya dian zhi
+點系呀點知	dian xi ya dian zhi
+定係	ding xi
+東廈中學	dong sha zhong xue
+東曉路	dong xiao lu
+都係咁	dou xi gan
+獨係	du xi
+獨系	du xi
+多謝曬	duo xie shai
+大眼鷄	da yan ji
+大嘢	da ye
+大圓工業區	da yuan gong ye qu
+擔膶	dan run
+丹陽莊	dan yang zhuang
+沊一聲	dan yi sheng
+啖又系	dan you xi
+噉又係	dan you xi
+噉又喺	dan you xi
+噉又系	dan you xi
+睇嘢	di ye
+滴硬大便	di ying da bian
+迪雲菲	di yun fei
+腍厴	ren yan
+唸嘢	nian ye
+抌咗	dan zuo
+迪佐路	di zuo lu
+電子技術學校	dian zi ji shu xue xiao
+打眞軍	da zhen jun
+大支嘢	da zhi ye
+大枝嘢	da zhi ye
+噉重得	dan zhong de
+丹竹頭村	dan zhu tou cun
+德政路	de zheng lu
+地珍時	di zhen shi
+弔鐘	diao zhong
+地主爺	di zhu ye
+咥住	xi zhu
+咥住嗮	xi zhu sai
+肚腫	du zhong
+弔弔	diao diao
+嗲弔	die diao
+嗲嗲弔	die die diao
+嗲嗲渧	die die di
+點搭二	dian da er
+爹哋	die die
+東墩	dong dun
+肚腍	du ren
+多地塊	duo di kuai
+多地仔	duo di zai
+啲衰嘢	di shuai ye
+腍善	ren shan
+喋曬糖咁款	die shai tang gan kuan
+定曬形	ding shai xing
+訂衫	ding shan
+鼎勝朗園	ding sheng lang yuan
+東廈北路	dong sha bei lu
+東廈路南	dong sha lu nan
+東廈南路中	dong sha nan lu zhong
+東山路	dong shan lu
+都市名園	du shi ming yuan
+獨樹村	du shu cun
+豆乾	dou qian
+豆膶	dou run
+肚腰	du yao
+東華大廈	dong hua da sha
+都幾喺嘢	dou ji xi ye
+都幾係嘢	dou ji xi ye
+都幾系嘢	dou ji xi ye
+鬥鷄眼	dou ji yan
+剁雞	duo ji
+多蒙特	duo meng te
+法比安奴	fa bi an nu
+費比加斯	fei bi jia si
+福濱新村	fu bin xin cun
+返潮話梅又鹹又濕	fan chao hua mei you xian you shi
+費查	fei cha
+發展銀行大廈	fa zhan yin xing da sha
+發展中心大廈	fa zhan zhong xin da sha
+犯眾憎飯鏟頭	fan zhong zeng fan chan tou
+反轉豬肚就係屎	fan zhuan zhu du jiu xi shi
+番蔥	fan cong
+費格遜	fei ge xun
+拚撇	pan pie
+拚撇嚟	pan pie li
+飛天蠄蟧	fei tian qin lao
+肥腯腯	fei tu tu
+福濤東園	fu tao dong yuan
+福田保稅區	fu tian bao shui qu
+福田黨校	fu tian dang xiao
+福田科技廣場	fu tian ke ji guang chang
+福田南	fu tian nan
+福田南路	fu tian nan lu
+福田汽車站	fu tian qi che zhan
+福田新區委	fu tian xin qu wei
+福田中心大廈	fu tian zhong xin da sha
+福田中學	fu tian zhong xue
+福田中醫院	fu tian zhong yi yuan
+豐澤花園	feng ze hua yuan
+福安街	fu an jie
+附二	fu er
+父二母仔	fu er mu zai
+婦兒醫院	fu er yi yuan
+鎅玻璃	jie bo li
+甘比亞素	gan bi ya su
+崗貝村	gang bei cun
+鋼筆水	gang bi shui
+高柏尼	gao bai ni
+高貝利	gao bei li
+膏筆	gao bi
+嗰邊	ge bian
+古比	gu bi
+粿板	guo ban
+嘎嘎輸	ga ga shu
+敢敢做你來	gan gan zuo ni lai
+嗰槓嘢	ge gang ye
+嗰個	ge ge
+嗰個人	ge ge ren
+哥古夫	ge gu fu
+恭過水蚊	gong guo shui wen
+恭過只鴨	gong guo zhi ya
+夠旰	gou gan
+夠掛	gou gua
+穀古	gu gu
+光棍佬遇著冇皮柴	guang gun lao yu zhu mao pi chai
+果嗰	guo ge
+嘎勒浪代	ga lei lang dai
+港蓮二村	gang lian er cun
+港蓮路	gang lian lu
+港隆城購物中心	gang long cheng gou wu zhong xin
+高麗幼兒園	gao li you er yuan
+高路斯	gao lu si
+告魯斯	gao lu si
+高洛仙尼	gao luo xian ni
+格蘭德大酒店	ge lan de da jiu dian
+格倫莊遜	ge lun zhuang xun
+頸鬁	jing li
+頸鏈	jing lian
+古利	gu li
+古裏古怪	gu li gu guai
+怪浪	guai lang
+觀瀾村	guan lan cun
+觀瀾第二中學	guan lan di er zhong xue
+觀瀾汽車站	guan lan qi che zhan
+觀瀾影劇院	guan lan ying ju yuan
+觀瀾鎮政府	guan lan zhen zheng fu
+官龍村	guan long cun
+咁撚死樣	gan nian si yang
+蛤乸	ha na
+公乸	gong na
+狗乸	gou na
+穀牛	gu niu
+寡年	gua nian
+幹濕褸	gan shi lv
+幹手淨腳	gan shou jing jiao
+廣廈新城	guang sha xin cheng
+廣深高速公路	guang shen gao su gong lu
+廣深公路	guang shen gong lu
+過水濕腳	guo shui shi jiao
+尕娃	ga wa
+港灣大道	gang wan da dao
+嗰位	ge wei
+個物	ge wu
+購物公園	gou wu gong yuan
+國威路	guo wei lu
+咁啱	gan yan
+咁啱嘅	gan yan kai
+咁又係	gan you xi
+咁又系	gan you xi
+搞嘢	gao ye
+嘅嘢	kai ye
+廣銀西友酒店	guang yin xi you jiu dian
+桂園路	gui yuan lu
+鎅紙刀	jie zhi dao
+高踭鞋	gao zheng xie
+高治	gao zhi
+嗰陣	ge zhen
+嗰陣時個	ge zhen shi ge
+割粙	ge zhou
+葛朱	ge zhu
+割豬肉	ge zhu rou
+夠鐘	gou zhong
+古莊臣	gu zhuang chen
+過紙	guo zhi
+粿汁	guo zhi
+過鐘	guo zhong
+甘莫蘭尼斯	gan mo lan ni si
+港美站	gang mei zhan
+高美斯	gao mei si
+光明街道	guang ming jie dao
+光明農場	guang ming nong chang
+桂廟新村	gui miao xin cun
+古爾沙	gu er sha
+葛陳	ge chen
+嗰處	ge chu
+棺柴	guan chai
+廣場輪渡	guang chang lun du
+弓村	gong cun
+咁都嘚	gan dou de
+搞掂曬	gao dian shai
+嗰啲	ge di
+嗰啲嘢	ge di ye
+嗰度	ge du
+哥度巴	ge du ba
+紅當當	hong dang dang
+古迪仙尼	gu di xian ni
+官埭新鄉	guan dai xin xiang
+躀低	guan di
+官棣新鄉	guan di xin xiang
+廣達路	guang da lu
+高禾	gao he
+共和路	gong he lu
+共和世家	gong he shi jia
+光華路東	guang hua lu dong
+光華路西	guang hua lu xi
+光華路中	guang hua lu zhong
+國皇大廈	guo huang da sha
+咁就啱	gan jiu yan
+個鏡	ge jing
+弓蕉	gong jiao
+公交大廈	gong jiao da sha
+光鷄	guang ji
+鬼甲馬到吼	gui jia ma dao hou
+滾攪曬	gun jiao shai
+高科利大廈	gao ke li da sha
+工課	gong ke
+幹散	gan san
+狗酸	gou suan
+港田中學	gang tian zhong xue
+崗頭	gang tou
+崗頭村	gang tou cun
+嗰條友	ge tiao you
+官田村	guan tian cun
+粿條	guo tiao
+粿條面	guo tiao mian
+粿條湯	guo tiao tang
+國通大廈	guo tong da sha
+戇闙鬮	zhuang qi jiu
+光前村	guang qian cun
+嗰日	ge ri
+夠日	gou ri
+鬼日	gui ri
+過如	guo ru
+崗廈中學	gang sha zhong xue
+高新電腦中心	gao xin dian nao zhong xin
+高新科技園	gao xin ke ji yuan
+高新科技園北區	gao xin ke ji yuan bei qu
+哽係	geng xi
+梗係	geng xi
+廣興村	guang xing cun
+國新花園	guo xin hua yuan
+高發佳苑	gao fa jia yuan
+個噃	ge fan
+工紡大廈	gong fang da sha
+國防基地	guo fang ji di
+國豐大酒店	guo feng da jiu dian
+嗰排	ge pai
+蛤婆	ha po
+國票	guo piao
+耕仔	geng zai
+鬼讚	gui zan
+過咗海就係神仙	guo zuo hai jiu xi shen xian
+海濱東路	hai bin dong lu
+海濱廣場	hai bin guang chang
+海濱花園	hai bin hua yuan
+好吧斃咩	hao ba bi mie
+哼鼻	heng bi
+湖貝路	hu bei lu
+環碧莊	huan bi zhuang
+黃貝嶺	huang bei ling
+黃貝路	huang bei lu
+濠城海馬池	hao cheng hai ma chi
+濠城郵電局	hao cheng you dian ju
+侯城	hou cheng
+華城花園	hua cheng hua yuan
+火車貨站	huo che huo zhan
+火車路	huo che lu
+火車站西廣場	huo che zhan xi guang chang
+海都花園	hai dou hua yuan
+喊噉口	han dan kou
+航都大廈	hang dou da sha
+好腍	hao ren
+好多度	hao duo du
+賀迪	he di
+核電花園	he dian hua yuan
+後底乸	hou di na
+睺鬥	hou dou
+護堤路南	hu di lu nan
+戽鬥邊	hu dou bian
+皇都廣場	huang dou guang chang
+海關大樓	hai guan da lou
+海關療養院	hai guan liao yang yuan
+函蓋弄欣	han gai nong xin
+蠔粿	hao guo
+橫崗鎮政府	heng gang zhen zheng fu
+紅崗花園	hong gang hua yuan
+紅崗路	hong gang lu
+紅桂大廈	hong gui da sha
+紅桂路	hong gui lu
+花果路	hua guo lu
+花果山大廈	hua guo shan da sha
+皇崗邊防檢查站	huang gang bian fang jian cha zhan
+皇崗村	huang gang cun
+皇崗村口	huang gang cun kou
+皇崗婦幼保健院	huang gang fu you bao jian yuan
+皇崗口岸	huang gang kou an
+皇崗商務中心	huang gang shang wu zhong xin
+哈化柏林	ha hua bo lin
+海皇大廈	hai huang da sha
+好話為	hao hua wei
+嚇嚇你	xia xia ni
+荷花市場	he hua shi chang
+洪湖西路	hong hu xi lu
+後海村	hou hai cun
+後海小學	hou hai xiao xue
+華宏信通工業園	hua hong xin tong gong ye yuan
+黃河路	huang he lu
+好靜嘔	hao jing ou
+黃黚黚	huang qian qian
+黃猄黃麖	huang jing huang jing
+匯景城	hui jing cheng
+活基治	huo ji zhi
+海蓮大廈	hai lian da sha
+海龍大廈	hai long da sha
+頷領	han ling
+翰嶺苑	han ling yuan
+蠔烙	hao lao
+禾路連	he lu lian
+恆立心海灣花園	heng li xin hai wan hua yuan
+洪浪北路	hong lang bei lu
+洪浪南路	hong lang nan lu
+紅荔北路	hong li bei lu
+紅荔路	hong li lu
+紅荔園	hong li yuan
+紅嶺大廈	hong ling da sha
+紅領巾路東	hong ling jin lu dong
+紅領巾路西	hong ling jin lu xi
+紅嶺小學	hong ling xiao xue
+紅嶺中路	hong ling zhong lu
+紅嶺中學	hong ling zhong xue
+侯利亞	hou li ya
+猴玲青兄	hou ling qing xiong
+睺路	hou lu
+胡禮菲臘斯	hu li fei la si
+胡鬑須	hu lian xu
+鬍鬑鬚	hu lian xu
+葫蘆市	hu lu shi
+華拉度列	hua la du lie
+華朗	hua lang
+航母世界	hang mu shi jie
+黑孖孖	hei ma ma
+黑癦屎	hei me shi
+黃木崗	huang mu gang
+海旁路	hai pang lu
+海旁路中	hai pang lu zhong
+海平路	hai ping lu
+好撲母個	hao pu mu ge
+吽哣	hong pou
+海潤公司	hai run gong si
+華潤君悅酒店	hua run jun yue jiu dian
+哈聳	ha song
+胡絲	hu si
+華素爾	hua su er
+好啱	hao yan
+好嘢	hao ye
+河沿北路	he yan bei lu
+河園路	he yuan lu
+鴻穎大廈	hong ying da sha
+胡蠅	hu ying
+華藝大廈	hua yi da sha
+花園賓館	hua yuan bin guan
+郇嘢	huan ye
+皇御花園	huang yu hua yuan
+匯源工業區總站	hui yuan gong ye qu zong zhan
+混餚	hun yao
+海做照生	hai zuo zhao sheng
+好仔	hao zai
+海山路	hai shan lu
+海上世界	hai shang shi jie
+海盛大廈	hai sheng da sha
+海是	hai shi
+海是作泥	hai shi zuo ni
+海是做泥	hai shi zuo ni
+浩盛隆工業園	hao sheng long gong ye yuan
+合曬合尺	he shai he chi
+喝生曬	he sheng shai
+衡曬	heng shai
+衡山北路	heng shan bei lu
+衡山路花木市場	heng shan lu hua mu shi chang
+紅柿	hong shi
+睺實佢	hou shi qu
+礐石大橋	que shi da qiao
+礐石輪渡	que shi lun du
+華山北路	hua shan bei lu
+華山南路	hua shan nan lu
+華山中路	hua shan zhong lu
+海棠園	hai tang yuan
+海濤花園	hai tao hua yuan
+華特工業區	hua te gong ye qu
+黃田村	huang tian cun
+皇庭彩園	huang ting cai yuan
+夥頭	huo tou
+夥頭軍	huo tou jun
+海外裝飾大廈	hai wai zhuang shi da sha
+好無聊喔	hao wu liao o
+好閑	hao xian
+好心著雷劈	hao xin zhu lei pi
+合信華美花園	he xin hua mei hua yuan
+鴻新花園	hong xin hua yuan
+胡仙歷	hu xian li
+胡須刨	hu xu pao
+胡須公	hu xu gong
+胡須佬	hu xu lao
+胡須簕特	hu xu le te
+鬍鬚簕特	hu xu le te
+華夏新城大廈	hua xia xin cheng da sha
+華新城	hua xin cheng
+華新路	hua xin lu
+華新路口	hua xin lu kou
+華新小學	hua xin xiao xue
+華興服裝工業園	hua xing fu zhuang gong ye yuan
+滑揗揗	hua xun xun
+皇興大廈	huang xing da sha
+賀芬鹹	he fen xian
+禾夫斯堡	he fu si bao
+華髮大廈	hua fa da sha
+華富村	hua fu cun
+華富路	hua fu lu
+華富小學	hua fu xiao xue
+華富中學	hua fu zhong xue
+華凱大廈	hua kai da sha
+好餲	hao ai
+荷坳村	he ao cun
+鴻安路	hong an lu
+洪安路	hong an lu
+洪安圍	hong an wei
+宏奧工業園	hong ao gong ye yuan
+禾確	he que
+紅橋路	hong qiao lu
+華強大廈	hua qiang da sha
+華強路口	hua qiang lu kou
+華強中學	hua qiang zhong xue
+華僑博物館	hua qiao bo wu guan
+華僑城醫院	hua qiao cheng yi yuan
+華僑公園	hua qiao gong yuan
+華僑酒店	hua qiao jiu dian
+華僑醫院	hua qiao yi yuan
+皇洲花園	huang zhou hua yuan
+灰轉頭	hui zhuan tou
+華麗環島	hua li huan dao
+華麗路	hua li lu
+華麗西村	hua li xi cun
+花僆	hua lian
+華聯大廈	hua lian da sha
+花僆女	hua lian nv
+花僆仔	hua lian zai
+灰路頭	hui lu tou
+鑊黸	huo lu
+劃鼠	hua shu
+黃山路	huang shan lu
+火燒棺材大歎	huo shao guan cai da tan
+火燒旗杆長歎	huo shao qi gan zhang tan
+皇崗雙擁公園	huang gang shuang yong gong yuan
+匯港名城	hui gang ming cheng
+雞安	ji an
+基奧雲高	ji ao yun gao
+基奧雲尼	ji ao yun ni
+激奀	ji en
+甲岸村	jia an cun
+建安一路	jian an yi lu
+金鈪	jin e
+基拔圖	ji ba tu
+鷄髀打人牙鉸軟	ji bi da ren ya jiao ruan
+趌跛跛	ji bo bo
+嘉賓路	jia bin lu
+鉸布	jiao bu
+金寶城大廈	jin bao cheng da sha
+金碧路	jin bi lu
+徑貝村	jing bei cun
+聚寶路	ju bao lu
+腳車	jiao che
+喼槍	jie qiang
+金城大廈	jin cheng da sha
+雞噉腳	ji dan jiao
+鷄噉腳	ji dan jiao
+機電綜合大廈	ji dian zong he da sha
+甲東街	jia dong jie
+加度素	jia du su
+講的啱	jiang de yan
+膠刀	jiao dao
+噍唞氣	jiao dou qi
+金達來幼兒園	jin da lai you er yuan
+金稻田路	jin dao tian lu
+金地海景花園	jin di hai jing hua yuan
+金地花園	jin di hua yuan
+徑肚	jing du
+晶都城大酒店	jing du cheng da jiu dian
+京都大酒店	jing du da jiu dian
+集福酒店	ji fu jiu dian
+喼弗	jie fu
+金豐城	jin feng cheng
+金鳳壇	jin feng tan
+景福大廈	jing fu da sha
+幾咁閑	ji gan xian
+鷄公	ji gong
+際光	ji guang
+集華花園	ji hua hua yuan
+吉華路	ji hua lu
+蛟湖路	jiao hu lu
+捷禾	jie he
+金海大廈	jin hai da sha
+金湖大廈	jin hu da sha
+金湖二街	jin hu er jie
+金湖路	jin hu lu
+金湖路中	jin hu lu zhong
+金湖橋	jin hu qiao
+金湖橋西	jin hu qiao xi
+金湖西路	jin hu xi lu
+金湖一街	jin hu yi jie
+金湖中路	jin hu zhong lu
+今輝	jin hui
+錦暉苑	jin hui yuan
+京湖酒家	jing hu jiu jia
+晶華魚丸	jing hua yu wan
+巨揈	ju hong
+假假地都係	jia jia di dou xi
+假假地都系	jia jia di dou xi
+交警考場	jiao jing kao chang
+金雞路	jin ji lu
+經濟大廈	jing ji da sha
+靜鷄鷄	jing ji ji
+焗腳	ju jiao
+趌路	ji lu
+甲浪磅	jia lang bang
+加歷查	jia li cha
+加利尼維利	jia li ni wei li
+嘉麟豪庭	jia lin hao ting
+甲領撲	jia ling pu
+剪哩羅	jian li luo
+簡路迪	jian lu di
+膠羅死	jiao luo si
+捷連尼	jie lian ni
+金龍大廈	jin long da sha
+金隴站	jin long zhan
+聚龍大廈	ju long da sha
+焗爐	ju lu
+鷄毛掃	ji mao sao
+雞母	ji mu
+雞母皮青浮	ji mu pi qing fu
+講咩	jiang mie
+講咩啊	jiang mie a
+講乜嘢咖	jiang mie ye ka
+喼帽	jie mao
+淨麵	jing mian
+焗悶	ju men
+雞乸	ji na
+基拿甸奴	ji na dian nu
+雞乸雞乸婆	ji na ji na po
+鷄乸鷄乸婆	ji na ji na po
+加拿斯	jia na si
+甲你物去	jia ni wu qu
+佳寧娜廣場	jia ning na guang chang
+簡拿華路	jian na hua lu
+簡尼沙利斯	jian ni sha li si
+堅尼亞	jian ni ya
+簡奴	jian nu
+京南路	jing nan lu
+掘你靈精	jue ni ling jing
+鷄泡魚	ji pao yu
+雞肶	ji pi
+鷄皮紙	ji pi zhi
+金鵬路	jin peng lu
+妗婆	jin po
+鋸帕弦	ju pa xian
+揵起	qian qi
+焗親	ju qin
+際人	ji ren
+甲人甲人尚	jia ren jia ren shang
+今日視線	jin ri shi xian
+金融路	jin rong lu
+驚日	jing ri
+焗熱	ju re
+吉廈村	ji sha cun
+鷄腎	ji shen
+鷄腎衣	ji shen yi
+鷄塒	ji shi
+極速網吧	ji su wang ba
+鷄歲	ji sui
+傢俬什物	jia si shi wu
+家俬什物	jia si shi wu
+傢俬雜物	jia si za wu
+家俬雜物	jia si za wu
+膠掃	jiao sao
+浸死鴨乸	jin si ya na
+雞條	ji tiao
+鷄同鴨講	ji tong ya jiang
+加特拿	jia te na
+腳頭	jiao tou
+錦泰花園	jin tai hua yuan
+金泰莊	jin tai zhuang
+金塘街	jin tang jie
+金濤莊	jin tao zhuang
+金田路	jin tian lu
+金通大廈	jin tong da sha
+景田小學	jing tian xiao xue
+就頭來	jiu tou lai
+軍田路	jun tian lu
+駿庭名園	jun ting ming yuan
+鷄尾	ji wei
+基維爾	ji wei er
+雞晤食蔗	ji wu shi zhe
+較為	jiao wei
+金威大廈	jin wei da sha
+經緯廣場	jing wei guang chang
+即係	ji xi
+即系	ji xi
+幾係	ji xi
+幾系	ji xi
+鷄項鷄子	ji xiang ji zi
+吉祥南路	ji xiang nan lu
+機械大廈	ji xie da sha
+基謝拉	ji xie la
+激心	ji xin
+鷄心肺	ji xin fei
+激血	ji xue
+金新北路	jin xin bei lu
+金新路北	jin xin lu bei
+金新路口	jin xin lu kou
+金新南路	jin xin nan lu
+淨係	jing xi
+景新花園	jing xin hua yuan
+景秀中學	jing xiu zhong xue
+景軒大酒店	jing xuan da jiu dian
+就係囉	jiu xi luo
+鋸弦	ju xian
+鷄翼袖	ji yi xiu
+嘉悅閣	jia yue ge
+堅嘢	jian ye
+講嘢	jiang ye
+講嘢啊	jiang ye a
+傑嘢	jie ye
+捷雲頓	jie yun dun
+金葉島	jin ye dao
+金銀膶	jin yin run
+金園法院	jin yuan fa yuan
+金園路東	jin yuan lu dong
+靖月	jing yue
+居雅苑	ju ya yuan
+聚友網吧	ju you wang ba
+幾在	ji zai
+鷄仔餅	ji zai bing
+鷄仔媒人	ji zai mei ren
+甲仔	jia zai
+經澤大廈	jing ze da sha
+基治	ji zhi
+濟腫肚	ji zhong du
+鷄啄唔斷	ji zhuo wu duan
+甲正街	jia zheng jie
+薑酌	jiang zhuo
+腳踭	jiao zheng
+膠只	jiao zhi
+喼汁	jie zhi
+喼紙	jie zhi
+京治	jing zhi
+焗盅	ju zhong
+腳倉	jiao cang
+腳村堵椅嘴堵奔	jiao cun du yi zui du ben
+截菜	jie cai
+金彩花園	jin cai hua yuan
+徑口村	jing kou cun
+辛厝寮	xin cuo liao
+西城品閣	xi cheng pin ge
+西衝渡假村	xi chong du jia cun
+辛城花園	xin cheng hua yuan
+細價	xi jia
+香筓	xiang ji
+香筓腳	xiang ji jiao
+香江傢俬城	xiang jiang jia si cheng
+香徑路	xiang jing lu
+新紀元大廈	xin ji yuan da sha
+巡警大隊	xun jing da dui
+先科花園	xian ke hua yuan
+西麗果場	xi li guo chang
+西麗湖渡假村	xi li hu du jia cun
+西麗火車站	xi li huo che zhan
+西麗陽光工業園	xi li yang guang gong ye yuan
+西麗職校	xi li zhi xiao
+西麗總站	xi li zong zhan
+西嶺下	xi ling xia
+西嶺下村	xi ling xia cun
+溪南鎮	xi nan zhen
+係呢	xi ne
+系呢	xi ne
+冼拿	xian na
+向南路	xiang nan lu
+想娘	xiang niang
+辛尼迪	xin ni di
+辛尼特	xin ni te
+鹹濕	xian shi
+西山嚇	xi shan xia
+蓆攝底	xi she di
+下沙村	xia sha cun
+下水徑	xia shui jing
+綫衫	xian shan
+香山東街	xiang shan dong jie
+象燒	xiang shao
+想食人隻車	xiang shi ren zhi che
+相輸	xiang shu
+泄曬	xie shai
+新廈工業區總站	xin sha gong ye qu zong zhan
+新沙九街	xin sha jiu jie
+新沙六街	xin sha liu jie
+新沙七街	xin sha qi jie
+新沙十一街	xin sha shi yi jie
+新深大廈	xin shen da sha
+新生村	xin sheng cun
+新世界大廈	xin shi jie da sha
+金砂公園	jin sha gong yuan
+金砂僑社	jin sha qiao she
+金砂西路	jin sha xi lu
+金砂鄉	jin sha xiang
+金砂鄉北	jin sha xiang bei
+金砂中路	jin sha zhong lu
+精神中心	jing shen zhong xin
+舉登站	ju deng zhan
+焗焗縮縮	ju ju suo suo
+卡比路	ka bi lu
+冚棒唥	kan bang lang
+卡富	ka fu
+開飯啦	kai fan la
+凱豐路	kai feng lu
+康復醫院	kang fu yi yuan
+科發路	ke fa lu
+哭父死母	ku fu si mu
+開濠	kai hao
+口壺	kou hu
+葵花園	kui hua yuan
+卡精	ka jing
+褲橛	ku jue
+卡蘭積卡	ka lan ji ka
+卡路士	ka lu shi
+卡羅奧	ka luo ao
+康樂大廈	kang le da sha
+口立濕	kou li shi
+炕麵包	kang mian bao
+卡拿迪斯	ka na di si
+康寧醫院	kang ning yi yuan
+開舖	kai pu
+卡斯魯厄	ka si lu e
+卡斯拿斯	ka si na si
+卡素拿	ka su na
+康泰娛樂城	kang tai yu le cheng
+看想	kan xiang
+卡域克	ka yu ke
+凱越華庭	kai yue hua ting
+瞌眼瞓合桃	ke yan fen he tao
+科苑花園	ke yuan hua yuan
+口岸大隊	kou an da dui
+口岸醫院	kou an yi yuan
+康達爾花園	kang da er hua yuan
+苦瓜噉嘅面	ku gua dan kai mian
+坑梓鎮	keng zi zhen
+扣針	kou zhen
+葵衝鎮	kui chong zhen
+老奀茄	lao en jia
+利安路	li an lu
+利安路口	li an lu kou
+良安田	liang an tian
+滷鵝	lu e
+臘比	la bi
+老餠	lao bing
+列貝利	lie bei li
+林柏特	lin bai te
+林百欣科技中專	lin bai xin ke ji zhong zhuan
+林百欣中學	lin bai xin zhong xue
+領被	ling bei
+流鼻	liu bi
+羅比堅尼	luo bi jian ni
+洛賓	luo bin
+羅賓奴	luo bin nu
+李察士	li cha shi
+龍城大道	long cheng da dao
+龍城路	long cheng lu
+攋低	la di
+朗底褲	lang di ku
+浪堵	lang du
+簕竇	le dou
+凜抌	lin dan
+睩大眼	lu da yan
+鹿丹村	lu dan cun
+路燈大廈	lu deng da sha
+攞膽	luo dan
+洛迪古斯	luo di gu si
+攞啲嘢	luo di ye
+呂擔	lv dan
+垃圾篸	la ji can
+撈鷄	lao ji
+里賈納	li jia na
+練江路口	lian jiang lu kou
+攣瓹	luan juan
+列基美	lie ji mei
+溜鷄	liu ji
+龍井二路	long jing er lu
+龍井路	long jing lu
+龍井一路	long jing yi lu
+漏鷄	lou ji
+擸擸亂亂	lie lie luan luan
+擸擸埋埋	lie lie mai mai
+揦脷	la li
+躝嚟躝去	lan li lan qu
+雷嶺	lei ling
+李朗村	li lang cun
+麗樂美居	li le mei ju
+力落	li luo
+零零丁丁	ling ling ding ding
+六聯村	liu lian cun
+揦埋	la mai
+萊美路口	lai mei lu kou
+老貓燒鬚	lao mao shao xu
+撈面	lao mian
+撈麵	lao mian
+樂毛	le mao
+僆妹	lian mei
+攞命	luo ming
+攋尿蝦	la niao xia
+蘭尼	lan ni
+老嚙嚙	lao nie nie
+連拿	lian na
+蓮南小學	lian nan xiao xue
+連儂	lian nong
+啦蹼哩奧	la pu li ao
+老婆乸	lao po na
+兩撇鷄	liang pie ji
+龍平東路	long ping dong lu
+攞便宜	luo pian yi
+樂羣小學	le qun xiao xue
+粒球	li qiu
+龍秋街	long qiu jie
+龍泉街道	long quan jie dao
+龍泉巖	long quan yan
+滷蠐	lu qi
+擸嗮網頂	lie sai wang ding
+拉素	la su
+藍斯	lan si
+盧斯奧	lu si ao
+擸曬網頂	lie shai wang ding
+揦手	la shou
+躝屍	lan shi
+躝屍趷路	lan shi ke lu
+郎山路	lang shan lu
+藍天綠都花園	lan tian lv dou hua yuan
+藍天綠都家園	lan tian lv dou jia yuan
+戀塘	lian tang
+連塘村	lian tang cun
+蓮塘立交	lian tang li jiao
+蓮塘路	lian tang lu
+蓮塘小學	lian tang xiao xue
+蓮塘新遼	lian tang xin liao
+蓮塘總站	lian tang zong zhan
+擸網頂	lie wang ding
+荔灣路	li wan lu
+龍尾路	long wei lu
+揦西	la xi
+拉綫	la xian
+浪險	lang xian
+老想著	lao xiang zhu
+荔香公園	li xiang gong yuan
+荔香街	li xiang jie
+荔香源小區	li xiang yuan xiao qu
+立新路	li xin lu
+力行鷄	li xing ji
+蓮下鎮政府	lian xia zhen zheng fu
+聯興大廈	lian xing da sha
+龍翔大道	long xiang da dao
+魯錫斯基	lu xi si ji
+亂噏無為	luan xi wu wei
+亂噏無爲	luan xi wu wei
+亂噏廿四	luan xi nian si
+老嘢	lao ye
+老嘢老友	lao ye lao you
+老一中	lao yi zhong
+樂業園	le ye yuan
+荔園小學	li yuan xiao xue
+蓮陽	lian yang
+蓮陽東站	lian yang dong zhan
+領嘢	ling ye
+領姨個肚	ling yi ge du
+領咦塊幾	ling yi kuai ji
+留醫部	liu yi bu
+六約	liu yue
+六約村	liu yue cun
+龍園路	long yuan lu
+魯營	lu ying
+掠魚	lve yu
+攞嘢	luo ye
+落雨濕濕	luo yu shi shi
+落雨絲濕	luo yu si shi
+綠茵莊	lv yin zhuang
+粒籽散了	li zi san le
+僆仔	lian zai
+兩仔乸	liang zai na
+漏仔	lou zai
+路仔	lu zai
+揦鮓	la zha
+揦住	la zhu
+唥鍾	lang zhong
+唥鐘	lang zhong
+扐住	le zhu
+荔枝公園	li zhi gong yuan
+兩鎮中學	liang zhen zhong xue
+良知網吧	liang zhi wang ba
+靈鍾暱納	ling zhong ni na
+龍珠大道	long zhu da dao
+落種	luo zhong
+攞住	luo zhu
+爛瞓	lan fen
+爛瞓豬爛鬼	lan fen zhu lan gui
+嘞噃	lei fan
+樂飛輪	le fei lun
+理發店	li fa dian
+理發師傅	li fa shi fu
+龍福路	long fu lu
+羅芳村	luo fang cun
+羅芳路	luo fang lu
+狼過華秀隻狗	lang guo hua xiu zhi gou
+磊廣路口	lei guang lu kou
+蓮果	lian guo
+龍崗路	long gang lu
+龍崗區政府	long gang qu zheng fu
+龍崗鎮汽車站	long gang zhen qi che zhan
+羅崗工業區	luo gang gong ye qu
+羅崗派出所	luo gang pai chu suo
+老虎乸	lao hu na
+老虎頭上釘蝨乸	lao hu tou shang ding shi na
+利禾奴	li he nu
+麗湖花園	li hu hua yuan
+李華度	li hua du
+聯合廣場	lian he guang chang
+蓮花北	lian hua bei
+蓮花北路	lian hua bei lu
+蓮花二村	lian hua er cun
+蓮花三村	lian hua san cun
+蓮花小學	lian hua xiao xue
+蓮花一村	lian hua yi cun
+蓮花中學	lian hua zhong xue
+臨海路	lin hai lu
+陵海招待所	ling hai zhao dai suo
+流花醫院	liu hua yi yuan
+龍河路	long he lu
+龍湖村	long hu cun
+龍湖樂園	long hu le yuan
+龍湖路	long hu lu
+龍湖人民醫院	long hu ren min yi yuan
+龍華老汽車站	long hua lao qi che zhan
+龍華汽車站	long hua qi che zhan
+龍華人民醫院	long hua ren min yi yuan
+龍華市場	long hua shi chang
+龍華鎮政府	long hua zhen zheng fu
+磊口	lei kou
+列卡特	lie ka te
+攞苦嚟辛	luo ku li xin
+理數	li shu
+蓮上	lian shang
+蓮十路	lian shi lu
+林沈	lin shen
+啉食酒	lin shi jiu
+龍勝村	long sheng cun
+漏屎	lou shi
+廬山大廈	lu shan da sha
+廬山路口	lu shan lu kou
+亂曬坑	luan shai keng
+羅沙公路	luo sha gong lu
+羅沙路	luo sha lu
+落神婆	luo shen po
+竉竉罅罅	long long xia xia
+竉路	long lu
+路鈴中	lu ling zhong
+路倫	lu lun
+攞來	luo lai
+羅離	luo li
+攞嚟賤	luo li jian
+攞嚟講	luo li jiang
+攞嚟衰	luo li shuai
+螺嶺	luo ling
+羅湖金威啤酒廠	luo hu jin wei pi jiu chang
+羅湖汽車站	luo hu qi che zhan
+羅湖區看守所	luo hu qu kan shou suo
+羅湖區委	luo hu qu wei
+羅湖商城	luo hu shang cheng
+羅湖外國語學校	luo hu wai guo yu xue xiao
+羅湖小學	luo hu xiao xue
+羅湖中學	luo hu zhong xue
+攞景	luo jing
+攞景贈慶	luo jing zeng qing
+綠景花園	lv jing hua yuan
+綠景藍灣半島	lv jing lan wan ban dao
+馬白蘭基	ma bai lan ji
+孖辮	ma bian
+沒北	mei bei
+矇查查	meng zha zha
+麵豉	mian shi
+馬德里體育會	ma de li ti yu hui
+馬甸尼	ma dian ni
+埋擔	mai dan
+邁擔無	mai dan wu
+埋擔這個	mai dan zhe ge
+梅東路	mei dong lu
+米杜士堡	mi du shi bao
+孭帶	mie dai
+名都酒店	ming dou jiu dian
+孖份	ma fen
+梅豐路	mei feng lu
+孭飛	mie fei
+馬乾	ma qian
+嘛個	ma ge
+孖公仔	ma gong zai
+媽宮站	ma gong zhan
+邁幹	mai gan
+梅崗路	mei gang lu
+梅崗南街	mei gang nan jie
+馬華路禾尼	ma hua lu he ni
+賣花讚花香	mai hua zan hua xiang
+美華大廈	mei hua da sha
+梅華路	mei hua lu
+咩話	mie hua
+孭鑊	mie huo
+暝昏	ming hun
+馬基利尼	ma ji li ni
+馬家龍工業區	ma jia long gong ye qu
+燜焗	men ju
+米基爾	mi ji er
+麻勘村	ma kan cun
+馬昆斯	ma kun si
+麥卡菲	mai ka fei
+邁科龍大廈	mai ke long da sha
+梅康路	mei kang lu
+搣開	mie kai
+麻嶺	ma ling
+馬騮乾	ma liu qian
+梅林聯檢站	mei lin lian jian zhan
+麻麻哋	ma ma die
+嘛嘛哋	ma ma die
+賣莫	mai mo
+孖女	ma nv
+貓乸	mao na
+沒吶	mei na
+明寧花園	ming ning hua yuan
+馬坪	ma ping
+孖鋪	ma pu
+米舖	mi pu
+麻雀嶺工業村	ma que ling gong ye cun
+邁去擔	mai qu dan
+眠起早	mian qi zao
+眠起早頓	mian qi zao dun
+棉裘	mian qiu
+無情鷄	wu qing ji
+嗎日	ma ri
+暝日	ming ri
+馬斯查蘭奴	ma si cha lan nu
+馬斯卓蘭奴	ma si zhuo lan nu
+麥薩斯	mai sa si
+買餸	mai song
+毛蘇	mao su
+美斯	mei si
+米斯達	mi si da
+默斯達	mo si da
+目澀死	mu se si
+麥士維	mai shi wei
+冇曬	mao shai
+冇曬表情冇曬符	mao shai biao qing mao shai fu
+冇曬癮	mao shai yin
+癦屎	me shi
+梅沙醫院	mei sha yi yuan
+門扇後	men shan hou
+孭書包	mie shu bao
+民生檔案	min sheng dang an
+無曬表情無曬符	wu shai biao qing wu shai fu
+無曬癮	wu shai yin
+蔴糖鷄	ma tang ji
+馬特拉斯	ma te la si
+馬田村	ma tian cun
+馬田斯	ma tian si
+埋檯	mai tai
+民田路	min tian lu
+抹臺布	mo tai bu
+摩特歷	mo te li
+木頭龍	mu tou long
+媽灣	ma wan
+媽灣港	ma wan gang
+馬些路	ma xie lu
+買鹹	mai xian
+冇相幹	mao xiang gan
+木溪東口	mu xi dong kou
+慕遜加柏	mu xun jia bai
+蔴油	ma you
+蒙在鼓裏	meng zai gu li
+棉嘴邊	mian zui bian
+孭仔	mie zai
+木仔	mu zai
+孖展	ma zhan
+馬真拿	ma zhen na
+茂洲	mao zhou
+民治村	min zhi cun
+民治村委	min zhi cun wei
+民治路	min zhi lu
+明珠大道	ming zhu da dao
+明珠道	ming zhu dao
+明珠廣場	ming zhu guang chang
+明珠花園	ming zhu hua yuan
+明珠路	ming zhu lu
+明珠影劇院	ming zhu ying ju yuan
+貓兒洗面係咁意	mao er xi mian xi gan yi
+暝暗仔	ming an zai
+梅彩路	mei cai lu
+梅村路	mei cun lu
+米列圖	mi lie tu
+鳴樂街	ming le jie
+摩連迪斯	mo lian di si
+摩連奴	mo lian nu
+踎低	mou di
+踎墩	mou dun
+某嘢價	mou ye jia
+拿玻裏	na bo li
+拿度甸奴	na du dian nu
+南墩	nan dun
+呢單嘢	ne dan ye
+你哋	ni die
+拿華路	na hua lu
+南海橫路	nan hai heng lu
+南航公司	nan hang gong si
+你好嘢	ni hao ye
+尼赫治	ni he zhi
+撚化	nian hua
+牛湖村	niu hu cun
+拿姆	na mu
+孻屘	nai man
+檸檬頂	ning meng ding
+糯米鷄	nuo mi ji
+孻女	nai nv
+紐乸	niu na
+牛奶公司	niu nai gong si
+南沙村	nan sha cun
+南山安置區	nan shan an zhi qu
+南山村	nan shan cun
+南山大道	nan shan da dao
+南山法院	nan shan fa yuan
+南山公安分局	nan shan gong an fen ju
+南山農批	nan shan nong pi
+南山區黨校	nan shan qu dang xiao
+南山文體中心	nan shan wen ti zhong xin
+南山醫院	nan shan yi yuan
+內衫	nei shan
+尼史葛	ni shi ge
+撚手菜	nian shou cai
+寧水花園	ning shui hua yuan
+拿斯尼	na si ni
+尼斯達	ni si da
+尼維特	ni wei te
+紐文西亞	niu wen xi ya
+˲Ť牛唔飲水唔撳得牛	˲Ť niu wu yin shui wu qin de niu
+乸型	na xing
+你係得嘅	ni xi de kai
+你星夜啊迷	ni xing ye a mi
+農軒路	nong xuan lu
+奶瓜	nai gua
+孻瓜	nai gua
+呢槓嘢	ne gang ye
+泥崗村	ni gang cun
+泥崗東路	ni gang dong lu
+泥崗西路	ni gang xi lu
+牛臯	niu gao
+孻仔	nai zai
+弄總	nong zong
+奴仔	nu zai
+撚住	nian zhu
+南澳鎮	nan ao zhen
+你愛做泥啊	ni ai zuo ni a
+泥爾	ni er
+南方明珠花園	nan fang ming zhu hua yuan
+南方藥廠	nan fang yao chang
+燶飯	nong fan
+南科移動通信機樓	nan ke yi dong tong xin ji lou
+孬看死	nao kan si
+紐卡素	niu ka su
+農科中心	nong ke zhong xin
+南聯村	nan lian cun
+南聯路	nan lian lu
+南嶺村	nan ling cun
+南嶺醫院	nan ling yi yuan
+鳥叻	niao le
+農林路	nong lin lu
+牛肉粿條	niu rou guo tiao
+南天國際商場	nan tian guo ji shang chang
+南天花園	nan tian hua yuan
+南頭公安站	nan tou gong an zhan
+南頭聯檢站	nan tou lian jian zhan
+南頭中學	nan tou zhong xue
+南頭總站	nan tou zong zhan
+凝天時	ning tian shi
+南油大廈	nan you da sha
+南油花園	nan you hua yuan
+南油酒店	nan you jiu dian
+南園村	nan yuan cun
+南園路	nan yuan lu
+念嘢	nian ye
+農園路	nong yuan lu
+年腳	nian jiao
+廿九夜	nian jiu ye
+內充公	nei chong gong
+你吹咩	ni chui mie
+鳥稱	niao cheng
+拈刺噉拈	nian ci dan nian
+鵬程二路	peng cheng er lu
+鵬城花園	peng cheng hua yuan
+鵬程三路	peng cheng san lu
+鵬程四路	peng cheng si lu
+鵬程五路	peng cheng wu lu
+鵬程一路	peng cheng yi lu
+拍乸	pai na
+彭年酒店	peng nian jiu dian
+平南大道	ping nan da dao
+平南路	ping nan lu
+婆乸	po na
+普寧豆乾	pu ning dou qian
+爬三領四	pa san ling si
+派司砵	pai si bo
+拍粟	pai su
+排榜村	pai bang cun
+啤把	pi ba
+拍寸運	pai cun yun
+樸茨茅夫	pu ci mao fu
+鵬達路	peng da lu
+彭迪安尼	peng di an ni
+平擔	ping dan
+坪地鎮	ping di zhen
+坪地鎮政府	ping di zhen zheng fu
+菩薘	pu da
+普多斯基	pu duo si ji
+派路	pai lu
+佩路	pei lu
+鵬蓮花園	peng lian hua yuan
+彭路基	peng lu ji
+皮里斯	pi li si
+盤滿缽滿	pan man bo man
+潘姆	pan mu
+畔山花園	pan shan hua yuan
+平山村	ping shan cun
+拍鐵	pai tie
+舖頭	pu tou
+拍霧	pai wu
+鵬灣花園二村	peng wan hua yuan er cun
+鵬灣花園一村	peng wan hua yuan yi cun
+泮溪酒家	pan xi jiu jia
+鵬興花園	peng xing hua yuan
+鵬興路	peng xing lu
+培英中學	pei ying zhong xue
+碰啱	peng yan
+蓬州北	peng zhou bei
+蓬州東	peng zhou dong
+蓬州南門	peng zhou nan men
+盼穀	pan gu
+佩奧爾	pei ao er
+平安路	ping an lu
+平湖村	ping hu cun
+平湖汽車站	ping hu qi che zhan
+平湖鎮	ping hu zhen
+皮喼	pi jie
+破家仔	po jia zai
+僕街	pu jie
+蒲排路	pu pai lu
+破堪	po kan
+欠抦啊	qian bing a
+鰽白	qiu bai
+起厝	qi cuo
+錢蔥	qian cong
+青菜豆腐	qing cai dou fu
+僑城東路	qiao cheng dong lu
+挈定	qie ding
+佢哋	qu die
+去讀書	qu du shu
+慶安航空大廈	qing an hang kong da sha
+前嗰排	qian ge pai
+乾鯁鯁	qian geng geng
+前溝	qian gou
+秋瓜	qiu gua
+缺個	que ge
+清湖村	qing hu cun
+清華大學研究院	qing hua da xue yan jiu yuan
+慳鷄	qian ji
+前進一路	qian jin yi lu
+起來鳳哇	qi lai feng wa
+奇連士文	qi lian shi wen
+麒麟花園	qi lin hua yuan
+潛龍曼海寧花園	qian long man hai ning hua yuan
+蠄蟧	qin lao
+蠄蟧絲網	qin lao si wang
+親力親為	qin li qin wei
+清林東路	qing lin dong lu
+清林中路	qing lin zhong lu
+蜞乸	qi na
+契乸	qi na
+憇佢開心	qi qu kai xin
+韆鞦	qian qiu
+蠄蟝	qin qu
+佢佢哋	qu qu die
+全球通大廈	quan qiu tong da sha
+七日紅公園	qi ri hong gong yuan
+岐山中學	qi shan zhong xue
+起勢噉	qi shi dan
+慳濕	qian shi
+乾濕褸	qian shi lv
+茄士咩	jia shi mie
+清水河二路	qing shui he er lu
+清水河六路	qing shui he liu lu
+清水河三路	qing shui he san lu
+清水河四路	qing shui he si lu
+清水河五路	qing shui he wu lu
+清水河一路	qing shui he yi lu
+求水嶺	qiu shui ling
+闙頭	qi tou
+秋天時	qiu tian shi
+屈頭鷄	qu tou ji
+搉頭殼	que tou ke
+丘屋街	qiu wu jie
+祇係	qi xi
+祇喺	qi xi
+祇系	qi xi
+佢係	qu xi
+佢系	qu xi
+盵嘢	qi ye
+妻姨	qi yi
+扲嘢	qian ye
+青雲巖	qing yun yan
+趣緻	qu zhi
+求葡萄	qiu pu tao
+人人樂西麗店	ren ren le xi li dian
+認眞	ren zhen
+日晝頓	ri zhou dun
+日晝後	ri zhou hou
+讓雞	rang ji
+肉腳尖	rou jiao jian
+焫雞	ruo ji
+焫鷄	ruo ji
+熱毒天時	re du tian shi
+人哋	ren die
+日道	ri dao
+日道頭	ri dao tou
+日東光學廠區	ri dong guang xue chang qu
+腬喉	rou hou
+熱天時	re tian shi
+人頭湧湧	ren tou yong yong
+韌黐黐	ren chi chi
+瑞昌大廈	rui chang da sha
+瑞誠商場	rui cheng shang chang
+如龍工業園	ru long gong ye yuan
+人民橋	ren min qiao
+日猛	ri meng
+人孬	ren nao
+潤南酒店	run nan jiu dian
+瑞鵬大廈	rui peng da sha
+榮生大廈	rong sheng da sha
+腬市	rou shi
+如意路	ru yi lu
+膶腸	run chang
+亞單睇榜一眼睇曬	ya dan di bang yi yan di shai
+雅昌藝術館	ya chang yi shu guan
+巖巉	yan chan
+一搊鎖匙	yi chou suo shi
+杬豉	yuan shi
+賽格廣場	sai ge guang chang
+賽格苑	sai ge yuan
+斯高拉里	si gao la li
+蘇甘寶	su gan bao
+筍崗倉庫	sun gang cang ku
+筍崗西路	sun gang xi lu
+索高拿	suo gao na
+塑料城	su liao cheng
+塑料五廠	su liao wu chang
+嘥氣	sai qi
+嘥錢	sai qian
+三橋收費處	san qiao shou fei chu
+鬆泉山莊	song quan shan zhuang
+散四來	san si lai
+酸餿餲臭	suan sou ai chou
+嘥心機捱眼瞓	sai xin ji ai yan fen
+三湘海尚花園	san xiang hai shang hua yuan
+三星酒店	san xing jiu dian
+薩做是	sa zuo shi
+四川大廈	si chuan da sha
+絲發	si fa
+三腳鷄	san jiao ji
+三九機電大廈	san jiu ji dian da sha
+三九醫院	san jiu yi yuan
+飼雞	si ji
+死鷄撐飯蓋	si ji cheng fan gai
+死鷄撐硬腳	si ji cheng ying jiao
+四季樹	si ji shu
+鬆雞	song ji
+鬆鷄	song ji
+散蹼母	san pu mu
+桑浦公園	sang pu gong yuan
+鬆坪山	song ping shan
+鬆屏山	song ping shan
+鬆坪中學	song ping zhong xue
+嘥人哋	sai ren die
+三身人	san shen ren
+松山發電廠	song shan fa dian chang
+碎濕濕	sui shi shi
+嘥撻	sai ta
+森保達	sen bao da
+司不薩納	si bu sa na
+餿包	sou bao
+歲寶百貨	sui bao bai huo
+散擔	san dan
+斯達大廈	si da da sha
+蘇達杜	su da du
+三和實業公司	san he shi ye gong si
+三和休閒中心	san he xiu xian zhong xin
+四海花園	si hai hua yuan
+四海路	si hai lu
+鬆湖	song hu
+送口	song kou
+森美爾	sen mei er
+桑尼公司	sang ni gong si
+蘇拿利	su na li
+飼鴨	si ya
+鬆元村	song yuan cun
+鬆園東路	song yuan dong lu
+鬆園路	song yuan lu
+蘇亞素	su ya su
+索嘢	suo ye
+三洲田	san zhou tian
+三洲田公路	san zhou tian gong lu
+桑治	sang zhi
+四直	si zhi
+飼豬	si zhu
+曬布路	shai bu lu
+商報路	shang bao lu
+上步北路	shang bu bei lu
+上步路	shang bu lu
+上步碼頭	shang bu ma tou
+上步南路	shang bu nan lu
+上步中路	shang bu zhong lu
+上步中學	shang bu zhong xue
+聖彼德斯堡	sheng bi de si bao
+士必大廈	shi bi da sha
+士砵亭	shi bo ting
+市博物館	shi bo wu guan
+士鉢裇	shi bo xu
+士缽裇	shi bo xu
+石部	shi bu
+手幫手	shou bang shou
+手布	shou bu
+水貝	shui bei
+水貝一路	shui bei yi lu
+水兵對水手水鬥水	shui bing dui shui shou shui dou shui
+深長崗工業廠區	shen zhang gang gong ye chang qu
+濕柴	shi chai
+手搊	shou chou
+水產碼頭	shui chan ma tou
+汕大附屬第二醫院	shan da fu shu di er yi yuan
+汕大附屬第一醫院	shan da fu shu di yi yi yuan
+汕大附屬醫院	shan da fu shu yi yuan
+汕大醫附二院	shan da yi fu er yuan
+山大斬埋亦係柴	shan da zhan mai yi xi chai
+山大斬埋亦系柴	shan da zhan mai yi xi chai
+山東梨	shan dong li
+山兜站	shan dou zhan
+上等好	shang deng hao
+少帝路	shao di lu
+深大電話度假村	shen da dian hua du jia cun
+深大電話公司	shen da dian hua gong si
+深大附中	shen da fu zhong
+身底衫	shen di shan
+身頂	shen ding
+是但噏	shi dan xi
+市黨校	shi dang xiao
+試到	shi dao
+市第一技校	shi di yi ji xiao
+史篤城	shi du cheng
+施多夫	shi duo fu
+手底	shou di
+收冬	shou dong
+沙崗村	sha gang cun
+沙格拿	sha ge na
+廈桂埔	sha gui pu
+上該	shang gai
+少個物	shao ge wu
+燒共	shao gong
+身肝頭	shen gan tou
+實高	shi gao
+史高斯	shi gao si
+施根	shi gen
+石狗卵	shi gou luan
+食穀種食閒口	shi gu zhong shi xian kou
+食穀種食閑口	shi gu zhong shi xian kou
+疏港鐵路	shu gang tie lu
+書舘	shu guan
+沙河街	sha he jie
+沙河市場	sha he shi chang
+上海賓館	shang hai bin guan
+上航大廈	shang hang da sha
+上合村	shang he cun
+深惠公路	shen hui gong lu
+史浩克	shi hao ke
+施華	shi hua
+市話大廈	shi hua da sha
+石化大廈	shi hua da sha
+石化貿易大廈	shi hua mao yi da sha
+沙加度	sha jia du
+沙井大王山	sha jing da wang shan
+沙咀村	sha ju cun
+騸鷄	shan ji
+山鷄	shan ji
+商檢大廈	shang jian da sha
+生鷄	sheng ji
+生鷄精生鬼	sheng ji jing sheng gui
+生雞目	sheng ji mu
+食教	shi jiao
+市教育學院	shi jiao yu xue yuan
+石井村	shi jing cun
+山空	shan kong
+燒可絲	shao ke si
+蛇口東角頭	she kou dong jiao tou
+蛇口碼頭	she kou ma tou
+蛇口體育中心	she kou ti yu zhong xin
+蛇口西站	she kou xi zhan
+蛇口新街	she kou xin jie
+蛇口招商大廈	she kou zhao shang da sha
+市勘察研究院	shi kan cha yan jiu yuan
+屎窟竉	shi ku long
+水可	shui ke
+水庫新村	shui ku xin cun
+水庫中	shui ku zhong
+傻裏傻氣	sha li sha qi
+沙歷鹹美斯	sha li xian mei si
+沙龍路	sha long lu
+沙路爾	sha lu er
+沙洛	sha luo
+山竉	shan long
+山竉山罅	shan long shan xia
+上鏈	shang lian
+盛龍路	sheng long lu
+食涼水	shi liang shui
+食了無事	shi le wu shi
+市林場	shi lin chang
+雙龍花園	shuang long hua yuan
+沙母猴	sha mu hou
+山姆會員店	shan mu hui yuan dian
+生目針	sheng mu zhen
+世貿花園	shi mao hua yuan
+史米	shi mi
+食咩啊	shi mie a
+市民中心	shi min zhong xin
+蝨母	shi mu
+說毛	shuo mao
+上南村	shang nan cun
+深南市場	shen nan shi chang
+深南中路	shen nan zhong lu
+生奴仔	sheng nu zai
+蝨乸	shi na
+蝨乸春	shi na chun
+蝨乸擔枷	shi na dan jia
+濕納納	shi na na
+石內	shi nei
+史尼積達	shi ni ji da
+溼淰淰	shi nian nian
+濕淰淰	shi nian nian
+詩寧大廈	shi ning da sha
+爽尿	shuang niao
+曬棚	shai peng
+社排村	she pai cun
+盛平村	sheng ping cun
+昇平路	sheng ping lu
+昇平區政府	sheng ping qu zheng fu
+石炮臺	shi pao tai
+石炮臺公園	shi pao tai gong yuan
+市人民醫院	shi ren min yi yuan
+收容站	shou rong zhan
+蜀日	shu ri
+沙深路	sha shen lu
+曬士	shai shi
+上沙村	shang sha cun
+上沙村總站	shang sha cun zong zhan
+上沙河	shang sha he
+上沙新村	shang sha xin cun
+神神哋	shen shen die
+生曬	sheng shai
+石廈南	shi sha nan
+食屎	shi shi
+沙頭角保稅區	sha tou jiao bao shui qu
+沙頭角購物中心	sha tou jiao gou wu zhong xin
+沙頭角海關	sha tou jiao hai guan
+沙頭角客運站	sha tou jiao ke yun zhan
+沙頭角汽車客運站	sha tou jiao qi che ke yun zhan
+沙頭角人民醫院	sha tou jiao ren min yi yuan
+沙頭角鎮政府	sha tou jiao zhen zheng fu
+沙頭角中學	sha tou jiao zhong xue
+汕頭電廠	shan tou dian chang
+汕頭港	shan tou gang
+汕頭日報社	shan tou ri bao she
+汕頭商場	shan tou shang chang
+汕頭新聞	shan tou xin wen
+汕頭醫學附屬二院	shan tou yi xue fu shu er yuan
+汕頭一中	shan tou yi zhong
+汕頭迎賓花園	shan tou ying bin hua yuan
+上塘村	shang tang cun
+生調	sheng diao
+盛庭苑	sheng ting yuan
+聖廷苑酒店	sheng ting yuan jiu dian
+史坦福橋	shi tan fu qiao
+沙灣村	sha wan cun
+沙灣海關	sha wan hai guan
+沙灣聯檢站	sha wan lian jian zhan
+沙維	sha wei
+沙維奧拿	sha wei ao na
+沙尾工業區	sha wei gong ye qu
+上圍新村	shang wei xin cun
+上屋村	shang wu cun
+稍為	shao wei
+深灣二路	shen wan er lu
+深灣三路	shen wan san lu
+深灣四路	shen wan si lu
+深灣一路	shen wan yi lu
+生烏鷄	sheng wu ji
+十外	shi wai
+市外國語學校	shi wai guo yu xue xiao
+施維斯達	shi wei si da
+舒韋恩史迪加	shu wei en shi di jia
+水灣頭	shui wan tou
+水圍村	shui wei cun
+水圍街	shui wei jie
+沙蝦	sha xia
+沙嚇村	sha xia cun
+少雪	shao xue
+聖西路	sheng xi lu
+聲綫	sheng xian
+施仙奴	shi xian nu
+收綫	shou xian
+手揗腳震	shou xun jiao zhen
+書香門第商美大廈	shu xiang men di shang mei da sha
+甩鬚	shuai xu
+沙鹽路	sha yan lu
+上語文	shang yu wen
+深鹽路	shen yan lu
+深業大廈	shen ye da sha
+深業花園	shen ye hua yuan
+聖伊天	sheng yi tian
+石巖湖	shi yan hu
+石巖鎮	shi yan zhen
+石巖總站	shi yan zong zhan
+食藥	shi yao
+識嘢	shi ye
+食嘢	shi ye
+實益達科技園	shi yi da ke ji yuan
+士域祇	shi yu qi
+十月芥菜起曬心	shi yue jie cai qi shai xin
+施雲奴	shi yun nu
+蜀夜	shu ye
+殺仔	sha zai
+啥做是	sha zuo shi
+石仔	shi zai
+食咗人只車咩	shi zuo ren zhi che mie
+食左嘢未	shi zuo ye wei
+沙真奴	sha zhen nu
+紗紙	sha zhi
+深圳大劇院	shen zhen da ju yuan
+諗眞啲	shen zhen di
+深圳會堂	shen zhen hui tang
+深圳戒毒所	shen zhen jie du suo
+深圳青年學院	shen zhen qing nian xue yuan
+深圳商報社	shen zhen shang bao she
+深圳市高級中學	shen zhen shi gao ji zhong xue
+深圳市糧食儲備庫	shen zhen shi liang shi chu bei ku
+深圳實驗學校本部	shen zhen shi yan xue jiao ben bu
+深圳市藝術學校	shen zhen shi yi shu xue xiao
+深圳灣六路	shen zhen wan liu lu
+深圳灣七路	shen zhen wan qi lu
+深圳灣五路	shen zhen wan wu lu
+深圳中航賓館	shen zhen zhong hang bin guan
+市政大廈	shi zheng da sha
+市政設計大廈	shi zheng she ji da sha
+濕滯十字鋤	shi zhi shi zi chu
+曬菲林唔見得光	shai fei lin wu jian de guang
+市府二辦	shi fu er ban
+市福利院	shi fu li yuan
+市福利園	shi fu li yuan
+舒夫真高	shu fu zhen gao
+市二醫院	shi er yi yuan
+叔惡	shu e
+山草藥噏得就噏	shan cao yao xi de jiu xi
+生草藥噏得就噏	sheng cao yao xi de jiu xi
+稅厝	shui cuo
+市三醫院	shi san yi yuan
+施素高	shi su gao
+濕碎	shi sui
+舒斯達	shu si da
+實食冇黐牙	shi shi mao chi ya
+實食無黐牙	shi shi wu chi ya
+食屎食著豆	shi shi shi zhu dou
+濕濕碎	shi shi sui
+濕水雞	shi shui ji
+濕水棉花冇得彈	shi shui mian hua mao de dan
+濕水棉花無得彈	shi shui mian hua wu de dan
+衰衰噉	shuai shuai dan
+史坦高域	shi tan gao yu
+史特加	shi te jia
+市跳水館	shi tiao shui guan
+水田村	shui tian cun
+水田一街	shui tian yi jie
+手踭	shou zheng
+水凼	shui dang
+水氹	shui dang
+順電家居廣場	shun dian jia ju guang chang
+水鷄	shui ji
+水徑村	shui jing cun
+水晶島	shui jing dao
+舒雲史迪加	shu yun shi di jia
+雙眼簷	shuang yan yan
+水嘢	shui ye
+水果批發市場	shui guo pi fa shi chang
+藥材舖	yao cai pu
+餸菜	song cai
+踏車	ta che
+天池賓館	tian chi bin guan
+遝水	ta shui
+泰山路口	tai shan lu kou
+太是	tai shi
+歎世界	tan shi jie
+糖水舖	tang shui pu
+踢曬腳	ti shai jiao
+天山路南	tian shan lu nan
+天時好	tian shi hao
+偸師	tou shi
+檯檯櫈櫈	tai tai deng deng
+藫頭	tan tou
+塘頭村	tang tou cun
+踢桃	ti tao
+剃頭鋪	ti tou pu
+天壇花園	tian tan hua yuan
+條題	tiao ti
+褪舦	tui tai
+遝正	ta zheng
+天竺園	tian zhu yuan
+太安路	tai an lu
+天安數碼城	tian an shu ma cheng
+塘邊鶴睇準黎食	tang bian he di zhun li shi
+田貝	tian bei
+田貝三路	tian bei san lu
+田貝四路	tian bei si lu
+田貝一路	tian bei yi lu
+砣錶	tuo biao
+田東市場	tian dong shi chang
+田東中學	tian dong zhong xue
+鮀島影劇院	tuo dao ying ju yuan
+託迪	tuo di
+鮀東學校	tuo dong xue xiao
+託度	tuo du
+同富裕工業區	tong fu yu gong ye qu
+偷放尿	tou fang niao
+臺膏拍做迷	tai gao pai zuo mi
+泰哥拍作咪	tai ge pai zuo mi
+太古城花園	tai gu cheng hua yuan
+太監磨柱真係滑	tai jian mo zhu zhen xi hua
+藤喼	teng jie
+田鷄東	tian ji dong
+天健世紀花園	tian jian shi ji hua yuan
+天健時尚空間名苑	tian jian shi shang kong jian ming yuan
+統建樓	tong jian lou
+偸鷄	tou ji
+偷雞唔到蝕摣米	tou ji wu dao shi zha mi
+鮀濟中學	tuo ji zhong xue
+條寬	tiao kuan
+臺面	tai mian
+田面北	tian mian bei
+太寧路	tai ning lu
+鴕南路口	tuo nan lu kou
+塘排山	tang pai shan
+頭碰頭	tou peng tou
+泰然八路	tai ran ba lu
+泰然二路	tai ran er lu
+泰然九路	tai ran jiu lu
+泰然六路	tai ran liu lu
+泰然四路	tai ran si lu
+臺灣工業區	tai wan gong ye qu
+塘尾村	tang wei cun
+太源水庫	tai yuan shui ku
+田洋中	tian yang zhong
+鐵一號橋	tie yi hao qiao
+土洋村	tu yang cun
+太子路	tai zi lu
+太子山莊	tai zi shan zhuang
+談早	tan zao
+天澤花園	tian ze hua yuan
+鐵嘴鷄	tie zui ji
+童子鷄	tong zi ji
+頭早	tou zao
+投資大廈	tou zi da sha
+偷走書	tou zou shu
+糖蔥薄餅	tang cong bao bing
+塘朗村	tang lang cun
+天藍網吧	tian lan wang ba
+田料	tian liao
+田寮仔村	tian liao zai cun
+同樂村	tong le cun
+同樂關	tong le guan
+通竉	tong long
+託利斯	tuo li si
+拖連奴	tuo lian nu
+鮀四街道	tuo si jie dao
+特區報社	te qu bao she
+特區證券大廈	te qu zheng quan da sha
+同慶路	tong qing lu
+剃須	ti xu
+天祥大廈	tian xiang da sha
+田心東路	tian xin dong lu
+田心酒店	tian xin jiu dian
+同心路	tong xin lu
+塗下	tu xia
+偉伯大廈	wei bo da sha
+無變	wu bian
+無變敵呂	wu bian di lv
+唔單祇	wu dan qi
+唔單只	wu dan zhi
+勿除死人哪	wu chu si ren na
+萬豐村	wan feng cun
+未瞓	wei fen
+蚊瞓	wen fen
+無法無着	wu fa wu zhe
+萬果園	wan guo yuan
+網光	wang guang
+韋根	wei gen
+唯冠科技大廈	wei guan ke ji da sha
+文冠路口	wen guan lu kou
+唔該唔該曬	wu gai wu gai shai
+為口賓士	wei kou bin shi
+維辛迪	wei xin di
+文仙尼	wen xian ni
+我喜歡說達濠話	wo xi huan shuo da hao hua
+唔係	wu xi
+唔係噉話	wu xi dan hua
+唔喺噉話	wu xi dan hua
+唔系啖話	wu xi dan hua
+唔系噉話	wu xi dan hua
+唔係咁嘎	wu xi gan ga
+唔係嘅話	wu xi kai hua
+唔係掛	wu xi gua
+唔係幾	wu xi ji
+唔係喇	wu xi la
+唔系喇	wu xi la
+唔係路	wu xi lu
+唔係人噉品	wu xi ren dan pin
+唔喺人噉品	wu xi ren dan pin
+唔系人啖品	wu xi ren dan pin
+唔系人噉品	wu xi ren dan pin
+唔係手腳	wu xi shou jiao
+唔系手腳	wu xi shou jiao
+唔係呀	wu xi ya
+唔係嘢少	wu xi ye shao
+唔喺嘢少	wu xi ye shao
+瓦簷口	wa yan kou
+瓦簷獅子叻到滿	wa yan shi zi le dao man
+外語中專	wai yu zhong zhuan
+外運大廈	wai yun da sha
+玩嘢啊	wan ye a
+偉爺	wei ye
+搵嘢	wen ye
+搵嘢做	wen ye zuo
+沃雨	wo yu
+唔啱	wu yan
+唔啱合尺	wu yan he chi
+唔啱蕎	wu yan qiao
+唔啱數	wu yan shu
+唔啱牙	wu yan ya
+無嘢	wu ye
+無嘢到	wu ye dao
+無嘢嚟	wu ye li
+無夜無日	wu ye wu ri
+無影浪跡	wu ying lang ji
+烏杬	wu yuan
+無熨無帳	wu yun wu zhang
+爲眞	wei zhen
+為眞	wei zhen
+為真	wei zhen
+物直啊未	wu zhi a wei
+萬德大廈	wan de da sha
+為得過	wei de guo
+維迪	wei di
+我哋	wo die
+晤大浪事	wu da lang shi
+唔嘚	wu de
+唔得閑	wu de xian
+唔嗲唔弔	wu die wu diao
+晤顛對	wu dian dui
+烏甸尼斯	wu dian ni si
+外環西路	wai huan xi lu
+喂嘩鬼震	wei hua gui zhen
+文化裇	wen hua xu
+文匯中學	wen hui zhong xue
+五和路	wu he lu
+五和南路	wu he nan lu
+萬佳百貨	wan jia bai huo
+萬佳翠竹店	wan jia cui zhu dian
+衛檢大廈	wei jian da sha
+文鷄	wen ji
+文錦北路	wen jin bei lu
+文錦南路	wen jin nan lu
+搵緊嘢	wen jin ye
+文錦中路	wen jin zhong lu
+唔淨祇	wu jing qi
+武警支隊	wu jing zhi dui
+外馬路	wai ma lu
+外馬路西	wai ma lu xi
+外貿進出口大廈	wai mao jin chu kou da sha
+尾禡	wei ma
+為乜	wei mie
+無乜個	wu mie ge
+外砂橋頭	wai sha qiao tou
+外砂鎮政府	wai sha zhen zheng fu
+外衫	wai shan
+灣廈村	wan sha cun
+萬商電腦城	wan shang dian nao cheng
+灣上六座花園	wan shang liu zuo hua yuan
+為食	wei shi
+威士卡	wei shi ka
+為食貓	wei shi mao
+韋舒亞	wei shu ya
+抆屎	wen shi
+沃水	wo shui
+扤失	wu shi
+扤實	wu shi
+午時花	wu shi hua
+蜈田村	wu tian cun
+梧桐路	wu tong lu
+梧桐山賓館	wu tong shan bin guan
+梧桐山收費站	wu tong shan shou fei zhan
+梧桐山隧道	wu tong shan sui dao
+危危乎	wei wei hu
+文蔚大廈	wen wei da sha
+五灣	wu wan
+維爾瓦	wei er wa
+無愛嘎勒	wu ai ga lei
+烏暗天	wu an tian
+挽草	wan cao
+文祠西	wen ci xi
+網樂網吧	wang le wang ba
+搵竉路	wen long lu
+物了白白歇	wu le bai bai xie
+無哩歇	wu li xie
+為咗	wei zuo
+汙糟邋遢	wu zao la ta
+韋拿	wei na
+文尼治	wen ni zhi
+無你變	wu ni bian
+無你個變	wu ni ge bian
+物你叫唔敢	wu ni jiao wu gan
+物你靈鍾	wu ni ling zhong
+為皮	wei pi
+畏凊	wei qing
+韋斯鹹	wei si xian
+五日談	wu ri tan
+唔衰攞嚟衰	wu shuai luo li shuai
+唔系嘢少	wu xi ye shao
+唔相幹	wu xiang gan
+係啊	xi a
+新安公園	xin an gong yuan
+新安影劇院	xin an ying ju yuan
+希比亞	xi bi ya
+系邊到	xi bian dao
+西布朗	xi bu lang
+西部人才市場	xi bu ren cai shi chang
+下步廟	xia bu miao
+先擺	xian bai
+綫步	xian bu
+香檳廣場	xiang bin guang chang
+鬚刨	xu pao
+薛比拿	xue bi na
+係噉話	xi dan hua
+喺噉話	xi dan hua
+系啖話	xi dan hua
+系噉話	xi dan hua
+係噉先	xi dan xian
+喺噉先	xi dan xian
+系啖先	xi dan xian
+系噉先	xi dan xian
+係噉意	xi dan yi
+喺噉意	xi dan yi
+系啖意	xi dan yi
+系噉意	xi dan yi
+噏得就噏	xi de jiu xi
+喜頂	xi ding
+溪東	xi dong
+係都要	xi dou yao
+西墩	xi dun
+弦搭晤着咳	xian da wu zhe ke
+縣大院	xian da yuan
+現代花園	xian dai hua yuan
+現代之窗大廈	xian dai zhi chuang da sha
+鹹蛋滾湯心都實曬	xian dan gun tang xin dou shi shai
+鄉肚	xiang du
+小到堆	xiao dao dui
+小到下	xiao dao xia
+辛達告魯斯	xin da gao lu si
+新哋	xin die
+新地大廈	xin di da sha
+噏風	xi feng
+新富華海鮮城	xin fu hua hai xian cheng
+醒瞓	xing fen
+恤髮	xu fa
+西該	xi gai
+係咁大	xi gan da
+系咁大	xi gan da
+喜個	xi ge
+希古恩	xi gu en
+希古拿	xi gu na
+下旰	xia gan
+夏格維斯	xia ge wei si
+夏桂埔	xia gui pu
+先嗰排	xian ge pai
+新幹線網吧	xin gan xian wang ba
+新閣小區總站	xin ge xiao qu zong zhan
+新光大廈	xin guang da sha
+新光明牛奶公司	xin guang ming niu nai gong si
+許個物	xu ge wu
+雪崗北路	xue gang bei lu
+薰鬼	xun gui
+喜哈母嚷	xi ha mu rang
+西海灣花園	xi hai wan hua yuan
+希杭	xi hang
+希壺	xi hu
+西湖賓館	xi hu bin guan
+仙湖路	xian hu lu
+仙湖汽車站	xian hu qi che zhan
+仙湖山莊	xian hu shan zhuang
+仙湖植物園	xian hu zhi wu yuan
+祥和花園	xiang he hua yuan
+新華中學	xin hua zhong xue
+興海大道	xing hai da dao
+星河華居	xing he hua ju
+興華二路	xing hua er lu
+興華路	xing hua lu
+興華一路	xing hua yi lu
+繡花袋仔人人啱	xiu hua dai zai ren ren yan
+雪虹花園	xue hong hua yuan
+係咪	xi mi
+係咩	xi mie
+系咩	xi mie
+噏乜春	xi mie chun
+係乜嚟架	xi mie li jia
+下梅林	xia mei lin
+下梅林市場	xia mei lin shi chang
+香梅北	xiang mei bei
+香梅北總站	xiang mei bei zong zhan
+香蜜湖唯珍府	xiang mi hu wei zhen fu
+翔名苑花園	xiang ming yuan hua yuan
+小梅沙大酒店	xiao mei sha da jiu dian
+下岐	xia qi
+向前村	xiang qian cun
+香僑路	xiang qiao lu
+新橋村	xin qiao cun
+新橋街	xin qiao jie
+係人都	xi ren dou
+系人都	xi ren dou
+閑日	xian ri
+新人爹	xin ren die
+細餸	xi song
+軒斯	xuan si
+喜天時	xi tian shi
+線通	xian tong
+鞋拖	xie tuo
+新塘村	xin tang cun
+辛特路斯	xin te lu si
+新田村	xin tian cun
+許頭	xu tou
+巡田	xun tian
+係威係勢	xi wei xi shi
+系威系勢	xi wei xi shi
+係唔係	xi wu xi
+系唔系啊我哋	xi wu xi a wo die
+嚇圍	xia wei
+嚇圍工業廠區	xia wei gong ye chang qu
+新瓦路	xin wa lu
+新王朝酒店	xin wang chao jiu dian
+新屋村	xin wu cun
+興圍村	xing wei cun
+西鄉樂園街	xi xiang le yuan jie
+西鄉碼頭	xi xiang ma tou
+西鄉汽車站	xi xiang qi che zhan
+閑閑地	xian xian di
+閒閒哋	xian xian die
+向西路	xiang xi lu
+香軒路	xiang xuan lu
+小學鷄	xiao xue ji
+鞋曉	xie xiao
+新溪	xin xi
+新溪鎮	xin xi zhen
+新興路	xin xing lu
+新興路口	xin xing lu kou
+新秀村	xin xiu cun
+新秀南	xin xiu nan
+行象棋	xing xiang qi
+雪象村	xue xiang cun
+揗揗震	xun xun zhen
+喜洋洋大廈	xi yang yang da sha
+西園頭	xi yuan tou
+西園頭沿江路	xi yuan tou yan jiang lu
+細月	xi yue
+向銀路	xiang yin lu
+信義假日名城	xin yi jia ri ming cheng
+新一佳園嶺店	xin yi jia yuan ling dian
+心鬱鬱	xin yu yu
+信苑花園	xin yuan hua yuan
+新園路	xin yuan lu
+新園路工業園	xin yuan lu gong ye yuan
+學有餘力	xue you yu li
+溪仔	xi zai
+顯仔	xian zai
+巷仔	xiang zai
+寫字牀	xie zi chuang
+係嗻	xi zhe
+系嗻	xi zhe
+喜珍時	xi zhen shi
+鞋踭	xie zheng
+新圳路	xin zhen lu
+新洲祠堂村	xin zhou ci tang cun
+新洲村	xin zhou cun
+新洲二街	xin zhou er jie
+新洲花園	xin zhou hua yuan
+新洲三街	xin zhou san jie
+新洲五街	xin zhou wu jie
+新洲一街	xin zhou yi jie
+下蓬中學	xia peng zhong xue
+相拍	xiang pai
+謝拉特	xie la te
+些路迪	xie lu di
+欣臘母嚇	xin la mu xia
+新郞哥	xin lang ge
+新樂二街	xin le er jie
+新歷年	xin li nian
+薛羅拔圖	xue luo ba tu
+裇衫	xu shan
+亞奀	ya en
+央哦	yang o
+永安村	yong an cun
+裕安一路	yu an yi lu
+鴨巴甸	ya ba dian
+鹽壩高速	yan ba gao su
+巖布仙尼	yan bu xian ni
+洋濱	yang bin
+一坺迾	yi ba lie
+一坺牛屎	yi ba niu shi
+伊巴謙莫域	yi ba qian mo yu
+迎賓路口	ying bin lu kou
+有變咯無	you bian ge wu
+葾崩爛臭	yuan beng lan chou
+雲巴士頓	yun ba shi dun
+雲邦美	yun bang mei
+依迪酒店	yi di jiu dian
+伊度	yi du
+伊度奧	yi du ao
+育德桂園	yu de gui yuan
+餘店	yu dian
+圓氹	yuan dang
+圓氹氹	yuan dang dang
+圓凼朶	yuan dang duo
+圓氹朶	yuan dang duo
+園東花園	yuan dong hua yuan
+園墩頭村	yuan dun tou cun
+雲達華治	yun da hua zhi
+雲達沙	yun da sha
+晏菲路	yan fei lu
+眼瞓	yan fen
+眼瞓沖涼	yan fen chong liang
+啱瞓醒	yan fen xing
+怡富花園	yi fu hua yuan
+應肥	ying fei
+有福樓	you fu lou
+緣份網吧	yuan fen wang ba
+眼甘甘	yan gan gan
+鹽港大道	yan gang da dao
+鹽港大廈	yan gang da sha
+鹽港醫院	yan gang yi yuan
+陽光酒店	yang guang jiu dian
+一個鏰都冇	yi ge beng dou mao
+陰幹	yin gan
+銀桂路	yin gui lu
+越港商業中心	yue gang shang ye zhong xin
+啱好	yan hao
+燕豪芬	yan hao fen
+延河路	yan he lu
+沿河南路	yan he nan lu
+洋貨舖	yang huo pu
+耀華創建大廈	yao hua chuang jian da sha
+夜昏頓	ye hun dun
+易話為	yi hua wei
+一回照大支	yi hui zhao da zhi
+銀海工業區	yin hai gong ye qu
+銀湖大廈	yin hu da sha
+銀湖汽車站	yin hu qi che zhan
+硬虎	ying hu
+越華路	yue hua lu
+啱偈	yan ji
+鹽焗鷄	yan ju ji
+野鷄	ye ji
+嘢鷄	ye ji
+嘢雞	ye ji
+宜嘉華庭	yi jia hua ting
+怡景花園	yi jing hua yuan
+怡景路	yi jing lu
+怡景中學	yi jing zhong xue
+翳焗	yi ju
+銀鷄	yin ji
+飲薑酒	yin jiang jiu
+有架勢	you jia shi
+雅蘭酒店	ya lan jiu dian
+亞魯網吧	ya lu wang ba
+眼淚嗲嗲渧	yan lei die die di
+眼睩睩	yan lu lu
+燕羅村	yan luo cun
+一粒嘢	yi li ye
+一竉蛇	yi long she
+銀龍花園	yin long hua yuan
+永樂新村	yong le xin cun
+雨來咯	yu lai ge
+雨淋頭倒	yu lin tou dao
+玉律路	yu lv lu
+園林路	yuan lin lu
+園嶺	yuan ling
+園嶺東路	yuan ling dong lu
+園嶺花園	yuan ling hua yuan
+園嶺市場	yuan ling shi chang
+園嶺西路	yuan ling xi lu
+園嶺醫院	yuan ling yi yuan
+園嶺中路	yuan ling zhong lu
+月裏	yue li
+月亮灣大道	yue liang wan da dao
+月亮灣花園	yue liang wan hua yuan
+鴨母捻	ya mu nian
+鹽梅海濱觀景路	yan mei hai bin guan jing lu
+眼矇	yan meng
+眼矇矇	yan meng meng
+羊咩	yang mie
+有咩搞	you mie gao
+漁民村	yu min cun
+裕民大廈	yu min da sha
+鴨乸	ya na
+鴨乸蹄	ya na ti
+燕南路	yan nan lu
+一揇	yi nan
+油淰淰	you nian nian
+漁農村	yu nong cun
+雲尼斯達萊	yun ni si da lai
+雲尼亞利	yun ni ya li
+一撇嘢一盤水	yi pie ye yi pan shui
+永平路	yong ping lu
+月浦	yue pu
+月浦中	yue pu zhong
+雲佩斯	yun pei si
+噖日	yin ri
+杬仁	yuan ren
+雅死	ya si
+啱嗮	yan sai
+啱嗮合尺	yan sai he chi
+眼澀	yan se
+硬嗮舦	ying sai tai
+油松村	you song cun
+啱曬	yan shai
+啱曬合尺	yan shai he chi
+燕山賓館	yan shan bin guan
+沿山路	yan shan lu
+簷蛇	yan she
+眼濕濕	yan shi shi
+依山居	yi shan ju
+硬曬舦	ying shai tai
+亞太幼兒園	ya tai you er yuan
+牙痛噉聲	ya tong dan sheng
+鹽田邊防站	yan tian bian fang zhan
+鹽田村	yan tian cun
+鹽田河	yan tian he
+巖田螺絲工業園	yan tian luo si gong ye yuan
+鹽田碼頭	yan tian ma tou
+搖頭伴耳	yao tou ban er
+一遝	yi ta
+益田村	yi tian cun
+一天都光曬	yi tian dou guang shai
+一天光曬	yi tian guang shai
+益田橫街	yi tian heng jie
+益田花園	yi tian hua yuan
+益田街	yi tian jie
+益田路	yi tian lu
+益田名園	yi tian ming yuan
+椅頭	yi tou
+啱先	yan xian
+啱心水	yan xin shui
+躽胸凸肚	yan xiong tu du
+一係	yi xi
+永新街	yong xin jie
+又係噃	you xi fan
+又喺噃	you xi fan
+又系噃	you xi fan
+又係喔	you xi o
+雨歇	yu xie
+伢孲仔	ya ya zai
+啱牙	yan ya
+啱啱	yan yan
+巖巖巉巉	yan yan chan chan
+啱啱綫	yan yan xian
+啱啱線	yan yan xian
+演嘢	yan ye
+耶耶託尼	ye ye tuo ni
+伊亞昆達	yi ya kun da
+頤園別墅	yi yuan bie shu
+陰陰濕濕	yin yin shi shi
+罌硬係	ying ying xi
+罌硬系	ying ying xi
+有嘢睇	you ye di
+友誼醫院	you yi yi yuan
+有影無	you ying wu
+甴曱	zha yue
+啞仔	ya zai
+啱佐	yan zuo
+嘢仔	ye zai
+有仔	you zai
+雨仔	yu zai
+雨仔送送	yu zai song song
+亞洲花園	ya zhou hua yuan
+一張嘢	yi zhang ye
+一隻貍	yi zhi li
+銀莊大廈	yin zhuang da sha
+油炸粿	you zha guo
+有著數	you zhu shu
+魚粥	yu zhou
+漁洲	yu zhou
+園中花園	yuan zhong hua yuan
+眼科中心	yan ke zhong xin
+伊控網吧	yi kong wang ba
+硯前	yan qian
+啱蕎	yan qiao
+欲去地塊	yu qu di kuai
+冤屈死人	yuan qu si ren
+眼唔見為淨	yan wu jian wei jing
+又唔係	you wu xi
+魚臒	yu wo
+永通大廈	yong tong da sha
+玉塘	yu tang
+域陀華迪斯	yu tuo hua di si
+雲吞面	yun tun mian
+雲吞麵	yun tun mian
+園建大樓	yuan jian da lou
+杬角	yuan jiao
+躍進路	yue jin lu
+遊水	you shui
+源盛路	yuan sheng lu
+月另中	yue ling zhong
+走夾唔唞	zou jia wu dou
+做節	zuo jie
+做緊咩	zuo jin mie
+做禡	zuo ma
+做乜嘢	zuo mie ye
+紮炮	za pao
+做錢	zuo qian
+紮紮跳	za za tiao
+紮仔粉	za zai fen
+走仔	zou zai
+早唞	zao dou
+最多唔系	zui duo wu xi
+做大水	zuo da shui
+仔乸	zai na
+贊拿斯	zan na si
+資娘	zi niang
+姿娘	zi niang
+做泥	zuo ni
+¤ϲ做女傭打爛沙盆璺	¤ϲ zuo nv yong da lan sha pen wen
+仔婿	zai xu
+竈下	zao xia
+做下	zuo xia
+贊古奴夫斯基	zan gu nu fu si ji
+祖高爾	zu gao er
+做公德	zuo gong de
+竈布	zao bu
+祖昆	zu kun
+嘴闊闊	zui kuo kuo
+早死仔	zao si zai
+組撒	zu sa
+組撒氣	zu sa qi
+竈頭抹布鹹濕	zao tou ma bu xian shi
+做同志	zuo tong zhi
+自由路	zi you lu
+紫雲莊	zi yun zhuang
+祖亞奧	zu ya ao
+做嘢	zuo ye
+早知冇乞丐咁勁	zao zhi mao qi gai gan jin
+早粙	zao zhou
+祖連奴	zu lian nu
+摣車	zha che
+只陳	zhi chen
+只船	zhi chuan
+中成大廈	zhong cheng da sha
+中城康橋花園	zhong cheng kang qiao hua yuan
+中成體育大廈	zhong cheng ti yu da sha
+珠池路東	zhu chi lu dong
+珠池路西	zhu chi lu xi
+珠池派出所	zhu chi pai chu suo
+摣篼乞食	zha dou qi shi
+正大萬客隆	zheng da wan ke long
+之噉	zhi dan
+支燈	zhi deng
+至多唔係	zhi duo wu xi
+至多唔系	zhi duo wu xi
+腫肚	zhong du
+摣二攤	zha er tan
+專愛個	zhuan ai ge
+摣咈	zha fu
+只飛機	zhi fei ji
+衆孚花園	zhong fu hua yuan
+中孚小學	zhong fu xiao xue
+摣頸	zha jing
+摣頸就命	zha jing jiu ming
+張夠有影有跡	zhang gou you ying you ji
+真高拿	zhen gao na
+只狗	zhi gou
+中國海外大廈	zhong guo hai wai da sha
+珠光村	zhu guang cun
+蔗鷄	zhe ji
+着久	zhe jiu
+雉鷄	zhi ji
+滯鷄	zhi ji
+珠江路西	zhu jiang lu xi
+珠江路中	zhu jiang lu zhong
+珠津工業區	zhu jin gong ye qu
+劄馬	zha ma
+劄碼字	zha ma zi
+渣眠起	zha mian qi
+窄搣搣	zhai mie mie
+佔美尼斯	zhan mei ni si
+丈姆	zhang mu
+摣拿	zha na
+之娘	zhi niang
+之娘仔	zhi niang zai
+豬乸	zhu na
+豬乸菜	zhu na cai
+綴鈕	zhui niu
+朱浦東	zhu pu dong
+朱浦中	zhu pu zhong
+渣日	zha ri
+扎死人	zha si ren
+志塞	zhi sai
+指桑駡槐	zhi sang ma huai
+執死鷄	zhi si ji
+執死鷄仔	zhi si ji zai
+煮餸	zhu song
+摣手	zha shou
+佔士	zhan shi
+招商大廈	zhao shang da sha
+招商觀園	zhao shang guan yuan
+正曬	zheng shai
+正十	zheng shi
+正手邊	zheng shou bian
+直升機場大院	zhi sheng ji chang da yuan
+中山園路	zhong shan yuan lu
+中山園總站	zhong shan yuan zong zhan
+中深花園	zhong shen hua yuan
+鐘數	zhong shu
+只仔	zhi zai
+紙字	zhi zi
+摣正嚟做	zha zheng li zuo
+摣莊	zha zhuang
+只陣	zhi zhen
+住宅局	zhu zhai ju
+豬踭肉	zhu zheng rou
+齋鹵味	zhai lu wei
+齋滷味	zhai lu wei
+樟林	zhang lin
+中旅學院	zhong lv xue yuan
+佔邦達	zhan bang da
+知本大廈	zhi ben da sha
+振華路口	zhen hua lu kou
+振華西路	zhen hua xi lu
+至好唔係	zhi hao wu xi
+至好唔系	zhi hao wu xi
+中海華庭	zhong hai hua ting
+中海康城花園	zhong hai kang cheng hua yuan
+中航公寓大廈	zhong hang gong yu da sha
+中航苑	zhong hang yuan
+豬橫脷豬膶	zhu heng li zhu run
+扻頭埋牆	zhi tou mai qiang
+中泰花園	zhong tai hua yuan
+豬頭肥	zhu tou fei
+真係有心	zhen xi you xin
+振興路口	zhen xing lu kou
+正係	zheng xi
+重系	zhong xi
+中心八路	zhong xin ba lu
+中心城	zhong xin cheng
+中心二路	zhong xin er lu
+中新路	zhong xin lu
+中心七路	zhong xin qi lu
+中心三路	zhong xin san lu
+中心書城	zhong xin shu cheng
+中心四路	zhong xin si lu
+中興花園	zhong xing hua yuan
+中興街	zhong xing jie
+中康公司	zhong kang gong si
+中康路	zhong kang lu
+之唔係	zhi wu xi
+之唔系	zhi wu xi
+植物園路	zhi wu yuan lu
+竹圍鄉	zhu wei xiang
+扻旗	zhi qi
+瀄起	zhi qi
+中岐	zhong qi
+正嘢	zheng ye
+中銀花園	zhong yin hua yuan
+中油中傑加油站	zhong you zhong jie jia you zhan
+中油中勝加油站	zhong you zhong sheng jia you zhan
+豬膶	zhu run
+撞啱	zhuang yan
+卓越世紀中心	zhuo yue shi ji zhong xin
+卓越維港名苑	zhuo yue wei gang ming yuan
+紫薇閣	zi wei ge
+紫薇花園	zi wei hua yuan
+紫薇苑	zi wei yuan
+總草	zong cao
+祖奧	zu ao

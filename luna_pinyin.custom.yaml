@@ -1,0 +1,12 @@
+# luna_pinyin.custom.yaml
+# Rime 方案补丁示例文件
+#
+# 该文件用于将明月拼音（luna_pinyin）的默认词库切换为本项目的扩展词库。
+# 使用方法：将此文件重命名为 luna_pinyin.custom.yaml 并放入 Rime 用户目录。
+#
+# 对应其他方案（如 double_pinyin, terra_pinyin 等），请相应重命名为
+# double_pinyin.custom.yaml 并进行类似配置。
+
+patch:
+  # 将 translator/dictionary 指向本项目的主入口词库
+  "translator/dictionary": luna_pinyin.extended

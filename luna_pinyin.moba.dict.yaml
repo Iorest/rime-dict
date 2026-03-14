@@ -1,0 +1,3990 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime词库扩展计划」——为小狼毫打造一个强大好用的词库（OpenCC重制版） by @imy0823
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.moba
+version: "2014.09.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+巴爾	ba er
+荒島餘生	huang dao yu sheng
+火女	huo nv
+決戰天下	jue zhan tian xia
+露露	lu lu
+陸小鳳傳奇	lu xiao feng chuan qi
+尼斯湖水怪	ni si hu shui guai
+齊天大聖孫悟空	qi tian da sheng sun wu kong
+巫師學徒	wu shi xue tu
+武士刀	wu shi dao
+伊芙琳	yi fu lin
+戰爭之王	zhan zheng zhi wang
+阿爾法突襲	a er fa tu xi
+阿卡麗	a ka li
+阿利斯塔	a li si ta
+阿木木	a mu mu
+阿木木的憤怒	a mu mu de fen nu
+阿塔瑪之戟	a ta ma zhi ji
+埃及法老	ai ji fa lao
+艾尼	ai ni
+艾尼維亞	ai ni wei ya
+艾歐尼亞	ai ou ni ya
+艾歐尼亞熱誠	ai ou ni ya re cheng
+艾瑞莉婭	ai rui li ya
+艾希	ai xi
+愛射	ai she
+暗黑元首辛德拉	an hei yuan shou xin de la
+暗流涌動	an liu yong dong
+暗夜獵手	an ye lie shou
+暗夜獵手薇恩	an ye lie shou wei en
+暗影島	an ying dao
+暗影迷蹤	an ying mi zong
+暗影之拳	an ying zhi quan
+暗影之拳阿卡麗	an ying zhi quan a ka li
+暗影之舞	an ying zhi wu
+暗之禁錮	an zhi jin gu
+奧莉安娜	ao li an na
+奧能脈衝	ao neng mai chong
+奧術彈幕	ao shu dan mu
+奧術螺旋	ao shu luo xuan
+奧術躍遷	ao shu yue qian
+奧術重擊	ao shu zhong ji
+奧術專精	ao shu zhuan jing
+奧黛恩的面紗	ao dai en de mian sha
+敗血症療法	bai xue zheng liao fa
+斑蝶	ban die
+班德爾城	ban de er cheng
+半球流	ban qiu liu
+半肉	ban rou
+半月斬	ban yue zhan
+包眼	bao yan
+保護雕文	bao hu diao wen
+保護雕紋	bao hu diao wen
+保護符印	bao hu fu yin
+保護精華	bao hu jing hua
+保護印記	bao hu yin ji
+寶石護盾	bao shi hu dun
+寶石騎士	bao shi qi shi
+寶石騎士塔裏克	bao shi qi shi ta li ke
+暴風之劍	bao feng zhi jian
+暴擊機率	bao ji ji lv
+暴擊傷害	bao ji shang hai
+暴君狂擊	bao jun kuang ji
+豹女	bao nv
+爆彈重拳	bao dan zhong quan
+爆基地	bao ji di
+爆裂護盾	bao lie hu dun
+爆裂魔杖	bao lie mo zhang
+爆破鬼才	bao po gui cai
+爆破鬼才吉格斯	bao po gui cai ji ge si
+爆破酒桶	bao po jiu tong
+北風刺骨	bei feng ci gu
+北領前線斯維因	bei ling qian xian si wei yin
+奔雷電爪	ben lei dian zhao
+繃帶牽引	beng dai qian yin
+比爾吉沃	bi er ji wo
+比爾吉沃特	bi er ji wo te
+比爾吉沃特彎刀	bi er ji wo te wan dao
+碧波之牢	bi bo zhi lao
+別蕩	bie dang
+別管肉	bie guan rou
+別回頭	bie hui tou
+別靠太前	bie kao tai qian
+別送	bie song
+兵線	bing xian
+兵線後點	bing xian hou dian
+兵線後退	bing xian hou tui
+冰川風暴	bing chuan feng bao
+冰川護甲	bing chuan hu jia
+冰川之徑	bing chuan zhi jing
+冰封陵墓	bing feng ling mu
+冰環	bing huan
+冰晶鳳凰	bing jing feng huang
+冰晶節杖	bing jing jie zhang
+冰脈護手	bing mai hu shou
+冰脈拳套	bing mai quan tao
+冰矛	bing mao
+冰霜女巫	bing shuang nv wu
+冰霜女巫麗桑卓	bing shuang nv wu li sang zhuo
+冰霜戰錘	bing shuang zhan chui
+冰霜之錘	bing shuang zhi chui
+冰霜之環	bing shuang zhi huan
+冰霜之拳	bing shuang zhi quan
+冰霜之心	bing shuang zhi xin
+冰杖	bing zhang
+病毒屠刀	bing du tu dao
+博學之石	bo xue zhi shi
+不服去送	bu fu qu song
+不給就送	bu gei jiu song
+不倦勇士	bu juan yong shi
+不祥之刃	bu xiang zhi ren
+不祥之刃卡特琳娜	bu xiang zhi ren ka te lin na
+布蘭德	bu lan de
+布里茨	bu li ci
+擦眼	ca yan
+裁決之地	cai jue zhi di
+殘暴打擊	can bao da ji
+殘暴雕文	can bao diao wen
+殘暴雕紋	can bao diao wen
+殘暴符印	can bao fu yin
+殘暴精華	can bao jing hua
+殘暴印記	can bao yin ji
+殘暴之力	can bao zhi li
+殘血回家	can xue hui jia
+草叢倫	cao cong lun
+草叢三基友	cao cong san ji you
+草叢有埋伏	cao cong you mai fu
+草叢有人	cao cong you ren
+草叢有眼	cao cong you yan
+策士統領	ce shi tong ling
+策士統領斯維因	ce shi tong ling si wei yin
+插眼	cha yan
+鏟擊之錘	chan ji zhi chui
+長矛飛擲	zhang mao fei zhi
+超動力定位轉換器	chao dong li ding wei zhuan huan qi
+超鬼	chao gui
+超級兵	chao ji bing
+超級導彈現	chao ji dao dan xian
+超神	chao shen
+超重力場	chao zhong li chang
+潮汐海靈	chao xi hai ling
+潮汐使者祝福	chao xi shi zhe zhu fu
+懲戒之箭	cheng jie zhi jian
+懲戒之箭韋魯斯	cheng jie zhi jian wei lu si
+持槍浪人	chi qiang lang ren
+熾熱之焰	chi re zhi yan
+衝擊之潮	chong ji zhi chao
+衝浪高手辛吉德	chong lang gao shou xin ji de
+仇殺者	chou sha zhe
+初級保護	chu ji bao hu
+初級保護雕紋	chu ji bao hu diao wen
+初級保護符印	chu ji bao hu fu yin
+初級保護精華	chu ji bao hu jing hua
+初級保護印記	chu ji bao hu yin ji
+初級殘暴	chu ji can bao
+初級殘暴雕紋	chu ji can bao diao wen
+初級殘暴符印	chu ji can bao fu yin
+初級殘暴精華	chu ji can bao jing hua
+初級殘暴印記	chu ji can bao yin ji
+初級崇高的天賦雕紋	chu ji chong gao de tian fu diao wen
+初級洞察	chu ji dong cha
+初級洞察雕紋	chu ji dong cha diao wen
+初級洞察符印	chu ji dong cha fu yin
+初級洞察精華	chu ji dong cha jing hua
+初級洞察印記	chu ji dong cha yin ji
+初級惡毒	chu ji e du
+初級惡毒雕紋	chu ji e du diao wen
+初級惡毒符印	chu ji e du fu yin
+初級惡毒精華	chu ji e du jing hua
+初級惡毒印記	chu ji e du yin ji
+初級法力回覆	chu ji fa li hui fu
+初級法力回覆雕紋	chu ji fa li hui fu diao wen
+初級法力回覆符印	chu ji fa li hui fu fu yin
+初級法力回覆精華	chu ji fa li hui fu jing hua
+初級法力回覆印記	chu ji fa li hui fu yin ji
+初級防護雕紋	chu ji fang hu diao wen
+初級防護符印	chu ji fang hu fu yin
+初級防護精華	chu ji fang hu jing hua
+初級防護印記	chu ji fang hu yin ji
+初級防衛	chu ji fang wei
+初級防衛雕紋	chu ji fang wei diao wen
+初級防衛符印	chu ji fang wei fu yin
+初級防衛精華	chu ji fang wei jing hua
+初級防衛印記	chu ji fang wei yin ji
+初級剛毅	chu ji gang yi
+初級剛毅雕紋	chu ji gang yi diao wen
+初級剛毅符印	chu ji gang yi fu yin
+初級剛毅精華	chu ji gang yi jing hua
+初級剛毅印記	chu ji gang yi yin ji
+初級高山敏捷印記	chu ji gao shan min jie yin ji
+初級荒蕪	chu ji huang wu
+初級荒蕪雕紋	chu ji huang wu diao wen
+初級荒蕪符印	chu ji huang wu fu yin
+初級荒蕪精華	chu ji huang wu jing hua
+初級荒蕪印記	chu ji huang wu yin ji
+初級輝煌	chu ji hui huang
+初級輝煌雕紋	chu ji hui huang diao wen
+初級輝煌符印	chu ji hui huang fu yin
+初級輝煌精華	chu ji hui huang jing hua
+初級輝煌印記	chu ji hui huang yin ji
+初級恢復	chu ji hui fu
+初級恢復雕紋	chu ji hui fu diao wen
+初級恢復符印	chu ji hui fu fu yin
+初級恢復精華	chu ji hui fu jing hua
+初級恢復印記	chu ji hui fu yin ji
+初級迴避	chu ji hui bi
+初級迴避雕紋	chu ji hui bi diao wen
+初級迴避符印	chu ji hui bi fu yin
+初級迴避精華	chu ji hui bi jing hua
+初級迴避印記	chu ji hui bi yin ji
+初級活力	chu ji huo li
+初級活力雕紋	chu ji huo li diao wen
+初級活力符印	chu ji huo li fu yin
+初級活力精華	chu ji huo li jing hua
+初級活力印記	chu ji huo li yin ji
+初級急速	chu ji ji su
+初級急速雕紋	chu ji ji su diao wen
+初級急速符印	chu ji ji su fu yin
+初級急速精華	chu ji ji su jing hua
+初級急速印記	chu ji ji su yin ji
+初級疾跑	chu ji ji pao
+初級疾跑精華	chu ji ji pao jing hua
+初級獎章符印	chu ji jiang zhang fu yin
+初級精力	chu ji jing li
+初級精力雕紋	chu ji jing li diao wen
+初級精力符印	chu ji jing li fu yin
+初級精力精華	chu ji jing li jing hua
+初級精力印記	chu ji jing li yin ji
+初級精準	chu ji jing zhun
+初級精準雕紋	chu ji jing zhun diao wen
+初級精準符印	chu ji jing zhun fu yin
+初級精準精華	chu ji jing zhun jing hua
+初級精準印記	chu ji jing zhun yin ji
+初級狂熱	chu ji kuang re
+初級狂熱雕紋	chu ji kuang re diao wen
+初級狂熱符印	chu ji kuang re fu yin
+初級狂熱精華	chu ji kuang re jing hua
+初級狂熱印記	chu ji kuang re yin ji
+初級力量雕紋	chu ji li liang diao wen
+初級力量符印	chu ji li liang fu yin
+初級力量精華	chu ji li liang jing hua
+初級力量印記	chu ji li liang yin ji
+初級敏捷雕紋	chu ji min jie diao wen
+初級敏捷符印	chu ji min jie fu yin
+初級敏捷精華	chu ji min jie jing hua
+初級敏捷印記	chu ji min jie yin ji
+初級能量	chu ji neng liang
+初級能量雕紋	chu ji neng liang diao wen
+初級能量符印	chu ji neng liang fu yin
+初級能量精華	chu ji neng liang jing hua
+初級能量印記	chu ji neng liang yin ji
+初級潛能	chu ji qian neng
+初級潛能雕紋	chu ji qian neng diao wen
+初級潛能符印	chu ji qian neng fu yin
+初級潛能精華	chu ji qian neng jing hua
+初級潛能印記	chu ji qian neng yin ji
+初級清晰	chu ji qing xi
+初級清晰雕紋	chu ji qing xi diao wen
+初級清晰符印	chu ji qing xi fu yin
+初級清晰精華	chu ji qing xi jing hua
+初級清晰印記	chu ji qing xi yin ji
+初級閃避	chu ji shan bi
+初級閃避雕紋	chu ji shan bi diao wen
+初級閃避符印	chu ji shan bi fu yin
+初級閃避精華	chu ji shan bi jing hua
+初級閃避印記	chu ji shan bi yin ji
+初級聖誕樹印記	chu ji sheng dan shu yin ji
+初級貪婪	chu ji tan lan
+初級貪婪精華	chu ji tan lan jing hua
+初級頑強的雪人符印	chu ji wan qiang de xue ren fu yin
+初級威力	chu ji wei li
+初級威力雕紋	chu ji wei li diao wen
+初級威力符印	chu ji wei li fu yin
+初級威力精華	chu ji wei li jing hua
+初級威力印記	chu ji wei li yin ji
+初級迅捷	chu ji xun jie
+初級迅捷雕紋	chu ji xun jie diao wen
+初級迅捷符印	chu ji xun jie fu yin
+初級迅捷精華	chu ji xun jie jing hua
+初級迅捷印記	chu ji xun jie yin ji
+初級野蠻	chu ji ye man
+初級野蠻雕紋	chu ji ye man diao wen
+初級野蠻符印	chu ji ye man fu yin
+初級野蠻精華	chu ji ye man jing hua
+初級野蠻印記	chu ji ye man yin ji
+初級再生	chu ji zai sheng
+初級再生雕紋	chu ji zai sheng diao wen
+初級再生符印	chu ji zai sheng fu yin
+初級再生精華	chu ji zai sheng jing hua
+初級再生印記	chu ji zai sheng yin ji
+初級知識	chu ji zhi shi
+初級知識雕紋	chu ji zhi shi diao wen
+初級知識符印	chu ji zhi shi fu yin
+初級知識精華	chu ji zhi shi jing hua
+初級知識印記	chu ji zhi shi yin ji
+初級智力雕紋	chu ji zhi li diao wen
+初級智力符印	chu ji zhi li fu yin
+初級智力精華	chu ji zhi li jing hua
+初級智力印記	chu ji zhi li yin ji
+初級專注	chu ji zhuan zhu
+初級專注雕紋	chu ji zhuan zhu diao wen
+初級專注符印	chu ji zhuan zhu fu yin
+初級專注精華	chu ji zhuan zhu jing hua
+初級專注印記	chu ji zhuan zhu yin ji
+穿梭未來	chuan suo wei lai
+穿心長矛	chuan xin zhang mao
+傳送取消	chuan song qu xiao
+傳送之門	chuan song zhi men
+傳統僧侶	chuan tong seng lv
+錘子幫	chui zi bang
+春哥	chun ge
+春哥甲	chun ge jia
+刺客詭道	ci ke gui dao
+刺客印記	ci ke yin ji
+次世代維修機器人	ci shi dai wei xiu ji qi ren
+叢林伏擊	cong lin fu ji
+叢林伏擊猛撲	cong lin fu ji meng pu
+摧筋斷骨	cui jin duan gu
+崔絲塔娜	cui si ta na
+催化神石	cui hua shen shi
+村正魔刃	cun zheng mo ren
+達貢神力	da gong shen li
+打大龍	da da long
+打紅	da hong
+打藍	da lan
+打龍	da long
+打男爵	da nan jue
+打小龍	da xiao long
+大蟲子	da chong zi
+大地震顛	da di zhen dian
+大發明家	da fa ming jia
+大發明家黑默丁格	da fa ming jia hei mo ding ge
+大法師的智慧	da fa shi de zhi hui
+大狗	da gou
+大號鉛彈	da hao qian dan
+大師風采	da shi feng cai
+大天使之杖	da tian shi zhi zhang
+大招時間	da zhao shi jian
+大招時間剩餘	da zhao shi jian sheng yu
+大嘴	da zui
+帶線	dai xian
+彈幕時間	dan mu shi jian
+彈射炸彈	dan she zha dan
+彈射之刃	dan she zhi ren
+刀鋒女王莫甘娜	dao feng nv wang mo gan na
+刀鋒意志	dao feng yi zhi
+刀鋒意志艾瑞莉婭	dao feng yi zhi ai rui li ya
+刀鋒之影	dao feng zhi ying
+刀鋒之影泰隆	dao feng zhi ying tai long
+刀妹	dao mei
+道聚城	dao ju cheng
+德邦	de bang
+德邦總管	de bang zong guan
+德邦總管趙信	de bang zong guan zhao xin
+德凱撒	de kai sa
+德萊厄斯	de lai e si
+德萊文	de lai wen
+德瑪	de ma
+德瑪西亞	de ma xi ya
+德瑪西亞光輝	de ma xi ya guang hui
+德瑪西亞皇子	de ma xi ya huang zi
+德瑪西亞皇子嘉文四世	de ma xi ya huang zi jia wen si shi
+德瑪西亞正義	de ma xi ya zheng yi
+德瑪西亞之力	de ma xi ya zhi li
+德瑪西亞之力蓋倫	de ma xi ya zhi li gai lun
+德瑪西亞之翼	de ma xi ya zhi yi
+德瑪西亞之翼奎因	de ma xi ya zhi yi kui yin
+等我大好	deng wo da hao
+等我開大	deng wo kai da
+地獄火泰迪	di yu huo tai di
+地震碎片	di zhen sui pian
+第二防禦塔	di er fang yu ta
+第六人	di liu ren
+第三防禦塔	di san fang yu ta
+第一防禦塔	di yi fang yu ta
+帝王斑蝶	di wang ban die
+帝王斑蝶克格莫	di wang ban die ke ge mo
+電耗子	dian hao zi
+電老鼠	dian lao shu
+電氣魔鬼琴	dian qi mo gui qin
+電刃	dian ren
+電子脈衝	dian zi mai chong
+電子魚叉	dian zi yu cha
+雕急速文	diao ji su wen
+定點爆破	ding dian bao po
+冬季地圖	dong ji di tu
+動力衝刺	dong li chong ci
+洞察雕文	dong cha diao wen
+洞察雕紋	dong cha diao wen
+洞察符印	dong cha fu yin
+洞察精華	dong cha jing hua
+洞察印記	dong cha yin ji
+斗篷與短刀	dou peng yu duan dao
+毒性爆發	du xing bao fa
+獨眼海盜	du yan hai dao
+杜朗石像	du lang shi xiang
+短袖襯衫	duan xiu chen shan
+斷裂棒棒糖印記	duan lie bang bang tang yin ji
+對面復活了	dui mian fu huo le
+多蘭之刀	duo lan zhi dao
+多蘭之盾	duo lan zhi dun
+多蘭之戒	duo lan zhi jie
+多蘭之刃	duo lan zhi ren
+墮落天使莫甘娜	duo luo tian shi mo gan na
+墮天一擊	duo tian yi ji
+惡毒雕文	e du diao wen
+惡毒雕紋	e du diao wen
+惡毒符印	e du fu yin
+惡毒精華	e du jing hua
+惡毒印記	e du yin ji
+惡魔法典	e mo fa dian
+惡魔小丑	e mo xiao chou
+惡魔小丑薩科	e mo xiao chou sa ke
+惡鴉來襲	e ya lai xi
+厄加特	e jia te
+厄加特加里奧	e jia te jia li ao
+厄運女郎	e yun nv lang
+厄運女郎加里奧	e yun nv lang jia li ao
+厄運曉姐	e yun xiao jie
+厄運小姐	e yun xiao jie
+發送小地圖信號	fa song xiao di tu xin hao
+發條魔靈	fa tiao mo ling
+發條魔靈奧莉安娜	fa tiao mo ling ao li an na
+法穿鞋	fa chuan xie
+法防鞋	fa fang xie
+法老王內瑟斯	fa lao wang nei se si
+法力回覆雕文	fa li hui fu diao wen
+法力回覆雕紋	fa li hui fu diao wen
+法力回覆符印	fa li hui fu fu yin
+法力回覆精華	fa li hui fu jing hua
+法力回覆印記	fa li hui fu yin ji
+法力屏障	fa li ping zhang
+法師竊賊	fa shi qie zei
+法師鎖鏈	fa shi suo lian
+法術護盾	fa shu hu dun
+法術幻想	fa shu huan xiang
+法術抗性	fa shu kang xing
+法術強度	fa shu qiang du
+法術竊賊拉克絲	fa shu qie zei la ke si
+法術吸血	fa shu xi xue
+法術涌動	fa shu yong dong
+法外狂徒	fa wai kuang tu
+法外狂徒格雷福斯	fa wai kuang tu ge lei fu si
+反曲之弓	fan qu zhi gong
+防護雕文	fang hu diao wen
+防護雕紋	fang hu diao wen
+防護符印	fang hu fu yin
+防護精華	fang hu jing hua
+防護印記	fang hu yin ji
+防衛雕文	fang wei diao wen
+防衛雕紋	fang wei diao wen
+防衛符印	fang wei fu yin
+防衛精華	fang wei jing hua
+防衛印記	fang wei yin ji
+防禦精通	fang yu jing tong
+放心輸出	fang xin shu chu
+放逐之鋒	fang zhu zhi feng
+放逐之刃	fang zhu zhi ren
+放逐之刃銳雯	fang zhu zhi ren rui wen
+菲奧娜	fei ao na
+非王道者	fei wang dao zhe
+非戰鬥效果	fei zhan dou xiao guo
+飛天姿態	fei tian zi tai
+飛鏢風暴	fei biao feng bao
+費德提克	fei de ti ke
+費拉基米爾	fei la ji mi er
+分解腐爛	fen jie fu lan
+糞叉	fen cha
+豐厚賞金	feng hou shang jin
+風暴女神	feng bao nv shen
+風暴女神迦娜	feng bao nv shen jia na
+風暴印記	feng bao yin ji
+風暴之怒迦娜	feng bao zhi nu jia na
+風暴之心	feng bao zhi xin
+風雷之子	feng lei zhi zi
+風女	feng nv
+瘋狂揮舞	feng kuang hui wu
+瘋狂卡牌	feng kuang ka pai
+瘋狂藥劑	feng kuang yao ji
+符文禁錮	fu wen jin gu
+符文生物	fu wen sheng wu
+符文石膚	fu wen shi fu
+弗拉基米爾	fu la ji mi er
+弗雷爾卓德	fu lei er zhuo de
+輔助插眼	fu zhu cha yan
+斧頭哥	fu tou ge
+腐肉再生	fu rou zai sheng
+腐蝕唾液	fu shi tuo ye
+腐蝕之刃	fu shi zhi ren
+復仇烈焰	fu chou lie yan
+復仇焰魂	fu chou yan hun
+復仇焰魂布蘭德	fu chou yan hun bu lan de
+復仇漩渦	fu chou xuan wo
+復甦季風	fu su ji feng
+復甦之盾	fu su zhi dun
+負極斗篷	fu ji dou peng
+剛毅雕文	gang yi diao wen
+剛毅雕紋	gang yi diao wen
+剛毅符印	gang yi fu yin
+剛毅精華	gang yi jing hua
+剛毅印記	gang yi yin ji
+鋼鐵大師	gang tie da shi
+鋼鐵大使	gang tie da shi
+鋼鐵大使波比	gang tie da shi bo bi
+鋼鐵烈陽	gang tie lie yang
+鋼鐵烈陽之匣	gang tie lie yang zhi xia
+鋼鐵外殼	gang tie wai ke
+鋼鐵之心	gang tie zhi xin
+高級保護	gao ji bao hu
+高級保護雕紋	gao ji bao hu diao wen
+高級保護符印	gao ji bao hu fu yin
+高級保護精華	gao ji bao hu jing hua
+高級保護印記	gao ji bao hu yin ji
+高級殘暴	gao ji can bao
+高級殘暴雕紋	gao ji can bao diao wen
+高級殘暴符印	gao ji can bao fu yin
+高級殘暴精華	gao ji can bao jing hua
+高級殘暴印記	gao ji can bao yin ji
+高級洞察	gao ji dong cha
+高級洞察雕紋	gao ji dong cha diao wen
+高級洞察符印	gao ji dong cha fu yin
+高級洞察精華	gao ji dong cha jing hua
+高級洞察印記	gao ji dong cha yin ji
+高級惡毒	gao ji e du
+高級惡毒雕紋	gao ji e du diao wen
+高級惡毒符印	gao ji e du fu yin
+高級惡毒精華	gao ji e du jing hua
+高級惡毒印記	gao ji e du yin ji
+高級法力回覆	gao ji fa li hui fu
+高級法力回覆雕紋	gao ji fa li hui fu diao wen
+高級法力回覆符印	gao ji fa li hui fu fu yin
+高級法力回覆精華	gao ji fa li hui fu jing hua
+高級法力回覆印記	gao ji fa li hui fu yin ji
+高級防護	gao ji fang hu
+高級防護雕紋	gao ji fang hu diao wen
+高級防護符印	gao ji fang hu fu yin
+高級防護精華	gao ji fang hu jing hua
+高級防護印記	gao ji fang hu yin ji
+高級防衛	gao ji fang wei
+高級防衛雕紋	gao ji fang wei diao wen
+高級防衛符印	gao ji fang wei fu yin
+高級防衛精華	gao ji fang wei jing hua
+高級防衛印記	gao ji fang wei yin ji
+高級符專注印	gao ji fu zhuan zhu yin
+高級剛毅	gao ji gang yi
+高級剛毅雕紋	gao ji gang yi diao wen
+高級剛毅符印	gao ji gang yi fu yin
+高級剛毅精華	gao ji gang yi jing hua
+高級剛毅印記	gao ji gang yi yin ji
+高級荒蕪	gao ji huang wu
+高級荒蕪雕紋	gao ji huang wu diao wen
+高級荒蕪符印	gao ji huang wu fu yin
+高級荒蕪精華	gao ji huang wu jing hua
+高級荒蕪印記	gao ji huang wu yin ji
+高級輝煌	gao ji hui huang
+高級輝煌雕紋	gao ji hui huang diao wen
+高級輝煌符印	gao ji hui huang fu yin
+高級輝煌精華	gao ji hui huang jing hua
+高級輝煌印記	gao ji hui huang yin ji
+高級恢復	gao ji hui fu
+高級恢復雕紋	gao ji hui fu diao wen
+高級恢復符印	gao ji hui fu fu yin
+高級恢復精華	gao ji hui fu jing hua
+高級恢復印記	gao ji hui fu yin ji
+高級迴避	gao ji hui bi
+高級迴避雕紋	gao ji hui bi diao wen
+高級迴避符印	gao ji hui bi fu yin
+高級迴避精華	gao ji hui bi jing hua
+高級迴避印記	gao ji hui bi yin ji
+高級活力	gao ji huo li
+高級活力雕紋	gao ji huo li diao wen
+高級活力符印	gao ji huo li fu yin
+高級活力精華	gao ji huo li jing hua
+高級活力印記	gao ji huo li yin ji
+高級急速	gao ji ji su
+高級急速雕紋	gao ji ji su diao wen
+高級急速符印	gao ji ji su fu yin
+高級急速精華	gao ji ji su jing hua
+高級急速印記	gao ji ji su yin ji
+高級疾跑	gao ji ji pao
+高級疾跑精華	gao ji ji pao jing hua
+高級精力	gao ji jing li
+高級精力雕紋	gao ji jing li diao wen
+高級精力符印	gao ji jing li fu yin
+高級精力精華	gao ji jing li jing hua
+高級精力印記	gao ji jing li yin ji
+高級精準	gao ji jing zhun
+高級精準雕紋	gao ji jing zhun diao wen
+高級精準符印	gao ji jing zhun fu yin
+高級精準精華	gao ji jing zhun jing hua
+高級精準印記	gao ji jing zhun yin ji
+高級狂熱	gao ji kuang re
+高級狂熱雕紋	gao ji kuang re diao wen
+高級狂熱符印	gao ji kuang re fu yin
+高級狂熱精華	gao ji kuang re jing hua
+高級狂熱印記	gao ji kuang re yin ji
+高級力量	gao ji li liang
+高級力量雕紋	gao ji li liang diao wen
+高級力量符印	gao ji li liang fu yin
+高級力量精華	gao ji li liang jing hua
+高級力量印記	gao ji li liang yin ji
+高級敏捷	gao ji min jie
+高級敏捷雕紋	gao ji min jie diao wen
+高級敏捷符印	gao ji min jie fu yin
+高級敏捷精華	gao ji min jie jing hua
+高級敏捷印記	gao ji min jie yin ji
+高級能量	gao ji neng liang
+高級能量雕紋	gao ji neng liang diao wen
+高級能量符印	gao ji neng liang fu yin
+高級能量精華	gao ji neng liang jing hua
+高級能量印記	gao ji neng liang yin ji
+高級潛能	gao ji qian neng
+高級潛能雕紋	gao ji qian neng diao wen
+高級潛能符印	gao ji qian neng fu yin
+高級潛能精華	gao ji qian neng jing hua
+高級潛能印記	gao ji qian neng yin ji
+高級清晰	gao ji qing xi
+高級清晰雕紋	gao ji qing xi diao wen
+高級清晰符印	gao ji qing xi fu yin
+高級清晰精華	gao ji qing xi jing hua
+高級清晰印記	gao ji qing xi yin ji
+高級閃避	gao ji shan bi
+高級閃避雕紋	gao ji shan bi diao wen
+高級閃避符印	gao ji shan bi fu yin
+高級閃避精華	gao ji shan bi jing hua
+高級閃避印記	gao ji shan bi yin ji
+高級貪婪	gao ji tan lan
+高級貪婪精華	gao ji tan lan jing hua
+高級威力	gao ji wei li
+高級威力雕紋	gao ji wei li diao wen
+高級威力符印	gao ji wei li fu yin
+高級威力精華	gao ji wei li jing hua
+高級威力印記	gao ji wei li yin ji
+高級迅捷	gao ji xun jie
+高級迅捷雕紋	gao ji xun jie diao wen
+高級迅捷符印	gao ji xun jie fu yin
+高級迅捷精華	gao ji xun jie jing hua
+高級迅捷印記	gao ji xun jie yin ji
+高級野蠻	gao ji ye man
+高級野蠻雕紋	gao ji ye man diao wen
+高級野蠻符印	gao ji ye man fu yin
+高級野蠻精華	gao ji ye man jing hua
+高級野蠻印記	gao ji ye man yin ji
+高級再生	gao ji zai sheng
+高級再生雕紋	gao ji zai sheng diao wen
+高級再生符印	gao ji zai sheng fu yin
+高級再生精華	gao ji zai sheng jing hua
+高級再生印記	gao ji zai sheng yin ji
+高級知識雕紋	gao ji zhi shi diao wen
+高級知識符印	gao ji zhi shi fu yin
+高級知識精華	gao ji zhi shi jing hua
+高級知識印記	gao ji zhi shi yin ji
+高級智慧	gao ji zhi hui
+高級智慧精華	gao ji zhi hui jing hua
+高級智力	gao ji zhi li
+高級智力雕紋	gao ji zhi li diao wen
+高級智力符印	gao ji zhi li fu yin
+高級智力精華	gao ji zhi li jing hua
+高級智力印記	gao ji zhi li yin ji
+高級重生精華	gao ji chong sheng jing hua
+高級專注	gao ji zhuan zhu
+高級專注雕紋	gao ji zhuan zhu diao wen
+高級專注符印	gao ji zhuan zhu fu yin
+高級專注精華	gao ji zhuan zhu jing hua
+高級專注印記	gao ji zhuan zhu yin ji
+高科技微型火箭	gao ke ji wei xing huo jian
+高原血統	gao yuan xue tong
+割喉之戰	ge hou zhi zhan
+格鬥手套	ge dou shou tao
+格雷福斯	ge lei fu si
+格林機槍	ge lin ji qiang
+攻擊精通	gong ji jing tong
+攻擊距離	gong ji ju li
+攻擊傷害	gong ji shang hai
+攻擊射程	gong ji she cheng
+攻擊系	gong ji xi
+攻擊主體切換	gong ji zhu ti qie huan
+攻速鞋	gong su xie
+古拉加斯	gu la jia si
+寡婦製造者伊芙琳	gua fu zhi zao zhe yi fu lin
+光輝女郎	guang hui nv lang
+光輝女郎拉克絲	guang hui nv lang la ke si
+光明美少女	guang ming mei shao nv
+光明女神般	guang ming nv shen ban
+光明使者	guang ming shi zhe
+光之束縛	guang zhi shu fu
+龜塔	gui ta
+鬼索的狂暴之刃	gui suo de kuang bao zhi ren
+鬼爪	gui zhao
+詭術妖姬	gui shu yao ji
+詭術妖姬樂芙蘭	gui shu yao ji le fu lan
+滾動酒桶	gun dong jiu tong
+國服高手	guo fu gao shou
+國王泰達米爾	guo wang tai da mi er
+過肩摔	guo jian shuai
+過載運轉	guo zai yun zhuan
+海科斯的科技槍	hai ke si de ke ji qiang
+海克斯爆破雷區	hai ke si bao po lei qu
+海克斯科技	hai ke si ke ji
+海克斯科技榴彈	hai ke si ke ji liu dan
+海克斯科技槍刃	hai ke si ke ji qiang ren
+海克斯科技左輪	hai ke si ke ji zuo lun
+海克斯科技左輪槍	hai ke si ke ji zuo lun qiang
+海克斯科技左輪手槍	hai ke si ke ji zuo lun shou qiang
+海克斯探測器	hai ke si tan ce qi
+海克斯飲魔刀	hai ke si yin mo dao
+海克斯飲魔者	hai ke si yin mo zhe
+海獅騎手	hai shi qi shou
+海洋之災	hai yang zhi zai
+海洋之災普朗克	hai yang zhi zai pu lang ke
+寒冰閃耀	han bing shan yao
+寒冰射手	han bing she shou
+寒冰射手艾希	han bing she shou ai xi
+寒冰血脈	han bing xue mai
+寒霜涅槃	han shuang nie pan
+好運姐	hao yun jie
+和風守護	he feng shou hu
+和平使者	he ping shi zhe
+和諧聖盃	he xie sheng bei
+赫卡里姆	he ka li mu
+黑暗庇護	hei an bi hu
+黑暗祭祀	hei an ji si
+黑暗祭祀的	hei an ji si de
+黑暗物質	hei an wu zhi
+黑暗之盾	hei an zhi dun
+黑暗之風	hei an zhi feng
+黑暗之女	hei an zhi nv
+黑暗之女安妮	hei an zhi nv an ni
+黑默丁格	hei mo ding ge
+黑槍射擊	hei qiang she ji
+黑切	hei qie
+黑切聯盟	hei qie lian meng
+黑色玫瑰	hei se mei gui
+黑色切割者	hei se qie ge zhe
+黑市切糕者	hei shi qie gao zhe
+黑夜女神	hei ye nv shen
+恆溫灼燒	heng wen zhuo shao
+虹吸打擊	hong xi da ji
+紅寶石視界之石	hong bao shi shi jie zhi shi
+紅叉	hong cha
+紅隊攻城騎士	hong dui gong cheng qi shi
+紅隊商店	hong dui shang dian
+紅色卡牌	hong se ka pai
+紅色聖誕蛋酒	hong se sheng dan dan jiu
+紅色糖果	hong se tang guo
+胡桃夾子	hu tao jia zi
+護甲穿透	hu jia chuan tou
+護甲割裂	hu jia ge lie
+護甲鞋	hu jia xie
+護塔	hu ta
+花崗岩護盾	hua gang yan hu dun
+歡樂時光	huan le shi guang
+喚潮妖姬	huan chao yao ji
+喚潮之佑	huan chao zhi you
+喚潮鮫姬娜美	huan chao jiao ji na mei
+幻影夢魔	huan ying meng mo
+幻影鎖鏈	huan ying suo lian
+幻影之舞	huan ying zhi wu
+荒漠屠夫	huang mo tu fu
+荒漠屠夫雷克頓	huang mo tu fu lei ke dun
+荒漠之咬	huang mo zhi yao
+荒蕪雕文	huang wu diao wen
+荒蕪雕紋	huang wu diao wen
+荒蕪符印	huang wu fu yin
+荒蕪精華	huang wu jing hua
+荒蕪印記	huang wu yin ji
+荒野之鱷	huang ye zhi e
+荒野鏢客	huang ye biao ke
+黃叉	huang cha
+黃金之心	huang jin zhi xin
+灰色水晶合劑	hui se shui jing he ji
+輝煌雕文	hui huang diao wen
+輝煌雕紋	hui huang diao wen
+輝煌符印	hui huang fu yin
+輝煌精華	hui huang jing hua
+輝煌印記	hui huang yin ji
+恢復雕紋	hui fu diao wen
+恢復符印	hui fu fu yin
+恢復精華	hui fu jing hua
+恢復印記	hui fu yin ji
+迴避雕文	hui bi diao wen
+迴避雕紋	hui bi diao wen
+迴避符印	hui bi fu yin
+迴避精華	hui bi jing hua
+迴避印記	hui bi yin ji
+回程卷軸	hui cheng juan zhou
+回家買眼	hui jia mai yan
+回家拿眼	hui jia na yan
+回家拿眼自己小心	hui jia na yan zi ji xiao xin
+回藍杯	hui lan bei
+迴旋之刃	hui xuan zhi ren
+迴音擊天音波	hui yin ji tian yin bo
+毀滅虹吸	hui mie hong xi
+毀滅射擊	hui mie she ji
+毀滅重擊	hui mie zhong ji
+混亂風暴	hun luan feng bao
+混沌竊取	hun dun qie qu
+活力雕文	huo li diao wen
+活力雕紋	huo li diao wen
+活力符印	huo li fu yin
+活力精華	huo li jing hua
+活力印記	huo li yin ji
+活體大炮	huo ti da pao
+火鳳姿態	huo feng zi tai
+火箭轟擊	huo jian hong ji
+火箭跳躍	huo jian tiao yue
+火力全開	huo li quan kai
+火牙狼人	huo ya lang ren
+火焰烙印	huo yan lao yin
+基礎攻擊	ji chu gong ji
+基礎傷害	ji chu shang hai
+基礎移動	ji chu yi dong
+基礎移動速度	ji chu yi dong su du
+基克的使徒	ji ke de shi tu
+基蘭	ji lan
+基蘭大招	ji lan da zhao
+機器人你敢拉準點嗎	ji qi ren ni gan la zhun dian ma
+機械飛爪	ji xie fei zhao
+機械公敵蘭博	ji xie gong di lan bo
+機械公敵蘭博噴火娃	ji xie gong di lan bo pen huo wa
+機械先驅	ji xie xian qu
+機械先驅維克托	ji xie xian qu wei ke tuo
+機械重組	ji xie zhong zu
+激活寶匣	ji huo bao xia
+吉泰的奪命剃刀	ji tai de duo ming ti dao
+極冰寒獄	ji bing han yu
+極寒突襲	ji han tu xi
+極致符印	ji zhi fu yin
+集火	ji huo
+急速雕紋	ji su diao wen
+急速符印	ji su fu yin
+急速精華	ji su jing hua
+急速印記	ji su yin ji
+疾風斬	ji feng zhan
+疾跑精華	ji pao jing hua
+疾行之靴	ji xing zhi xue
+汲魂痛擊	ji hun tong ji
+技能冷卻時間	ji neng leng que shi jian
+嘉文四世	jia wen si shi
+加藍	jia lan
+加里奧	jia li ao
+加農彈幕	jia nong dan mu
+加農炮幕	jia nong pao mu
+賈克斯	jia ke si
+甲鎖子甲	jia suo zi jia
+假眼	jia yan
+堅定重擊	jian ding zhong ji
+堅定重擊法術強度	jian ding zhong ji fa shu qiang du
+堅強壁壘	jian qiang bi lei
+堅韌合劑	jian ren he ji
+堅韌護甲	jian ren hu jia
+堅毅詠歎調	jian yi yong tan diao
+尖刺防禦	jian ci fang yu
+減少暈眩	jian shao yun xuan
+劍姬	jian ji
+劍聖去偷塔	jian sheng qu tou ta
+劍聖偷塔	jian sheng tou ta
+濺射範圍	jian she fan wei
+殭屍瑞茲	jiang shi rui zi
+交戰豁免	jiao zhan huo mian
+節點防禦塔	jie dian fang yu ta
+節點尖塔	jie dian jian ta
+節日服裝	jie ri fu zhuang
+金色卡牌	jin se ka pai
+金屬大師	jin shu da shi
+金屬大師莫德凱撒	jin shu da shi mo de kai sa
+進化科技	jin hua ke ji
+進化炮臺	jin hua pao tai
+近戰專屬	jin zhan zhuan shu
+荊棘之甲	jing ji zhi jia
+荊棘之興	jing ji zhi xing
+荊棘之興婕拉	jing ji zhi xing jie la
+晶體破碎	jing ti po sui
+晶狀毒刺	jing zhuang du ci
+驚天巨浪	jing tian ju lang
+驚嚇魔盒	jing xia mo he
+精華躍動	jing hua yue dong
+精力雕文	jing li diao wen
+精力雕紋	jing li diao wen
+精力符印	jing li fu yin
+精力精華	jing li jing hua
+精力印記	jing li yin ji
+精靈女巫	jing ling nv wu
+精靈女巫露露	jing ling nv wu lu lu
+精神擴張	jing shen kuo zhang
+精神之力	jing shen zhi li
+精神之石	jing shen zhi shi
+精準彈幕	jing zhun dan mu
+精準雕文	jing zhun diao wen
+精準雕紋	jing zhun diao wen
+精準符印	jing zhun fu yin
+精準精華	jing zhun jing hua
+精準空間	jing zhun kong jian
+精準印記	jing zhun yin ji
+經驗獲得	jing yan huo de
+靜電力場	jing dian li chang
+淨蝕	jing shi
+淨蝕淨蝕	jing shi jing shi
+九尾妖狐阿狸	jiu wei yao hu a li
+酒桶古拉加斯	jiu tong gu la jia si
+據點模式	ju dian mo shi
+巨狼	ju lang
+巨人腰帶	ju ren yao dai
+巨神鋒	ju shen feng
+巨熊姿態	ju xiong zi tai
+劇毒迷霧	ju du mi wu
+劇毒蹤跡	ju du zong ji
+掘墓者	jue mu zhe
+絕美妖嬈琴仙	jue mei yao rao qin xian
+絕望光環	jue wang guang huan
+絕望之力	jue wang zhi li
+均衡打擊	jun heng da ji
+軍神戰甲	jun shen zhan jia
+軍團盾	jun tuan dun
+軍團聖盾	jun tuan sheng dun
+卡爾瑪	ka er ma
+卡爾薩斯	ka er sa si
+卡格瑪	ka ge ma
+卡牌大師崔斯特	ka pai da shi cui si te
+卡牌騙術	ka pai pian shu
+卡奇	ka qi
+卡薩丁	ka sa ding
+卡西奧佩婭	ka xi ao pei ya
+開黑	kai hei
+開視野	kai shi ye
+凱爾審判天使	kai er shen pan tian shi
+凱南	kai nan
+凱奇的幸運手	kai qi de xing yun shou
+凱奇的最後呼吸	kai qi de zui hou hu xi
+凱奇幸運手	kai qi xing yun shou
+凱撒丁	kai sa ding
+凱特琳	kai te lin
+勘探者之戒	kan tan zhe zhi jie
+勘探者之刃	kan tan zhe zhi ren
+砍鑿之刃	kan zao zhi ren
+抗魔斗篷	kang mo dou peng
+抗塔	kang ta
+科技刀	ke ji dao
+科技魔法維修機器人	ke ji mo fa wei xiu ji qi ren
+科技槍	ke ji qiang
+科加斯	ke jia si
+科學的地獄火炮	ke xue de di yu huo pao
+克格	ke ge
+克格莫	ke ge mo
+克隆體	ke long ti
+肯尼恩	ken ni en
+坑爹	keng die
+坑爹思密達	keng die si mi da
+恐怖電容	kong bu dian rong
+恐懼降臨	kong ju jiang lin
+恐懼騎士	kong ju qi shi
+恐懼之刺	kong ju zhi ci
+控線	kong xian
+苦難折磨	ku nan zhe mo
+庫奇	ku qi
+儈子手	kuai zi shou
+快速拔槍	kuai su ba qiang
+狂暴撕咬	kuang bao si yao
+狂暴野性	kuang bao ye xing
+狂暴之刃	kuang bao zhi ren
+狂暴之心	kuang bao zhi xin
+狂暴之心凱南	kuang bao zhi xin kai nan
+狂熱雕文	kuang re diao wen
+狂熱雕紋	kuang re diao wen
+狂熱符印	kuang re fu yin
+狂熱精華	kuang re jing hua
+狂熱狂熱	kuang re kuang re
+狂熱印記	kuang re yin ji
+狂徒鎧甲	kuang tu kai jia
+狂舞終樂章	kuang wu zhong le zhang
+狂野女獵手	kuang ye nv lie shou
+狂野女獵手奈德麗	kuang ye nv lie shou nai de li
+狂戰	kuang zhan
+狂戰怒吼	kuang zhan nu hou
+狂戰士奧拉夫	kuang zhan shi ao la fu
+狂戰士脛甲	kuang zhan shi jing jia
+狂戰之怒	kuang zhan zhi nu
+捆人	kun ren
+垃圾場特朗德爾	la ji chang te lang de er
+拉克絲光芒四射	la ke si guang mang si she
+拉野	la ye
+藍隊攻城騎士	lan dui gong cheng qi shi
+藍隊水晶塔	lan dui shui jing ta
+藍隊召喚者節點	lan dui zhao huan zhe jie dian
+藍寡婦	lan gua fu
+藍瓶	lan ping
+藍拳	lan quan
+藍色卡牌	lan se ka pai
+藍色聖誕蛋酒	lan se sheng dan dan jiu
+藍色糖果	lan se tang guo
+藍色小藥丸	lan se xiao yao wan
+藍焰夢魔	lan yan meng mo
+蘭博	lan bo
+蘭德里的輓歌	lan de li de wan ge
+蘭頓之兆	lan dun zhi zhao
+勒布朗	lei bu lang
+勒布朗克	lei bu lang ke
+樂芙蘭	le fu lan
+雷電手裏劍	lei dian shou li jian
+雷克頓	lei ke dun
+雷瑟守備	lei se shou bei
+雷霆咆哮	lei ting pao xiao
+雷霆咆哮沃利貝爾	lei ting pao xiao wo li bei er
+雷霆閃電	lei ting shan dian
+蕾歐娜	lei ou na
+冷酷捕獵	leng ku bu lie
+冷卻鞋	leng que xie
+離子火花	li zi huo hua
+里奧	li ao
+里爾擊球手特朗德爾	li er ji qiu shou te lang de er
+麗克絲	li ke si
+麗桑卓	li sang zhuo
+利刃衝擊	li ren chong ji
+利維坦之甲	li wei tan zhi jia
+力量雕文	li liang diao wen
+力量雕紋	li liang diao wen
+力量符印	li liang fu yin
+力量精華	li liang jing hua
+力量印記	li liang yin ji
+聯盟翼騎	lian meng yi qi
+鍊金術師	lian jin shu shi
+煉金術士辛吉德	lian jin shu shi xin ji de
+裂血手套	lie xue shou tao
+烈酒利刃	lie jiu li ren
+烈焰吐息	lie yan tu xi
+烈焰之柱	lie yan zhi zhu
+獵人彎刀	lie ren wan dao
+獵手怒吼	lie shou nu hou
+磷光炸彈	lin guang zha dan
+凜冬之怒	lin dong zhi nu
+凜冬之怒瑟莊妮	lin dong zhi nu se zhuang ni
+靈龜姿態	ling gui zi tai
+靈猴敏捷	ling hou min jie
+靈魂法衣	ling hun fa yi
+靈魂連接	ling hun lian jie
+靈魂鐐銬	ling hun liao kao
+靈魂水晶	ling hun shui jing
+靈魂吸取	ling hun xi qu
+靈魄突襲	ling po tu xi
+靈巧披風	ling qiao pi feng
+靈勇士	ling yong shi
+流浪法師	liu lang fa shi
+流浪法師瑞茲	liu lang fa shi rui zi
+龍血武姬	long xue wu ji
+龍血武姬希瓦娜	long xue wu ji xi wa na
+龍血舞姬	long xue wu ji
+龍牙突刺	long ya tu ci
+龍族之怒	long zu zhi nu
+盧安娜的颶風	lu an na de ju feng
+盧恩文的護盾	lu en wen de hu dun
+魯莽揮擊	lu mang hui ji
+綠色糖果	lv se tang guo
+綠藥	lv yao
+孿生毒牙	luan sheng du ya
+亂花迷眼	luan hua mi yan
+輪子媽	lun zi ma
+蘿莉波比	luo li bo bi
+裸鞋	luo xie
+裸藥	luo yao
+瑪爾扎哈	ma er zha ha
+瑪莫提烏斯之噬	ma mo ti wu si zhi shi
+瑪西亞之力	ma xi ya zhi li
+麥德瑞裂血手套	mai de rui lie xue shou tao
+麥林炮手	mai lin pao shou
+麥林炮手崔絲塔娜	mai lin pao shou cui si ta na
+麥瑞德裂血手套	mai rui de lie xue shou tao
+麥瑞德之爪	mai rui de zhi zhao
+賣隊友	mai dui you
+邁克爾的磨鍊	mai ke er de mo lian
+蠻牛之力	man niu zhi li
+蠻王大招	man wang da zhao
+蠻易信	man yi xin
+蠻族之王	man zu zhi wang
+蠻族之王泰達米爾	man zu zhi wang tai da mi er
+盲僧	mang seng
+盲僧李青	mang seng li qing
+貓女卡特琳娜	mao nv ka te lin na
+茂凱	mao kai
+冒險王	mao xian wang
+梅甘娜	mei gan na
+梅吉墜飾	mei ji zhui shi
+梅賈的竊魂卷	mei jia de qie hun juan
+梅賈竊魂卷	mei jia qie hun juan
+美服高手	mei fu gao shou
+美洲獅形態	mei zhou shi xing tai
+蒙多	meng duo
+蒙多蒙多	meng duo meng duo
+蒙多醫生	meng duo yi sheng
+猛虎姿態	meng hu zi tai
+夢魘之徑	meng yan zhi jing
+祕密凝視	mi mi ning shi
+祕術射擊	mi shu she ji
+免費英雄	mian fei ying xiong
+秒法師	miao fa shi
+秒後排	miao hou pai
+滅世風暴	mie shi feng bao
+滅世者	mie shi zhe
+滅世者的死亡之帽	mie shi zhe de si wang zhi mao
+滅團	mie tuan
+敏捷雕文	min jie diao wen
+敏捷雕紋	min jie diao wen
+敏捷符印	min jie fu yin
+敏捷精華	min jie jing hua
+敏捷印記	min jie yin ji
+敏銳疾行	min rui ji xing
+明朗之靴	ming lang zhi xue
+命令戰旗	ming ling zhan qi
+命運的傳送	ming yun de chuan song
+蘑菇仔	mo gu zai
+魔法電池	mo fa dian chi
+魔法攻擊	mo fa gong ji
+魔法利刃	mo fa li ren
+魔法蘋果	mo fa ping guo
+魔法掃帚	mo fa sao zhou
+魔法水晶箭	mo fa shui jing jian
+魔抗	mo kang
+魔龍降世	mo long jiang shi
+魔蛇之擁	mo she zhi yong
+魔蛇之擁卡西奧佩婭	mo she zhi yong ka xi ao pei ya
+魔特朗德爾	mo te lang de er
+魔騰	mo teng
+魔影迷蹤	mo ying mi zong
+魔宗利刃	mo zong li ren
+末日使者	mo ri shi zhe
+末日使者費德提克	mo ri shi zhe fei de ti ke
+末日餘生	mo ri yu sheng
+莫德凱撒	mo de kai sa
+莫德凱撒支配	mo de kai sa zhi pei
+莫甘娜	mo gan na
+莫雷洛的邪術祕典	mo lei luo de xie shu mi dian
+墨菲特	mo fei te
+暮光防護	mu guang fang hu
+暮光之眼	mu guang zhi yan
+暮光之眼慎	mu guang zhi yan shen
+木乃伊之咒	mu nai yi zhi zhou
+拿眼	na yan
+納米維修機器人	na mi wei xiu ji qi ren
+納什男爵	na shen nan jue
+納什之牙	na shen zhi ya
+奶爸	nai ba
+奶大力	nai da li
+奈德麗	nai de li
+男刀	nan dao
+男槍	nan qiang
+難以行軍	nan yi xing jun
+難以捉摸的雪花符印	nan yi zhuo mo de xue hua fu yin
+內防禦塔	nei fang yu ta
+內瑟斯	nei se si
+能量爆裂	neng liang bao lie
+能量雕文	neng liang diao wen
+能量雕紋	neng liang diao wen
+能量符印	neng liang fu yin
+能量和絃	neng liang he xian
+能量精華	neng liang jing hua
+能量脈衝	neng liang mai chong
+能量鐵拳	neng liang tie quan
+能量印記	neng liang yin ji
+能量之座	neng liang zhi zuo
+你的劍就是我的劍	ni de jian jiu shi wo de jian
+你頂上去	ni ding shang qu
+你敢再二點嗎	ni gan zai er dian ma
+你麻痹搶我人頭	ni ma bi qiang wo ren tou
+你們給壓力	ni men gei ya li
+你真水	ni zhen shui
+逆流投擲	ni liu tou zhi
+牛頭酋長	niu tou qiu zhang
+牛頭酋長阿利斯塔	niu tou qiu zhang a li si ta
+扭曲叢林	niu qu cong lin
+扭曲空間	niu qu kong jian
+扭曲樹精	niu qu shu jing
+扭曲樹精茂凱	niu qu shu jing mao kai
+扭曲突刺	niu qu tu ci
+努努	nu nu
+怒濤之嘯	nu tao zhi xiao
+怒之領域	nu zhi ling yu
+女刺客	nv ci ke
+女刀	nv dao
+女刀鋒	nv dao feng
+女魔法師拉克絲	nv mo fa shi la ke si
+女槍	nv qiang
+女蛇之俑	nv she zhi yong
+女神之淚	nv shen zhi lei
+女妖面紗	nv yao mian sha
+諾克	nuo ke
+諾克薩斯	nuo ke sa si
+諾克薩斯腐蝕電荷	nuo ke sa si fu shi dian he
+諾克薩斯之手	nuo ke sa si zhi shou
+諾斯費拉圖弗拉基米爾	nuo si fei la tu fu la ji mi er
+諾提勒斯	nuo ti lei si
+歐姆破壞者	ou mu po huai zhe
+排眼	pai yan
+潘森	pan sen
+潘森潘森	pan sen pan sen
+潘提翁	pan ti weng
+咆哮深淵	pao xiao shen yuan
+炮娘	pao niang
+噴火娃	pen huo wa
+披甲龍龜	pi jia long gui
+披甲龍龜拉莫斯	pi jia long gui la mo si
+皮城	pi cheng
+皮城女警	pi cheng nv jing
+皮城女警凱特琳	pi cheng nv jing kai te lin
+皮城執法官	pi cheng zhi fa guan
+皮城執法官蔚	pi cheng zhi fa guan wei
+皮爾特沃夫	pi er te wo fu
+皮膚硬化	pi fu ying hua
+皮甲龍龜	pi jia long gui
+拼一波	pin yi bo
+品酒大師	pin jiu da shi
+平安夜女神	ping an ye nv shen
+破敗王者之劍	po bai wang zhe zhi jian
+破敗王者之刃	po bai wang zhe zhi ren
+破壞狂	po huai kuang
+破甲嘲諷	po jia chao feng
+破碎幽靈	po sui you ling
+普莉斯拉的祝福	pu li si la de zhu fu
+欺詐魔術	qi zha mo shu
+氣合斬	qi he zhan
+潛能雕文	qian neng diao wen
+潛能雕紋	qian neng diao wen
+潛能符印	qian neng fu yin
+潛能激發	qian neng ji fa
+潛能精華	qian neng jing hua
+潛能印記	qian neng yin ji
+槍火談判	qiang huo tan pan
+強化學習	qiang hua xue xi
+強化要塞	qiang hua yao sai
+強力屠刀	qiang li tu dao
+強力粘膠	qiang li zhan jiao
+強能衝拳	qiang neng chong quan
+強退	qiang tui
+搶龍	qiang long
+搶人頭	qiang ren tou
+竊魂卷	qie hun juan
+琴女	qin nv
+琴瑟仙女	qin se xian nv
+琴瑟仙女娑娜	qin se xian nv suo na
+輕靈之靴	qing ling zhi xue
+清晰雕文	qing xi diao wen
+清晰雕紋	qing xi diao wen
+清晰符印	qing xi fu yin
+清晰精華	qing xi jing hua
+清晰術	qing xi shu
+清晰印記	qing xi yin ji
+曲光屏障	qu guang ping zhang
+全軍出擊	quan jun chu ji
+全球流英雄	quan qiu liu ying xiong
+全球送	quan qiu song
+全是坑	quan shi keng
+羣星墜落	qun xing zhui luo
+羣鴉風暴	qun ya feng bao
+羣鴉附體	qun ya fu ti
+羣爪之縛	qun zhao zhi fu
+燃燒寶石	ran shao bao shi
+燃燒餘燼	ran shao yu jin
+人頭哥	ren tou ge
+忍者足具	ren zhe zu ju
+日冕女神	ri mian nv shen
+日炎斗篷	ri yan dou peng
+榮耀行刑官	rong yao xing xing guan
+榮耀行刑官德萊文	rong yao xing xing guan de lai wen
+熔岩護盾	rong yan hu dun
+熔岩巨獸	rong yan ju shou
+熔岩巨獸墨菲特	rong yan ju shou mo fei te
+肉彈衝擊	rou dan chong ji
+肉盾保護輸出	rou dun bao hu shu chu
+肉盾抗	rou dun kang
+肉盾先上	rou dun xian shang
+肉食者	rou shi zhe
+瑞格之燈	rui ge zhi deng
+瑞格之燈的守衛	rui ge zhi deng de shou wei
+瑞萊的冰晶節杖	rui lai de bing jing jie zhang
+瑞澤爾的傲慢	rui ze er de ao man
+瑞茲	rui zi
+瑞茲瑞茲	rui zi rui zi
+銳雯	rui wen
+若風	ruo feng
+薩科	sa ke
+三狼	san lang
+三相之力	san xiang zhi li
+三重爪擊	san chong zhao ji
+瑟莊妮	se zhuang ni
+殺手本能	sha shou ben neng
+殺手意志	sha shou yi zhi
+沙漠死神	sha mo si shen
+沙漠死神內瑟斯	sha mo si shen nei se si
+煞星幻象	sha xing huan xiang
+閃避雕文	shan bi diao wen
+閃避雕紋	shan bi diao wen
+閃避符印	shan bi fu yin
+閃避機率	shan bi ji lv
+閃避精華	shan bi jing hua
+閃避印記	shan bi yin ji
+閃電衝擊	shan dian chong ji
+閃電專精	shan dian zhuan jing
+扇子媽	shan zi ma
+賞金獵人厄運小姐	shang jin lie ren e yun xiao jie
+上單	shang dan
+上古奧義	shang gu ao yi
+上狀態	shang zhuang tai
+哨兵之殤	shao bing zhi shang
+哨兵之殤加里奧	shao bing zhi shang jia li ao
+蛇之擁抱	she zhi yong bao
+攝魂奪魄	she hun duo po
+射手印記	she shou yin ji
+社會名流勒布朗克	she hui ming liu lei bu lang ke
+深海衝擊	shen hai chong ji
+深海泰坦	shen hai tai tan
+深海泰坦諾提勒斯	shen hai tai tan nuo ti lei si
+深海妖姬	shen hai yao ji
+深秋召喚師峽谷	shen qiu zhao huan shi xia gu
+深淵巨口	shen yuan ju kou
+深淵巨口克格莫	shen yuan ju kou ke ge mo
+深淵權杖	shen yuan quan zhang
+深淵之口	shen yuan zhi kou
+深淵之首	shen yuan zhi shou
+神賜索拉卡	shen ci suo la ka
+神祕視界	shen mi shi jie
+神祕之劍	shen mi zhi jian
+神槍手的步槍	shen qiang shou de bu qiang
+神聖庇護	shen sheng bi hu
+神聖洗禮	shen sheng xi li
+神聖之劍	shen sheng zhi jian
+神聖之劍移除	shen sheng zhi jian yi chu
+神聖祝福	shen sheng zhu fu
+神勇空降	shen yong kong jiang
+神裝	shen zhuang
+神諭精粹	shen yu jing cui
+審判天使	shen pan tian shi
+審判天使凱爾	shen pan tian shi kai er
+腎上腺激素	shen shang xian ji su
+生化彈幕	sheng hua dan mu
+生化祕法彈	sheng hua mi fa dan
+生化祕法彈幕	sheng hua mi fa dan mu
+生化魔人	sheng hua mo ren
+生命保存	sheng ming bao cun
+生命壁壘	sheng ming bi lei
+生命藥水	sheng ming yao shui
+昇華靈體	sheng hua ling ti
+升級版炮臺	sheng ji ban pao tai
+勝利怒吼	sheng li nu hou
+聖盃聖盃	sheng bei sheng bei
+聖誕糖果棒	sheng dan tang guo bang
+聖誕玩偶	sheng dan wan ou
+聖誕馴鹿	sheng dan xun lu
+聖盾庇護	sheng dun bi hu
+聖盾打擊	sheng dun da ji
+聖靈之盾	sheng ling zhi dun
+聖賢指環	sheng xian zhi huan
+聖焰	sheng yan
+石化凝視	shi hua ning shi
+時光發條	shi guang fa tiao
+時光老頭	shi guang lao tou
+時光守護者基蘭	shi guang shou hu zhe ji lan
+時光之杖	shi guang zhi zhang
+時間掌控者	shi jian zhang kong zhe
+食魂者	shi hun zhe
+實戰訓練營	shi zhan xun lian ying
+嗜火	shi huo
+嗜血攻擊	shi xue gong ji
+嗜血獵手	shi xue lie shou
+嗜血獵手沃裏克	shi xue lie shou wo li ke
+嗜血殺戮	shi xue sha lu
+視界之石	shi jie zhi shi
+試練之地	shi lian zhi di
+首領之傲	shou ling zhi ao
+首領之傲厄加特	shou ling zhi ao e jia te
+守護塔	shou hu ta
+守護天使	shou hu tian shi
+守護者雕像瑞茲	shou hu zhe diao xiang rui zi
+守家	shou jia
+守塔	shou ta
+守望者鎧甲	shou wang zhe kai jia
+舒瑞亞的火焰王冠	shu rui ya de huo yan wang guan
+舒瑞亞的火焰之冠	shu rui ya de huo yan zhi guan
+舒瑞亞的狂想曲	shu rui ya de kuang xiang qu
+舒瑞亞狂想曲	shu rui ya kuang xiang qu
+疏通航道	shu tong hang dao
+曙光女神	shu guang nv shen
+樹苗投擲	shu miao tou zhi
+雙面毒刃	shuang mian du ren
+雙殺	shuang sha
+雙生暗影	shuang sheng an ying
+雙生毒牙	shuang sheng du ya
+雙生戒律	shuang sheng jie lv
+雙重打擊	shuang zhong da ji
+水晶防禦塔	shui jing fang yu ta
+水晶橫掃	shui jing heng sao
+水晶能量	shui jing neng liang
+水晶樞紐	shui jing shu niu
+水晶先鋒	shui jing xian feng
+水晶先鋒斯卡納	shui jing xian feng si ka na
+水晶蠍甲	shui jing xie jia
+水晶之痕	shui jing zhi hen
+水晶瘢痕	shui jing ban hen
+水銀飾帶	shui yin shi dai
+水銀彎刀	shui yin wan dao
+水銀之靴	shui yin zhi xue
+水之牢籠	shui zhi lao long
+順風而行	shun feng er xing
+斯卡納	si ka na
+斯塔克的狂熱	si ta ke de kuang re
+斯塔克狂熱	si ta ke kuang re
+斯塔提克的短匕	si ta ti ke de duan bi
+斯維因	si wei yin
+死歌	si ge
+死靈狂暴	si ling kuang bao
+死神降臨	si shen jiang lin
+死亡毒液	si wang du ye
+死亡蓮花	si wang lian hua
+死亡蓮華	si wang lian hua
+死亡領主	si wang ling zhu
+死亡蔓延	si wang man yan
+死亡射線	si wang she xian
+死亡頌唱者	si wang song chang zhe
+死亡頌唱者卡爾薩斯	si wang song chang zhe ka er sa si
+死亡擁抱	si wang yong bao
+死亡之子	si wang zhi zi
+死刑宣告	si xing xuan gao
+四阿哥	si a ge
+四殺	si sha
+四神之力烏迪爾	si shen zhi li wu di er
+送人頭	song ren tou
+速度鞋	su du xie
+速度之靴	su du zhi xue
+酸蝕獵手	suan shi lie shou
+碎裂之火	sui lie zhi huo
+縮塔	suo ta
+索拉里鐵盒	suo la li tie he
+索娜	suo na
+鎖子甲	suo zi jia
+所有光環	suo you guang huan
+塔裏克	ta li ke
+踏浪之行	ta lang zhi xing
+泰達米爾	tai da mi er
+泰隆	tai long
+貪婪精華	tan lan jing hua
+貪婪之刃	tan lan zhi ren
+貪婪冥想	tan lan ming xiang
+貪慾九頭蛇	tan yu jiu tou she
+探戈靈魂崔斯特	tan ge ling hun cui si te
+探戈靈魂伊芙琳	tan ge ling hun yi fu lin
+探險家伊澤瑞爾	tan xian jia yi ze rui er
+特朗德爾	te lang de er
+特殊的長襪雕紋	te shu de zhang wa diao wen
+提伯斯之怒	ti bo si zhi nu
+提莫	ti mo
+提亞馬特	ti ya ma te
+天霸橫空烈轟	tian ba heng kong lie hong
+天賦技能	tian fu ji neng
+天國之刃	tian guo zhi ren
+天坑	tian keng
+天雷破	tian lei po
+天啓者	tian qi zhe
+天啓者卡爾瑪	tian qi zhe ka er ma
+天音波	tian yin bo
+挑戰者雕紋	tiao zhan zhe diao wen
+跳大	tiao da
+跳斬	tiao zhan
+鐵哥們兒奧拉夫	tie ge men er ao la fu
+鐵男	tie nan
+鐵人護甲	tie ren hu jia
+通用精通	tong yong jing tong
+通用系	tong yong xi
+統治戰場	tong zhi zhan chang
+統治戰場模式	tong zhi zhan chang mo shi
+痛苦腐蝕	tong ku fu shi
+痛苦燃燒	tong ku ran shao
+痛苦之牆	tong ku zhi qiang
+偷龍	tou long
+偷男爵	tou nan jue
+偷塔	tou ta
+投擲標槍	tou zhi biao qiang
+投擲標槍擊倒	tou zhi biao qiang ji dao
+透光奇點	tou guang qi dian
+透體之勁	tou ti zhi jin
+圖奇	tu qi
+圖騰古樹	tu teng gu shu
+團滅	tuan mie
+團中	tuan zhong
+推家	tui jia
+推塔	tui ta
+推線	tui xian
+吞噬靈魂	tun shi ling hun
+瓦爾基里俯衝	wa er ji li fu chong
+外防禦塔	wai fang yu ta
+外塔	wai ta
+萬箭齊發	wan jian qi fa
+萬能牌	wan neng pai
+萬聖節地圖	wan sheng jie di tu
+萬聖節費德提克	wan sheng jie fei de ti ke
+萬聖節精華護甲	wan sheng jie jing hua hu jia
+萬聖節夜晚主題	wan sheng jie ye wan zhu ti
+王后艾希	wang hou ai xi
+亡靈勇士	wang ling yong shi
+亡靈勇士賽恩	wang ling yong shi sai en
+亡命槍匪	wang ming qiang fei
+亡命槍匪格雷夫	wang ming qiang fei ge lei fu
+威力雕文	wei li diao wen
+威力雕紋	wei li diao wen
+威力符印	wei li fu yin
+威力精華	wei li jing hua
+威力印記	wei li yin ji
+韋魯斯	wei lu si
+唯一被動	wei yi bei dong
+唯一光環	wei yi guang huan
+唯一主動	wei yi zhu dong
+維迦	wei jia
+未來守護者	wei lai shou hu zhe
+未來守護者傑斯	wei lai shou hu zhe jie si
+瘟毒爆炸	wen du bao zha
+瘟疫之源	wen yi zhi yuan
+瘟疫之源圖奇	wen yi zhi yuan tu qi
+我頂前面	wo ding qian mian
+我去偷塔	wo qu tou ta
+我已經飢渴難耐了	wo yi jing ji ke nan nai le
+沃裏克	wo li ke
+沃利貝爾	wo li bei er
+巫師王冠	wu shi wang guan
+巫妖之禍	wu yao zhi huo
+烏迪爾	wu di er
+烏鴉男	wu ya nan
+污穢之柱	wu hui zhi zhu
+無極劍道	wu ji jian dao
+無極劍聖	wu ji jian sheng
+無極劍聖易大師	wu ji jian sheng yi da shi
+無盡怒火	wu jin nu huo
+無盡束縛	wu jin shu fu
+無盡痛苦	wu jin tong ku
+無盡之刀	wu jin zhi dao
+無盡之刃	wu jin zhi ren
+無情突襲	wu qing tu xi
+無雙劍姬	wu shuang jian ji
+無雙劍姬菲奧娜	wu shuang jian ji fei ao na
+無謂先鋒	wu wei xian feng
+無言恐懼	wu yan kong ju
+無用大棒	wu yong da bang
+無用魔棒	wu yong mo bang
+五殺搖滾吉他莫德凱撒	wu sha yao gun ji ta mo de kai sa
+五殺搖滾鍵盤娑娜	wu sha yao gun jian pan suo na
+五殺搖滾莫德凱撒	wu sha yao gun mo de kai sa
+舞會公主	wu hui gong zhu
+物理傷害	wu li shang hai
+吸血鬼權杖	xi xue gui quan zhang
+吸血槍	xi xue qiang
+吸元祕法	xi yuan mi fa
+希瓦娜	xi wa na
+希維爾	xi wei er
+下單	xia dan
+下路	xia lu
+先控	xian kong
+先秒脆皮	xian miao cui pi
+先秒一個	xian miao yi ge
+仙靈女巫	xian ling nv wu
+仙女護符	xian nv hu fu
+鮮血轉換	xian xue zhuan huan
+賢者頭巾	xian zhe tou jin
+小丑工作坊	xiao chou gong zuo fang
+小蘿莉	xiao luo li
+小莫飛刀	xiao mo fei dao
+小莫快跑	xiao mo kuai pao
+小炮	xiao pao
+小兔子	xiao tu zi
+小學生放假	xiao xue sheng fang jia
+邪惡居心	xie e ju xin
+邪惡小法師	xie e xiao fa shi
+邪惡小法師維迦	xie e xiao fa shi wei jia
+邪鴉附體	xie ya fu ti
+辛吉德	xin ji de
+新月橫掃	xin yue heng sao
+星體禁錮師	xing ti jin gu shi
+星之祝福	xing zhi zhu fu
+猩紅收割者	xing hong shou ge zhe
+猩紅收割者弗拉基米爾	xing hong shou ge zhe fu la ji mi er
+興奮鼓舞	xing fen gu wu
+性感護士	xing gan hu shi
+虛化術士澤拉斯	xu hua shu shi ze la si
+虛空恐懼	xu kong kong ju
+虛空恐懼科加斯	xu kong kong ju ke jia si
+虛空掠奪者卡茲克	xu kong lve duo zhe ka zi ke
+虛空先知	xu kong xian zhi
+虛空先知瑪爾扎哈	xu kong xian zhi ma er zha ha
+虛空行者卡薩丁	xu kong xing zhe ka sa ding
+虛空淤泥	xu kong yu ni
+虛空之刃	xu kong zhi ren
+虛空之石	xu kong zhi shi
+虛空之杖	xu kong zhi zhang
+虛弱之毒	xu ruo zhi du
+虛無法球	xu wu fa qiu
+虛無盲區	xu wu mang qu
+蓄力一擊	xu li yi ji
+選牌	xuan pai
+雪人騎士	xue ren qi shi
+雪人騎士努努	xue ren qi shi nu nu
+雪山飛人雕紋	xue shan fei ren diao wen
+血紅之池	xue hong zhi chi
+血跡追蹤	xue ji zhui zong
+血瓶	xue ping
+血色契約	xue se qi yue
+血色之刃	xue se zhi ren
+血腥九頭蛇	xue xing jiu tou she
+血之潮汐	xue zhi chao xi
+血之沸騰	xue zhi fei teng
+血之飢渴	xue zhi ji ke
+血之瘟疫	xue zhi wen yi
+迅捷斥候	xun jie chi hou
+迅捷斥候提莫	xun jie chi hou ti mo
+迅捷雕文	xun jie diao wen
+迅捷雕紋	xun jie diao wen
+迅捷符印	xun jie fu yin
+迅捷精華	xun jie jing hua
+迅捷印記	xun jie yin ji
+迅捷之歌	xun jie zhi ge
+迅捷奏鳴曲	xun jie zou ming qu
+迅雷奔襲	xun lei ben xi
+鴉爪之縛	ya zhao zhi fu
+雅典娜的邪惡聖盃	ya dian na de xie e sheng bei
+炎斗篷將	yan dou peng jiang
+羊刀	yang dao
+妖異狐火	yao yi hu huo
+耀光特效	yao guang te xiao
+耀光耀光	yao guang yao guang
+野蠻雕文	ye man diao wen
+野蠻雕紋	ye man diao wen
+野蠻符印	ye man fu yin
+野蠻精華	ye man jing hua
+野蠻印記	ye man yin ji
+野獸之靈	ye shou zhi ling
+野獸之靈烏迪爾	ye shou zhi ling wu di er
+野性奔騰	ye xing ben teng
+野性奔騰揮擊	ye xing ben teng hui ji
+野性尖叫	ye xing jian jiao
+一波推	yi bo tui
+一血	yi xue
+伊麗莎的奇蹟	yi li sha de qi ji
+伊瑞利亞	yi rui li ya
+伊澤瑞爾	yi ze rui er
+易大師	yi da shi
+吟唱技能	yin chang ji neng
+飲血劍	yin xue jian
+隱祕視線	yin mi shi xian
+英雄頌歌	ying xiong song ge
+英勇衝鋒	ying yong chong feng
+英勇徽章	ying yong hui zhang
+英勇頌歌	ying yong song ge
+英勇投彈手	ying yong tou dan shou
+英勇投彈手庫奇	ying yong tou dan shou ku qi
+英勇投射手	ying yong tou she shou
+英勇讚美詩	ying yong zan mei shi
+櫻之撫子	ying zhi fu zi
+永凍領域	yong dong ling yu
+永恆夢魘	yong heng meng yan
+永恆夢魘魔騰	yong heng meng yan mo teng
+幽魂燈	you hun deng
+幽魂面具	you hun mian ju
+幽靈疾步	you ling ji bu
+幽靈項圈	you ling xiang quan
+幽靈之魂	you ling zhi hun
+幽夢之靈	you meng zhi ling
+由裏克	you li ke
+有埋伏	you mai fu
+有人還去	you ren hai qu
+宇航員提莫	yu hang yuan ti mo
+玉米糖	yu mi tang
+御魔之器	yu mo zhi qi
+癒合信念	yu he xin nian
+遠古的掛錶	yuan gu de gua biao
+遠古機器的意志	yuan gu ji qi de yi zhi
+遠古魔像	yuan gu mo xiang
+遠古巫靈	yuan gu wu ling
+遠古巫靈澤拉斯	yuan gu wu ling ze la si
+遠古意志	yuan gu yi zhi
+約德爾誘捕器	yue de er you bu qi
+約裏克	yue li ke
+月華咒刃	yue hua zhou ren
+再生雕文	zai sheng diao wen
+再生雕紋	zai sheng diao wen
+再生符印	zai sheng fu yin
+再生精華	zai sheng jing hua
+再生印記	zai sheng yin ji
+再生墜飾	zai sheng zhui shi
+澤非瑞斯的掛件	ze fei rui si de gua jian
+澤拉斯	ze la si
+增幅典籍	zeng fu dian ji
+憎恨之刺	zeng hen zhi ci
+炸彈小子	zha dan xiao zi
+戰場總指揮	zhan chang zong zhi hui
+戰地法師	zhan di fa shi
+戰鬥女神	zhan dou nv shen
+戰鬥印記	zhan dou yin ji
+戰神庇護	zhan shen bi hu
+戰意	zhan yi
+戰意激增	zhan yi ji zeng
+戰陣之影	zhan zhen zhi ying
+戰爭工匠	zhan zheng gong jiang
+戰爭迷霧	zhan zheng mi wu
+戰爭女神	zhan zheng nv shen
+戰爭女神希維爾	zhan zheng nv shen xi wei er
+戰爭圖騰	zhan zheng tu teng
+戰爭學院	zhan zheng xue yuan
+戰爭之王潘森	zhan zheng zhi wang pan sen
+戰爭之影	zhan zheng zhi ying
+戰爭之影赫卡里姆	zhan zheng zhi ying he ka li mu
+趙信	zhao xin
+召喚生物	zhao huan sheng wu
+召喚師技能	zhao huan shi ji neng
+召喚師峽谷	zhao huan shi xia gu
+召喚水晶	zhao huan shui jing
+召喚虛靈	zhao huan xu ling
+折翼之舞	zhe yi zhi wu
+真理之眼	zhen li zhi yan
+真三	zhen san
+真視	zhen shi
+真視守衛	zhen shi shou wei
+真眼	zhen yan
+偵查守衛	zhen cha shou wei
+震盪手雷	zhen dang shou lei
+震魂怒吼	zhen hun nu hou
+震天怒吼	zhen tian nu hou
+振奮盔甲	zhen fen kui jia
+陣亡通知書	zhen wang tong zhi shu
+蒸汽機器人	zheng qi ji qi ren
+蒸汽機器人布里茨	zheng qi ji qi ren bu li ci
+蒸汽鐵人	zheng qi tie ren
+正義之地	zheng yi zhi di
+正義罡風	zheng yi gang feng
+知識雕文	zhi shi diao wen
+知識雕紋	zhi shi diao wen
+知識符印	zhi shi fu yin
+知識精華	zhi shi jing hua
+知識印記	zhi shi yin ji
+至尊鋒刃	zhi zun feng ren
+致命韻律	zhi ming yun lv
+智慧合劑	zhi hui he ji
+智慧之末刃	zhi hui zhi mo ren
+智力雕文	zhi li diao wen
+智力雕紋	zhi li diao wen
+智力符印	zhi li fu yin
+智力精華	zhi li jing hua
+智力印記	zhi li yin ji
+治療寶珠	zhi liao bao zhu
+中團	zhong tuan
+中推	zhong tui
+中婭	zhong ya
+中婭的沙漏	zhong ya de sha lou
+中婭沙漏	zhong ya sha lou
+中婭之戒	zhong ya zhi jie
+終極爆彈	zhong ji bao dan
+終極必殺技	zhong ji bi sha ji
+終極技能	zhong ji ji neng
+終極閃光	zhong ji shan guang
+終極統治	zhong ji tong zhi
+種蘑菇	zhong mo gu
+重金護甲	zhong jin hu jia
+衆星之子	zhong xing zhi zi
+衆星之子索拉卡	zhong xing zhi zi suo la ka
+咒能高漲	zhou neng gao zhang
+豬妹	zhu mei
+諸神黃昏	zhu shen huang hun
+主人不要我了	zhu ren bu yao wo le
+主塔	zhu ta
+注意開大	zhu yi kai da
+注意走位	zhu yi zou wei
+祝福減速	zhu fu jian su
+祝你們玩得開心	zhu ni men wan de kai xin
+抓單	zhua dan
+專業輔助	zhuan ye fu zhu
+專業年	zhuan ye nian
+專業上單年	zhuan ye shang dan nian
+專注雕文	zhuan zhu diao wen
+專注雕紋	zhuan zhu diao wen
+專注符印	zhuan zhu fu yin
+專注精華	zhuan zhu jing hua
+專注印記	zhuan zhu yin ji
+錐刺甲殼	zhui ci jia ke
+準備爬坑	zhun bei pa keng
+準舞會王子	zhun wu hui wang zi
+自己小心	zi ji xiao xin
+宗師級法師訓練師瑞茲	zong shi ji fa shi xun lian shi rui zi
+縱火盛宴	zong huo sheng yan
+走不掉了反殺	zou bu diao le fan sha
+走你的	zou ni de
+走位風騷點	zou wei feng sao dian
+祖安	zu an
+祖安狂人	zu an kuang ren
+祖安狂人蒙多醫生	zu an kuang ren meng duo yi sheng
+詛咒惡魔	zu zhou e mo
+詛咒感染	zu zhou gan ran
+詛咒巨魔	zu zhou ju mo
+詛咒巨魔特朗德爾	zu zhou ju mo te lang de er
+詛咒巨魔特朗德爾鍊金	zu zhou ju mo te lang de er lian jin
+詛咒之觸	zu zhou zhi chu
+詛咒之王	zu zhou zhi wang
+醉酒狂暴	zui jiu kuang bao
+最大生命值	zui da sheng ming zhi
+最後的輕語	zui hou de qing yu
+最後一波	zui hou yi bo
+冥府之握	ming fu zhi wo
+冥火之擁	ming huo zhi yong
+薇恩	wei en
+噤聲魔印	jin sheng mo yin
+猥瑣站位	wei suo zhan wei
+迦娜	jia na
+娑娜	suo na
+婕拉	jie la
+繆斯娑娜	mou si suo na
+璐璐	lu lu
+殤之木乃伊	shang zhi mu nai yi
+殤之木乃伊阿木木	shang zhi mu nai yi a mu mu
+颶風呼嘯	ju feng hu xiao
+焱之樹妖	yan zhi shu yao
+皎月女神	jiao yue nv shen
+皎月女神黛安娜	jiao yue nv shen dai an na
+蜥蜴長老	xi yi zhang lao
+蜥蜴長者	xi yi zhang zhe
+蜥蜴長者之魂	xi yi zhang zhe zhi hun
+鮫姬	jiao ji
+魅惑妖術	mei huo yao shu
+矮人直升機	ai ren zhi sheng ji
+艾歐	ai ou
+暗夜魔王	an ye mo wang
+暗影衝刺	an ying chong ci
+暗影惡魔	an ying e mo
+暗影護符	an ying hu fu
+暗影薩滿	an ying sa man
+半人馬戰行者	ban ren ma zhan xing zhe
+半人猛獁	ban ren meng ma
+半獸人之斧	ban shou ren zhi fu
+包回程	bao hui cheng
+包雞	bao ji
+保塔	bao ta
+抱團推	bao tuan tui
+暴擊率	bao ji lv
+比澤	bi ze
+編織者	bian zhi zhe
+變態殺戮	bian tai sha lu
+變體攻擊	bian ti gong ji
+變體精靈	bian ti jing ling
+冰封禁制	bing feng jin zhi
+冰封禁錮	bing feng jin gu
+冰封路徑	bing feng lu jing
+冰火交加	bing huo jiao jia
+冰甲	bing jia
+冰女	bing nv
+冰眼	bing yan
+波浪形態	bo lang xing tai
+補兵	bu bing
+補兵數	bu bing shu
+補刀斧	bu dao fu
+補盾	bu dun
+補塔	bu ta
+不死盾	bu si dun
+不朽屍王	bu xiu shi wang
+不朽之守護	bu xiu zhi shou hu
+插棒子	cha bang zi
+插蛇	cha she
+叉形閃電	cha xing shan dian
+查克拉魔法	cha ke la mo fa
+拆塔	chai ta
+超聲衝擊波	chao sheng chong ji bo
+超越神的殺戮	chao yue shen de sha lu
+潮汐獵人	chao xi lie ren
+潮汐使者	chao xi shi zhe
+沉默魔法	chen mo mo fa
+沉默術士	chen mo shu shi
+吃樹	chi shu
+熾魂替換	chi hun ti huan
+初夜男	chu ye nan
+出門恢復裝	chu men hui fu zhuang
+出門屬性裝	chu men shu xing zhuang
+出跳	chu tiao
+刺針掃射	ci zhen sao she
+淬毒之球	cui du zhi qiu
+達貢	da gong
+達貢之神力	da gong zhi shen li
+打點錢	da dian qian
+打箭	da jian
+打錢	da qian
+打泉水	da quan shui
+打塔	da ta
+大地之靈	da di zhi ling
+大雷錘	da lei chui
+大魔導	da mo dao
+大娜迦	da na jia
+大殺特殺	da sha te sha
+大魚人	da yu ren
+大自然的掩護	da zi ran de yan hu
+戴澤	dai ze
+帶刺外殼	dai ci wai ke
+帶粉	dai fen
+單殺	dan sha
+單上	dan shang
+單下	dan xia
+單中	dan zhong
+彈幕衝擊	dan mu chong ji
+彈射法杖	dan she fa zhang
+敵法	di fa
+敵法師	di fa shi
+地卜	di bo
+地精的貪婪	di jing de tan lan
+地獄領主	di yu ling zhu
+地之束縛	di zhi shu fu
+點金手	dian jin shou
+電魂	dian hun
+電子咆哮	dian zi pao xiao
+電子屏障	dian zi ping zhang
+毒球	du qiu
+毒性攻擊	du xing gong ji
+堆積腐肉	dui ji fu rou
+對劍	dui jian
+多重施法	duo zhong shi fa
+惡魔刀鋒	e mo dao feng
+惡魔的掌握	e mo de zhang wo
+惡魔赦令	e mo she ling
+惡魔巫師	e mo wu shi
+惡魔巫醫	e mo wu yi
+恩賜解脫	en ci jie tuo
+二塔	er ta
+發射鉤爪	fa she gou zhao
+發條地精	fa tiao di jing
+發條技師	fa tiao ji shi
+伐木機	fa mu ji
+法力流失	fa li liu shi
+法力損毀	fa li sun hui
+法力虛空	fa li xu kong
+法球效果	fa qiu xiao guo
+反補	fan bu
+反擊螺旋	fan ji luo xuan
+飛鞋	fei xie
+沸血之矛	fei xue zhi mao
+分裂箭	fen lie jian
+分裂斬	fen lie zhan
+分身斧	fen shen fu
+紛爭面紗	fen zheng mian sha
+粉碎擊	fen sui ji
+封水道	feng shui dao
+封野	feng ye
+風暴召喚	feng bao zhao huan
+風暴之靈	feng bao zhi ling
+風杖	feng zhang
+瘋狂面具	feng kuang mian ju
+瘋狂殺戮	feng kuang sha lu
+瘋狂生長	feng kuang sheng zhang
+孵化蜘蛛	fu hua zhi zhu
+浮動金錢	fu dong jin qian
+斧王	fu wang
+腐肉堆積	fu rou dui ji
+腐屍毒	fu shi du
+腐蝕外表	fu shi wai biao
+復仇電魂	fu chou dian hun
+復仇之魂	fu chou zhi hun
+復活盾	fu huo dun
+干擾者	gan rao zhe
+剛背獸	gang bei shou
+剛背豬	gang bei zhu
+剛毛後背	gang mao hou bei
+鋼背獸	gang bei shou
+鋼背豬	gang bei zhu
+哥布林	ge bu lin
+哥布林工程師	ge bu lin gong cheng shi
+給奶	gei nai
+跟緊點菜鳥	gen jin dian cai niao
+攻擊之爪	gong ji zhi zhao
+共享小雞	gong xiang xiao ji
+骨法	gu fa
+骨弓	gu gong
+固定金錢	gu ding jin qian
+關聖殿	guan sheng dian
+光法	guang fa
+光擊陣	guang ji zhen
+光之箭	guang zhi jian
+光之守衛	guang zhi shou wei
+鬼影重重	gui ying chong chong
+貴族圓環	gui zu yuan huan
+哈斯卡	ha si ka
+海妖外殼	hai yao wai ke
+寒冬詛咒	han dong zu zhou
+寒光飛龍	han guang fei long
+撼地神牛	han di shen niu
+撼地者	han di zhe
+合個龍心	he ge long xin
+河道男	he dao nan
+河道女	he dao nv
+黑暗時間	hei an shi jian
+黑暗賢者	hei an xian zhe
+黑弓	hei gong
+黑皇	hei huang
+黑皇杖	hei huang zhang
+黑曜毀滅者	hei yao hui mie zhe
+紅貓	hong mao
+紅色薩滿	hong se sa man
+紅杖	hong zhang
+弧光守望者	hu guang shou wang zhe
+弧形閃電	hu xing shan dian
+化學狂暴	hua xue kuang bao
+歡欣之刃	huan xin zhi ren
+換位女	huan wei nv
+幻刺	huan ci
+幻化之鋒	huan hua zhi feng
+幻火	huan huo
+幻象法球	huan xiang fa qiu
+幻影長矛手	huan ying zhang mao shou
+幻影刺客	huan ying ci ke
+幻影刀	huan ying dao
+幻影斧	huan ying fu
+黃點	huang dian
+黃昏酒館	huang hun jiu guan
+黃泉顫抖	huang quan chan dou
+回城卷軸	hui cheng juan zhou
+回覆戒指	hui fu jie zhi
+回覆頭巾	hui fu tou jin
+迴音擊	hui yin ji
+毀滅陰影	hui mie yin ying
+魂之輓歌	hun zhi wan ge
+混亂之箭	hun luan zhi jian
+混亂之雨	hun luan zhi yu
+混線	hun xian
+混沌騎士	hun dun qi shi
+活力之球	huo li zhi qiu
+活體護甲	huo ti hu jia
+活血術	huo xue shu
+火焰爆轟	huo yan bao hong
+火焰氣息	huo yan qi xi
+禍亂之源	huo luan zhi yuan
+機器人的進軍	ji qi ren de jin jun
+機器人進軍	ji qi ren jin jun
+雞巴臉	ji ba lian
+極度飢渴	ji du ji ke
+極寒領域	ji han ling yu
+極寒幽魂	ji han you hun
+極寒之擁	ji han zhi yong
+極限法球	ji xian fa qiu
+技能點	ji neng dian
+加菲鹽	jia fei yan
+加速手套	jia su shou tao
+假腿	jia tui
+堅韌光環	jian ren guang huan
+堅韌球	jian ren qiu
+傑奇洛	jie qi luo
+精靈皮靴	jing ling pi xue
+精靈守衛	jing ling shou wei
+精氣光環	jing qi guang huan
+精氣之球	jing qi zhi qiu
+經驗書	jing yan shu
+靜默詛咒	jing mo zu zhou
+巨力揮擊	ju li hui ji
+巨力揮舞	ju li hui wu
+巨力重擊	ju li zhong ji
+巨魔戰將	ju mo zhan jiang
+巨人力量腰帶	ju ren li liang yao dai
+巨牙海民	ju ya hai min
+劇毒術士	ju du shu shi
+劇毒之觸	ju du zhi chu
+掘地穿刺	jue di chuan ci
+開啓分裂箭	kai qi fen lie jian
+開啓激怒	kai qi ji nu
+開啓魔法護盾	kai qi mo fa hu dun
+開聖殿	kai sheng dian
+克林克茲	ke lin ke zi
+空明杖	kong ming zhang
+恐怖嚎叫	kong bu hao jiao
+快大	kuai da
+狂熱光環	kuang re guang huan
+狂戰斧	kuang zhan fu
+狂戰士的怒吼	kuang zhan shi de nu hou
+狂戰士之怒	kuang zhan shi zhi nu
+狂戰士之血	kuang zhan shi zhi xue
+狂戰拯救世界	kuang zhan zheng jiu shi jie
+昆卡	kun ka
+拉比克	la bi ke
+拉兵線	la bing xian
+拉席克	la xi ke
+來中推	lai zhong tui
+藍胖子	lan pang zi
+藍杖	lan zhang
+老鹿	lao lu
+雷電牽引	lei dian qian yin
+雷神之怒	lei shen zhi nu
+黎明酒館	li ming jiu guan
+力丸	li wan
+連環霜凍	lian huan shuang dong
+兩極反轉	liang ji fan zhuan
+裂魂人	lie hun ren
+林肯法球	lin ken fa qiu
+靈魂超度	ling hun chao du
+靈魂隔斷	ling hun ge duan
+靈魂汲取	ling hun ji qu
+靈魂守衛	ling hun shou wei
+靈魂之矛	ling hun zhi mao
+靈能陷阱	ling neng xian jing
+靈能之刃	ling neng zhi ren
+靈守	ling shou
+靈犀之刃	ling xi zhi ren
+留人	liu ren
+流浪法師斗篷	liu lang fa shi dou peng
+流浪劍客	liu lang jian ke
+龍破斬	long po zhan
+龍心	long xin
+龍族血統	long zu xue tong
+綠杖	lv zhang
+落日酒館	luo ri jiu guan
+落煞	luo sha
+洛薩之鋒	luo sa zhi feng
+麻痹陷阱	ma bi xian jing
+麻痹藥劑	ma bi yao ji
+麻痹之咬	ma bi zhi yao
+馬格納斯	ma ge na si
+馬蹄踐踏	ma ti jian ta
+埋佈地雷	mai bu di lei
+買眼	mai yan
+邁達斯之手	mai da si zhi shou
+脈衝新星	mai chong xin xing
+錨擊	mao ji
+梅肯	mei ken
+梅肯姆斯	mei ken mu si
+梅肯斯姆	mei ken si mu
+夢境纏繞	meng jing chan rao
+米波	mi bo
+米拉娜	mi la na
+祕法聖所	mi fa sheng suo
+祕法天球	mi fa tian qiu
+祕法鞋	mi fa xie
+祕術異蛇	mi shu yi she
+祕銀錘	mi yin chui
+秒逼	miao bi
+秒退的人全家都秒射	miao tui de ren quan jia dou miao she
+秒退一時爽全家火葬場	miao tui yi shi shuang quan jia huo zang chang
+敏捷便鞋	min jie bian xie
+命令光環	ming ling guang huan
+魔法箭	mo fa jian
+魔法鏡像	mo fa jing xiang
+魔力法杖	mo li fa zhang
+魔龍之心	mo long zhi xin
+魔王降臨	mo wang jiang lin
+末日大神	mo ri da shen
+莫爾迪基安的臂章	mo er di ji an de bi zhang
+暮色酒館	mu se jiu guan
+那加	na jia
+娜迦海妖	na jia hai yao
+能量齒輪	neng liang chi lun
+能量之球	neng liang zhi qiu
+鳥騎	niao qi
+怒意狂擊	nu yi kuang ji
+帕格納	pa ge na
+帕吉	pa ji
+拍拍熊	pai pai xiong
+瓶裝藍色藥水	ping zhuang lan se yao shui
+崎嶇外表	qi qu wai biao
+祈求者	qi qiu zhe
+啓動腐爛	qi dong fu lan
+強襲裝甲	qiang xi zhuang jia
+清晨酒館	qing chen jiu guan
+窮鬼盾	qiong gui dun
+驅使惡靈	qu shi e ling
+全領域靜默	quan ling yu jing mo
+全能騎士	quan neng qi shi
+羣蛇守衛	qun she shou wei
+熱導飛彈	re dao fei dan
+刃甲	ren jia
+肉鉤	rou gou
+肉山	rou shan
+如同神一般	ru tong shen yi ban
+灑粉	sa fen
+三塔	san ta
+散華夜叉	san hua ye cha
+散失光環	san shi guang huan
+散失之刃	san shi zhi ren
+散夜	san ye
+森林之眼	sen lin zhi yan
+閃電幽魂	shan dian you hun
+閃光幽魂	shan guang you hun
+閃爍突襲	shan shuo tu xi
+傷害加深	shang hai jia shen
+上古巨神	shang gu ju shen
+上扣血	shang kou xue
+上路有符	shang lu you fu
+蛇棒	she bang
+蛇發	she fa
+蛇發魔女	she fa mo nv
+蛇髮女妖	she fa nv yao
+射手天賦	she shou tian fu
+神符上路	shen fu shang lu
+神符下路	shen fu xia lu
+神靈武士	shen ling wu shi
+神祕法杖	shen mi fa zhang
+神滅斬	shen mie zhan
+神牛	shen niu
+神之力量	shen zhi li liang
+神智之蝕	shen zhi zhi shi
+神裝流	shen zhuang liu
+聖殿指環	sheng dian zhi huan
+聖劍	sheng jian
+聖堂刺客	sheng tang ci ke
+聖物關口	sheng wu guan kou
+聖者遺物	sheng zhe yi wu
+施虐之心	shi nve zhi xin
+時間結界	shi jian jie jie
+時間漫遊	shi jian man you
+時間鎖定	shi jian suo ding
+食腐蝠羣	shi fu fu qun
+食人魔法師	shi ren mo fa shi
+食人魔力量手套	shi ren mo li liang shou tao
+食人魔魔法師	shi ren mo mo fa shi
+食屍鬼臂章	shi shi gui bi zhang
+蝕腦	shi nao
+嗜血渴望	shi xue ke wang
+噬魂鬼	shi hun gui
+守高	shou gao
+守高地	shou gao di
+守護指環	shou hu zhi huan
+守墓人的斗篷	shou mu ren de dou peng
+授予力量	shou yu li liang
+受折磨的靈魂	shou zhe mo de ling hun
+獸之狂暴	shou zhi kuang bao
+曙光酒館	shu guang jiu guan
+屬性裝	shu xing zhuang
+樹精衛士	shu jing wei shi
+樹眼	shu yan
+刷新球	shua xin qiu
+刷野	shua ye
+霜凍護甲	shuang dong hu jia
+霜凍之箭	shuang dong zhi jian
+霜凍之星	shuang dong zhi xing
+水晶室女	shui jing shi nv
+斯嘉帝之眼	si jia di zhi yan
+斯拉達	si la da
+撕裂大地	si lie da di
+司夜刺客	si ye ci ke
+死靈飛龍	si ling fei long
+死靈龍	si ling long
+死靈書	si ling shu
+死騎	si qi
+死神鐮刀	si shen lian dao
+死亡脈衝	si wang mai chong
+死亡面具	si wang mian ju
+死亡守衛	si wang shou wei
+死亡先知	si wang xian zhi
+死亡掌控	si wang zhang kong
+速推	su tui
+酸性噴霧	suan xing pen wu
+碎骨錘	sui gu chui
+碎裂衝擊	sui lie chong ji
+逃脫匕首	tao tuo bi shou
+淘汰之刃	tao tai zhi ren
+天怒法師	tian nu fa shi
+鐵樹枝幹	tie shu zhi gan
+鐵意頭盔	tie yi tou kui
+痛苦尖叫	tong ku jian jiao
+痛苦女王	tong ku nv wang
+痛苦之源	tong ku zhi yuan
+偷泉水	tou quan shui
+投擲飛鏢	tou zhi fei biao
+透明鹿	tou ming lu
+圖逼	tu bi
+團控	tuan kong
+推推杖	tui tui zhang
+推中	tui zhong
+退化光環	tui hua guang huan
+拖兵線	tuo bing xian
+萬火焚身	wan huo fen shen
+維拉德賣的贈品	wei la de mai de zeng pin
+維薩吉	wei sa ji
+瘟疫法師	wen yi fa shi
+我單	wo dan
+巫術精研	wu shu jing yan
+無敵斬	wu di zhan
+無光之盾	wu guang zhi dun
+無用掛件	wu yong gua jian
+武器商人比澤	wu qi shang ren bi ze
+午夜凋零	wu ye diao ling
+午夜酒館	wu ye jiu guan
+吸血面罩	xi xue mian zhao
+希梅斯特的掠奪	xi mei si te de lve duo
+希娃的守護	xi wa de shou hu
+希瓦的守護	xi wa de shou hu
+下路有符	xia lu you fu
+仙女龍	xian nv long
+相位鞋	xiang wei xie
+相位轉移	xiang wei zhuan yi
+向勝利邁進	xiang sheng li mai jin
+小雞臂章	xiao ji bi zhang
+小淨化	xiao jing hua
+小淨化藥水	xiao jing hua yao shui
+小魔棒	xiao mo bang
+小娜迦	xiao na jia
+小歪	xiao wai
+小丫	xiao ya
+小骷髏	xiao ku lou
+邪惡祭祀	xie e ji si
+邪惡執著	xie e zhi zhu
+新月之痕	xin yue zhi hen
+星體禁錮	xing ti jin gu
+星星棒	xing xing bang
+熊德	xiong de
+熊靈	xiong ling
+熊戰	xiong zhan
+熊戰士	xiong zhan shi
+修補匠	xiu bu jiang
+秀逗魔導師	xiu dou mo dao shi
+虛空假面	xu kong jia mian
+虛無寶石	xu wu bao shi
+旭日酒館	xu ri jiu guan
+玄鐵錘	xuan tie chui
+玄冥盾牌	xuan ming dun pai
+壓兵線	ya bing xian
+壓制之刃	ya zhi zhi ren
+嚴寒灼燒	yan han zhuo shao
+妖怪般的殺戮	yao guai ban de sha lu
+遙控炸彈	yao kong zha dan
+野性呼喚	ye xing hu huan
+野性之斧	ye xing zhi fu
+液態火	ye tai huo
+一塔	yi ta
+遺忘法師	yi wang fa shi
+移形換位	yi xing huan wei
+藝人面罩	yi ren mian zhao
+隱刺	yin ci
+隱刀	yin dao
+隱形刺客	yin xing ci ke
+鷹角弓	ying jiao gong
+影魔	ying mo
+影壓	ying ya
+永久隱身	yong jiu yin shen
+幽鬼	you gui
+幽鬼之刃	you gui zhi ren
+幽魂權杖	you hun quan zhang
+幽靈繫帶	you ling xi dai
+幽冥爆轟	you ming bao hong
+幽冥劇毒	you ming ju du
+幽冥守衛	you ming shou wei
+幽冥一擊	you ming yi ji
+魚人守衛	yu ren shou wei
+魚人碎擊	yu ren sui ji
+育母	yu mu
+育母蜘蛛	yu mu zhi zhu
+元素分離	yuan su fen li
+元素熊貓	yuan su xiong mao
+原始咆哮	yuan shi pao xiao
+遠古兵器	yuan gu bing qi
+遠行鞋	yuan xing xie
+怨靈復生	yuan ling fu sheng
+越塔強殺	yue ta qiang sha
+月女	yue nv
+月騎	yue qi
+月神之箭	yue shen zhi jian
+月蝕	yue shi
+月之暗面	yue zhi an mian
+月之女祭司	yue zhi nv ji si
+月之女祭祀	yue zhi nv ji si
+月之騎士	yue zhi qi shi
+月之祝福	yue zhi zhu fu
+暈錘	yun chui
+再裝填	zai zhuang tian
+粘稠鼻液	nian chou bi ye
+戰鬥飢渴	zhan dou ji ke
+照明火箭	zhao ming huo jian
+召喚熊靈	zhao huan xiong ling
+召狼	zhao lang
+真龍形態	zhen long xing tai
+真視寶石	zhen shi bao shi
+偵察守衛	zhen cha shou wei
+震撼大地	zhen han da di
+振奮寶石	zhen fen bao shi
+振魂石	zhen hun shi
+正補	zheng bu
+支配頭盔	zhi pei tou kui
+支援法衣	zhi yuan fa yi
+智慧之刃	zhi hui zhi ren
+智力斗篷	zhi li dou peng
+治療指環	zhi liao zhi huan
+窒息之刃	zhi xi zhi ren
+中路回來	zhong lu hui lai
+中期裝	zhong qi zhuang
+衆神	zhong shen
+衆神之王	zhong shen zhi wang
+主宰比賽	zhu zai bi sai
+抓野	zhua ye
+追蹤術	zhui zong shu
+卓爾遊俠	zhuo er you xia
+紫怨	zi yuan
+紫怨之杖	zi yuan zhi zhang
+自爆男	zi bao nan
+自動之火	zi dong zhi huo
+自然之怒	zi ran zhi nu
+自然之助	zi ran zhi zhu
+自殺攻擊	zi sha gong ji
+醉酒雲霧	zui jiu yun wu
+最後遺言	zui hou yi yan
+冥界亞龍	ming jie ya long
+歿境神蝕者	mo jing shen shi zhe
+蝮蛇突襲	fu she tu xi
+蝙蝠騎士	bian fu qi shi
+骷弓	ku gong
+骷髏射手	ku lou she shou
+骷髏王	ku lou wang
+魅惑魔女	mei huo mo nv
+魅惑遺物	mei huo yi wu
+黯滅	an mie
+阿阿爾多斯	a a er duo si
+阿爾蓋蒙	a er gai meng
+阿爾薩	a er sa
+阿爾塞斯	a er sai si
+阿哥勒爾	a ge lei er
+阿卡那瑟德刺人	a ka na se de ci ren
+阿卡那瑟德掘地者	a ka na se de jue di zhe
+阿卡那瑟德領主	a ka na se de ling zhu
+阿卡那瑟德戰士	a ka na se de zhan shi
+阿可喏斯	a ke nuo si
+阿拉卡拉穆	a la ka la mu
+阿拉諾克	a la nuo ke
+阿拉斯凱奇	a la si kai qi
+阿蘭迪爾	a lan di er
+阿理爾	a li er
+阿留爾斯	a liu er si
+阿瑪克斯	a ma ke si
+阿摩拉	a mo la
+阿納	a na
+阿納雅	a na ya
+阿努比	a nu bi
+阿斯帕拉	a si pa la
+哀冬公爵	ai dong gong jue
+矮人火槍手	ai ren huo qiang shou
+矮人狙擊手	ai ren ju ji shou
+矮人直升機炸彈	ai ren zhi sheng ji zha dan
+艾魯尼之優雅	ai lu ni zhi you ya
+愛爾丁	ai er ding
+愛侖	ai lun
+愛澤爾	ai ze er
+安德若麥斯	an de ruo mai si
+安娜拉	an na la
+安奴比理司	an nu bi li si
+安瑟斯	an se si
+暗黑獵人	an hei lie ren
+暗黑遊俠	an hei you xia
+暗舞者	an wu zhe
+暗夜精靈區	an ye jing ling qu
+暗夜精靈形態	an ye jing ling xing tai
+暗影盾	an ying dun
+暗影牧師	an ying mu shi
+奧丁	ao ding
+奧哥瑪	ao ge ma
+霸王槍	ba wang qiang
+白虎牙	bai hu ya
+白尼或爾	bai ni huo er
+白鳥馬甲	bai niao ma jia
+白鳥之舞	bai niao zhi wu
+柏金	bai jin
+百草丸	bai cao wan
+百地三太夫	bai di san tai fu
+百年精華	bai nian jing hua
+斑德拉爾	ban de la er
+斑迪斯	ban di si
+半人馬刺客	ban ren ma ci ke
+半人馬弓箭手	ban ren ma gong jian shou
+半人馬可汗	ban ren ma ke han
+半人馬苦工	ban ren ma ku gong
+半人馬酋長	ban ren ma qiu zhang
+半人馬巫師	ban ren ma wu shi
+半人馬先行者	ban ren ma xian xing zhe
+保護卷軸	bao hu juan zhou
+保衛巨蝦	bao wei ju xia
+暴雷擊	bao lei ji
+暴雷雨	bao lei yu
+暴怒梟獸	bao nu xiao shou
+豹皮靴	bao pi xue
+爆小黑	bao xiao hei
+悲慘的哥維拉德	bei can di ge wei la de
+背背獸	bei bei shou
+比澤爾	bi ze er
+變相移動	bian xiang yi dong
+變異兩棲人	bian yi liang qi ren
+標準戰役	biao zhun zhan yi
+標準戰役區	biao zhun zhan yi qu
+冰凍噴吐	bing dong pen tu
+冰凍之箭	bing dong zhi jian
+冰峯三國	bing feng san guo
+冰河爆裂破	bing he bao lie po
+冰胡	bing hu
+冰火攻據戰	bing huo gong ju zhan
+冰火兩重天	bing huo liang zhong tian
+冰甲蜘蛛流	bing jia zhi zhu liu
+冰晶羽扇	bing jing yu shan
+冰顱	bing lu
+冰魔高級牧師	bing mo gao ji mu shi
+冰魔狂戰士	bing mo kuang zhan shi
+冰魔獵手	bing mo lie shou
+冰魔首領	bing mo shou ling
+冰魔影子牧師	bing mo ying zi mu shi
+冰霜巨龍	bing shuang ju long
+冰塔	bing ta
+冰雪遺蹟	bing xue yi ji
+冰牙猛獁	bing ya meng ma
+冰與火系列	bing yu huo xi lie
+冰玉	bing yu
+冰之巨魔	bing zhi ju mo
+補丁工具	bu ding gong ju
+補眼	bu yan
+不共享	bu gong xiang
+不回程	bu hui cheng
+不命運	bu ming yun
+不升級基地	bu sheng ji ji di
+佈雷澤	bu lei ze
+布里	bu li
+布里克爾	bu li ke er
+布魯特里斯	bu lu te li si
+部落與聯盟	bu luo yu lian meng
+踩地板	cai di ban
+操縱死屍卷軸	cao zong si shi juan zhou
+插杖	cha zhang
+叉字斬	cha zi zhan
+查理布	cha li bu
+拆店	chai dian
+纏繞金礦	chan rao jin kuang
+長釘衣領	zhang ding yi ling
+長弓兵	zhang gong bing
+長管火槍	zhang guan huo qiang
+長年熊	zhang nian xiong
+長槍突刺	zhang qiang tu ci
+唱魔者	chang mo zhe
+塵土之影	chen tu zhi ying
+沉寂術	chen ji shu
+沉淪之海	chen lun zhi hai
+沉默權杖	chen mo quan zhang
+陳魁鋒	chen kui feng
+城甲	cheng jia
+吃屍	chi shi
+熾炎焚身	chi yan fen shen
+穿刺劍刃	chuan ci jian ren
+傳送權杖	chuan song quan zhang
+傳送逃跑	chuan song tao pao
+吹風流	chui feng liu
+純暴流	chun bao liu
+純狗流	chun gou liu
+純毀滅	chun hui mie
+純真之阿尤里爾斯	chun zhen zhi a you li er si
+雌雄雙劍	ci xiong shuang jian
+刺針盔甲	ci zhen kui jia
+叢林巨人流	cong lin ju ren liu
+搭載弓箭手	da zai gong jian shou
+達哥達	da ge da
+達舍	da she
+打盾	da dun
+打糧	da liang
+打糧倉	da liang cang
+大冰	da bing
+大地斧	da di fu
+大地之賜	da di zhi ci
+大斧	da fu
+大復活神符	da fu huo shen fu
+大恢復藥水	da hui fu yao shui
+大回復卷軸	da hui fu juan zhou
+大技	da ji
+大魔法神符	da mo fa shen fu
+大魔法藥水	da mo fa yao shui
+大鵬之羽	da peng zhi yu
+大鵬鬃毛	da peng zong mao
+大霹靂	da pi li
+大喬	da qiao
+大生命藥水	da sheng ming yao shui
+大師級利爪徳魯依訓練	da shi ji li zhua de lu yi xun lian
+大師級靈魂行者訓練	da shi ji ling hun xing zhe xun lian
+大師級猛禽徳魯依訓練	da shi ji meng qin de lu yi xun lian
+大師級牧師訓練	da shi ji mu shi xun lian
+大師級女巫訓練	da shi ji nv wu xun lian
+大師級女妖訓練	da shi ji nv yao xun lian
+大師級薩滿訓練	da shi ji sa man xun lian
+大師級亡靈巫師訓練	da shi ji wang ling wu shi xun lian
+大師級巫醫訓練	da shi ji wu yi xun lian
+大樹流	da shu liu
+大水人	da shui ren
+大治療神符	da zhi liao shen fu
+帶塔一波流	dai ta yi bo liu
+彈幕攻擊	dan mu gong ji
+刀王	dao wang
+刀翼	dao yi
+刀陣旋風	dao zhen xuan feng
+導彈轟炸	dao dan hong zha
+稻姬	dao ji
+盜賊短劍	dao zei duan jian
+德恩	de en
+德拉克森	de la ke sen
+德拉尼穆	de la ni mu
+德拉司	de la si
+德塞克斯	de sai ke si
+低維修費用	di wei xiu fei yong
+迪莎	di sha
+迪斯麥斯	di si mai si
+地精船廠	di jing chuan chang
+地精工兵	di jing gong bing
+地精煉金術士	di jing lian jin shu shi
+地精商店	di jing shang dian
+地精實驗室	di jing shi yan shi
+地煞之卷	di sha zhi juan
+地圖測試區	di tu ce shi qu
+地圖全開	di tu quan kai
+地穴狗頭人	di xue gou tou ren
+地獄大挑戰	di yu da tiao zhan
+地獄火之石	di yu huo zhi shi
+地獄槍騎兵	di yu qiang qi bing
+地獄守護者	di yu shou hu zhe
+諜報軍令	die bao jun ling
+定爆	ding bao
+定他	ding ta
+冬之顫	dong zhi chan
+動物作戰訓練	dong wu zuo zhan xun lian
+鬥志頭盔	dou zhi tou kui
+毒標	du biao
+毒蛇女巫	du she nv wu
+毒蛇守衛	du she shou wei
+毒舌女巫	du she nv wu
+毒性樹人	du xing shu ren
+毒液蜘蛛	du ye zhi zhu
+毒液之球	du ye zhi qiu
+毒玉	du yu
+對抗地圖	dui kang di tu
+多里爾	duo li er
+多洛特	duo luo te
+多重箭矢	duo zhong jian shi
+奪魂術	duo hun shu
+墮歌	duo ge
+墮林	duo lin
+墮落牧師	duo luo mu shi
+墮落樹人	duo luo shu ren
+惡鬼錘	e gui chui
+惡鬼之錘	e gui zhi chui
+惡魔雕像	e mo diao xiang
+惡魔形態	e mo xing tai
+法瑞恩	fa rui en
+法師海	fa shi hai
+法師流	fa shi liu
+法斯祺	fa si qi
+反動劍	fan dong jian
+反影	fan ying
+返回工作	fan hui gong zuo
+方天畫戟	fang tian hua ji
+防守地圖	fang shou di tu
+防守流	fang shou liu
+防衛塔	fang wei ta
+放鳥	fang niao
+菲克修斯	fei ke xiu si
+菲佐	fei zuo
+飛機坦克流	fei ji tan ke liu
+飛龍流	fei long liu
+飛龍騎士	fei long qi shi
+飛鞋拉人	fei xie la ren
+飛靴	fei xue
+飛燕斬	fei yan zhan
+費德里德愛侖	fei de li de ai lun
+費恩理斯	fei en li si
+費爾哈拉	fei er ha la
+費萊理	fei lai li
+費羅司	fei luo si
+分離弓箭手和角鷹獸	fen li gong jian shou he jiao ying shou
+分裂攻擊	fen lie gong ji
+粉碎波	fen sui bo
+憤怒狂奔者	fen nu kuang ben zhe
+憤之公爵	fen zhi gong jue
+封印術	feng yin shu
+風暴巨龍	feng bao ju long
+風暴獅角	feng bao shi jiao
+風暴烏鴉	feng bao wu ya
+風暴戰錘	feng bao zhan chui
+風暴杖	feng bao zhang
+風暴之杖	feng bao zhi zhang
+風精召喚	feng jing zhao huan
+風騎士	feng qi shi
+風雲白沙	feng yun bai sha
+風雲雄霸天下	feng yun xiong ba tian xia
+風雲之守衛中華閣	feng yun zhi shou wei zhong hua ge
+風之絆	feng zhi ban
+風之鎖	feng zhi suo
+瘋隊	feng dui
+鳳穿	feng chuan
+鳳凰杖	feng huang zhang
+鳳凰之眼	feng huang zhi yan
+否定權杖	fou ding quan zhang
+否決之杖	fou jue zhi zhang
+輻射廢墟	fu she fei xu
+腐臭蜂羣	fu chou feng qun
+腐屍甲蟲	fu shi jia chong
+腐蝕蜂羣	fu shi feng qun
+腐蝕之球	fu shi zhi qiu
+復仇天神	fu chou tian shen
+復活卷軸	fu huo juan zhou
+復活十字架	fu huo shi zi jia
+復活死屍	fu huo si shi
+復活之魂	fu huo zhi hun
+富萊夏爾	fu lai xia er
+蓋羅	gai luo
+蓋羅可	gai luo ke
+鋼背	gang bei
+鋼鐵之錘	gang tie zhi chui
+鋼鐵之槌	gang tie zhi chui
+鋼爪	gang zhao
+崗哨神符	gang shao shen fu
+高達混戰	gao da hun zhan
+高哥那斯	gao ge na si
+高攻	gao gong
+高順	gao shun
+高維修費用	gao wei xiu fei yong
+哥爾比恩	ge er bi en
+哥蘭尼斯闇錘	ge lan ni si an chui
+哥里穆	ge li mu
+歌頌生靈	ge song sheng ling
+歌之守護者	ge zhi shou hu zhe
+格多爾	ge duo er
+工程學升級	gong cheng xue sheng ji
+攻城傀儡	gong cheng kui lei
+攻略祕籍	gong lve mi ji
+弓腰亂武	gong yao luan wu
+狗狗流	gou gou liu
+狗頭人首領	gou tou ren shou ling
+狗頭人占卜者	gou tou ren zhan bu zhe
+古樹流	gu shu liu
+骨質增強術	gu zhi zeng qiang shu
+僱傭兵流	gu yong bing liu
+僱傭兵營地	gu yong bing ying di
+怪物洞穴	guai wu dong xue
+棺材車	guan cai che
+關二哥	guan er ge
+灌水戰役	guan shui zhan yi
+光降臨	guang jiang lin
+光明的伯拉多爾	guang ming de bo la duo er
+光明守護者	guang ming shou hu zhe
+光明英雄臺	guang ming ying xiong tai
+光明遊俠	guang ming you xia
+光俠箭雨	guang xia jian yu
+光之領主	guang zhi ling zhu
+光之遠征	guang zhi yuan zheng
+鬼歌	gui ge
+鬼泣之日	gui qi zhi ri
+鬼神曹子孝	gui shen cao zi xiao
+鬼神降臨	gui shen jiang lin
+棍石	gun shi
+國王祭壇	guo wang ji tan
+哈勒恩多	ha lei en duo
+哈特斯	ha te si
+海蛇娜迦	hai she na jia
+海特富萊	hai te fu lai
+海之風暴	hai zhi feng bao
+寒冰爆	han bing bao
+寒冰甲	han bing jia
+豪龍膽	hao long dan
+豪豬獵手	hao zhu lie shou
+號酒館	hao jiu guan
+浩別	hao bie
+黑暗悲傷	hei an bei shang
+黑暗纏繞	hei an chan rao
+黑暗火槍流	hei an huo qiang liu
+黑暗巨魔	hei an ju mo
+黑暗恐懼	hei an kong ju
+黑暗女巫	hei an nv wu
+黑暗天堂	hei an tian tang
+黑暗巫師	hei an wu shi
+黑暗舞者	hei an wu zhe
+黑暗英雄臺	hei an ying xiong tai
+黑暗語者	hei an yu zhe
+黑暗之箭	hei an zhi jian
+黑暗之奴	hei an zhi nu
+黑暗之球	hei an zhi qiu
+黑哥因	hei ge yin
+黑鐮領主	hei lian ling zhu
+黑魔高級牧師	hei mo gao ji mu shi
+黑魔狂戰士	hei mo kuang zhan shi
+黑魔獵手	hei mo lie shou
+黑魔首領	hei mo shou ling
+黑魔影子牧師	hei mo ying zi mu shi
+黑神領主	hei shen ling zhu
+黑死爪	hei si zhao
+黑隨	hei sui
+黑焰破	hei yan po
+恆歌	heng ge
+虹霞戰袍	hong xia zhan pao
+紅龍之卵	hong long zhi luan
+紅熊貓	hong xiong mao
+蝴蝶流	hu die liu
+虎妹	hu mei
+護盾神符	hu dun shen fu
+護衛心得	hu wei xin de
+花崗岩傀儡	hua gang yan kui lei
+華夏幻想曲	hua xia huan xiang qu
+懷特之腿	huai te zhi tui
+壞氣	huai qi
+換基地	huan ji di
+換家	huan jia
+幻夢之曉	huan meng zhi xiao
+幻獸傳說	huan shou chuan shuo
+幻想曹操傳	huan xiang cao cao chuan
+幻想羣俠傳	huan xiang qun xia chuan
+幻想三國風	huan xiang san guo feng
+幻影分身	huan ying fen shen
+荒蕪之心	huang wu zhi xin
+黃金神殿	huang jin shen dian
+黃龍鉤鐮刀	huang long gou lian dao
+黃龍劍	huang long jian
+黃龍之角	huang long zhi jiao
+黃天重鎧	huang tian zhong kai
+黃月瑛	huang yue ying
+黃忠弓	huang zhong gong
+黃忠弓冰玉	huang zhong gong bing yu
+蝗蟲羣	huang chong qun
+皇朝榮譽聖殿	huang chao rong yu sheng dian
+揮術者	hui shu zhe
+恢復卷軸	hui fu juan zhou
+恢復指環	hui fu zhi huan
+回到過去	hui dao guo qu
+迴風落燕	hui feng luo yan
+回覆卷軸	hui fu juan zhou
+回覆神符	hui fu shen fu
+回覆藥水	hui fu yao shui
+回魔藥水	hui mo yao shui
+迴旋斬	hui xuan zhan
+毀滅守衛	hui mie shou wei
+毀滅者流	hui mie zhe liu
+毀滅蜘蛛流	hui mie zhi zhu liu
+毀滅之角	hui mie zhi jiao
+毀滅之球	hui mie zhi qiu
+慧根佛緣	hui gen fu yuan
+混編之冊	hun bian zhi ce
+混亂東遊正傳	hun luan dong you zheng chuan
+混沌之世	hun dun zhi shi
+混沌之雨	hun dun zhi yu
+活丹	huo dan
+火衝之鋒	huo chong zhi feng
+火鳳連環	huo feng lian huan
+火計篇	huo ji pian
+火箭矢	huo jian shi
+火魔	huo mo
+火槍流	huo qiang liu
+火土風暴	huo tu feng bao
+火焰弓箭手	huo yan gong jian shou
+火焰呼吸	huo yan hu xi
+火焰巨魔	huo yan ju mo
+火焰舞者	huo yan wu zhe
+火焰雨	huo yan yu
+火焰之球	huo yan zhi qiu
+火影混戰	huo ying hun zhan
+火影競技	huo ying jing ji
+火影忍者無級別混戰	huo ying ren zhe wu ji bie hun zhan
+火雨術	huo yu shu
+火之魂	huo zhi hun
+火之星	huo zhi xing
+獲得食物	huo de shi wu
+機械地精	ji xie di jing
+吉安娜	ji an na
+吉里拉斯	ji li la si
+吉須	ji xu
+極凍凝結	ji dong ning jie
+集法者	ji fa zhe
+集光者	ji guang zhe
+疾步風	ji bu feng
+疾風傳	ji feng chuan
+疾風忍法帖	ji feng ren fa tie
+疾風者	ji feng zhe
+計算人品的地方	ji suan ren pin de di fang
+加紅	jia hong
+加黃金	jia huang jin
+加黃金和木材	jia huang jin he mu cai
+加技能	jia ji neng
+加魔	jia mo
+加木材	jia mu cai
+尖刺外殼	jian ci wai ke
+尖毛獸酋長	jian mao shou qiu zhang
+尖毛獸野蠻人	jian mao shou ye man ren
+尖毛獸醫生	jian mao shou yi sheng
+尖毛獸偵察兵	jian mao shou zhen cha bing
+奸邪倚天劍	jian xie yi tian jian
+箭術	jian shu
+箭雨	jian yu
+健康之石	jian kang zhi shi
+劍光壁	jian guang bi
+劍心補丁	jian xin bu ding
+劍與魔法	jian yu mo fa
+將軍之盔	jiang jun zhi kui
+將時間直接設定到白晝	jiang shi jian zhi jie she ding dao bai zhou
+將時間直接設定到夜晚	jiang shi jian zhi jie she ding dao ye wan
+降臨之光	jiang lin zhi guang
+角色劇情	jue se ju qing
+角鷹	jiao ying
+角鷹獸騎士	jiao ying shou qi shi
+解除科技樹限制	jie chu ke ji shu xian zhi
+解印術	jie yin shu
+金剛九天斷	jin gang jiu tian duan
+金錢與殺戮	jin qian yu sha lu
+禁止任務默認的勝利條件	jin zhi ren wu mo ren de sheng li tiao jian
+浸毒羽衣	jin du yu yi
+京都防禦戰	jing du fang yu zhan
+精靈族	jing ling zu
+精靈扉	jing ling fei
+經驗槽	jing yan cao
+經驗之書	jing yan zhi shu
+靜帶結界	jing dai jie jie
+靜止結界	jing zhi jie jie
+競技視頻區	jing ji shi pin qu
+淨化權杖	jing hua quan zhang
+淨胄曲殤	jing zhou qu shang
+九幽萬魂噬	jiu you wan hun shi
+九種兵器	jiu zhong bing qi
+酒醉迷霧	jiu zui mi wu
+菊姬	ju ji
+巨斧擊	ju fu ji
+巨魔狂暴戰士	ju mo kuang bao zhan shi
+巨魔獵頭者	ju mo lie tou zhe
+巨魔巫醫	ju mo wu yi
+巨魔再生	ju mo zai sheng
+巨魔蝙蝠騎士	ju mo bian fu qi shi
+巨獸擊	ju shou ji
+巨型蜘蛛	ju xing zhi zhu
+劇毒擊	ju du ji
+劇舞荒劍	ju wu huang jian
+決戰圍城	jue zhan wei cheng
+絕勝利	jue sheng li
+絕影繮繩	jue ying jiang sheng
+軍馬繮繩	jun ma jiang sheng
+卡兵	ka bing
+卡德醫療寶石	ka de yi liao bao shi
+卡爾的復仇	ka er de fu chou
+卡嘉長蕭	ka jia zhang xiao
+卡金德	ka jin de
+卡拉蓋爾	ka la gai er
+卡理法可司	ka li fa ke si
+卡里那吉	ka li na ji
+卡穆	ka mu
+卡那維爾德	ka na wei er de
+卡塞理司	ka sai li si
+卡瑟拉力斯	ka se la li si
+卡滋爾	ka zi er
+卡伽爾	ka ga er
+凱爾維	kai er wei
+康多拉	kang duo la
+抗魔護身符	kang mo hu shen fu
+抗體藥水	kang ti yao shui
+科達娜	ke da na
+科多蝙蝠流	ke duo bian fu liu
+科技榮耀之爭	ke ji rong yao zhi zheng
+科勒恩	ke lei en
+可爾	ke er
+可伽米	ke ga mi
+克瑞普提克	ke rui pu ti ke
+恐怖猛獁	kong bu meng ma
+恐怖之狼	kong bu zhi lang
+恐懼公爵	kong ju gong jue
+恐懼劍刃	kong ju jian ren
+恐懼之狼	kong ju zhi lang
+控魔	kong mo
+控蛇	kong she
+口袋工廠	kou dai gong chang
+枯萎精髓	ku wei jing sui
+酷鐵錘	ku tie chui
+快速建造	kuai su jian zao
+快速滅亡	kuai su mie wang
+快速升級	kuai su sheng ji
+快速手套	kuai su shou tao
+快速研究技能	kuai su yan jiu ji neng
+狂暴洗劫者	kuang bao xi jie zhe
+狂暴野獸	kuang bao ye shou
+狂隊	kuang dui
+狂怒擊	kuang nu ji
+狂怒之人	kuang nu zhi ren
+狂性梟獸	kuang xing xiao shou
+狂戰士之斧	kuang zhan shi zhi fu
+狂鱷戰胄	kuang e zhan zhou
+奎爾薩拉斯之靴	kui er sa la si zhi xue
+傀儡戰士	kui lei zhan shi
+捆他	kun ta
+捆仙繩	kun xian sheng
+闊斧	kuo fu
+垃圾英雄	la ji ying xiong
+拉格爾	la ge er
+拉羅德	la luo de
+拉皮斯	la pi si
+拉塞蓋羅斯	la sai gai luo si
+拉斯特	la si te
+拉澤爾	la ze er
+藍素青	lan su qing
+藍熊貓	lan xiong mao
+蘭德澤爾	lan de ze er
+狼騎流	lang qi liu
+狼騎士	lang qi shi
+狼牙爪	lang ya zhao
+老陰傳奇	lao yin chuan qi
+雷馬	lei ma
+雷鳴戰鼓	lei ming zhan gu
+雷玉	lei yu
+雷霆擊	lei ting ji
+雷霆烈焰	lei ting lie yan
+李廣之弓	li guang zhi gong
+利爪德魯伊	li zhua de lu yi
+利爪之痕	li zhua zhi hen
+立花道雪	li hua dao xue
+立即勝利	li ji sheng li
+立即失敗	li ji shi bai
+力克特	li ke te
+力量強化	li liang qiang hua
+力量手套	li liang shou tao
+力量之斧	li liang zhi fu
+力量之環	li liang zhi huan
+聯合軍	lian he jun
+聯合專署隱藏劍聖	lian he zhuan shu yin cang jian sheng
+聯盟之戰	lian meng zhi zhan
+連載漫畫	lian zai man hua
+兩級反轉	liang ji fan zhuan
+兩棲苦難者	liang qi ku nan zhe
+兩棲人獵手	liang qi ren lie shou
+兩棲食肉者	liang qi shi rou zhe
+兩棲夜行者	liang qi ye xing zhe
+兩棲追隨者	liang qi zhui sui zhe
+兩棲追蹤者	liang qi zhui zong zhe
+療愈結界	liao yu jie jie
+烈玉	lie yu
+獵頭流	lie tou liu
+靈魂歸宿	ling hun gui su
+靈魂行者	ling hun xing zhe
+靈魂之觸	ling hun zhi chu
+靈魂之豬	ling hun zhi zhu
+靈活護身符	ling huo hu shen fu
+靈巧頭巾	ling qiao tou jin
+靈之領主	ling zhi ling zhu
+流氓刺客	liu mang ci ke
+流氓巫師	liu mang wu shi
+龍捲旋風斬	long juan xuan feng zhan
+龍巢	long chao
+龍膽槍	long dan qiang
+龍鳳精華聚合石	long feng jing hua ju he shi
+龍卵盜賊	long luan dao zei
+龍卵領主	long luan ling zhu
+龍卵學徒	long luan xue tu
+龍卵戰士	long luan zhan shi
+龍皮甲	long pi jia
+龍騎尖	long qi jian
+龍神天鎧	long shen tian kai
+龍樹守護戰	long shu shou hu zhan
+龍騰天下	long teng tian xia
+龍之男巫	long zhi nan wu
+龍之舞者	long zhi wu zhe
+龍之血	long zhi xue
+龍族守護戰	long zu shou hu zhan
+樓傳說	lou chuan shuo
+盧繮繩	lu jiang sheng
+魯班之槌	lu ban zhi chui
+路劍谷	lu jian gu
+呂蒙	lv meng
+綠裳歸塵	lv shang gui chen
+綠幼龍	lv you long
+綠蜉蝣	lv fu you
+亂礦	luan kuang
+亂礦流	luan kuang liu
+亂世傳說	luan shi chuan shuo
+亂世之奸雄	luan shi zhi jian xiong
+亂舞劍閣	luan wu jian ge
+輪迴之塔	lun hui zhi ta
+蘿莉戰	luo li zhan
+羅恩	luo en
+羅塞拉斯	luo sai la si
+洛可汗	luo ke han
+洛陽保衛戰	luo yang bao wei zhan
+瑪達澤爾	ma da ze er
+瑪迪比恩	ma di bi en
+瑪恩	ma en
+瑪格娜託破壞者	ma ge na tuo po huai zhe
+瑪格娜託撕裂者	ma ge na tuo si lie zhe
+瑪格娜託戰士	ma ge na tuo zhan shi
+瑪拉爾	ma la er
+瑪萊斯	ma lai si
+瑪奇斯	ma qi si
+瑪組魯	ma zu lu
+馬超	ma chao
+馬拉卡尼	ma la ka ni
+馬拉克	ma la ke
+馬良戰術	ma liang zhan shu
+馬林恩	ma lin en
+馬羅內	ma luo nei
+馬雲鷺	ma yun lu
+買棒	mai bang
+麥哥瑟裏登	mai ge se li deng
+麥那斯	mai na si
+麥斯琪女士	mai si qi nv shi
+貓腰發佈	mao yao fa bu
+毛利元就	mao li yuan jiu
+梅茲爾	mei zi er
+沒魔	mei mo
+蒙哥瑟德	meng ge se de
+猛禽印記	meng qin yin ji
+猛禽之痕	meng qin zhi hen
+夢之旅團	meng zhi lv tuan
+孟德新書	meng de xin shu
+迷惑術	mi huo shu
+迷惑之杖	mi huo zhi zhang
+迷離舞步	mi li wu bu
+米拉那	mi la na
+米愷撒	mi kai sa
+民兵流	min bing liu
+敏捷戒指	min jie jie zhi
+敏捷之環	min jie zhi huan
+敏捷之戒	min jie zhi jie
+敏捷之書	min jie zhi shu
+明智秀滿	ming zhi xiu man
+摩蓋爾	mo gai er
+摩拉	mo la
+摩維	mo wei
+魔隊	mo dui
+魔法長袍	mo fa zhang pao
+魔法盜取權杖	mo fa dao qu quan zhang
+魔法反饋	mo fa fan kui
+魔法防禦	mo fa fang yu
+魔法護盾護身符	mo fa hu dun hu shen fu
+魔法結界	mo fa jie jie
+魔法卷軸	mo fa juan zhou
+魔法破壞者	mo fa po huai zhe
+魔法閃耀	mo fa shan yao
+魔法吮吸	mo fa shun xi
+魔法鎖鏈	mo fa suo lian
+魔法之球	mo fa zhi qiu
+魔法之泉	mo fa zhi quan
+魔法之石	mo fa zhi shi
+魔鬼纏身	mo gui chan shen
+魔箭	mo jian
+魔力反噬	mo li fan shi
+魔獸澄海	mo shou cheng hai
+魔獸工具	mo shou gong ju
+魔獸工具區	mo shou gong ju qu
+魔獸幻想系列	mo shou huan xiang xi lie
+魔獸明星大亂鬥	mo shou ming xing da luan dou
+魔獸世界副本	mo shou shi jie fu ben
+魔獸世界榮耀	mo shou shi jie rong yao
+魔獸無雙	mo shou wu shuang
+魔獸戰隊	mo shou zhan dui
+魔獸戰隊區	mo shou zhan dui qu
+魔文字	mo wen zi
+魔怨	mo yuan
+魔之聖界	mo zhi sheng jie
+末日熔爐	mo ri rong lu
+末日危城	mo ri wei cheng
+莫克	mo ke
+墨菲斯	mo fei si
+木精召喚	mu jing zhao huan
+木葉傳說	mu ye chuan shuo
+木葉村	mu ye cun
+穆迪	mu di
+穆恩爾	mu en er
+穆哥爾	mu ge er
+穆拉丁	mu la ding
+穆裏奇	mu li qi
+穆林	mu lin
+那滋蓋爾	na zi gai er
+娜爾美娜	na er mei na
+娜迦女海妖	na jia nv hai yao
+納拉	na la
+耐力頭盔	nai li tou kui
+南迪倍	nan di bei
+男女巫	nan nv wu
+內卡羅司	nei ka luo si
+內羅司	nei luo si
+內皮理	nei pi li
+能量垂飾	neng liang chui shi
+能量之書	neng liang zhi shu
+霓裳羽衣舞	ni chang yu yi wu
+泥潭傀儡	ni tan kui lei
+尼費爾	ni fei er
+尼蓋爾	ni gai er
+尼可拉	ni ke la
+尼克塞塔斯	ni ke sai ta si
+逆鱗	ni lin
+鳥德	niao de
+寧靜之雨	ning jing zhi yu
+牛大力	niu da li
+牛頭人圖騰	niu tou ren tu teng
+牛小力	niu xiao li
+奴達	nu da
+怒風雲對壘	nu feng yun dui lei
+怒星	nu xing
+女獵流	nv lie liu
+女忍者	nv ren zhe
+女妖佔據流	nv yao zhan ju liu
+帕拉何	pa la he
+龐統	pang tong
+跑跑流	pao pao liu
+鵬喙	peng hui
+皮爾喏得爾男爵	pi er nuo de er nan jue
+破凋	po diao
+破法者	po fa zhe
+破糧	po liang
+破糧倉	po liang cang
+破魔之杖	po mo zhi zhang
+破日者	po ri zhe
+破上	po shang
+破碎的晨星	po sui de chen xing
+破碎之刺	po sui zhi ci
+破下	po xia
+破中	po zhong
+迫擊炮小隊	po ji pao xiao dui
+奇美拉流	qi mei la liu
+奇那魔斯	qi na mo si
+奇異世界	qi yi shi jie
+騎乘角鷹獸	qi cheng jiao ying shou
+騎士加獅鷲	qi shi jia shi jiu
+氣質美女	qi zhi mei nv
+羌族角	qiang zu jiao
+強盜領主	qiang dao ling zhu
+強化戰鼓	qiang hua zhan gu
+強行兵符	qiang xing bing fu
+強制者	qiang zhi zhe
+敲地板	qiao di ban
+青虹劍	qing hong jian
+青龍膽	qing long dan
+青龍翻江斬	qing long fan jiang zhan
+青幼龍	qing you long
+青羽舞袖	qing yu wu xiu
+青蜉蝣	qing fu you
+丘爺	qiu ye
+驅魔神符	qu mo shen fu
+驅散模範	qu san mo fan
+去死團的逆襲	qu si tuan de ni xi
+全知浮雕	quan zhi fu diao
+羣魔纏身	qun mo chan shen
+燃燒汽油	ran shao qi you
+燃燒遠征	ran shao yuan zheng
+燃燒之門	ran shao zhi men
+讓時間永遠停留在白晝	rang shi jian yong yuan ting liu zai bai zhou
+仁者的憤怒	ren zhe de fen nu
+人類聯盟	ren lei lian meng
+人類聯盟區	ren lei lian meng qu
+人族萬金油	ren zu wan jin you
+人族一波流	ren zu yi bo liu
+忍者村大戰	ren zhe cun da zhan
+忍者戰國會	ren zhe zhan guo hui
+任務模式裏即使失敗也繼續遊戲	ren wu mo shi li ji shi shi bai ye ji xu you xi
+日弓	ri gong
+日月之戰	ri yue zhi zhan
+弱點攻擊	ruo dian gong ji
+薩爾丁	sa er ding
+薩哥爾斯	sa ge er si
+薩格拉斯之眼	sa ge la si zhi yan
+薩卡提	sa ka ti
+薩滿巫醫流	sa man wu yi liu
+薩穆羅	sa mu luo
+薩瑟斯	sa se si
+塞阿爾	sai a er
+塞恩特理司	sai en te li si
+塞蓋爾	sai gai er
+塞傑爾	sai jie er
+塞理德恩	sai li de en
+塞麗娜	sai li na
+塞塔	sai ta
+賽特斯	sai te si
+賽特斯之地獄使者	sai te si zhi di yu shi zhe
+賽特斯之黑暗舞者	sai te si zhi hei an wu zhe
+賽特斯之靈魂盜賊	sai te si zhi ling hun dao zei
+賽特斯之魔法師	sai te si zhi mo fa shi
+三國懼鬼劫	san guo ju gui jie
+三國羣雄割據	san guo qun xiong ge ju
+三國系列訓練營	san guo xi lie xun lian ying
+三好長慶	san hao zhang qing
+三尖槍	san jian qiang
+三界之爭	san jie zhi zheng
+三清道袍	san qing dao pao
+散狀閃電	san zhuang shan dian
+瑟芭斯	se ba si
+森林守護者	sen lin shou hu zhe
+森蘭丸	sen lan wan
+殺船長	sha chuan zhang
+沙粒斯	sha li si
+閃電盾	shan dian dun
+閃電盾牌	shan dian dun pai
+閃電箭陣	shan dian jian zhen
+閃電咆哮	shan dian pao xiao
+閃電權杖	shan dian quan zhang
+閃電之球	shan dian zhi qiu
+善良死神	shan liang si shen
+傷痛殺手	shang tong sha shou
+上帝模式	shang di mo shi
+上下游走	shang xia you zou
+哨崗守衛	shao gang shou wei
+哨塔	shao ta
+蛇形結界	she xing jie jie
+攝魂曲	she hun qu
+射擊術	she ji shu
+設定具體時間	she ding ju ti shi jian
+深海潛龍	shen hai qian long
+深淵魔王	shen yuan mo wang
+神話模式	shen hua mo shi
+神劍奇緣	shen jian qi yuan
+神經大仙	shen jing da xian
+神祕藏寶室	shen mi cang bao shi
+神祕聖地	shen mi sheng di
+神祕之力尼拉斯	shen mi zhi li ni la si
+神祕之塔	shen mi zhi ta
+神農本草	shen nong ben cao
+神奇愛哥諾爾先知	shen qi ai ge nuo er xian zhi
+神奇的摩魯尼	shen qi de mo lu ni
+神聖護盾	shen sheng hu dun
+神聖護甲	shen sheng hu jia
+神聖藥水	shen sheng yao shui
+神速符	shen su fu
+神探狄仁傑	shen tan di ren jie
+神原康政	shen yuan kang zheng
+生存大考驗	sheng cun da kao yan
+生存與尊嚴	sheng cun yu zun yan
+生命護身符	sheng ming hu shen fu
+生命手冊	sheng ming shou ce
+生命吮吸	sheng ming shun xi
+生命之泉	sheng ming zhi quan
+升級狂戰士	sheng ji kuang zhan shi
+升龍打擊	sheng long da ji
+聖城之戰	sheng cheng zhi zhan
+聖隊	sheng dui
+聖荷如斯	sheng he ru si
+聖魔光石	sheng mo guang shi
+聖域保衛戰	sheng yu bao wei zhan
+聖戰樂章	sheng zhan le zhang
+聖戰之日	sheng zhan zhi ri
+獅子奮迅	shi zi fen xun
+獅鷲騎士	shi jiu qi shi
+施火者	shi huo zhe
+屍操術	shi cao shu
+十方圓舞曲	shi fang yuan wu qu
+十字連斬	shi zi lian zhan
+石頭洞窟	shi tou dong ku
+時間指示器	shi jian zhi shi qi
+食腐羣	shi fu qun
+食人魔手套	shi ren mo shou tao
+食屍鬼狂熱	shi shi gui kuang re
+嗜血牛頭流	shi xue niu tou liu
+嗜血者	shi xue zhe
+飾環	shi huan
+收集屍體	shou ji shi ti
+收集熊魂	shou ji xiong hun
+守護冰城	shou hu bing cheng
+守護大天使	shou hu da tian shi
+守護迪卡凱恩	shou hu di ka kai en
+守護光明聖域	shou hu guang ming sheng yu
+守護李光電	shou hu li guang dian
+守護陽周城	shou hu yang zhou cheng
+守衛劍閣	shou wei jian ge
+守衛中華閣	shou wei zhong hua ge
+獸輪	shou lun
+獸人步兵	shou ren bu bing
+獸人地洞	shou ren di dong
+獸族	shou zu
+獸族步兵	shou zu bu bing
+獸族部落	shou zu bu luo
+獸族部落區	shou zu bu luo qu
+屬性流	shu xing liu
+樹根纏繞	shu gen chan rao
+樹魔高級牧師	shu mo gao ji mu shi
+樹魔狂戰士	shu mo kuang zhan shi
+樹魔獵手	shu mo lie shou
+樹魔首領	shu mo shou ling
+樹魔影子牧師	shu mo ying zi mu shi
+霜凍舞者	shuang dong wu zhe
+霜凍之球	shuang dong zhi qiu
+霜之毒	shuang zhi du
+霜之男爵	shuang zhi nan jue
+霜之新星	shuang zhi xin xing
+霜之語	shuang zhi yu
+雙兵營	shuang bing ying
+雙兵營暴女獵手	shuang bing ying bao nv lie shou
+雙兵營女獵手	shuang bing ying nv lie shou
+雙傳	shuang chuan
+雙頭	shuang tou
+水彈衝擊	shui dan chong ji
+水遁之術	shui dun zhi shu
+水攻篇	shui gong pian
+水晶阿卡那瑟德	shui jing a ka na se de
+水精靈王	shui jing ling wang
+水牢禁錮	shui lao jin gu
+水牆術	shui qiang shu
+水式神	shui shi shen
+水體爆破	shui ti bao po
+水土風暴	shui tu feng bao
+水紋震盪	shui wen zhen dang
+水之封印	shui zhi feng yin
+斯勒恩	si lei en
+斯里	si li
+斯莫	si mo
+司拉	si la
+死步	si bu
+死扛	si kang
+死亡風暴	si wang feng bao
+死亡角鬥場	si wang jiao dou chang
+死亡面罩	si wang mian zhao
+死亡十字	si wang shi zi
+死亡之書	si wang zhi shu
+四聲神盾	si sheng shen dun
+速度卷軸	su du juan zhou
+速度來	su du lai
+速度神符	su du shen fu
+速眼	su yan
+宿舍保衛戰	su she bao wei zhan
+酸性炸彈	suan xing zha dan
+隋唐志	sui tang zhi
+碎片攻擊	sui pian gong ji
+碎石者	sui shi zhe
+縮頭者	suo tou zhe
+索門德	suo men de
+鎖他	suo ta
+塔防戰爭	ta fang zhan zheng
+塔類地圖	ta lei di tu
+塔類圖	ta lei tu
+塔穆	ta mu
+泰尼恩	tai ni en
+太平清領道	tai ping qing ling dao
+太平要術	tai ping yao shu
+太平要術全書	tai ping yao shu quan shu
+太平要術之頁	tai ping yao shu zhi ye
+探測隱形	tan ce yin xing
+逃跑技巧	tao pao ji qiao
+逃學大亂鬥	tao xue da luan dou
+特比斯	te bi si
+特恩利斯	te en li si
+特費司	te fei si
+特克	te ke
+特列爾	te lie er
+特羅達爾	te luo da er
+特伽拉	te ga la
+藤甲鎧	teng jia kai
+剔骨之刺	ti gu zhi ci
+踢他	ti ta
+提升能力型	ti sheng neng li xing
+體壇風雲	ti tan feng yun
+天打雷劈屠真龍	tian da lei pi tu zhen long
+天地三國	tian di san guo
+天地雙鬼流	tian di shuang gui liu
+天火呼來	tian huo hu lai
+天雷擊	tian lei ji
+天龍少室	tian long shao shi
+天瑞華綾	tian rui hua ling
+天剎	tian sha
+天生靈敏	tian sheng ling min
+天眼珠	tian yan zhu
+天災軍團的末日	tian zai jun tuan de mo ri
+天罡之卷	tian gang zhi juan
+填充型	tian chong xing
+跳劈	tiao pi
+跳躍水柱	tiao yue shui zhu
+貼火	tie huo
+鐵甲手	tie jia shou
+鐵盔	tie kui
+鐵木樹枝	tie mu shu zhi
+鐵槍	tie qiang
+鐵烏鴉	tie wu ya
+鐵戟	tie ji
+聽劍	ting jian
+通靈王外傳	tong ling wang wai chuan
+統稱二十洞	tong cheng er shi dong
+統稱三十洞	tong cheng san shi dong
+統稱十五洞	tong cheng shi wu dong
+統稱四十洞	tong cheng si shi dong
+統帥之盔	tong shuai zhi kui
+統治權杖	tong zhi quan zhang
+投刃車	tou ren che
+投刃車流	tou ren che liu
+投石車流	tou shi che liu
+圖斯卡爾格鬥者	tu si ka er ge dou zhe
+圖斯卡爾獵人	tu si ka er lie ren
+圖斯卡爾男巫	tu si ka er nan wu
+圖斯卡爾槍兵	tu si ka er qiang bing
+圖斯卡爾酋長	tu si ka er qiu zhang
+圖斯卡爾巫師	tu si ka er wu shi
+圖斯卡爾戰士	tu si ka er zhan shi
+屠夫去抓人	tu fu qu zhua ren
+屠魂者	tu hun zhe
+屠雞英雄傳	tu ji ying xiong chuan
+退糧	tui liang
+退魔	tui mo
+退魔刀	tui mo dao
+退魔擊	tui mo ji
+吞食魔法	tun shi mo fa
+托爾藤	tuo er teng
+託伽拉	tuo ga la
+挖掘屍體	wa jue shi ti
+完美星落	wan mei xing luo
+王者戰棋	wang zhe zhan qi
+亡靈的入侵	wang ling de ru qin
+亡靈法師	wang ling fa shi
+亡靈天災區	wang ling tian zai qu
+微恢復藥水	wei hui fu yao shui
+維恩蓋	wei en gai
+維恩娜	wei en na
+維尼穆	wei ni mu
+僞裝奇襲	wei zhuang qi xi
+臥龍光線	wo long guang xian
+沃爾卡	wo er ka
+巫毒商店	wu du shang dian
+巫火	wu huo
+巫師變節者	wu shi bian jie zhe
+巫妖王時代	wu yao wang shi dai
+烏瑟拉蛇鬃	wu se la she zong
+無敵並一擊必殺	wu di bing yi ji bi sha
+無敵黑暗獵人	wu di hei an lie ren
+無敵黑暗舞者	wu di hei an wu zhe
+無敵狂暴者	wu di kuang bao zhe
+無敵藥水	wu di yao shui
+無極盾	wu ji dun
+無極弓	wu ji gong
+無極吸吮	wu ji xi shun
+無極仗	wu ji zhang
+無懼的布贊恩	wu ju de bu zan en
+無名恐怖者	wu ming kong bu zhe
+無名騙士	wu ming pian shi
+無名死靈	wu ming si ling
+無虐不成長	wu nve bu cheng zhang
+無人口上限	wu ren kou shang xian
+無雙甲	wu shuang jia
+無維修費用	wu wei xiu fei yong
+無限回城	wu xian hui cheng
+無限恐怖	wu xian kong bu
+無限拉	wu xian la
+無限能量	wu xian neng liang
+無序之痕	wu xu zhi hen
+無緣無盡	wu yuan wu jin
+西恩迪鷹矛	xi en di ying mao
+西爾瓦娜斯	xi er wa na si
+西沃斯	xi wo si
+吸血劍	xi xue jian
+吸血結界	xi xue jie jie
+吸血面具	xi xue mian ju
+吸血藥水	xi xue yao shui
+吸血匕首	xi xue bi shou
+犧牲深淵	xi sheng shen yuan
+下狼洞	xia lang dong
+夏侯惇	xia hou dun
+夏侯翎	xia hou ling
+仙之俠道	xian zhi xia dao
+閒人莫入	xian ren mo ru
+顯隱寶石	xian yin bao shi
+顯影之塵	xian ying zhi chen
+獻祭	xian ji
+陷阱守衛	xian jing shou wei
+翔靴	xiang xue
+向西方獻上祈禱	xiang xi fang xian shang qi dao
+消魔	xiao mo
+小復活神符	xiao fu huo shen fu
+小恢復藥水	xiao hui fu yao shui
+小回復卷軸	xiao hui fu juan zhou
+小鹿海	xiao lu hai
+小鹿流	xiao lu liu
+小魔法神符	xiao mo fa shen fu
+小炮流	xiao pao liu
+小強蜘蛛流	xiao qiang zhi zhu liu
+小喬	xiao qiao
+小水人	xiao shui ren
+小俠	xiao xia
+小小強	xiao xiao qiang
+小蜘蛛	xiao zhi zhu
+小治療神符	xiao zhi liao shen fu
+邪惡漫步者	xie e man bu zhe
+邪惡信仰	xie e xin yang
+卸下屍體	xie xia shi ti
+辛格爾	xin ge er
+新金庸羣俠傳	xin jin yong qun xia chuan
+新魔劍傳說	xin mo jian chuan shuo
+新魔獸世界	xin mo shou shi jie
+新熱血傳奇	xin re xue chuan qi
+新月光	xin yue guang
+信長軍	xin zhang jun
+信德維拉	xin de wei la
+星彩	xing cai
+星際部隊	xing ji bu dui
+星落單位	xing luo dan wei
+星之擊	xing zhi ji
+星蹤	xing zong
+行動破壞	xing dong po huai
+行軍布袋	xing jun bu dai
+行者戰靴	xing zhe zhan xue
+熊錘	xiong chui
+熊怪薩滿	xiong guai sa man
+熊怪薩滿長者	xiong guai sa man zhang zhe
+熊怪首領	xiong guai shou ling
+熊怪烏薩戰士	xiong guai wu sa zhan shi
+熊怪追蹤者	xiong guai zhui zong zhe
+熊魂	xiong hun
+熊鹿	xiong lu
+熊鹿流	xiong lu liu
+熊貓火焰	xiong mao huo yan
+熊貓向前衝	xiong mao xiang qian chong
+熊之傳說	xiong zhi chuan shuo
+虛空池的毀滅	xu kong chi de hui mie
+虛無狀態	xu wu zhuang tai
+許晃	xu huang
+軒轅世界	xuan yuan shi jie
+玄魔亂世錄	xuan mo luan shi lu
+玄鐵匕首	xuan tie bi shou
+玄武斧	xuan wu fu
+玄武甲	xuan wu jia
+選擇光明英雄	xuan ze guang ming ying xiong
+選擇黑暗英雄	xuan ze hei an ying xiong
+學習採藥	xue xi cai yao
+學習重生	xue xi chong sheng
+穴居惡魔	xue ju e mo
+雪域迷城	xue yu mi cheng
+雪域魅影	xue yu mei ying
+血法	xue fa
+血濺	xue jian
+血魔法師	xue mo fa shi
+血刃男爵	xue ren nan jue
+血浴男爵	xue yu nan jue
+血浴天使	xue yu tian shi
+血浴之母	xue yu zhi mu
+血戰沙場	xue zhan sha chang
+血之憤怒	xue zhi fen nu
+巖胡	yan hu
+岩石傀儡	yan shi kui lei
+岩石印記	yan shi yin ji
+炎玉	yan yu
+焰擊波	yan ji bo
+楊家將外傳	yang jia jiang wai chuan
+羊杖	yang zhang
+陽玉	yang yu
+藥效轉換	yao xiao zhuan huan
+耀目法光	yao mu fa guang
+野火燎原	ye huo liao yuan
+野狼洞窟	ye lang dong ku
+野獸幽魂	ye shou you hun
+野外生存	ye wai sheng cun
+野性護符	ye xing hu fu
+野性護身符	ye xing hu shen fu
+野性戰魂	ye xing zhan hun
+野豬獠牙	ye zhu liao ya
+夜之哀傷	ye zhi ai shang
+一波流	yi bo liu
+醫療波	yi liao bo
+醫療劑	yi liao ji
+醫療守衛	yi liao shou wei
+伊人在線	yi ren zai xian
+遺失的記憶	yi shi de ji yi
+倚天之奸劍	yi tian zhi jian jian
+意念之杖	yi nian zhi zhang
+陰影之狼	yin ying zhi lang
+陰玉	yin yu
+銀劍	yin jian
+銀槍	yin qiang
+銀月飛刀	yin yue fei dao
+引線地雷	yin xian di lei
+引線炸彈	yin xian zha dan
+隱藏劍豪	yin cang jian hao
+隱身藥水	yin shen yao shui
+隱斬	yin zhan
+英雄大陸	ying xiong da lu
+英雄洞窟	ying xiong dong ku
+英雄海	ying xiong hai
+英雄之戰	ying xiong zhi zhan
+鷹身女妖風暴巫師	ying shen nv yao feng bao wu shi
+鷹身女妖流氓	ying shen nv yao liu mang
+鷹身女妖女皇	ying shen nv yao nv huang
+鷹身女妖巫婆	ying shen nv yao wu po
+鷹爪毒牙	ying zhao du ya
+影分身	ying fen shen
+影之憤怒	ying zhi fen nu
+影之歌	ying zhi ge
+永恆星耀	yong heng xing yao
+永恆之納澤	yong heng zhi na ze
+永恆之榮耀	yong heng zhi rong yao
+永恆之樹	yong heng zhi shu
+永久型	yong jiu xing
+勇氣勳章	yong qi xun zhang
+勇者腰帶	yong zhe yao dai
+幽靈傳說	you ling chuan shuo
+幽靈之狼	you ling zhi lang
+幽靈之子	you ling zhi zi
+尤舒拉	you shu la
+淤泥怪物	yu ni guai wu
+淤泥投手	yu ni tou shou
+淤泥戰士	yu ni zhan shi
+魚鱗甲	yu lin jia
+魚湘	yu xiang
+娛樂八卦	yu le ba gua
+宇宙爭霸	yu zhou zheng ba
+玉蝴蝶流	yu hu die liu
+玉璽一角	yu xi yi jiao
+御劍之靈	yu jian zhi ling
+鴛鴦破	yuan yang po
+元素魔法之戰	yuan su mo fa zhi zhan
+圓月山莊	yuan yue shan zhuang
+源式	yuan shi
+源式之鎧	yuan shi zhi kai
+遠古神靈	yuan gu shen ling
+遠古神器	yuan gu shen qi
+遠古獸輪	yuan gu shou lun
+遠古之樹	yuan gu zhi shu
+遠箭術	yuan jian shu
+遠征諾森德	yuan zheng nuo sen de
+月光槍	yue guang qiang
+月亮女祭司	yue liang nv ji si
+月亮守望者	yue liang shou wang zhe
+月下狂俠	yue xia kuang xia
+月下美人	yue xia mei ren
+月瑛	yue ying
+暈他	yun ta
+匝恩	za en
+災禍樹人	zai huo shu ren
+再生之戒	zai sheng zhi jie
+澤內塔	ze nei ta
+憎惡毀滅流	zeng e hui mie liu
+炸彈投擲	zha dan tou zhi
+炸藥桶	zha yao tong
+戰場法則	zhan chang fa ze
+戰鬥民族	zhan dou min zu
+戰鬥敏銳	zhan dou min rui
+戰鬥訓練	zhan dou xun lian
+戰歌之鼓	zhan ge zhi gu
+戰棍	zhan gun
+戰神谷的突圍	zhan shen gu de tu wei
+戰爭狂想曲	zhan zheng kuang xiang qu
+戰爭傀儡	zhan zheng kui lei
+戰爭磨坊	zhan zheng mo fang
+丈八點鋼矛	zhang ba dian gang mao
+召喚海元素	zhao huan hai yuan su
+召喚豪豬	zhao huan hao zhu
+召喚火神	zhao huan huo shen
+召喚老虎	zhao huan lao hu
+召喚貓頭鷹	zhao huan mao tou ying
+召喚肉傀儡	zhao huan rou kui lei
+召喚師阿拉吉	zhao huan shi a la ji
+召喚水精靈王	zhao huan shui jing ling wang
+召喚熊	zhao huan xiong
+召喚玄武	zhao huan xuan wu
+召喚岩漿怪	zhao huan yan jiang guai
+召喚戰象	zhao huan zhan xiang
+召喚戰鷹	zhao huan zhan ying
+召喚朱雀	zhao huan zhu que
+召喚蝙蝠	zhao huan bian fu
+召集民兵	zhao ji min bing
+真空刃	zhen kong ren
+真實的阿杰曼德	zhen shi de a jie man de
+真實視野	zhen shi shi ye
+甄姬	zhen ji
+震地擊	zhen di ji
+震天弓	zhen tian gong
+蒸汽坦克	zheng qi tan ke
+整頓軍紀	zheng dun jun ji
+正統流	zheng tong liu
+蜘蛛流	zhi zhu liu
+知識之書	zhi shi zhi shu
+至尊伏魔錄	zhi zun fu mo lu
+致命結界	zhi ming jie jie
+智慧披風	zhi hui pi feng
+智慧之書	zhi hui zhi shu
+智力考場	zhi li kao chang
+智力之環	zhi li zhi huan
+治療棒	zhi liao bang
+治療卷軸	zhi liao juan zhou
+治療軍令	zhi liao jun ling
+治療噴霧	zhi liao pen wu
+治療權仗	zhi liao quan zhang
+治療神符	zhi liao shen fu
+治療之風	zhi liao zhi feng
+治療之馬曼那達爾	zhi liao zhi ma man na da er
+中和權杖	zhong he quan zhang
+中立英雄	zhong li ying xiong
+中土蘑菇	zhong tu mo gu
+終極防守	zhong ji fang shou
+重修之書	chong xiu zhi shu
+咒文佩里爾	zhou wen pei li er
+蛛網怪女皇	zhu wang guai nv huang
+蛛網怪首領	zhu wang guai shou ling
+蛛網怪塔	zhu wang guai ta
+蛛網怪預言者	zhu wang guai yu yan zhe
+蛛網怪戰士	zhu wang guai zhan shi
+蛛網怪織網者	zhu wang guai zhi wang zhe
+朱倍爾	zhu bei er
+朱雀翼	zhu que yi
+朱焰妖袍	zhu yan yao pao
+諸葛瑾	zhu ge jin
+諸神避難所	zhu shen bi nan suo
+諸神之黃昏	zhu shen zhi huang hun
+誅仙劍	zhu xian jian
+主機刷	zhu ji shua
+鑄造錘	zhu zao chui
+鑄造之錘	zhu zao zhi chui
+祝融夫人	zhu rong fu ren
+爪黃飛電繮繩	zhao huang fei dian jiang sheng
+專家級利爪德魯依訓練	zhuan jia ji li zhua de lu yi xun lian
+專家級利爪德魯伊訓練	zhuan jia ji li zhua de lu yi xun lian
+專家級靈魂行者訓練	zhuan jia ji ling hun xing zhe xun lian
+專家級猛禽德魯依訓練	zhuan jia ji meng qin de lu yi xun lian
+專家級猛禽德魯伊訓練	zhuan jia ji meng qin de lu yi xun lian
+專家級牧師訓練	zhuan jia ji mu shi xun lian
+專家級女巫訓練	zhuan jia ji nv wu xun lian
+專家級女妖訓練	zhuan jia ji nv yao xun lian
+專家級薩滿訓練	zhuan jia ji sa man xun lian
+專家級亡靈巫師訓練	zhuan jia ji wang ling wu shi xun lian
+專家級巫醫訓練	zhuan jia ji wu yi xun lian
+追火者	zhui huo zhe
+追求者	zhui qiu zhe
+卓爾懺悔者	zhuo er chan hui zhe
+滋費恩	zi fei en
+紫微仙衣	zi wei xian yi
+紫夜冰封	zi ye bing feng
+自然嘉年華	zi ran jia nian hua
+祖爾阿巴	zu er a ba
+祖爾科斯	zu er ke si
+祖爾拉賈斯	zu er la jia si
+祖爾瑪拉恩	zu er ma la en
+醉臥沙場	zui wo sha chang
+最後的希望	zui hou de xi wang
+最上義姬	zui shang yi ji
+最終戰役	zui zhong zhan yi
+胤真	yin zhen
+伽德爾	ga de er
+伽爾	ga er
+茜拉	qian la
+荀彧	xun yu
+弈劍	yi jian
+弩炮	nu pao
+綺理	qi li
+朦朧之舞	meng long zhi wu
+颶風法杖	ju feng fa zhang
+蜥蜴怪物	xi yi guai wu
+蝙蝠流	bian fu liu
+踹他	chuai ta
+骷髏洞窟	ku lou dong ku
+骷髏海	ku lou hai
+骷髏流	ku lou liu
+動亂予感	dong luan yu gan
+島津義弘	dao jin yi hong
+淺井長政	qian jing zhang zheng
+濃姬	nong ji
+瀧川一益	long chuan yi yi
+阿國	a guo
+阿多拉	a duo la
+阿恩雅	a en ya
+阿爾多斯	a er duo si
+阿市	a shi
+安多哈爾戰記	an duo ha er zhan ji
+八狼	ba lang
+八門絕陣	ba men jue zhen
+包包果	bao bao guo
+爆笑圖庫	bao xiao tu ku
+北方之狼	bei fang zhi lang
+備備	bei bei
+本多正信	ben duo zheng xin
+本多忠勝	ben duo zhong sheng
+本願寺顯如	ben yuan si xian ru
+冰封大廳區	bing feng da ting qu
+菜刀男	cai dao nan
+殘情	can qing
+超魔獸之戰	chao mo shou zhi zhan
+超越極限	chao yue ji xian
+澄海十大狂人	cheng hai shi da kuang ren
+吃包子	chi bao zi
+赤匪	chi fei
+赤焰戰甲	chi yan zhan jia
+衝出農幹院	chong chu nong gan yuan
+傳奇瑪法大陸	chuan qi ma fa da lu
+村上義清	cun shang yi qing
+大陸戰神傳說	da lu zhan shen chuan shuo
+大學畢業之旅	da xue bi ye zhi lv
+大學時代	da xue shi dai
+丹羽長秀	dan yu zhang xiu
+單挑競技場	dan tiao jing ji chang
+單娃	dan wa
+單于阿速答	dan yu a su da
+的盧	de lu
+地穴編織者	di xue bian zhi zhe
+地穴刺客	di xue ci ke
+帝江軟胄	di jiang ruan zhou
+帝釋天	di shi tian
+帝王霸圖	di wang ba tu
+電腦網絡	dian nao wang luo
+電子模擬遊戲集中營	dian zi mo ni you xi ji zhong ying
+掉大	diao da
+東風神氣	dong feng shen qi
+動地跺	dong di duo
+動漫守城	dong man shou cheng
+動漫貼圖	dong man tie tu
+動漫綜合	dong man zong he
+動物園園長	dong wu yuan yuan zhang
+鬥佛	dou fu
+鬥金傳	dou jin chuan
+毒龍去抓人	du long qu zhua ren
+惡魔再生地	e mo zai sheng di
+繁簡雙版	fan jian shuang ban
+飛鞋拉人事件	fei xie la ren shi jian
+蜂須賀正勝	feng xu he zheng sheng
+烽火雷音	feng huo lei yin
+幻想羣英傳	huan xiang qun ying chuan
+火焰連擊	huo yan lian ji
+即時戰略集中營	ji shi zhan lve ji zhong ying
+計都荒鎧	ji dou huang kai
+精采視頻	jing cai shi pin
+精彩貼圖	jing cai tie tu
+井伊直政	jing yi zhi zheng
+久天應元雷聲普化天尊	jiu tian ying yuan lei sheng pu hua tian zun
+酒井忠次	jiu jing zhong ci
+織田專屬隱藏劍豪	zhi tian zhuan shu yin cang jian hao
+拉拉貓的怪獸	la la mao de guai shou
+狼牙山五壯士	lang ya shan wu zhuang shi
+柳生宗嚴	liu sheng zong yan
+錄像交流區	lu xiang jiao liu qu
+落大	luo da
+麻沸散	ma fei san
+夢隊	meng dui
+夢幻兵團	meng huan bing tuan
+夢幻金庸羣俠傳	meng huan jin yong qun xia chuan
+命運房間	ming yun fang jian
+命運交響曲陸小鳳傳奇	ming yun jiao xiang qu lu xiao feng chuan qi
+魔獸知道區	mo shou zhi dao qu
+魔童	mo tong
+內褲面罩男	nei ku mian zhao nan
+女性玩家集中營	nv xing wan jia ji zhong ying
+前田利家	qian tian li jia
+青囊	qing nang
+青囊方	qing nang fang
+上泉信綱	shang quan xin gang
+上下游	shang xia you
+生命之戒	sheng ming zhi jie
+石川敷正	shi chuan fu zheng
+石川五右衛門	shi chuan wu you wei men
+什麼什麼大進攻	shen me shen me da jin gong
+世界之戰	shi jie zhi zhan
+柿崎景家	shi qi jing jia
+手機地帶	shou ji di dai
+數碼前沿	shu ma qian yan
+刷車	shua che
+刷青囊	shua qing nang
+鬆永久秀	song yong jiu xiu
+酸與羽扇	suan yu yu shan
+歲寒之銼	sui han zhi cuo
+泰坦迴歸	tai tan hui gui
+外語交流區	wai yu jiao liu qu
+完美大	wan mei da
+完美掉大	wan mei diao da
+亡者之夜	wang zhe zhi ye
+網文薈萃	wang wen hui cui
+網遊測評	wang you ce ping
+網遊大雜燴	wang you da za hui
+網遊發號	wang you fa hao
+網遊活動	wang you huo dong
+網友風采	wang you feng cai
+巫術魔杖	wu shu mo zhang
+吳宿山	wu su shan
+武林英傑傳	wu lin ying jie chuan
+武田勝賴	wu tian sheng lai
+五日傳說	wu ri chuan shuo
+五月雨斬	wu yue yu zhan
+小島貞興	xiao dao zhen xing
+休閒聊吧	xiu xian liao ba
+休閒娛樂	xiu xian yu le
+秀隊	xiu dui
+姚大叔	yao da shu
+異度空間熱門小說	yi du kong jian re men xiao shuo
+喲喲	yo yo
+遊戲集中營	you xi ji zhong ying
+遊戲天地	you xi tian di
+遊戲硬件訓練營	you xi ying jian xun lian ying
+遊戲資源	you xi zi yuan
+原創貼圖	yuan chuang tie tu
+月亮女祭祀	yue liang nv ji si
+張娜拉	zhang na la
+真田昌幸	zhen tian chang xing
+製圖教學	zhi tu jiao xue
+製圖資源	zhi tu zi yuan
+燭龍之護	zhu long zhi hu
+鑄造用錘	zhu zao yong chui
+資源共享區	zi yuan gong xiang qu
+綜合地圖區	zong he di tu qu
+綜合圖庫	zong he tu ku
+綜藝影視	zong yi ying shi
+足利義昭	zu li yi zhao
+左左木小次郎	zuo zuo mu xiao ci lang
+雜賀孫市	za he sun shi
+骷髏戰士	ku lou zhan shi
+骷髏掌控	ku lou zhang kong
+魅惑術	mei huo shu
+麋竺	mi zhu
+麒麟心	qi lin xin
+齊藤朝信	qi teng chao xin
+齊藤道三	qi teng dao san
+齊藤義龍	qi teng yi long

@@ -1,0 +1,41 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# luna_pinyin.extended.dict.yaml - Rime 词库扩展主入口
+#
+# 该文件通过 import_tables 导入了项目中所有的分类词库。
+# 使用方法：将本项目中所有 .dict.yaml 文件放入 Rime 用户目录，
+# 然后在 luna_pinyin.custom.yaml 中添加：
+# patch:
+#   "translator/dictionary": luna_pinyin.extended
+
+---
+name: luna_pinyin.extended
+version: "2026.03.14"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin.anime
+  - luna_pinyin.basis
+  - luna_pinyin.biaoqing
+  - luna_pinyin.chat
+  - luna_pinyin.classical
+  - luna_pinyin.cn_en
+  - luna_pinyin.computer
+  - luna_pinyin.daily
+  - luna_pinyin.diet
+  - luna_pinyin.game
+  - luna_pinyin.gd
+  - luna_pinyin.hanyu
+  - luna_pinyin.history
+  - luna_pinyin.idiom
+  - luna_pinyin.moba
+  - luna_pinyin.movie
+  - luna_pinyin.music
+  - luna_pinyin.name
+  - luna_pinyin.net
+  - luna_pinyin.poetry
+  - luna_pinyin.practical
+  - luna_pinyin.sougou
+  - luna_pinyin.website
+...

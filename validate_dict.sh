@@ -21,6 +21,11 @@ echo "[2] 校验主词库引用完整性..."
 if [ -f "luna_pinyin.extended.dict.yaml" ]; then
   imports=$(sed -n '/import_tables:/,/^.../p' luna_pinyin.extended.dict.yaml | grep "^  - " | awk '{print $2}')
   for imp in $imports; do
+    # luna_pinyin 基础库由 Rime 发行版 / rime-setting 提供，不在本仓库内
+    if [ "$imp" == "luna_pinyin" ]; then
+      echo "  [i] 跳过基础库 luna_pinyin（由 Rime 发行版提供）"
+      continue
+    fi
     if [ ! -f "$imp.dict.yaml" ]; then
       echo "  [!] 错误: 主词库引用了不存在的文件: $imp.dict.yaml"
       error_found=1
